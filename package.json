@@ -1,18 +1,20 @@
 {
-  "name": "khandhaja.github.io",
-  "description": "sprouts from my Second Brain (Khandha)",
+  "name": "Tidipa",
+  "description": "A new, open source, independent, rational English translation of selections from the Pāḷi Tipiṭaka, based on the The World Tipiṭaka Edition",
   "private": true,
   "version": "4.5.1",
   "type": "module",
   "author": "Chris Tham (chris@christham.net)",
   "license": "MIT",
-  "homepage": "https://khandhaja.github.io",
+  "homepage": "https://tidipa.github.io",
   "repository": {
     "type": "git",
     "url": "https://github.com/khandhaja/khandhaja.github.io.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "build": "npx quartz build",
+    "dev": "npx quartz build --serve",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
@@ -64,7 +66,7 @@
     "mdast-util-to-string": "^4.0.0",
     "micromorph": "^0.4.5",
     "minimatch": "^10.0.3",
-    "pixi.js": "^8.10.1",
+    "pixi.js": "^8.10.2",
     "preact": "^10.26.9",
     "preact-render-to-string": "^6.5.13",
     "pretty-bytes": "^7.0.0",
@@ -105,15 +107,15 @@
     "@types/d3": "^7.4.3",
     "@types/hast": "^3.0.4",
     "@types/js-yaml": "^4.0.9",
-    "@types/node": "^24.0.3",
+    "@types/node": "^24.0.4",
     "@types/pretty-time": "^1.1.5",
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.25.5",
-    "prettier": "^3.5.3",
+    "prettier": "^3.6.0",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3"
   },
-  "packageManager": "pnpm@10.12.2+sha512.a32540185b964ee30bb4e979e405adc6af59226b438ee4cc19f9e8773667a66d302f5bfee60a39d3cac69e35e4b96e708a71dd002b7e9359c4112a1722ac323f"
+  "packageManager": "pnpm@10.12.3+sha512.467df2c586056165580ad6dfb54ceaad94c5a30f80893ebdec5a44c5aa73c205ae4a5bb9d5ed6bb84ea7c249ece786642bbb49d06a307df218d03da41c317417"
 }
