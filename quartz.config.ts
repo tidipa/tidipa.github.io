@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌸 Khandhaja",
-    pageTitleSuffix: "- sprouts from my Second Brain",
+    pageTitle: "🪔🪔🪔 Tidipa",
+    pageTitleSuffix: "- What the Buddha Understood",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-GB",
-    baseUrl: "khandhaja.github.io",
+    locale: "en-AU",
+    baseUrl: "tidipa.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: true,
+    // generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: false,
