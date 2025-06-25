@@ -1,5 +1,10 @@
+---
+title: Gombrich, Richard F. - Theravāda Buddhism (2006)
+description:
+  Richard Gombrich's *Theravāda Buddhism* provides a social history of this conservative branch of Buddhism, which originated with the Buddha's teachings in 5th-century BCE India on achieving salvation (*nibbāna*) from suffering through a "Middle Way" of morality, meditation, and wisdom. Central to this path was the redefinition of *kamma* as intention and the denial of an eternal soul (*anattā*), doctrines preserved and spread by a monastic Order (the Sangha) governed by a detailed disciplinary code (*vinaya*). With the patronage of Emperor Asoka, Theravāda was established in Sri Lanka around 250 BCE, where it became fused with Sinhalese national identity and developed a devotional culture of pilgrimage and relic worship, while the Sangha adapted to its role as a land-owning elite, undergoing cycles of decline and revival. The 19th century brought a major transformation with the rise of "Protestant Buddhism," a lay-led movement reacting to Christian missionaries and colonial rule, which reinterpreted Buddhism as a rational, scientific philosophy and promoted lay activism. In the contemporary era, this legacy has been shaped by civil war and globalization, fostering a more intense nationalism and new forms of lay religiosity, from ecstatic god-worship to the re-establishment of the nuns' order, presenting new challenges and adaptations for the ancient tradition.
+---
 
-## Theravāda Buddhism
+### Blurb
 
 Theravāda Buddhism is widely recognised as the classic introduction to the branch of Buddhism found in Sri Lanka and parts of South East Asia. The Buddha preached in north-east India in the fifth-century BCE. He claimed that human beings are responsible for their own salvation, and put forward a new ideal of the holy life, establishing a monastic Order to enable men and women to pursue that ideal. For most of its history the fortunes of Theravāda, the most conservative form of Buddhism, have been identified with those of that Order. Under the great Indian emperor, Asoka, himself a Buddhist, Theravāda reached Sri Lanka in about 250 вСЕ. There it became the religion of the Sinhala state, and from there it spread, much later, to Burma and Thailand.
 
@@ -7,38 +12,12 @@ Richard Gombrich, a leading authority on Theravāda Buddhism, has updated his te
 
 Richard F. Gombrich is Academic Director of the Oxford Centre for Buddhist Studies, and one of the most renowned Buddhist scholars in the world. From 1976 to 2004 he was Boden Professor of Sanskrit, University of Oxford. He has been President of the Pali Text Society and was awarded the Sri Lanka Ranjana decoration by the President of Sri Lanka in 1994 and the SC Chakraborty medal by the Asiatic Society of Calcutta the previous year. He has written extensively on Buddhism, including How Buddhism Began: the Conditioned Genesis of the Early Teachings (Routledge 2005); and with Gananath Obeyesekere, Buddhism transformed: Religious change in Sri Lanka (1988).
 
-## The Library of Religious Beliefs and Practices 
+The Library of Religious Beliefs and Practices 
 
 Series editors:\
 John Hinnells and the late Ninian Smart
 
 This series provides pioneering and scholarly introductions to different religions in a readable form. It is concerned with the beliefs and practices of religions in their social, cultural and historical setting. Authors come from a variety of backgrounds and approach the study of religious beliefs and practices from their different points of view. Some focus mainly on questions of history, teachings, customs and ritual practices. Others consider, within the context of a specific region, the interrelationships between religions; the interaction of religion and the arts; religion and social organisation; the involvement of religion in political affairs; and, for ancient cultures, the interpretation of archaeological evidence. In this way the series brings out the multi-disciplinary nature of the study of religion. It is intended for students of religion, philosophy, social sciences and history, and for the interested lay person.
-
-Other titles in the series include:
-
-### Hindus
-
-Their Religious Beliefs and Practices
-Julius Lipner
-
-### Mahayana Buddhism
-
-The Doctrinal Foundations
-Paul Williams
-
-### Muslims
-
-Their Religious Beliefs and Practices
-Andrew Rippin
-
-### Religions of Oceania
-
-Tony Swain and Garry Trompf
-
-### Zoroastrians
-
-Their Religious Beliefs and Practices
-Mary Boyce
 
 # Theravāda Buddhism 
 
@@ -47,19 +26,19 @@ Second edition
 
 Richard F. Gombrich
 
-First published in 1988
-by Routledge \& Kegan Paul Ltd
-This edition published in 2006
-by Routledge
-2 Park Square, Milton Park, Abingdon, Oxon OX14 4RN
-Simultaneously published in the USA and Canada
-by Routledge
-270 Madison Ave, New York, NY 10016
+First published in 1988 \
+by Routledge \& Kegan Paul Ltd \
+This edition published in 2006 \
+by Routledge \
+2 Park Square, Milton Park, Abingdon, Oxon OX14 4RN \
+Simultaneously published in the USA and Canada \
+by Routledge \
+270 Madison Ave, New York, NY 10016 \
 This edition published in the Taylor \& Francis e-Library, 2006.
 
 "To purchase your own copy of this or any of Taylor \& Francis or Routledge's collection of thousands of eBooks please go to www.eBookstore.tandf.co.uk."
 
-Routledge is an imprint of the Taylor \& Francis Group, an informa business
+Routledge is an imprint of the Taylor \& Francis Group, an informa business \
 (C) 1988, 2006 Richard Gombrich
 
 All rights reserved. No part of this book may be reprinted or reproduced or utilized in any form or by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying and recording, or in any information storage or retrieval system, without permission in writing from the publishers.
@@ -75,104 +54,104 @@ ISBN13: 9-78-0-415-36508-6 (hbk)
 ISBN13: 9-78-0-415-36509-3 (pbk)
 ISBN13: 9-78-0-203-01603-9 (ebk)
 
-## Contents 
+### Contents 
 
-Acknowledgments and recommendations for further reading ..... ix
-Preface to the second edition ..... xi
-1 Introduction ..... 1
-A Introductory information ..... 1
-B A social history of Buddhism? ..... 5
-The limitations of Marxist and Weberian views of religion ..... 11
-Unintended consequences ..... 15
-The Sangha ..... 18
-What inquiries will the evidence support? ..... 19
-Theravādin history: the uneven pace of change ..... 22
-Buddhist identity ..... 23
-2 Gotama Buddha's problem situation ..... 32
-A Vedic civilization ..... 32
-The Vedic tradition ..... 32
-The early Vedic period ..... 35
-Later Vedic society ..... 38
-Religion in the later Vedic period ..... 40
-Karma and escape from re-birth ..... 46
-B The social conditions of his day ..... 49
-To whom did the Buddha's message appeal? ..... 56
-3 The Buddha's Dhamma ..... 61
-The Dhamma in its context: answers to brahminism ..... 67
-Buddhism as religious individualism ..... 73
-An ethic for the socially mobile ..... 80
-The Buddha on kings and politics ..... 83
-4 The Sangha's discipline ..... 89
-General principles of the vinaya ..... 90
-Dating and development of the rules ..... 92
-The middle way between discomfort and indulgence ..... 95
-The disbarring offences and enforcement of chastity ..... 105
-Hierarchies of age and sex ..... 106
-The formal organization of the Sangha ..... 107
-Sect formation: Theravāda defined ..... 111
-Maintaining conformity ..... 114
-Relations between ordained and laity ..... 115
-5 The accommodation between Buddhism and society in ancient India ..... 119
-A Buddhist devotion ..... 119
-The Buddha as an object of faith and devotion ..... 120
-Pilgrimage ..... 122
-Relics ..... 123
-Mortuary rituals and 'transfer of merit' ..... 125
-B Secular power: Asoka ..... 128
-Asoka's inscriptions ..... 129
-Asoka in Buddhist tradition ..... 132
-The missions: interpreting the evidence ..... 135
-6 The Buddhist tradition in Sri Lanka ..... 137
-The Sinhalese Buddhist identity ..... 138
-Periodization of Sinhalese Buddhist history ..... 139
-Sources ..... 140
-Sinhalese Buddhist nationalism ..... 141
-Cosmology ..... 142
-A Buddhist society ..... 143
-Worship of Buddha images ..... 145
-Role of the village monk ..... 146
-The achievements of Mahinda's mission ..... 148
-Establishing Buddhism in a new country ..... 150
-The Sangha's duty to preserve the scriptures ..... 151
-The use of Pali: Buddhaghosa ..... 153
-Translation and popularization ..... 155
-Village dweller and forest dweller ..... 156
-The structure of the Sangha in Ceylon ..... 157
-Formal state control of the Sangha ..... 158
-Sangha and state in Anuradhapura ..... 160
-The Sangha as landlords ..... 161
-Decline . . . ..... 165
-. . . and revival ..... 166
-The character of Sinhalese Buddhist religiosity ..... 168
-7 Protestant Buddhism ..... 171
-The disestablishment of the Sangha ..... 173
-The British missions ..... 175
-Early Buddhist reactions ..... 179
-The rise of the Buddhist laity ..... 182
-The impact of the Theosophists ..... 183
-Anagārika Dharmapāla ..... 186
-Lay religious activism ..... 189
-Other characteristics of Protestant Buddhism ..... 192
-Limited scope of Protestant Buddhism ..... 194
-8 Current trends, new problems ..... 196
-Religious pluralism ..... 196
-The new ethos ..... 197
-Unintended consequences of lay religious activism ..... 198
-Recent economic and social developments ..... 199
-The cultural effect of the war ..... 201
-Hinduizing trends ..... 203
-The decline of rationality ..... 204
-The crisis of authority ..... 205
-Altered states of consciousness ..... 205
-Using Buddhism for this world ..... 206
-Developments in the Sangha ..... 207
-The challenge ..... 209
-Works cited ..... 211
-Abbreviations and primary sources ..... 217
-References ..... 219
-Index ..... 227
+* Acknowledgments and recommendations for further reading ..... ix
+* Preface to the second edition ..... xi
+* 1 Introduction ..... 1
+* A Introductory information ..... 1
+* B A social history of Buddhism? ..... 5
+* The limitations of Marxist and Weberian views of religion ..... 11
+* Unintended consequences ..... 15
+* The Sangha ..... 18
+* What inquiries will the evidence support? ..... 19
+* Theravādin history: the uneven pace of change ..... 22
+* Buddhist identity ..... 23
+* 2 Gotama Buddha's problem situation ..... 32
+* A Vedic civilization ..... 32
+* The Vedic tradition ..... 32
+* The early Vedic period ..... 35
+* Later Vedic society ..... 38
+* Religion in the later Vedic period ..... 40
+* Karma and escape from re-birth ..... 46
+* B The social conditions of his day ..... 49
+* To whom did the Buddha's message appeal? ..... 56
+* 3 The Buddha's Dhamma ..... 61
+* The Dhamma in its context: answers to brahminism ..... 67
+* Buddhism as religious individualism ..... 73
+* An ethic for the socially mobile ..... 80
+* The Buddha on kings and politics ..... 83
+* 4 The Sangha's discipline ..... 89
+* General principles of the vinaya ..... 90
+* Dating and development of the rules ..... 92
+* The middle way between discomfort and indulgence ..... 95
+* The disbarring offences and enforcement of chastity ..... 105
+* Hierarchies of age and sex ..... 106
+* The formal organization of the Sangha ..... 107
+* Sect formation: Theravāda defined ..... 111
+* Maintaining conformity ..... 114
+* Relations between ordained and laity ..... 115
+* 5 The accommodation between Buddhism and society in ancient India ..... 119
+* A Buddhist devotion ..... 119
+* The Buddha as an object of faith and devotion ..... 120
+* Pilgrimage ..... 122
+* Relics ..... 123
+* Mortuary rituals and 'transfer of merit' ..... 125
+* B Secular power: Asoka ..... 128
+* Asoka's inscriptions ..... 129
+* Asoka in Buddhist tradition ..... 132
+* The missions: interpreting the evidence ..... 135
+* 6 The Buddhist tradition in Sri Lanka ..... 137
+* The Sinhalese Buddhist identity ..... 138
+* Periodization of Sinhalese Buddhist history ..... 139
+* Sources ..... 140
+* Sinhalese Buddhist nationalism ..... 141
+* Cosmology ..... 142
+* A Buddhist society ..... 143
+* Worship of Buddha images ..... 145
+* Role of the village monk ..... 146
+* The achievements of Mahinda's mission ..... 148
+* Establishing Buddhism in a new country ..... 150
+* The Sangha's duty to preserve the scriptures ..... 151
+* The use of Pali: Buddhaghosa ..... 153
+* Translation and popularization ..... 155
+* Village dweller and forest dweller ..... 156
+* The structure of the Sangha in Ceylon ..... 157
+* Formal state control of the Sangha ..... 158
+* Sangha and state in Anuradhapura ..... 160
+* The Sangha as landlords ..... 161
+* Decline . . . ..... 165
+* . . . and revival ..... 166
+* The character of Sinhalese Buddhist religiosity ..... 168
+* 7 Protestant Buddhism ..... 171
+* The disestablishment of the Sangha ..... 173
+* The British missions ..... 175
+* Early Buddhist reactions ..... 179
+* The rise of the Buddhist laity ..... 182
+* The impact of the Theosophists ..... 183
+* Anagārika Dharmapāla ..... 186
+* Lay religious activism ..... 189
+* Other characteristics of Protestant Buddhism ..... 192
+* Limited scope of Protestant Buddhism ..... 194
+* 8 Current trends, new problems ..... 196
+* Religious pluralism ..... 196
+* The new ethos ..... 197
+* Unintended consequences of lay religious activism ..... 198
+* Recent economic and social developments ..... 199
+* The cultural effect of the war ..... 201
+* Hinduizing trends ..... 203
+* The decline of rationality ..... 204
+* The crisis of authority ..... 205
+* Altered states of consciousness ..... 205
+* Using Buddhism for this world ..... 206
+* Developments in the Sangha ..... 207
+* The challenge ..... 209
+* Works cited ..... 211
+* Abbreviations and primary sources ..... 217
+* References ..... 219
+* Index ..... 227
 
-## Acknowledgments and recommendations for further reading 
+### Acknowledgments and recommendations for further reading 
 
 There are two great pleasures in working on Theravāda Buddhism: the primary sources and the secondary sources. To praise the Pali Canon and its commentaries would be an impertinence. I hope it may not be thought impertinent, however, to say what admirable books modern scholars have written on the subject matter of this one. Very often I have found I could do no better than attempt to summarize the conclusions of my learned and lucid predecessors. I only hope that what is essentially a presentation of their work has not been too inept to encourage the reader to go back to their fuller accounts. Here are the works I particularly have in mind; in brackets after each are the numbers of the chapters which most heavily rely on them.
 
@@ -198,7 +177,7 @@ I would also like to thank the staff of the Instituut voor Oosterse Talen of Utr
 Richard Gombrich,
 Oxford, August 1985
 
-## Preface to the second edition 
+### Preface to the second edition 
 
 It is just over twenty years since I wrote the above. In the interim I have learnt a great deal more about early Buddhism, mainly from my own pupils and a few close colleagues. Much of that, however, concerns our understanding of the Buddha's teachings rather than social history.
 
@@ -524,7 +503,7 @@ We must now consider later Vedic society. Again, we shall say no more about it t
 
 After about the turn of the first millennium BCE, the Indo-Aryans and those who had adopted their culture became increasingly settled and agricultural, though stock-rearing remained important. They began to grow rice as well as barley, and to use ploughs. They had some iron but apparently used it almost exclusively for weapons, very little for tools. The centre of their culture shifted slowly to the Upper Gangetic plains (mainly modern Haryana and Western Uttar Pradesh, with adjacent parts of the Punjab and Rajasthan).
 
-The tenth and last book of the $R g$ Veda, which is presumed also to be the latest, contains a famous hymn (X.90) called the Puruṣa-sükta ('Hymn of the Cosmic Man'). A huge male figure is compared and assimilated to the universe, which he both pervades and transcends. Verse 12 of this hymn runs: 'His mouth was the brahmin, arms were made the royal, his two thighs that which is the vaiśya, from his feet was born the śüdra.' This requires explanation and comment.
+The tenth and last book of the Ṛg Veda, which is presumed also to be the latest, contains a famous hymn (X.90) called the Puruṣa-sükta ('Hymn of the Cosmic Man'). A huge male figure is compared and assimilated to the universe, which he both pervades and transcends. Verse 12 of this hymn runs: 'His mouth was the brahmin, arms were made the royal, his two thighs that which is the vaiśya, from his feet was born the śüdra.' This requires explanation and comment.
 
 The cosmic man is here equated with society. The most important point is that society is conceived as an organic whole, and this whole contains four classes of men, who by the nature of things are hierarchically ranked. The ranking goes from the top down and there can be no argument about who comes above whom. Earlier verses have also equated the cosmic man with the universe. By being his mouth, the brahmins are thus the mouthpiece of reality. They are the language which expresses that reality, for it is they who utter the Vedas.
 
@@ -659,7 +638,7 @@ No public monument or public building which could go back to the time of the Bud
 
 Kauśambī and Ujjain are only two of the score or so of towns mentioned in the Buddhist Canon. [^42] The Pali sources have the Buddha spending most of his time (for instance, passing the rains retreats) at Rājagaha, Vesālī and Sāvatthī - all towns which continued to be prominent in Buddhist history. A text in the Dīgha Nikāya [^43] lists six 'great cities': Campā, Rājagaha, Sāvatthī, Sāketa, Kosambī (= Kauśambī) and Benares (= Varanasi).
 
-Of these six, all but Sāketa were capitals of what the texts call 'large countries' (mah $\bar{a}$ janapada). [^44] There is a canonical list of sixteen such 'large countries'; [^45] it seems to have been almost a technical term. We saw in the last chapter that Indian kings are conceived of in the first instance as ruling men rather than territory, a heritage perhaps of the nomadic past. Heesterman has shown that even when they settled down, the Hindu state was seen rather as a field of power centred on the king than as a firmly bounded tract of land. [^46] From the brilliant person of the king, power radiated like rays from the sun, soaking up the taxes to form his economic base as the sun's rays soak up moisture from the earth.
+Of these six, all but Sāketa were capitals of what the texts call 'large countries' (mahā janapada). [^44] There is a canonical list of sixteen such 'large countries'; [^45] it seems to have been almost a technical term. We saw in the last chapter that Indian kings are conceived of in the first instance as ruling men rather than territory, a heritage perhaps of the nomadic past. Heesterman has shown that even when they settled down, the Hindu state was seen rather as a field of power centred on the king than as a firmly bounded tract of land. [^46] From the brilliant person of the king, power radiated like rays from the sun, soaking up the taxes to form his economic base as the sun's rays soak up moisture from the earth.
 
 The power of some of these suns increased with the greater resources at their command. Twice in early Indian history the sizes of kingdoms made critical increases, almost quantum leaps, which greatly affected Buddhist history. The first critical leap was the establishment of the 'large countries'; the second, we shall see, was the creation of the Mauryan empire two or three centuries later. At both junctures, the larger unit rarely destroyed the smaller, but rather subsumed it, fitting it into an overarching structure. Thus developed a complex graduation of lordship and overlordship. The power required to control the larger structure was no doubt initially acquired by force - just how, we do not know - but its retention must have depended also on an increasingly efficient and complex apparatus of government control.
 
@@ -1312,7 +1291,7 @@ For the first millennium of the Common Era, in so far as Theravāda Buddhism exi
 
 ### Periodization of Sinhalese Buddhist history 
 
-Pre-modern Ceylonese history is conventionally divided into periods by the location of the Sinhalese capital. It was continuously at Anuradhapura till the late eighth century, when invasions from southern India became a regular problem. Polonnaruva, further east, was better sited to cope with them. The capital oscillated between these two cities for over a century and the last king to rule from Anuradhapura died in $896 .{ }^{5}$ After the Tamil invasions of the late tenth and early eleventh centuries the political unity of the Sinhalese kingdom became precarious. It was reunified and ruled from Polonnaruva by Vijaya Bāhu I (1070-1110), Parakkama Bāhu I (1153-86) and the latter's successors till the Tamil invasion of 1215 , and again for a period later in the thirteenth century. The northern part of the island was then lost by the Sinhalese. The capital shifted several times till in the sixteenth century, after the Portuguese had taken the west coast, it settled in Kandy. It remained there till the British conquest in 1815, when the island was reunified and ruled from Colombo.
+Pre-modern Ceylonese history is conventionally divided into periods by the location of the Sinhalese capital. It was continuously at Anuradhapura till the late eighth century, when invasions from southern India became a regular problem. Polonnaruva, further east, was better sited to cope with them. The capital oscillated between these two cities for over a century and the last king to rule from Anuradhapura died in 896.[^35] After the Tamil invasions of the late tenth and early eleventh centuries the political unity of the Sinhalese kingdom became precarious. It was reunified and ruled from Polonnaruva by Vijaya Bāhu I (1070-1110), Parakkama Bāhu I (1153-86) and the latter's successors till the Tamil invasion of 1215 , and again for a period later in the thirteenth century. The northern part of the island was then lost by the Sinhalese. The capital shifted several times till in the sixteenth century, after the Portuguese had taken the west coast, it settled in Kandy. It remained there till the British conquest in 1815, when the island was reunified and ruled from Colombo.
 
 While the Sinhalese have always been Buddhists, the fortunes of Buddhism as institutionalized in the Sangha have fluctuated under the pressures of foreign invasion and internal decay, the former sometimes hastening the latter. Many cultural traditions were lost in the troubled eleventh and early twelfth centuries. The decisive event which halted this decline was the 'purification' of the Sangha and council held by Parakkama Bāhu I and the elder Mahā Kassapa in 1164/5. In the sixteenth century the Sangha so declined that the indigenous ordination tradition was lost; and a valid ordination tradition was not successfully re-established in Ceylon till the Thai mission of 1753. It is this date, not 1815, which is a watershed in Buddhist history. The largest body of monks in Sri Lanka today, the Siyam Nikāya, traces its ordination tradition back, as the name shows, to that Thai visit to Kandy. It should, however, be added that the Thai tradition derived in turn, via Burma, from Polonnaruva, so that the modern Sangha are not only the cultural heirs of the ancient but have maintained the pupillary succession.
 
@@ -1368,7 +1347,7 @@ Nowadays Buddha images are mass produced; but it is unlikely that before modern 
 
 ### Role of the village monk 
 
-The essence and raison d'être of a Buddhist temple, however, remains that it is the residence of a monk. A temple begins when a monk settles, though at this stage it may still be called only a 'residence' ( $\bar{a} v \bar{a} s a$ ). It becomes a temple (vihāra) as other objects of worship are added: a consecrated Buddha image, installed in a building; a stupa; and a Bo tree. (Often it is the presence of a Bo tree which has made the monk choose that site.) Not all these three things need be there, but it is unusual to lack more than one of them unless the temple is still new.
+The essence and raison d'être of a Buddhist temple, however, remains that it is the residence of a monk. A temple begins when a monk settles, though at this stage it may still be called only a 'residence' (āvāsa). It becomes a temple (vihāra) as other objects of worship are added: a consecrated Buddha image, installed in a building; a stupa; and a Bo tree. (Often it is the presence of a Bo tree which has made the monk choose that site.) Not all these three things need be there, but it is unusual to lack more than one of them unless the temple is still new.
 
 Most Sinhalese villages have a local temple with a resident incumbent, and sometimes also some other monks or novices, the incumbent's fellow monks or pupils. But he does not function like the English village vicar. Villagers who need a monk to conduct mortuary rites must by custom invite him (and other monks only through him), and he must accept; but these are the only rites for which such a presumptive link is recognized, even though the villagers feed him and his fellows, and generally use the local temple for most of their 'merit-making'. In other words, they are responsible for him, not he for them; he is not a pastor, a shepherd to his people. His twin functions - we postpone the question of how a 'renouncer' came to have any 'function' at all - have traditionally been to teach and to preach.
 
@@ -1405,7 +1384,7 @@ In the same spirit, Buddhaghosa's account of the establishment of Buddhism in Ce
 
 ### Establishing Buddhism in a new country 
 
-In his admirable account of these events the Ven. Dr Rahula writes: [^36] "The idea of the "establishment" of Buddhism in a given geographical unit is quite foreign to the teaching of the Buddha . . . Buddhism is purely a personal religion.' It is true that Buddhism is primarily a personal religion, what I have called a soteriology. But the chronicles are recording the establishment of the Sangha, and that does require formal attachment to the terrain by putting down a sīm $\bar{a}$ before it can perform valid acts like the pätimokkha recitation. When the soteriology, the Dhamma, is institutionalized as the Sāsana, it has to find local habitations. For in the Theravādin tradition the Sāsana exists through the Sangha. To survive, the Sangha immediately and constantly requires material support, and in the long run requires the means to perpetuate itself by ordaining recruits.
+In his admirable account of these events the Ven. Dr Rahula writes: [^36] "The idea of the "establishment" of Buddhism in a given geographical unit is quite foreign to the teaching of the Buddha . . . Buddhism is purely a personal religion.' It is true that Buddhism is primarily a personal religion, what I have called a soteriology. But the chronicles are recording the establishment of the Sangha, and that does require formal attachment to the terrain by putting down a sīmā before it can perform valid acts like the pätimokkha recitation. When the soteriology, the Dhamma, is institutionalized as the Sāsana, it has to find local habitations. For in the Theravādin tradition the Sāsana exists through the Sangha. To survive, the Sangha immediately and constantly requires material support, and in the long run requires the means to perpetuate itself by ordaining recruits.
 
 These aims can be most easily achieved by acquiring royal patronage. That Mahinda began his mission by converting the king may, like the rest of the story, be a gross simplification; and the numbers of his early converts must be absurdly exaggerated: no king goes hunting with forty thousand attendants, who in this case would have constituted a sizeable slice of the population. But it is true that the most realistic course for a missionary in those days would have been to make straight for the largest town and preferably for the palace. Only there would he have found the opportunity to preach to a large crowd; and without wealthy and powerful patrons he could not possibly have established a monastery. Though Ceylon was probably prosperous and well developed by the standards of those days, communications must still have been rudimentary, and Anuradhapura was probably the only considerable town and the king the only person with a great command over resources. Similar considerations would have applied in any country in ancient times, so the tendency of Buddhist historians to describe the spread of Buddhism as a series of missions to courts cannot be dismissed as naive fabrications.
 
@@ -1431,7 +1410,7 @@ A social history must discuss the availability of information. To whom were text
 
 According to Buddhaghosa, Mahinda brought with him the commentaries on the Pali Canon and translated them into Sinhala. [^41] This must be at least an over-simplification, for two reasons. Firstly, though the commentaries that have reached us are only about as long as the Canon, the Canon is very repetitious, so that they have a far higher information content. Memorizing a commentary involves also memorizing the text commented on. Individuals have been known to memorize the whole Canon, but even that is a formidable feat, and monks were normally organized to specialize in particular groups of texts. [^42] So we deduce that Mahinda and his little party can hardly have brought the whole body of Canon and commentaries: the texts must have arrived more gradually, in the heads of several people.
 
-Secondly, although scholarship has still done little to establish how much of the commentaries was composed in India and how much in Ceylon, Adikaram has shown that they were added to till about the middle of the first century $\mathrm{CE},{ }^{43}$ which would mean that the last additions were made about half a century after they were written down.
+Secondly, although scholarship has still done little to establish how much of the commentaries was composed in India and how much in Ceylon, Adikaram has shown that they were added to till about the middle of the first century CE,[^43] which would mean that the last additions were made about half a century after they were written down.
 
 The commentaries that have reached us are all in Pali, and most of them were composed in the early fifth century in Anuradhapura by Buddhaghosa, who according to tradition was born a brahmin in India. Buddhaghosa is Theravāda's great scholastic; his position is even more dominant than that of St Thomas Aquinas in the Roman Catholic tradition. His first work was the Visuddhi-magga ('The Path to Purity'), a compendium of Theravādin doctrine which has been regarded as authoritative ever since. It is arranged in three sections, according to the old hierarchical triad: morality, concentration, wisdom. Though full of quotations from the Canon and other literature, it is an original work, not a mere compilation. The prose style is much more elaborate than that of most Pali texts and probably shows the influence of a Sanskrit (and therefore brahmin) education. The contents strictly concern the life of a monk. Though enlivened by some anecdotes by way of examples, they are fairly austere and afford few glimpses of devotional sentiment or popular practice. It is above all a handbook for meditators.
 
@@ -1490,7 +1469,7 @@ Parakkama Bāhu's centralization represents a stronger formal control of the San
 
 The kings of ancient Ceylon considered themselves to stand in the tradition established by Asoka and to be responsible for the well-being of the Sangha. The relations between church and state were more like those between brahmin and ksatriya in Hindu India, where what we might call the complementarity between the sacred and the secular was well understood, than the relations between Pope and Emperor in early mediaeval Europe. Rather than rivalry, there was in general a community of interest; 'the kingship by which the state was represented was the firmest support of the Buddhist church and the latter that of the kingship. [^962] Even if there was in fact more friction with the king and more impiety than the monastic chroniclers cared to record, it is clear that kings normally treated the Sangha with immense deference, and we shall mention below some striking instances of kings' personal devotion. Once in the seventh century, the monks of the Mahā Vihāra formally refused to accept alms from a king, the closest Buddhist equivalent to excommunication, and we hear of no attempt by the king to retaliate. But since such a decision by one nikaya would not have bound the others, perhaps he could afford to ignore the insult.
 
-Many kings tried to follow in Asoka's footsteps by working for the public good. For example, King Buddhadāsa (late fourth century) put up resthouses on the highway and homes for cripples and the blind, [^63] and allegedly had a hospital, staffed by a doctor, in every village. ${ }^{64} \mathrm{He}$ also practised medicine himself, even on a cobra. ${ }^{65} \mathrm{He}$ is said to have lived the life of a bodhisatta, [^66] and certain later kings are said to have aspired to Buddhahood, [^67] which means that they regarded themselves as bodhisattas. Finally in a tenth-century inscription a king proclaims that only bodhisattas can become kings of Ceylon. [^68] Whether sincere or purely rhetorical, this is tantamount to stating that the king dedicates himself unreservedly to the welfare of others. Incidentally, the penetration of this bodhisatta ideology into Ceylon seems extraordinarily slow: such future Buddhas multiplied in Mahāyāna Buddhism and became extremely important in India by about the first century CE.
+Many kings tried to follow in Asoka's footsteps by working for the public good. For example, King Buddhadāsa (late fourth century) put up resthouses on the highway and homes for cripples and the blind, [^63] and allegedly had a hospital, staffed by a doctor, in every village. [^64] He also practised medicine himself, even on a cobra. [^65] He is said to have lived the life of a bodhisatta, [^66] and certain later kings are said to have aspired to Buddhahood, [^67] which means that they regarded themselves as bodhisattas. Finally in a tenth-century inscription a king proclaims that only bodhisattas can become kings of Ceylon. [^68] Whether sincere or purely rhetorical, this is tantamount to stating that the king dedicates himself unreservedly to the welfare of others. Incidentally, the penetration of this bodhisatta ideology into Ceylon seems extraordinarily slow: such future Buddhas multiplied in Mahāyāna Buddhism and became extremely important in India by about the first century CE.
 
 Asoka's crucial act as defender of the Sāsana, we recall, was his 'purification' of the Sangha. It had two aspects: getting rid of those who had only joined the Sangha for an easy life, and reuniting the Sangha in its formal acts. In other words, the 'corruption' had two aspects: luxurious living, and consequent disharmony.
 
@@ -1502,7 +1481,7 @@ The reign of King Vattagāmani in the late first century BCE seems to have been 
 
 Land grants to monks and monasteries became very frequent after Vattagāmani, so that monastic land-holding became a major feature of the economy. Grants were of various kinds: 'the grant of a village could involve the right to taxes, to labour from its inhabitants, to proprietary right over its land, or a combination of these. [^711] In traditional India, control over land normally implied some control over its population, so that giving land often meant giving the labour of its inhabitants. In India brahmins, and later temples, were commonly given land by the king for their upkeep; the land was tax-free and the labour of its inhabitants normally went with it. Not only were such gifts irrevocable by the giver: they were supposed to be honoured by his successors in perpetuity.
 
-Buddhaghosa's commentary on the Vinaya shows that at least by the fifth century - but probably a good deal earlier - a whole gamut of legal fictions were enabling the Sangha to deal with property. Another of his commentaries says that the Sangha could not accept slaves under that name, but if they were called monastery servants ( $\bar{a} r \bar{a} m i k a$ ) or legalizers (kappiya-kāraka) (see p. 104) it was all right. [^72] Even this nicety of nomenclature came to be ignored, for at one point the Vinaya commentary says in so many words that kings gave slaves to monasteries, and that they could not be ordained unless they had first been freed. [^73] Inscriptions record that people gave money for the specific purpose of maintaining monastic slaves - and offered the resulting merit to all living beings.
+Buddhaghosa's commentary on the Vinaya shows that at least by the fifth century - but probably a good deal earlier - a whole gamut of legal fictions were enabling the Sangha to deal with property. Another of his commentaries says that the Sangha could not accept slaves under that name, but if they were called monastery servants (ārāmika) or legalizers (kappiya-kāraka) (see p. 104) it was all right. [^72] Even this nicety of nomenclature came to be ignored, for at one point the Vinaya commentary says in so many words that kings gave slaves to monasteries, and that they could not be ordained unless they had first been freed. [^73] Inscriptions record that people gave money for the specific purpose of maintaining monastic slaves - and offered the resulting merit to all living beings.
 
 > If granting endowments to maintain slaves at monasteries was considered meritorious, freeing them from slavery was considered even more meritorious. Thus the device of offering slaves to monasteries provided a two-fold way for the acquisition of merits. [^74]
 
@@ -1604,7 +1583,7 @@ The main missionary organizations were established in Ceylon between 1805 and 18
 
 The missionaries propagated Christianity in three main ways: by education, preaching, and pamphleteering. Every mission station had a primary school, and the Church of England ran a collegiate institution to train school-teachers and ordinands. The government also controlled some parish schools, which survived from the Dutch period, and administered them through the School Commission, a body heavily weighted with Christian clergy. This body was replaced in 1869 by the completely secular Department of Public Instruction. Till then, it totally controlled government schools and made financial grants to others which qualified. Although the traditional Sinhalese system of education, temple schools run by local monks, persisted all over the island, those schools never qualified for grants, even after the secularization of government control, because the monks failed to meet official standards in such matters as regular attendance and approved curricula. All the officially approved schools were Christian; and all Christian schools taught in English, and were thus the necessary approach to government service and worldly advancement. [^22] The first hour of the day was dedicated to religious instruction; in 1841 parents were given the right to object, but we know of several schools where this right was never used. [^23] Not only did they not wish to displease the teachers; the non-exclusivist traditions of Buddhism were still operating, so that probably most of them really did not mind. Most pupils continued to be Buddhists at home and attend Buddhist festivals. Presumably more males than females were converted. Being used to the idea that different religious systems catered to different spheres of life, presumably Buddhists could adapt to the idea that Protestant Christianity (which in Ceylon includes Anglicanism) was now the religion of state ceremonial and public life. This is not to deny that someone who attends church and studies the Bible, for whatever reason, may be influenced by the content of what he hears and reads.
 
-The missionaries were crippled by their inflexibility. They worked hard to learn Sinhala, but then insisted that the Bible be translated into 'plain speech', using only one word for 'you', the second person pronoun. The result would be absurd in almost any language but English, and to make matters worse, trying to keep close to the Biblical 'thou', they chose the pronoun $t \bar{o}$. This was not in ignorance. The chief translator admitted: 'To apply $t \bar{o}$ to a man of respectable class is an actionable offence: and, I believe, damages have actually been awarded for it . . .'
+The missionaries were crippled by their inflexibility. They worked hard to learn Sinhala, but then insisted that the Bible be translated into 'plain speech', using only one word for 'you', the second person pronoun. The result would be absurd in almost any language but English, and to make matters worse, trying to keep close to the Biblical 'thou', they chose the pronoun *tō*. This was not in ignorance. The chief translator admitted: 'To apply *tō* to a man of respectable class is an actionable offence: and, I believe, damages have actually been awarded for it . . .'
 
 When the translation was introduced in church in Colombo the Sinhalese walked out in protest against the insult to God, and petitioned the bishop against it. [^24]
 
@@ -1616,9 +1595,9 @@ During a great religious festival outside Colombo, the local C of E missionaries
 
 However, the missionary preferred to venture alone in partibus infidelium. In 1849 the headmaster of the Government Central School in Kandy resigned to be a full-time missionary, 'following the example of the Apostles, yea of the Saviour himself by travelling on foot and enduring privations. [^27] Since preaching is of course also a Buddhist practice, the itinerant missionaries might have made some impression had they made concessions to local custom; but this was quite contrary to their spirit and intention. Not only did they continue 'plain speech' and address their audience indiscriminately with a derogatory pronoun; they ignored all questions of decorum and Sinhalese notions of suitable time, place and manner for preaching. The result was that the Baptist missionary Ebenezer Daniel wrote in 1840, 'We often meet with little but contempt, opprobrium and laughter,' and recorded that villagers often asked him, 'Will you give us arrack if we listen to you? [^28] The question is significant. In 1848 the Government Agent of the Central Province (Kandy) pointed out that in 30 years of rule the government had opened four schools in his province and licensed the erection of 133 arrack taverns. After 1850, some missionaries did engage in temperance work (now that the need had arisen), but Malalgoda notes that they never voiced as much opposition to the government's connection with the liquor trade as they had previously voiced to its connection with Buddhism. [^29]
 
-The great technical innovation of the missionaries, and one which was to have a profound influence, was their use of the printing press. The first Sinhala press had been established by the Dutch government of Ceylon in 1736; it was used mainly to print Christian propaganda. The second was imported for the same purpose by the Wesleyans in 1815. The Anglicans and the Baptists then each set up their own. [^30] From the start, what was printed was more polemical than merely expository. With typically military metaphor, Gogerly, the manager of the Wesleyan Press, wrote in 1831, 'At present it is by means of the press our main attacks must be made upon this wretched system. . . . We must direct our efforts to pull down this stronghold of Satan. [^31] Those responsible estimated that between 1849 and $18611^{1 / 2}$ million tracts (in both Sinhala and English) circulated among the Ceylonese population [^32] of about 3 million, of whom many could not read.
+The great technical innovation of the missionaries, and one which was to have a profound influence, was their use of the printing press. The first Sinhala press had been established by the Dutch government of Ceylon in 1736; it was used mainly to print Christian propaganda. The second was imported for the same purpose by the Wesleyans in 1815. The Anglicans and the Baptists then each set up their own. [^30] From the start, what was printed was more polemical than merely expository. With typically military metaphor, Gogerly, the manager of the Wesleyan Press, wrote in 1831, 'At present it is by means of the press our main attacks must be made upon this wretched system. . . . We must direct our efforts to pull down this stronghold of Satan. [^31] Those responsible estimated that between 1849 and 1861 1½ million tracts (in both Sinhala and English) circulated among the Ceylonese population [^32] of about 3 million, of whom many could not read.
 
-For the first 50 years of this onslaught the Buddhist response was eirenic. About 1835, to Christian horror, a Buddhist priest wrote a tract saying that Christ had been incarnated on earth after an existence in heaven (just like a Buddha), was virtuous and benevolent, and taught the truth in so far as he understood it. [^33] Unlike many brahmins in India, Buddhist monks did not shun contact with Europeans, and two learned monks had even assisted with the first translation of the Bible into Sinhala (not the one using $t \bar{o}$ ). Some monks allowed missionaries to use their preaching halls, and were puzzled when their reciprocal requests were refused. [^34] Writers in the 1850s remark on the lack of hostility to Christianity and on the monks' co-operative attitude in lending manuscripts from their libraries and explaining their contents. But this lack of opposition merely irritated the missionaries. The most famous one, the Methodist Spence Hardy, when on his preaching rounds, usually spent the night at the village temple, where the monks treated him kindly. This he could only attribute to their 'indolence, apathy and indifference in all matters concerning religion'. [^35] Of monks' faces he wrote that 'there is often an appearance about them of great vacancy, amounting almost to imbecility, [^36] and he believed that many were illiterate. He wrote in 1850, 'It is almost impossible to move them, even to wrath. [^33] But on returning to Ceylon after an absence of 15 years, Hardy was delighted to note that the pernicious vice of tolerance was on the wane, that monks would no longer co-operate with missionaries, would no longer explain or lend their books, but had bought presses and were printing tracts.
+For the first 50 years of this onslaught the Buddhist response was eirenic. About 1835, to Christian horror, a Buddhist priest wrote a tract saying that Christ had been incarnated on earth after an existence in heaven (just like a Buddha), was virtuous and benevolent, and taught the truth in so far as he understood it. [^33] Unlike many brahmins in India, Buddhist monks did not shun contact with Europeans, and two learned monks had even assisted with the first translation of the Bible into Sinhala (not the one using *tō* ). Some monks allowed missionaries to use their preaching halls, and were puzzled when their reciprocal requests were refused. [^34] Writers in the 1850s remark on the lack of hostility to Christianity and on the monks' co-operative attitude in lending manuscripts from their libraries and explaining their contents. But this lack of opposition merely irritated the missionaries. The most famous one, the Methodist Spence Hardy, when on his preaching rounds, usually spent the night at the village temple, where the monks treated him kindly. This he could only attribute to their 'indolence, apathy and indifference in all matters concerning religion'. [^35] Of monks' faces he wrote that 'there is often an appearance about them of great vacancy, amounting almost to imbecility, [^36] and he believed that many were illiterate. He wrote in 1850, 'It is almost impossible to move them, even to wrath. [^33] But on returning to Ceylon after an absence of 15 years, Hardy was delighted to note that the pernicious vice of tolerance was on the wane, that monks would no longer co-operate with missionaries, would no longer explain or lend their books, but had bought presses and were printing tracts.
 
 > I have formed bright anticipations as to the future. There can be no doubt as to the result of the contest now carried on; for although it may be prolonged and severe, it must end in the total discomfiture of those who have risen against the Lord and his Christ, and in the renunciation of the atheist creed that now mars the happiness, and stays the enlightenment, of so many of the dwellers in Lanka. [^37]
 
@@ -1666,7 +1645,7 @@ From now on Buddhist lay organizations proliferated, and continued to be modelle
 
 ### Anagārika Dharmapāla 
 
-We must return to the family of Hewavitharanage Don Carolis. His father-in-law, Don Andris Perera, was president of the Colombo branch of the lay BTS from 1883 to $1890 .{ }^{68}$ His son, born in 1864, became the most important figure in the modern history of Buddhism. His given name was Don David Hewavitarne, but he is usually known as Anagārika Dharmapāla, a name and style which he assumed in 1881. [^69] Shortly before his death in 1933 he became a monk and took a new name, but that too is little remembered. The name Dharmapāla means 'Protector of the Dhamma' - Defender of the Faith. The title Anagārika was an innovation. The word is Pali (and Sanskrit) and means 'homeless'; traditionally it was one of the epithets of Buddhist monks, but never a title. Dharmapāla used the term to designate a new status, to which we return below.
+We must return to the family of Hewavitharanage Don Carolis. His father-in-law, Don Andris Perera, was president of the Colombo branch of the lay BTS from 1883 to 1890.[^68] His son, born in 1864, became the most important figure in the modern history of Buddhism. His given name was Don David Hewavitarne, but he is usually known as Anagārika Dharmapāla, a name and style which he assumed in 1881. [^69] Shortly before his death in 1933 he became a monk and took a new name, but that too is little remembered. The name Dharmapāla means 'Protector of the Dhamma' - Defender of the Faith. The title Anagārika was an innovation. The word is Pali (and Sanskrit) and means 'homeless'; traditionally it was one of the epithets of Buddhist monks, but never a title. Dharmapāla used the term to designate a new status, to which we return below.
 
 Dharmapāla was to become a national hero of Sri Lanka. For a time in the 1960s there was even a national holiday in his name, though later, because of the proliferation of holidays, it was subsumed in National Heroes' Day, which is January 1st. All over the Sinhalese parts of Sri Lanka urban streets are named after him. His biographer has even proposed him as a bodhisatta, and he apparently considered himself to be one.
 
@@ -1954,7 +1933,7 @@ The traditional Sinhalese system of 'village-dwelling' monks had its defects and
 - Seneviratne, H.L. (1999), The Work of Kings, Chicago.
 - Sharma, R.S. (1983), Material Culture and Social Formations in Ancient India, Delhi.
 - Spiro, Melford E. (1970), Buddhism and Society: A Great Tradition and its Burmese Vicissitudes, New York.
-- Stargardt, Janice (1995), 'The Oldest Known Pali Texts, $5^{\text {th }}-6^{\text {th }}$ Century', Journal of the Pali Text Society, XXI, pp. 199-213.
+- Stargardt, Janice (1995), 'The Oldest Known Pali Texts, 5th-6th Century', Journal of the Pali Text Society, XXI, pp. 199-213.
 - Thapar, Romila (1966), A History of India, vol. 1, Harmondsworth.
 - Thomas, Keith (1971), Religion and the Decline of Magic, London.
 - Weber, Max (1958), The Religion of India, trans. and ed. Hans H. Gerth and Don Martindale, New York (original ed. 1921).
@@ -1987,8 +1966,8 @@ Abbreviations for names of texts
 | Mil. | Milindapañha |
 | MN | Majjhima Nikāya |
 | Pap.s. | Papañca-sūdanī |
-| PE | Pillar Edict $\}$ of Asoka |
-| RE | Rock Edict $\dagger$ |
+| PE | Pillar Edict † of Asoka |
+| RE | Rock Edict † of Asoka |
 | Sam.p. | Samanta-pāsādikā |
 | SN | Saṃyutta Nikāya |
 | Snip. | Sutta-nipāta |
@@ -2609,7 +2588,7 @@ Foreign terms are explained where they first occur in the text.
 - Advice to Sigāla, see Sigāla
 - Adyar 183, 187
 - Aggañña Sutta 86-8
-- agriculture 35, 38-9, 46, 51-3, 59, $74,76,82,84,143,162,200$
+- agriculture 35, 38-9, 46, 51-3, 59, 74,76,82,84,143,162,200
 - Ajātasattu 50, 117
 - Amarapura Nikāya 158, 174
 - Ambedkar 31
@@ -2617,15 +2596,15 @@ Foreign terms are explained where they first occur in the text.
 - anagārika status 186, 189-91
 - Anāthapiṇ̣ika 54, 76, 82
 - anatta 21, 64-5, 151-2
-- Anuradhapura 139-41, 148-9, $151,156,157,160,168$
+- Anuradhapura 139-41, 148-9, 151,156,157,160,168
 - Anuruddha (King of Pagan) 138, 167
 - ārāmika 94, 103-5, 116, 161-3
-- arhat $121,124,141,168$
+- arhat 121,124,141,168
 - Ariyadhamma, Pānadurē 208
 - Ariyapala, M.B. 203
 - asceticism 44-5, 58, 61-2, 92, 96-7, 106, see also this-worldly asceticism
 
-- Asoka 20, 29, 71, 84, 85, 93, 117, $128-36,140-1,149,160,167$, 201
+- Asoka 20, 29, 71, 84, 85, 93, 117, 128-36,140-1,149,160,167, 201
 - astrology 205
 - ātman 43, 65
 - awareness 37, 65-6, 78, 80, 206
@@ -2652,7 +2631,7 @@ Foreign terms are explained where they first occur in the text.
 - Brhad Āranyaka Upaniṣad 20, 35, 45,46
 - British in Ceylon 23, 139, 171-95, 196, 199
 - Buddhadāsa (King) 160, 169
-- Buddhaghosa 4, 22, 66, 148, 149, $153-4,162$
+- Buddhaghosa 4, 22, 66, 148, 149, 153-4,162
 - Buddhist Catechism 184-5
 - Buddhist Theosophical Society (BTS) 184-7
 - Bunnag, Jane 92
@@ -2666,28 +2645,28 @@ Foreign terms are explained where they first occur in the text.
 - Campã 55
 - Candragupta Maurya 129
 - Caraka Samhitā 60
-- Carrithers, Michael ix, 21, 90-1, $114,115,128,168,208$
-- caste system $30-1,38-9,49-50$, $68,70,79-80,87,143-4,166$, 173-4, 191, 198
+- Carrithers, Michael ix, 21, 90-1, 114,115,128,168,208
+- caste system 30-1,38-9,49-50, 68,70,79-80,87,143-4,166, 173-4, 191, 198
 - Chāndogya Upaniṣad 35, 43, 67, 76
 - charisma 7,9
-- chastity $66,75,78,91,105-6,114$, 166, 170, 190, 207
+- chastity 66,75,78,91,105-6,114, 166, 170, 190, 207
 - Chicago 188
 - China 16, 19, 25, 59, 72, 99, 134, 167
 - Chinese Buddhist pilgrims 123, see also Fa Hsien, Hiuen Tsiang
 - Chinese language 72, 93, 155
 
-- Christianity 6, 7, 8, 10, 17-18, 19, $22-5,29,30,70,126,146,151$, 173, 175-87, 190-3, 196-9, 203, 210, see also Protestantism, Roman Catholicism
+- Christianity 6, 7, 8, 10, 17-18, 19, 22-5,29,30,70,126,146,151, 173, 175-87, 190-3, 196-9, 203, 210, see also Protestantism, Roman Catholicism
 - Collins, Steven 73, 98
 - Colombo 139, 172-3, 179, 183, 186, 188, 189, 194, 200, 207
 - colonial rule of Ceylon 3, 22-3, 143, 188, 193, 200, see also
 - British, Dutch, Portuguese in Ceylon
-- commentaries on the Pali canon $4,56-7,111,152-4,162,163$, $165,168,169$
+- commentaries on the Pali canon 4,56-7,111,152-4,162,163, 165,168,169
 - commerce, see trade
-- communal religion $26-9,36-7,48$, $66-7,68-70,78,126,142$, $144-5,192,197,203-6,207$
+- communal religion 26-9,36-7,48, 66-7,68-70,78,126,142, 144-5,192,197,203-6,207
 - Confucius 19, 25
 - Copleston, Bishop 172, 183
-- corruption of the Sangha 96-7, $116,117,156,161-2,165-8$, $171,175,190$
-- cosmology, Buddhist 66-7, 70, $142-3,181-2,204-5$
+- corruption of the Sangha 96-7, 116,117,156,161-2,165-8, 171,175,190
+- cosmology, Buddhist 66-7, 70, 142-3,181-2,204-5
 - courtesans 54, 82-3
 - Cribb, Joe 54, 129
 - Cūlavamsa 140, 141fn, see also Mahāvamsa
@@ -2707,7 +2686,7 @@ Foreign terms are explained where they first occur in the text.
 - Digambara 19, 45, 58, 102
 - Dipamkara Buddha 122
 - Dīpavamsa 140, 148
-- discipline, monastic $2,4,5$, 89-118 passim 148-50, 158-68, $174-5,209$
+- discipline, monastic 2,4,5, 89-118 passim 148-50, 158-68, 174-5,209
 - D'Oyły, John 174
 - Dravidian languages 35, see also Tamil language
 - Dumont, Louis 48
@@ -2719,19 +2698,19 @@ Foreign terms are explained where they first occur in the text.
 - Eggermont, P. H. L. 129
 - Eight Precepts 78, 190, 208
 - Eliade, Mircea 45
-- Enlightenment of the Buddha xi, $1,18,32,60-2,123-4,145,150$, 189
+- Enlightenment of the Buddha xi, 1,18,32,60-2,123-4,145,150, 189
 - ephedra 37
-- expulsion from the Sangha 105, 109, 111, 117-18, 132-4, 139, $158,167-8,175$
+- expulsion from the Sangha 105, 109, 111, 117-18, 132-4, 139, 158,167-8,175
 
 - Fa Hsien 163
 - festivals, Buddhist 101, 145, 177, 184
-- fire $37,43,48-9,64,81-2,98$
+- fire 37,43,48-9,64,81-2,98
 - First Council 93, 128
 - Five Precepts 66, 78, 90, 141, 184
 - forest-dwelling monks, see hermit monks
 - Four Noble Truths 60, 62-3, 187
 
-- Frauwallner, Erich 93, 112, $135-6$
+- Frauwallner, Erich 93, 112, 135-6
 - Freud, Sigmund 37, 194, 206
 - funerary rituals 125-6, 146, 147
 - gahapati 57, see also
@@ -2748,7 +2727,7 @@ Foreign terms are explained where they first occur in the text.
 - Gihi Vinaya 191
 - globalisation xi-xii, 209
 - gods, worshipped or believed in
-- by Buddhists 23, 25, 29, 67, 70, $120-1,126-7,138-9,147-8$, 192, 197, 201, 203-4, 206
+- by Buddhists 23, 25, 29, 67, 70, 120-1,126-7,138-9,147-8, 192, 197, 201, 203-4, 206
 - Gogerly, Daniel 178-80
 - Gokhale, B. G. 56
 - Gombrich, E. H. 10
@@ -2763,9 +2742,9 @@ Foreign terms are explained where they first occur in the text.
 - hermit monks 90, 156-9, 168, 208
 - Hewavitharanage Don Carolis 183, 186
 - Hīnayāna 113
-- Hinduism 6, 25, 27-30, 33, 36, $42-9,75,78,125,126,138$,
+- Hinduism 6, 25, 27-30, 33, 36, 42-9,75,78,125,126,138,
 - 144-6, 151, 165, 168, 169, 185, 187-8, 192, 196, 203-4
-- historiography $6,35,113,137-8$, $140-2$
+- historiography 6,35,113,137-8, 140-2
 - Hiuen Tsiang 164
 - householdership 47, 57, 80-2, 84-5
 - Hymn of the Cosmic Man, see Puruṣa-sūkta
@@ -2774,7 +2753,7 @@ Foreign terms are explained where they first occur in the text.
 - Indonesia 3, 22, 142
 - Islam 6, 30, 123, 151, 196, 197
 - Jaffna 22, 138
-- Jainism 13, 18, 19, 33, 44-5, 50, $58,68,69,78,83,92,96,98$, 102, 115-6
+- Jainism 13, 18, 19, 33, 44-5, 50, 58,68,69,78,83,92,96,98, 102, 115-6
 - Japan 16, 25, 187
 - Jātaka 87, 121-2, 155, see also
 - Temiya Jātaka and Vessantara
@@ -2791,12 +2770,12 @@ Foreign terms are explained where they first occur in the text.
 - Kalinga 130
 - Kampuchea, see Cambodia
 - Kandy 139, 145, 159, 165, 171, 175, 200
-- Kandyan kingdom 23, 139, 145, $166,171,174,188$
+- Kandyan kingdom 23, 139, 145, 166,171,174,188
 
 - Kane, P. V. 56
 - Kapilavatthu 49, 56, 123
 - kappiya-kāraka 94, 104, 162-3
-- karma(n), kamma xii-xiii, 8, $46-8,67,68-71,73-4,79,82$, 125-8, 133, 203
+- karma(n), kamma xii-xiii, 8, 46-8,67,68-71,73-4,79,82, 125-8, 133, 203
 - Kashmir 135, 136
 - Kataragama 204
 - Kathāvatthu 133, 136
@@ -2807,7 +2786,7 @@ Foreign terms are explained where they first occur in the text.
 - Kevaddha Sutta 54
 - Khandhaka 19, 94, 107-8
 - Khmers 3, 134
-- kingship 35, 38, 41, 47, 50, 55, $71-2,80,83-8,104,116-8,129$, 132-6, 142, 160, 165, 168-9, $174-5$
+- kingship 35, 38, 41, 47, 50, 55, 71-2,80,83-8,104,116-8,129, 132-6, 142, 160, 165, 168-9, 174-5
 - kinship system 49, 200
 - Kipling, Rudyard 27, 187
 - Kirti Śri Rājasiṃha 171
@@ -2821,7 +2800,7 @@ Foreign terms are explained where they first occur in the text.
 - Lamotte, Étienne 135-6
 - Laos 3
 - Laslett, Peter 190
-- lay religiosity, Buddhist 29, 66, 69, $75-8,80-3,120-8,131-2,173$, 189-92, 197-9, 205-7
+- lay religiosity, Buddhist 29, 66, 69, 75-8,80-3,120-8,131-2,173, 189-92, 197-9, 205-7
 - Lévi-Strauss, Claude 37
 - Lian-u-thi (Emperor of China) 134
 - literacy 54, 173, 178, 193, see also writing
@@ -2879,14 +2858,14 @@ Foreign terms are explained where they first occur in the text.
 - nikāya formation 5, 112, 157-9, 167, 173-4, 198
 - nissaya 96
 - no-soul doctrine, see anatta
-- novices $2,75,78,90,104,106$, 108, 133, 148, 149, 156, 172, 173
-- nuns xii, 2, 16-17, 19, 56, 75, 76, $88,90,95,99,100-1,105-7$, 112, 115, 132, 135, 149, 152, 157, 162, 164, 167-8, 169, 208-9
+- novices 2,75,78,90,104,106, 108, 133, 148, 149, 156, 172, 173
+- nuns xii, 2, 16-17, 19, 56, 75, 76, 88,90,95,99,100-1,105-7, 112, 115, 132, 135, 149, 152, 157, 162, 164, 167-8, 169, 208-9
 
 - Obeyesekere, Gananath ix-x, xii-xiii, 172, 198-9
 - Olcott, Henry Steele 180, 183-5, 187
 - Oldenberg, Hermann 93
 - omens 53, see also astrology
-- ordination (higher ordination) 16 , $95,106-9,112-3,117,135,148$, $150,158,159,166,167,171$, $173-4$
+- ordination (higher ordination) 16 , 95,106-9,112-3,117,135,148, 150,158,159,166,167,171, 173-4
 - over-determination xii, 14, 53
 - pabbajjā (lower ordination) 108, 148, 166
 - Pagan 138
@@ -2897,13 +2876,13 @@ Foreign terms are explained where they first occur in the text.
 - Pānadura 180-1, 183, 187
 - Pāṇini 32
 - pārājika 105-6, 109, 167
-- Parakkama Bāhu I 139, 140, 141, $156-9,161,164,167$
+- Parakkama Bāhu I 139, 140, 141, 156-9,161,164,167
 - Parakkama Bāhu II 141-2
 - pasāda 120, 133, 140
 - Pasenadi 50, 80, 83, 95, 98, 106
 - Pātaliputta 129, 133
-- pātimokkha ceremony 107, $109-13,115,133,149,150$
-- pātimokkha code 94, 98-106, 108, $112,114,120,150,157$
+- pātimokkha ceremony 107, 109-13,115,133,149,150
+- pātimokkha code 94, 98-106, 108, 112,114,120,150,157
 - Pāvā 123
 - Perera, Don Andris 183, 186
 - pilgrimage 120, 122-3, 143, 187
@@ -2917,29 +2896,29 @@ Foreign terms are explained where they first occur in the text.
 - poya, see uposatha day
 - printing 72, 76, 173, 178-80, 182, 185
 - problem-solving 10-11, 14, 48-9, 61,91
-- Protestantism 13, 15, 21, 23, $74-5,76,80,87,172,174-81$, 186-7, 190-3, 196, see also Calvinism
+- Protestantism 13, 15, 21, 23, 74-5,76,80,87,172,174-81, 186-7, 190-3, 196, see also Calvinism
 - Pūraṇa Kassapa 68
 - purity 39-40, 68-9, 144
 - Puruṣa-sūkta 38, 42-3, 79-80, 87
 - Questions of Milinda, The 82-3, 180
 
 - Rahula, Walpola ix, x, 140-1fn, 150,168
-- rains retreat $79,98-9,101,115$, 149
+- rains retreat 79,98-9,101,115, 149
 - Rājagaha 55, 56, 98, 128
 - Rājasimpha I 166
 - Rāma 82
 - Rāma Khamhaeng 134
 - Rāmañña Nikāya 158
 - Rangoon 189
-- rebirth xii, $8,30,40,43,47-8$, $66-7,80,128$
+- rebirth xii, 8,30,40,43,47-8, 66-7,80,128
 - relativizing religion 5-7
-- relics $120,123-5,135,141,146$, 149,168 , see also tooth relic, Bo tree, images of the Buddha
+- relics 120,123-5,135,141,146, 149,168 , see also tooth relic, Bo tree, images of the Buddha
 - Renou, Louis 41
-- renouncers $18,48-9,56-8,61-2$, $68,77,81,82,95-8,130,156-7$
+- renouncers 18,48-9,56-8,61-2, 68,77,81,82,95-8,130,156-7
 - Rhys Davids, T. W. x, 8, 23-5, 93
 - Richards, I. A. 10
 - Roman Catholicism 15, 138, 153, 176, 185, 186, 192, 193, 204
-- sacrifice $37,41-3,45-7,49,68,83$, $84-5,144$
+- sacrifice 37,41-3,45-7,49,68,83, 84-5,144
 - Sai Baba 205
 - St Paul 17
 - St Thomas Aquinas 153
@@ -2953,11 +2932,11 @@ Foreign terms are explained where they first occur in the text.
 - saṃsāra, see rebirth
 - Sanghamittā 133, 135, 149
 - Sangharāja 159, 174
-- Sanskrit language 3-4, 32-3, 34, $35,42,72-3,137,153,186$
+- Sanskrit language 3-4, 32-3, 34, 35,42,72-3,137,153,186
 - Saraṇaṃkara, Vāliviṭa 159, 171
 - Sāriputta 76
 - Sarnath 209
-- Sāsana 2, 19, 23, 111, 137, 141, $148-50,160,168,170,172,190$, 196, 203
+- Sāsana 2, 19, 23, 111, 137, 141, 148-50,160,168,170,172,190, 196, 203
 - Sāvatthi 55, 56, 98
 - seafaring 54, see also trade
 - Second Council 93, 128-9
@@ -2972,7 +2951,7 @@ Foreign terms are explained where they first occur in the text.
 - Sinhala language 4-5, 153-5, 176, 178, 186, 189, 191, 193
 - Sītā 82
 - Siyam Nikāya 139, 158, 159, 166
-- slavery $30,37,53,79,81,103,108$, $117,119,131,161-2,168$
+- slavery 30,37,53,79,81,103,108, 117,119,131,161-2,168
 - soma 37
 - soteriology 25-31, 36, 41-2, 44-5,
 
@@ -2985,7 +2964,7 @@ Foreign terms are explained where they first occur in the text.
 - Subha 82
 - Sudhammā, Sister 208
 - śūdra 38-9, 56
-- suffering $8,11,30,48,59-60$, $62-3,66,115,130,151$
+- suffering 8,11,30,48,59-60, 62-3,66,115,130,151
 - Sumangala, Hikkaḍuve 179-80, 182-3, 185, 187, 195
 - Sutta Pitaka 4, 5, 21, 133, 164
 - Sutta-vibhanga 19, 94, 120, 150
@@ -3005,20 +2984,20 @@ Foreign terms are explained where they first occur in the text.
 - this-worldly asceticism 13, 190-1, 197-8
 - Thomas, Keith 151
 - Three Jewels 1, 120, 169
-- Three Refuges 1, 2, 77, 78, 108, $120,141,148,169,184$
+- Three Refuges 1, 2, 77, 78, 108, 120,141,148,169,184
 - Tibetan language 155
 - Tissa Moggaliputta 133, 135-6, 137
 - tooth relic of the Buddha 143, 145,175
-- trade 22, 39, 50-1, 53-5, 74, 79, $82-4,143,163$
+- trade 22, 39, 50-1, 53-5, 74, 79, 82-4,143,163
 - Transcendental Meditation 207
 - 'transfer of merit' 125-7
-- translation of scriptures 72, 73, $93,137,153-5,176-7,178,193$
+- translation of scriptures 72, 73, 93,137,153-5,176-7,178,193
 
 - U Nu 134
 - Ugga 75, 78
 - Ujjain 55
-- unintended consequences 15-18, $21,34,83,86,92,97,119,120$, 133, 175, 182, 198-9, 206
-- Upaniṣads 20, 34-5, 41-4, 48, 50, $63,67,76$, see also Brhad Āranyaka Upaniṣad and Chāndogya Upaniṣad
+- unintended consequences 15-18, 21,34,83,86,92,97,119,120, 133, 175, 182, 198-9, 206
+- Upaniṣads 20, 34-5, 41-4, 48, 50, 63,67,76, see also Brhad Āranyaka Upaniṣad and Chāndogya Upaniṣad
 - upāsakalupāsikā 75, 77, 78, 94, 130,148
 - upasampadā, see ordination
 - uposatha ceremony, see
@@ -3028,10 +3007,10 @@ Foreign terms are explained where they first occur in the text.
 
 - Vāddas 138
 - vaiśya 38-9, 53, 56-7
-- varna $39,50,54,55-6,70,79,87$, see also caste system
+- varna 39,50,54,55-6,70,79,87, see also caste system
 
 - Vațtagāmaṇi 157, 161, 162
-- Veda(s) xi, 20, 32-5, 38-43, 68, $72-3$
+- Veda(s) xi, 20, 32-5, 38-43, 68, 72-3
 - Vedānta 34-5, 43, 45-8, 67
 - vegetarianism 96, 102, 188
 - Vesāli 55, 98, 128
@@ -3045,7 +3024,7 @@ Foreign terms are explained where they first occur in the text.
 - Vijaya Bāhu I 139, 167
 - Vijayavardhana, D. C. 134
 - Vikrama Bāhu I 164
-- Vinaya Pitaka 4, 5, 16, 19, 20, $54,90,92-118,120,127,134$, $148,150,154,157,161-2$, $163,164-5$
+- Vinaya Pitaka 4, 5, 16, 19, 20, 54,90,92-118,120,127,134, 148,150,154,157,161-2, 163,164-5
 - Viṣnu 139, 142, 203
 - Visuddhi-magga 4, 153
 
@@ -3055,168 +3034,66 @@ Foreign terms are explained where they first occur in the text.
 - Wilberforce, William 174
 - Wittgenstein, Ludwig 194
 - World Fellowship of Buddhists 184
-- writing $19,20,32,54,72,152,161$, 168, see also literacy
+- writing 19,20,32,54,72,152,161, 168, see also literacy
 - yoga 44-5, 65
 - Young Men's Buddhist
 - Association (YMBA) 185, 195
-# Related titles from Routledge 
 
-Mahayana Buddhism<br>Paul Williams
+### Keywords
 
-'This will without doubt become a standard textbook on the Mahayana. Argument and assertions are backed up throughout by reference to primary sources and there are citations or quotations from texts on almost every page.' - Journal of the Royal Asiatic Society
-'Williams does more than enlighten the reader about the contents of the scriptures and the philosophical debates, but provides a mine of information on Buddhist devotion and iconography ... combines the virtues of intellectual rigour with readability and even wittiness.' - World Faiths Insight
-'... The work is in fact an admirable introduction to the Mahayana traditions, both for undergraduate students and others who wish to explore the 'Great Vehicle'. Such a useful, up-to-date overview fills a real need. Moreover, its thorough references can be used as a basis for further study and research.' - Peter Harvey, Religious Studies
-
-Originating in India, Mahayana Buddhism spread to Central Asia, Tibet, Mongolia, China, Japan and other countries of East Asia. In Tibet and East Asia, Mahayana eventually became the prevalent form of Buddhism. Western interest in Mahayana has increased considerably over the last twenty-five years, reflected both in the quantity of scholarly material produced and also in the attraction of Westerners towards Tibetan Buddhism. This book aims to provide in one volume an up-to-date and accurate account of the principles of Mahayana Buddhism as they are found in both the Indo-Tibetan and East Asian forms of Mahayana. It seeks to introduce and reflect some of the recent scholarly work in the field, and in particular the book is concerned to convey the diversity and richness of Mahayana Buddhism, a diversity which prevents any attempt at simple definition.
-
-Pb:
-ISBN 10: 0-415-02537-0
-ISBN 13: 978-0-415-02537-0
-
-Available at all good bookshops
-For ordering and further information please visit:
-www.routledge.com
-# Related titles from Routledge 
-
-## Buddhist Thought
-
-## A Complete Introduction to the Indian Tradition
-
-Paul Williams and Anthony Tribe
-
-Though there is no shortage of introductions to Buddhism on the market, I found this one compelling reading, for the ideas are presented with logical cogency and stylistic clarity. The summary of the Buddha's own views would be hard to better. - Richard Gombrich, Balliol College, Oxford
-
-Buddhist Thought guides the reader towards a richer understanding of the central concepts of classical Indian Buddhist thought, from the time of Buddha, to the latest scholarly perspectives and controversies. Abstract and complex ideas are made understandable by the authors' lucid style. Of particular interest is the up-to-date survey of Buddhist Tantra in India, a branch of Buddhism where strictly controlled sexual activity can play a part in the religious path. Williams' discussion of this controversial practice as well as of many other subjects makes Buddhist Thought crucial reading for all interested in Buddhism.
-
-ISBN10: 0-415-207002 (hbk)
-ISBN10: 0-415-207010 (pbk)
-ISBN 13: 978-0-415-207002 (hbk)
-ISBN 13: 978-0-415-207010 (pbk)
-
-Available at all good bookshops
-For ordering and further information please visit:
-www.routledge.com
-# Related titles from Routledge 
-
-## Introducing Buddhism <br> Charles S. Prebish and Damien Keown
-
-An up-to-date textbook for beginners as well as advanced students of Buddhism. Its clear structure helps beginners getting oriented in the complex field of Buddhism, and its respective chapters are rich in detailed information for students who already have some basic knowledge. Instructors and students alike will appreciate its didactic tools. I have used this book in my classes, with great success. - Oliver Freiberger, University of Texas at Austin
-
-Introducing Buddhism is the ideal resource for all students beginning the study of this fascinating religion. Damien Keown and Charles S. Prebish, two of today's leading Buddhist scholars, explain the key teachings of Buddhism, and trace the historical development and spread of the religion from its beginnings down to the present day. A chapter is devoted to each of the major regions where Buddhism has flourished: India, South East Asia, East Asia and Tibet. In addition to this regional focus, the introduction takes contemporary concerns into account, covering important and relevant topics such as Engaged Buddhism, Buddhist Ethics and Buddhism and the Western World, as well as a chapter devoted to Meditation.
-
-Introducing Buddhism also includes illustrations, lively quotations from original sources, learning goals, summary boxes, questions for discussion, and suggestions for further reading, to aid study and revision.
-
-ISBN10: $0-415-3923-9$ (hbk)
-ISBN10: $0-145-39235-7$ (pbk)
-ISBN13: 978-0-145-3923-9 (hbk)
-ISBN13: 978-0-145-39235-7 (pbk)
-
-Available at all good bookshops
-For ordering and further information please visit: www.routledge.com
-# Related titles from Routledge 
-
-## Taoism The Enduring Tradition
-
-Russell Kirkland
-
-This clear and reliable introduction to Taoism (also known as Daoism) brings a fresh dimension to a tradition that has found a natural place in Western society. Examining Taoist sacred texts together with current scholarship, it surveys Taoism's ancient roots, contemporary heritage and role in daily life. From Taoism's spiritual philosophy to its practical perspectives on life and death, self-cultivation, morality, society, leadership and gender, Russell Kirkland's essential guide reveals the real contexts behind concepts such as Feng Shui and Tai Chi.
-
-$$
-\begin{aligned}
-& \text { ISBN10: } 0-145-36321-2 \text { (hbk) } \\
-& \text { ISBN10: } 0-145-26322-0 \text { (pbk) } \\
-& \text { ISBN13: } 978-0-145-36321-4 \text { (hbk) } \\
-& \text { ISBN13: } 978-0-145-36322-1 \text { (pbk) }
-\end{aligned}
-$$
-
-Available at all good bookshops
-For ordering and further information please visit: www.routledge.com
-# Related titles from Routledge 
-
-## Skilful Means <br> A Concept in Mahayana Buddhism <br> Michael Pye
-
-'Skilful Means' is the key principle of Mahayana, one of the great Buddhist traditions. First described in the Lotus Sutra, it originates in myths of the Buddha's compassionate plans for raising life from the ceaseless round of birth and death. His strategies or interventions are 'skilful means' - morally wholesome tricks devised for the purpose of enabling nirvana or enlightenment. Michael Pye's clear and engaging introductory guide investigates the meaning and context of skilful means in Mayahana Buddhist teachings, whilst tracing its early origins in ancient Japanese and Theravada thought. First published in 1978, and still the best explanation of the concept, it illuminates a core working philosophy essential for any complete understanding of Buddhism.
-
-$$
-\begin{gathered}
-\text { ISBN10: } 0-145-31427-5(\mathrm{pbk}) \\
-\text { ISBN13: 978-0-145-31425-5 (pbk) }
-\end{gathered}
-$$
-
-Available at all good bookshops
-For ordering and further information please visit: www.routledge.com
-# Routledge Critical Studies in Buddhism 
-
-## General Editors:
-
-Charles S. Prebish and Damien Keown
-
-Routledge Critical Studies in Buddhism is a comprehensive study of the Buddhist tradition.
-The series explores this complex and extensive tradition from a variety of perspectives, using a range of different methodologies.
-
-The Series is diverse in its focus, including historical studies, textual translations and commentaries, sociological investigations, bibliographic studies, and considerations of religious practice as an expression of Buddhism's integral religiosity. It also presents materials on modern intellectual historical studies, including the role of Buddhist thought and scholarship in a contemporary, critical context and in the light of current social issues. The series is expansive and imaginative in scope, spanning more than two and a half millennia of Buddhist history. It is receptive to all research works that inform and advance our knowledge and understanding of the Buddhist tradition.
-
-The following titles are published in association with the Oxford Centre for Buddhist Studies
-
-## Oxford Centre for Buddhist Studies
-
-a project of The Society for the Wider Understanding of the Buddhist Tradition
-The Oxford Centre for Buddhist Studies conducts and promotes rigorous teaching and research into all forms of the Buddhist tradition.
-
-EARLY BUDDHIST METAPHYSICS
-Noa Ronkin
-ISBN10: 0-415-34519-7 (hbk)
-ISBN13: 978-0-145-34519-4 (hbk)
-MIPHAM'S DIALECTICS AND
-THE DEBATES ON EMPTINESS
-Karma Phuntsho
-ISBN10: 0-415-35252-5 (hbk)
-ISBN13: 978-0-145-35252-9 (hbk)
-HOW BUDDHISM BEGAN
-The conditioned genesis of the early teachings
-Richard F. Gombrich
-ISBN10: 0-415-37123-6 (hbk)
-ISBN13: 978-0-145-37123-0 (hbk)
-
-BUDDHIST MEDITATION
-An Anthology of Texts from the Pali Canon
-Sarah Shaw
-ISBN10 0-145-35918-X (hbk)
-ISBN13: 978-0-145-35918-4 (hbk)
-REMAKING BUDDHISM FOR MEDIEVAL NEPAL
-The fifteenth-century reformation of
-Newar Buddhism
-Will Tuladhar-Douglas
-ISBN 10 0-145-35919-8 (hbk)
-ISBN13: 978-0-145-35919-1 (hbk)
-METAPHOR AND LITERALISM
-IN BUDDHISM
-The Doctrinal History of Nirvana
-Soonil Hwang
-ISBN10 0-145-35550-8 (hbk)
-ISBN13: 978-0-145-35550-6 (hbk)
-
-Available at all good bookshops
-For ordering and further information please visit:
-
-
-# eBooks - at www.eBookstore.tandf.co.uk 
-
-## A library at your fingertips!
-
-eBooks are electronic versions of printed books. You can store them on your PC/laptop or browse them online.
-
-They have advantages for anyone needing rapid access to a wide variety of published, copyright information.
-eBooks can help your research by enabling you to bookmark chapters, annotate text and use instant searches to find specific words or phrases. Several eBook files would fit on even a small laptop or PDA.
-
-NEW: Save money by eSubscribing: cheap, online access to any eBook for as long as you need it.
-
-## Annual subscription packages
-
-We now offer special low-cost bulk subscriptions to packages of eBooks in certain subject areas. These are available to libraries or to individuals.
-
-For more information please contact webmaster.ebooks@tandf.co.uk
-
-We're continually developing the eBook concept, so keep up to date by visiting the website.
+* [[Theravāda Buddhism]]
+* [[Social history]]
+* [[Richard F. Gombrich]]
+* [[Buddha's teachings]]
+* [[Sangha]]
+* [[Vinaya]]
+* [[Nibbāna]]
+* [[Kamma]]
+* [[Anattā]]
+* [[Sri Lanka]]
+* [[Emperor Asoka]]
+* [[Sinhalese national identity]]
+* [[Protestant Buddhism]]
+* [[Lay religiosity]]
+* [[Monasticism]]
+* [[Pali language]]
+* [[Three Jewels]]
+* [[Middle Way]]
+* [[Morality]]
+* [[Meditation]]
+* [[Wisdom]]
+* [[Vedic civilization]]
+* [[Karma theory]]
+* [[Rebirth]]
+* [[Renouncers]]
+* [[Urbanization]]
+* [[Trade]]
+* [[Four Noble Truths]]
+* [[Dependent Origination]]
+* [[Greed, hatred, delusion]]
+* [[Religious individualism]]
+* [[Spiritual equality]]
+* [[Religious self-scrutiny]]
+* [[Lay activism]]
+* [[Pilgrimage]]
+* [[Relic worship]]
+* [[Transfer of merit]]
+* [[Sangha discipline]]
+* [[Pātimokkha]]
+* [[Higher ordination]]
+* [[Nuns' order]]
+* [[Nikāya]]
+* [[Royal patronage]]
+* [[Sangha as landlords]]
+* [[Caste system]]
+* [[British colonial rule]]
+* [[Christian missionaries]]
+* [[Theosophy]]
+* [[Anagārika Dharmapāla]]
+* [[Maha Bodhi Society]]
+* [[Sinhalese Buddhist nationalism]]
+* [[Civil war]]
+* [[Globalization]]
+* [[Hinduizing trends]]
+* [[Altered states of consciousness]]
+* [[Buddhicization]]

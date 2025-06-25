@@ -125,7 +125,7 @@ If, then, we are forced to choose between these two possibilities: either the Pa
 [^18]: The expression tadvacanāt has been interpreted to mean: \
 (i) because Hiraṇyagarbha has uttered it (Candrānanda) \
 (ii) because it teaches svarga and apavarga (Bhaṭṭa Vādīndra) \
-(iii) because God has uttered it (Bhaṭṭa Vādīndra, Śaṅkara Miś \ra)
+(iii) because God has uttered it (Bhaṭṭa Vādīndra, Śaṅkara Miśra)
 (iv) because it teaches *dharma* (Bhaṭṭa Vādīndra, Śaṅkara Miśra) \
 (v) because it teaches the self (Bhaṭṭa Vādīndra) \
 There can hardly be any doubt that (iv) is by far the most natural understanding of this expression in its context. It leads to the following interpretation of the sūtra: "The Veda is authoritative because it teaches *dharma*."

@@ -122,7 +122,7 @@ As if to deny such cases, some accounts of the looped version state explicitly t
 [^15]: SN 2:77-79 \& 79-80. The uddāna (SN 2: 80.17) has dve ariyasāvake.
 [^16]: SN 2:78, nn. 1 \& 3; The Book of the Kindred Sayings, Part II (trans. Mrs. RHYs DAVIDS, London: Routledge \& Kegan Paul 1982), p. 54, nn. 1-3. The Nalanda edition (SN vol. 2, p. 66, n. 1) says sutta 49 lacks avijjā and sañkhārā in the Siamese canon.
 [^17]: SA 98 b .
-[^18]: SN\#12.53 \& $54 =  SA\#285 and SN\#12.55 \& $56 = SA\#284, at SN 2:86-89 = SA 79b-80b. Contrast the situation where two non-identical consecutive Pali sutras taken together (joined end-to-end) are represented in a single Chinese sutra; e.g. SN\#12.1-2 = SA \#298 at SN 2:1-4 = SA 85a-b = Tp 157-164 (note 2, above). Such are the complications involved in identifying Pali-Chinese counterparts.
+[^18]: SN\#12.53 \& 54 =  SA\#285 and SN\#12.55 \& 56 = SA\#284, at SN 2:86-89 = SA 79b-80b. Contrast the situation where two non-identical consecutive Pali sutras taken together (joined end-to-end) are represented in a single Chinese sutra; e.g. SN\#12.1-2 = SA \#298 at SN 2:1-4 = SA 85a-b = Tp 157-164 (note 2, above). Such are the complications involved in identifying Pali-Chinese counterparts.
 
 "This consciousness turns back at name-and-form; it goes no further."[^19] Yet one can also find this statement followed almost immediately in the same sutra by a listing of the standard version, in which the series does go further back. [^20] These contradictions represent a serious problem of interpretation.
 
@@ -261,7 +261,7 @@ These observations by WATSUJI, YINSHUN, and REAT indicate that nāma-rūpa, far 
 [^39]:  ity ayañ cāsya savijñānakah kāyo [ba]hirdhā ca nāmarūpam. Tp 142.
 [^40]: iti ayaṃ ceva kāyo bahiddhā ca nāmarūpaṃ. SN 2:24.1-2. REAT (p.18) also quotes this passage in support of his interpretation.
 [^41]: WATSUJI Tetsurō: Genshi Bukkyō no Jissen Tetsugaku [Practical Philosophy of Early Buddhism] (Tokyo: Iwanami Shoten 1971), pp. 228-231.
-[^42]: imasmiñ ca saviñ̃̃̃̃nake kāye bahiddhā ca sabbanimittesu; e.g. SN 2: $252=$ SA 50c; SN 3: 135-7 = SA 2:5a-b = SA 2:50c-51a; AN 1: 132-3 = SA 2:255b256a. Cf. the wording in notes 39 and 40 , above.
+[^42]: imasmiñ ca saviññāke kāye bahiddhā ca sabbanimittesu; e.g. SN 2: 252= SA 50c; SN 3: 135-7 = SA 2:5a-b = SA 2:50c-51a; AN 1: 132-3 = SA 2:255b256a. Cf. the wording in notes 39 and 40 , above.
 [^43]: PED, p. 367.
 [^44]: The same understanding of nāma-rūpa is taken for granted, without supporting discussion, by MIZUNO Kōgen: Primitive Buddhism (Ube: Karinbunko 1969), pp. 142-144; and YAMADA Ishii: "Premises and Implications of Interdependence", in Somaratna BALASOORIYA et al. (eds.), Buddhist Studies in Honour of Walpola Rahula (London: Gordon Fraser 1980: 267-293), p. 272. It is rejected, again without supporting discussion, by Lambert SChMItHAUSEN: "The Early Buddhist Tradition and Ecological Ethics", Journal of Buddhist Ethics 4 (1997), http://jbe.la.psu.edu/4/schml.html, note 67. Relevant here is a variant of the standard version of PS at Vibhanga 138.30-32: "... viññāṇapaccayā nāmam, nāmapaccayā chattthāyatanam, chattthāyatanapaccayā phasso, ..." This associates nāma with "the sixth sense-base" (chatthāyatana). It thus supports the proposition that nāma-rūpa represents a classification of sense objects into mental (sensed via the sixth sense-base) and physical (sensed via the other five bases).
 

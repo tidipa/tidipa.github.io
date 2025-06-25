@@ -1,6 +1,11 @@
-## Title
+---
+title: Gombrich, Richard F. - What the Buddha Thought (2009)
+description:
+  In *What the Buddha Thought*, Richard Gombrich argues that the Buddha was a brilliant and original thinker whose coherent system of thought can only be understood by placing it in its historical context as a pragmatic debate with and reaction to contemporary Brahminical and Jain ideas. Gombrich posits that the Buddha was not an essentialist philosopher but a practical teacher focused on how things function, redefining concepts like *kamma* from ritual action to ethical intention and clarifying "no-self" as the absence of an *unchanging* essence. A central thesis is that subsequent generations, failing to grasp the Buddha's use of metaphor, irony, and context-dependent arguments, took his teachings literally, thereby creating new scholastic doctrines—such as misinterpreting the *brahma-vihāras* as a path to heaven rather than nirvana. This process of misinterpretation, Gombrich contends, explains many apparent inconsistencies in the Pali Canon, which he establishes as the key evidence for understanding how the Buddha used fire as a central metaphor for non-random process and satirized Vedic cosmogony in the Chain of Dependent Origination.
+---
 
-Richard Gombrich
+
+Richard Gombrich \
 What the Buddha Thought
 
 Oxford Centre for Buddhist Studies Monographs
@@ -8,28 +13,6 @@ Oxford Centre for Buddhist Studies Monographs
 Series Editor: Richard Gombrich
 
 The Oxford Centre for Buddhist Studies promotes teaching and research into all Buddhist traditions, as found in texts and in societies, and is equally open to the study of Buddhism by methods associated with the humanities (philology, philosophy, history) and the social sciences (anthropology, sociology, politics). It insists only on using sources in their original languages and on aiming at the highest scholarly standards.
-
-### Previously published by Routledge 
-
-Richard F. Gombrich, How Buddhism Began: The Conditioned Genesis of the Early Teachings, 2nd edition
-
-Soon-il Hwang, Metaphor and Literalism in Buddhism: The Doctrinal History of Nirvana
-
-Tse-fu Kuan, Mindfulness in Early Buddhism: New Approaches through Psychology and Textual Analysis, of Pali, Chinese and Sanskrit Sources
-
-Karma Phuntsho, Mipham's Dialectics and the Debates on Emptiness: To Be, Not To Be, or Neither
-
-Peter Alan Roberts, The Biographies of Rechungpa: The Evolution of a Tibetan Hagiography
-
-Noa Ronkin, Early Buddhist Metaphysics: The Making of a Philosophical Tradition
-Sarah Shaw, Buddhist Meditation: An Anthology of Texts from the Pali Canon
-Will Tuladhar-Douglas, Remaking Buddhism from Medieval Nepal: The Fifteenthcentury Reformation of Newar Buddhism
-
-Alexander Wynne, The Origin of Buddhist Meditation
-
-### Forthcoming from Equinox
-
-Venerable Seongcheol, Sermon of One Hundred Days: Part One
 
 # What the Buddha Thought 
 
@@ -49,7 +32,7 @@ All rights reserved. No part of this publication may be reproduced or transmitte
 British Library Cataloguing-in-Publication Data 
 
 A catalogue record for this book is available from the British Library.
-ISBN $\quad 9781845536121$ (hardback)
+ISBN 9781845536121 (hardback)
 9781845536145 (paperback)
 
 Library of Congress Cataloging-in-Publication Data
@@ -71,35 +54,34 @@ BQ915.G66 2009
 Typeset by S.J.I. Services, New Delhi
 Printed and bound in Great Britain by Athenaeum Press Limited, U.K.
 
-## CONTENTS 
+### CONTENTS 
 
-Preface ..... vii
-Background Information ..... xi
-Abbreviations ..... xvi
+* Preface ..... vii
+* Background Information ..... xi
+* Abbreviations ..... xvi
+* 1. Introduction ..... 1
+* 2. More about Karma, and Its Social Context ..... 19
+* 3. The Antecedents of the Karma Doctrine in Brahminism ..... 29
+* 4. Jain Antecedents ..... 45
+* 5. What Did the Buddha Mean by 'No Soul'? ..... 60
+* 6. The Buddha's Positive Values: Love and Compassion ..... 75
+* 7. Assessing the Evidence ..... 92
+* 8. Everything Is Burning: The Centrality of Fire in the Buddha's Thought ..... 111
+* 9. Causation and Non-random Process ..... 129
+* 10. Cognition; Language; Nirvana ..... 144
+* 11. The Buddha's Pragmatism and Intellectual Style ..... 161
+* 12. The Buddha as Satirist; Brahmin Terms as Social Metaphors ..... 180
+* 13. Is This Book To Be Believed? ..... 193
+* Appendix: The Buddha's Appropriation of Four (or Five?) Brahminical Terms ..... 202
+* Notes ..... 207
+* Bibliography ..... 227
+* Index ..... 233
 
-1. Introduction ..... 1
-2. More about Karma, and Its Social Context ..... 19
-3. The Antecedents of the Karma Doctrine in Brahminism ..... 29
-4. Jain Antecedents ..... 45
-5. What Did the Buddha Mean by 'No Soul'? ..... 60
-6. The Buddha's Positive Values: Love and Compassion ..... 75
-7. Assessing the Evidence ..... 92
-8. Everything Is Burning: The Centrality of Fire in the Buddha's Thought ..... 111
-9. Causation and Non-random Process ..... 129
-10. Cognition; Language; Nirvana ..... 144
-11. The Buddha's Pragmatism and Intellectual Style ..... 161
-12. The Buddha as Satirist; Brahmin Terms as Social Metaphors ..... 180
-13. Is This Book To Be Believed? ..... 193
-Appendix: The Buddha's Appropriation of Four (or Five?) Brahminical Terms ..... 202
-Notes ..... 207
-Bibliography ..... 227
-Index ..... 233
-
-## Dedication
+### Dedication
 
 > For Geoff Bamford and Sarah Norman, fellow enthusiasts
 
-## PREFACE
+### PREFACE
 
 This book argues that the Buddha was one of the most brilliant and original thinkers of all time.
 
@@ -283,7 +265,7 @@ The Buddha's use of metaphor is linked to what became known as his Skill in Mean
 
 This is a wonderful bargaining or diplomatic tactic, from which anyone can learn. The Buddha avoids an adversarial stance. What he does after his initial agreement is to take what has apparently been agreed on and turn it upside down. One of his main ways of doing that is to make the words used by his opponent mean something quite different.
 
-The way in which the Buddha infuses new meaning into accepted terms is so bold that in some instances one might almost call it outrageous. The word 'karma' itself [^8] offers a perfect example. It is a noun derived from one of the commonest of all Sanskrit roots, $k r$, meaning 'to do' or 'to make'. Sanskrit karman and Pali kamma thus mean 'act, action, deed'. Regardless of what kinds of action the word is used to refer to, an action is something which takes place in the physical world. So when the Buddha said, 'It is intention that I call karma,' [^9] he was doing something logically analogous to saying that he chose to call black 'white', or to call left 'right'. This example is so extreme that perhaps it does not describe it adequately to say that what his opponents meant literally he took metaphorically. There are, however, many examples of the latter procedure. When he took a word for sacrifice which the brahmins meant literally, and turned that into a metaphor, we are on more familiar territory.
+The way in which the Buddha infuses new meaning into accepted terms is so bold that in some instances one might almost call it outrageous. The word 'karma' itself [^8] offers a perfect example. It is a noun derived from one of the commonest of all Sanskrit roots, *kṛ*, meaning 'to do' or 'to make'. Sanskrit karman and Pali kamma thus mean 'act, action, deed'. Regardless of what kinds of action the word is used to refer to, an action is something which takes place in the physical world. So when the Buddha said, 'It is intention that I call karma,' [^9] he was doing something logically analogous to saying that he chose to call black 'white', or to call left 'right'. This example is so extreme that perhaps it does not describe it adequately to say that what his opponents meant literally he took metaphorically. There are, however, many examples of the latter procedure. When he took a word for sacrifice which the brahmins meant literally, and turned that into a metaphor, we are on more familiar territory.
 
 Already in ancient times, this matter became explicit in the Buddhists' view of their own tradition. Though every Buddha was thought to have attained moral perfection in a whole set of virtues, two were of paramount importance: compassion and wisdom. Odd as it may sound to our ears, the prime instance of his compassion was his preaching. There was no necessity for him to preach, but he was kind enough to do so, and thus show to all living creatures the path to liberation from rebirth. Consonant with the idea of individual responsibility, the Buddha's compassion consisted above all in helping others to help themselves. And it was his wisdom that provided the Skill in Means which made his preaching so effective.
 
@@ -1135,7 +1117,7 @@ Information' at the front of the book), these were not all created in their pres
 
 On the other hand, the texts which were recited at the First Council - whichever they were - must have had some kind of existence before that. There is an episode recorded in the Canon [^15] in which the Buddha asks a young monk whom he is meeting for the first time to tell him some Dhamma; the monk recites the whole Atthakavagga (a section of the Sutta-nipata) and the Buddha commends him. The text does not say who originally composed the poems of the Atthaka-vagga; it could be the Buddha himself; it could be the young monk's teacher, Mahākaccāna, who was a reputed preacher; it could be yet other monks; and it could be a combination of these, since not all the poems need be by the same author. But what is clear is that this set of sixteen poems was collected early, presumably in the Buddha's lifetime, and arranged on the principle followed both in the Ṛg Veda and in many other parts of the Pali Canon, namely, by increasing length.
 
-The body of sermons preserved in Pali is very large: the Buddhists themselves count them as $17,505,{ }^{16}$ a greater number than appears to have come down to us. Most of them are short, and the corpus is full of repetitions and redundancies. Even so, it is a massive body of literature, mainly in prose. Either at the outset or very early on, the body of sermons was divided into four collections and monks and nuns specialized in learning by heart one of the collections (or another part of the Canon) in order to preserve it.
+The body of sermons preserved in Pali is very large: the Buddhists themselves count them as 17,505,[^16] a greater number than appears to have come down to us. Most of them are short, and the corpus is full of repetitions and redundancies. Even so, it is a massive body of literature, mainly in prose. Either at the outset or very early on, the body of sermons was divided into four collections and monks and nuns specialized in learning by heart one of the collections (or another part of the Canon) in order to preserve it.
 
 At the time of the Buddha, the brahmins had already for centuries been preserving their sacred literature, the Vedic texts, orally. [^17] They had also already divided into schools (called 'branches') which specialized in particular texts. Learning the texts by heart was virtually coterminous with their education; and that education could last up to thirty-six years. [^18] The Buddhist Sangha must have operated in a very similar manner. The cultural similarity did not stop there.
 Long after the invention of writing, the brahmins were reluctant to write down Vedic texts and continued to preserve them orally. In their case this was motivated, at least in part, by a wish to keep them away from people not entitled to know them: women and people of low caste. Even without that motivation, Buddhists seem to have tended to do the same, and gone on relying more on memory than on written texts; I even found this to be the case in traditional village temples in Sri Lanka when I did fieldwork there in my youth.
@@ -1474,7 +1456,7 @@ Now let us further examine the second link in the chain. The difficulty of trans
 I have shown in Chapter 1 that there is nothing strange, let alone unique, about the impossibility of finding a word in our language to convey the precise meaning of a Buddhist term - even if that is
 what most people expect the hapless lexicographer to do! A meaning requires a context, and if that context contains presuppositions alien to us, it will need to be explained.
 
-Etymologically, samkhāra comes from the common verbal root $k r$, to 'do' or 'make', and the prefix sam, roughly 'together'. So the word starts off looking as if it should mean something like 'put together', i.e., 'construct'. It tends to be used in the plural: samkhārā.
+Etymologically, samkhāra comes from the common verbal root *kṛ*, to 'do' or 'make', and the prefix sam, roughly 'together'. So the word starts off looking as if it should mean something like 'put together', i.e., 'construct'. It tends to be used in the plural: samkhārā.
 
 First, let me note that samkhāra is one of a class of words, abstract nouns based on verbs, which can refer either to a process or to the result of that process. We have many such words in English. For example, 'construction': 'The construction of Durham cathedral took a century' refers to the process; 'Durham cathedral is a magnificent Gothic construction' refers to the result. Notice that the word 'building' is another example, and could be substituted for 'construction' in both those sentences. 'Formation' is yet another example. Thus, even if it is uninformative, 'formation' may sometimes be a suitable translation for samkhāra because it can fit both when the word is being used to denote a process and when it is being used to refer to a result.
 
@@ -1486,7 +1468,7 @@ In short, everything in our lives is a process or the result of a process, so ne
 
 The passage I have quoted above from the PED seems to me to frame a valid insight with a dated prejudice. It speaks of 'the blending of the subjective-objective view of the world', but seems to do so in terms of underlying stereotypes: the mysterious, mystical East and the presumably contrasted rational West. We have said enough of the 'Hymn of Creation', and the brahminical cosmology which can be traced back to it, to show that indeed it does blend the subjective and the objective, refusing to separate existence from consciousness; but this is a position peculiar to brahminism, not to the East as a whole!
 
-Our concern here is to trace the relationship between the Vedic cosmogony and the Buddha's own metaphysics. Adhering to an $a$ priori view that there must be an equivalence between macrocosm and microcosm, the brahmin cosmogony claimed to trace the origin of the world and man at one and the same time. The Buddha saw no need to bother about a world 'out there', so he reduced the equivalence of macrocosm and microcosm to a metaphor: the 'world' is our experience.
+Our concern here is to trace the relationship between the Vedic cosmogony and the Buddha's own metaphysics. Adhering to an *a* priori view that there must be an equivalence between macrocosm and microcosm, the brahmin cosmogony claimed to trace the origin of the world and man at one and the same time. The Buddha saw no need to bother about a world 'out there', so he reduced the equivalence of macrocosm and microcosm to a metaphor: the 'world' is our experience.
 
 So what about *saṃkhārā*, processes in general? If he saw the world in these terms, why does the same word label just one of the five khandhas, the categories of process that make up our experiences? I hope that this book has by now said enough for the reader to anticipate the answer to this question. For the Buddha, the most important thing about living beings was their moral aspect, their karma. Though he says that by karma he means volition, in fact karma is both a process and the result of that process. It is, moreover, the most important of all processes, for it is the dynamic that moves us through our lives (infinite in number), and is what provides the principle of continuity and coherence throughout those lives. Thus, while all the five khandhas are processes, the karmic process - or set of processes - is the most important one: the most important pragmatically, because it does the most to affect our environment and to determine our futures, and the most important theoretically, because understanding the karmic process, conditioned but not random, will give us the only solid foundation for understanding how the world works and our responsibility in it.
 
@@ -1522,7 +1504,7 @@ My exposition so far states that the Buddha regards the senses as dangerous beca
 Noa Ronkin has explained this far better than I could, and I refer interested readers to her admirable book. [^5] The Brahma-jāla Sutta discusses a long series of views which are one-sided, mostly because
 they espouse one of the extremes, eternalism or annihilationism. Near the end of it, the Buddha says: 'When, monks, a monk comprehends as they really are the arising and ceasing of the six contact-spheres, their appeal and peril, and the escape from them, he understands that which surpasses all these views. [^6] Ronkin goes on:
 
-> The Buddha's insight reveals that the causal foundation for one's samsāric experience is the operation of one's cognitive apparatus. One's experience in its entirety arises from the cognitive process of making sense of the incoming sensory data. Basic to this process is the khandha of conceptualization and apperception, namely, sa $\bar{n} \bar{n} \bar{a} \ldots$ This identification process necessarily involves naming. [^7]
+> The Buddha's insight reveals that the causal foundation for one's samsāric experience is the operation of one's cognitive apparatus. One's experience in its entirety arises from the cognitive process of making sense of the incoming sensory data. Basic to this process is the khandha of conceptualization and apperception, namely, saññā ... This identification process necessarily involves naming. [^7]
 
 ## THE BUDDHA'S VIEW OF LANGUAGE 
 
@@ -1779,7 +1761,7 @@ I do not know Chinese, but I have found a practical way forward. My doctoral stu
 
 My example describes how the institution of having novices (sāmanera) in the Sangha became established.
 
-There was a boy called Upāli, the leader of a group (a gang?) of seventeen boys. [^39] His parents were worried what would happen to him after their deaths. They had heard that Buddhist monks lived in comfort: they ate well and slept under cover. Upāli heard his parents discussing this and went and told his friends, whereupon they all decided to go for ordination with the Buddhists. The parents all gave their consent, so the boys went and took ordination. Though the text has them asking only for the lower ordination ( pabbajjā), they received both that and the full ordination (upasampad $\bar{a})$. But in the night towards dawn they got up and cried, demanding food and drink. The monks asked them to be patient until dawn; then they would get whatever there was available, and would get the rest on their alms round. They, however, then used their cells as toilets.
+There was a boy called Upāli, the leader of a group (a gang?) of seventeen boys. [^39] His parents were worried what would happen to him after their deaths. They had heard that Buddhist monks lived in comfort: they ate well and slept under cover. Upāli heard his parents discussing this and went and told his friends, whereupon they all decided to go for ordination with the Buddhists. The parents all gave their consent, so the boys went and took ordination. Though the text has them asking only for the lower ordination ( pabbajjā), they received both that and the full ordination (upasampadā). But in the night towards dawn they got up and cried, demanding food and drink. The monks asked them to be patient until dawn; then they would get whatever there was available, and would get the rest on their alms round. They, however, then used their cells as toilets.
 
 The Buddha heard the clamour and asked Ānanda what was going on; apparently he did not know that the boys were there. When he had ascertained that monks had knowingly ordained people under the age of twenty, he rebuked them, saying:
 
@@ -2042,7 +2024,7 @@ The second step on the Noble Eightfold Path is called sammā samkappa, which is 
 
 ## iii. Ekodi-bhāva 
 
-In Chapter 4 I showed that the Buddha borrowed an important term, *āsava*, from the Jain tradition to formulate his teaching, even though the word carried connotations which his capacity for abstraction had rendered inapplicable. I suggest that he similarly borrowed from Vedānta certain words which have puzzled interpreters ever since. In the second of the ranked series of meditative states called jhāna, the Buddha stills all discursive thought and attains what is called the ekodi-bhāva of his mind. [^2] The Canon contains other forms derived from this, like the verbs ekodi-karoti, 'to make ekodi' and ekodi-bhavati, 'to become ekodi'. Everyone agrees that this refers to one-pointedness of thought, elsewhere called cittassa ekaggata, and yet the derivation, and hence the precise meaning, of ekodi remain obscure. In Buddhist Sanskrit ekodi is rendered ekoti. Quite a few Sanskritizations by the later tradition are wrong, but in this case I believe that this is the right solution. I think that in this state the Buddha (or the meditator following in his footsteps) is said to have the feeling ( $b h \bar{a} v a$ ) which can be verbalized by the word 'one' in the masculine singular - eko; and that this refers to the same sensation of unity as is said to characterize many mystical experiences the world over, and more particularly that which is referred to in the *BĀU* as 'I am brahman'. I am not, of course, saying that the Buddha on his way to higher things had a Vedāntic gnosis; my claim is that, as with the word karman, he is borrowing that language in order to charge it with new meaning. [^3]
+In Chapter 4 I showed that the Buddha borrowed an important term, *āsava*, from the Jain tradition to formulate his teaching, even though the word carried connotations which his capacity for abstraction had rendered inapplicable. I suggest that he similarly borrowed from Vedānta certain words which have puzzled interpreters ever since. In the second of the ranked series of meditative states called jhāna, the Buddha stills all discursive thought and attains what is called the ekodi-bhāva of his mind. [^2] The Canon contains other forms derived from this, like the verbs ekodi-karoti, 'to make ekodi' and ekodi-bhavati, 'to become ekodi'. Everyone agrees that this refers to one-pointedness of thought, elsewhere called cittassa ekaggata, and yet the derivation, and hence the precise meaning, of ekodi remain obscure. In Buddhist Sanskrit ekodi is rendered ekoti. Quite a few Sanskritizations by the later tradition are wrong, but in this case I believe that this is the right solution. I think that in this state the Buddha (or the meditator following in his footsteps) is said to have the feeling (bhāva) which can be verbalized by the word 'one' in the masculine singular - eko; and that this refers to the same sensation of unity as is said to characterize many mystical experiences the world over, and more particularly that which is referred to in the *BĀU* as 'I am brahman'. I am not, of course, saying that the Buddha on his way to higher things had a Vedāntic gnosis; my claim is that, as with the word karman, he is borrowing that language in order to charge it with new meaning. [^3]
 
 ## iv. Puthujjana
 
@@ -2092,7 +2074,7 @@ Full details of publications appear in the Bibliography.
 
 [^1]: I have thus accepted the criticism, first I believe made by Dr Sue Hamilton, of my earlier usage; I mention it in How Buddhism Began (2006), p. 37, n. 9 .
 [^2]: The normal word is 'fruit' (phala). But occasionally the same thing is referred to as a 'harvest' (P: apadāna, literally 'reaping'). This latter word was Sanskritized as avadāna and its original meaning then forgotten. But like the Pali work entitled Apadāna, an avadāna was originally a story of how a deed in a former life bore fruit in the present.
-[^3]: DN I, 53-4$.
+[^3]: DN I, 53-4.
 [^4]: SN IV, 230-1 = sutta xxxvi, 21.1. The same list at AN II, 87.
 [^5]: This is because the commentary (Sārattha-ppakāsinī, III, 81-82) instances being run over by a truck, being bitten by a snake and falling into a pit.
 [^6]: In this I am following the same entry in PED, s.v. parihāra, but choosing the first meaning given: 'attention, care'; the list of examples begins with gabbha-parihāra, 'care of the foetus'.
@@ -2246,7 +2228,7 @@ Full details of publications appear in the Bibliography.
 [^17]: 'I am quite deliberately inconsistent in translating many Pali words. Not only do meanings vary with context; it can simply be helpful to see that a Pali word has more than one possible rendition in English' (Gombrich, How Buddhism Began, p. xviii).
 [^18]: I owe this observation to Lance Cousins.
 [^19]: In the list of four the word is muditā; in the context of empathy with merit it is anumodanā.
-[^20]: Sutta-nipāta I, 8=\mathrm{vv} .143-52$. The text is quite often referred to as the Karaniya Metta Sutta; karaniyaṃ is its first word.
+[^20]: Sutta-nipāta I, 8=\mathrm{vv} .143-52. The text is quite often referred to as the Karaniya Metta Sutta; karaniyaṃ is its first word.
 [^21]: Le Mahāvastu, ed. É. Senart, vol. III, p. 421, lines 18-19.
 [^22]: The conversation occurs twice in the Upaniṣad, at II, 4, and IV, 5; the relevant passage is the same in both versions.
 [^23]: SN I, 75.
@@ -2336,7 +2318,7 @@ Full details of publications appear in the Bibliography.
 [^3]: In some traditions this introductory section, a very popular text, acquired a separate identity under the Sanskrit title of Catuṣ-parisat-sūtra.
 [^4]: Vin. I, 11 .
 [^5]: Pali: avijjā, saṃkhārā, viññānaṃ, nāma-rūpa, sal-āyatanaṃ, phasso, vedanā, taṇhā, upādānaṃ, bhavo, jāti, jarā-maraṇaṃ.
-[^6]: $D N I I, 55$.
+[^6]: DN II, 55.
 [^7]: I owe this observation to members of the audience when I gave this chapter as a lecture at S.O.A.S. (see Preface).
 [^8]: Joanna Jurewicz, 'Playing with fire: the pratityasamutpāda from the perspective of Vedic thought' (2000).
 [^9]: Ibid., p. 81.
@@ -2408,7 +2390,7 @@ Full details of publications appear in the Bibliography.
 [^9]: Bhikkhu Ñāṇamoji and Bhikkhu Bodhi, The Middle Length Discourses of the Buddha (2001), p. 1276, n. 714.
 [^10]: MN, sutta 12 .
 [^11]: MN I, 395. We can deduce that the last remark refers to flattery.
-[^12]: Cūlamāluñkyā Sutta, MN, sutta 63. What I have put in direct quotations is an abbreviated version of $M N \mathrm{I}, 431$.
+[^12]: Cūlamāluñkyā Sutta, MN, sutta 63. What I have put in direct quotations is an abbreviated version of MN I, 431.
 [^13]: That actions have unintended consequences is a salient feature of Karl Popper's view of history and society. See my Theravada Buddhism (2006), pp. 15-18.
 [^14]: Williams, op. cit., p. 38 .
 [^15]: MN I, 394.
@@ -2611,7 +2593,7 @@ Full details of publications appear in the Bibliography.
 - Lloyd, G. E. R. 1990. Demystifying Mentalities. Cambridge: Cambridge University Press.
 - Malamoud, Charles. 1981. 'Inde védique. Religion et mythologie', in Dictionnaire des mythologies. Paris: Flammarion, p. 3.
 - Neisser, Ulric. 1976. Cognition and Reality. San Francisco: W. H. Freeman.
-- Norman, K. R. 1982. 'The Four Noble Truths,' in Indological and Buddhist Studies (Volume in Honour of Professor J. W. de Jong). Canberra, pp. 377-91; reprinted in Collected Papers, vol. II. Oxford: Pali Text Society, 1991, pp. $210-23$.
+- Norman, K. R. 1982. 'The Four Noble Truths,' in Indological and Buddhist Studies (Volume in Honour of Professor J. W. de Jong). Canberra, pp. 377-91; reprinted in Collected Papers, vol. II. Oxford: Pali Text Society, 1991, pp.210-23.
 - Obeyesekere, Gananath. 2002. Imagining Karma: Ethical Transformation in Amerindian, Buddhist, and Greek Rebirth. Berkeley: University of California Press.
 - Onians, Isabelle. 1996. 'Language, Speech and Words in Early Buddhism,' M.Phil. thesis, Oxford University.
 - Popper, Karl R. 1963. Conjectures and Refutations. London: Routledge and Kegan Paul.
@@ -2625,19 +2607,19 @@ Full details of publications appear in the Bibliography.
 - Waldschmidt, Ernst. 1944-48. Die Ueberlieferung vom Lebensende des Buddha. Göttingen: Vandenhoeck \& Ruprecht.
 - Williams, Paul. 2000. Buddhist Thought. London: Routledge.
 - Willis, Michael. 2007. 'From relics to rice: early Buddhism and the Buddhist landscape of central India', unpublished paper given at School of Oriental and African Studies, University of London, 23 January.
-- Wynne, Alexander. 2004. 'The oral transmission of the early Buddhist literature', Journal of the International Association of Buddhist Studies, 27(1): $97-127$.
+- Wynne, Alexander. 2004. 'The oral transmission of the early Buddhist literature', Journal of the International Association of Buddhist Studies, 27(1):97-127.
 - Wynne, Alexander. 2004. 'The Brahmavihāras reconsidered', unpublished paper given at The Richard Gombrich Celebratory Conference, St Hugh's College, Oxford, July.
 - Wynne, Alexander. 2007. The Origin of Buddhist Meditation. London and New York: Routledge.
 
-# INDEX
+### INDEX
 
 - Abhaya, Prince 166, 167
-- abhidhamma xiii, 3, 6, 90, 98, 103, $154,168,179,207-8,210$
+- abhidhamma xiii, 3, 6, 90, 98, 103, 154,168,179,207-8,210
 - Adikaram, E. W. 106
 - Aggañña Sutta 82, 181, 183, 186-90, 220
 - aggregates 8; see also khandhā
-- agriculture $19,22-4,48$
-- ahimssā $48,51,59,90$
+- agriculture 19,22-4,48
+- ahimssā 48,51,59,90
 - ahosi kamma 226
 - Ājīvaka 19, 52, 211
 - Alexander the Great 96
@@ -2645,21 +2627,21 @@ Full details of publications appear in the Bibliography.
 - Ānanda 100, 108, 132, 175, 176
 - Anaximenes 128
 - Anuruddha 108
-- apophatic theology $69,150-5$, $158-9,221$
+- apophatic theology 69,150-5, 158-9,221
 - appamāda 170,179
-- apperception $12,114,126-7$, $145-6,148-9,221$
-- arahant/arahat $57-8,83,89-90$, $130,164,181-2,213,229$
+- apperception 12,114,126-7, 145-6,148-9,221
+- arahant/arahat 57-8,83,89-90, 130,164,181-2,213,229
 - Arani-vibhanga Sutta 147-8
 - Aristotle 1, 4, 62, 116
 - Ārtabhāga 37
 - āsava 55-6, 163, 204, 210
 - Asoka, Emperor xi, xiv, 17, 97, 106, 207, 225
 - Assaji 130
-- asura $34,181,225$
-- ātman 8-9, 36-40, 63-5, 88, 120, $135-7,150,153,157,185,195$, 205
+- asura 34,181,225
+- ātman 8-9, 36-40, 63-5, 88, 120, 135-7,150,153,157,185,195, 205
 - attā, see ātman
 - Atṭhaka-vagga 101
-- austerities $45,48-9,54,58,62$, $102-3,190-1,208-9,210$
+- austerities 45,48-9,54,58,62, 102-3,190-1,208-9,210
 - avadāna 208
 - avijjā, see ignorance
 - Āyārañga Sutta 35
@@ -2671,53 +2653,53 @@ Full details of publications appear in the Bibliography.
 - Bhagavad-Gāta 97, 118
 - Biardeau, Madeleine 216
 - Bihar xiv, 45, 79
-- bliss $64-5,68,112-13,150,158$
-- Bodhi, Bhikkhu 114, 168, 209, 210, $218,220,222,223$
+- bliss 64-5,68,112-13,150,158
+- Bodhi, Bhikkhu 114, 168, 209, 210, 218,220,222,223
 - bodhisattva 12, 91, 152, 198-9
 - Bollée, W. B. 211
-- Brahmā $40-1,64,69,73,76,79-83$, $183-5,188-90,192,215$
+- Brahmā 40-1,64,69,73,76,79-83, 183-5,188-90,192,215
 - brahma-cariyā 77, 182, 202-3
-- Brahma-jāla Sutta 145-6, 166, $183-4,185$
+- Brahma-jāla Sutta 145-6, 166, 183-4,185
 - brahma-vihāra 79-90 passim, 192, 203
-- brahman 37-41, 64-5, 69, 76, 79-80, $83,120,151,157,189-90,195$, 203, 204
+- brahman 37-41, 64-5, 69, 76, 79-80, 83,120,151,157,189-90,195, 203, 204
 - Brähmaṇa-dhammika Sutta 181, 225
 - Brähmaṇas (genre of Vedic texts) 29, 187
-- Brahmins xi, xiv-xv, 2, 23, 26, 30, $63,76,78,80-2,84,89,101-2$, $107,112,113,147-8,172,180-3$, 188-91, 220
+- Brahmins xi, xiv-xv, 2, 23, 26, 30, 63,76,78,80-2,84,89,101-2, 107,112,113,147-8,172,180-3, 188-91, 220
 - Brereton, Joel 210, 226
 - Bronkhorst, Johannes 51, 212
 - Brown, Norman 220
 - Buddha, the
-- abstract thinking by vii, 59, 67, $75-6,134,195,204$
-- coherence of vii, viii, $9,17,114$, $123,164,194$
+- abstract thinking by vii, 59, 67, 75-6,134,195,204
+- coherence of vii, viii, 9,17,114, 123,164,194
 - date of xiii-xiv
-- Enlightenment 58, 66, 102, $132,152-4,158,173,177$, 182, 221
+- Enlightenment 58, 66, 102, 132,152-4,158,173,177, 182, 221
 - ethicizing by, see ethicization
-- omniscience of $110,163-4$
-- originality of vii, $2,18,58-9$, 126, 127
-- pragmatism of $10,67,148,154$, 161-79 passim
-- Buddhaghosa 78, 85, 86, 88-9, $105-6,126,142,147,156,213$
+- omniscience of 110,163-4
+- originality of vii, 2,18,58-9, 126, 127
+- pragmatism of 10,67,148,154, 161-79 passim
+- Buddhaghosa 78, 85, 86, 88-9, 105-6,126,142,147,156,213
 - Buddhayaśas 223
 - Burma 99
 
 - Caillat, Colette 211
 - Candragupta Maurya 96
 - caste xiv, 2, 14, 186-9, 195
-- cataphatic theology 149,150 , $153-5,158-9,221$
+- cataphatic theology 149,150 , 153-5,158-9,221
 - Catuṣ-parisat-sūtra 219
 - Chandas 146-7, 220
 - China/Chinese 3, 5, 98, 160, 174
-- Christianity $11,15,33,61-2,69,76$, $78,192,200,210$
+- Christianity 11,15,33,61-2,69,76, 78,192,200,210
 - chronicles, Pali 96
-- cognition 117-18, 136, 139, 144-6, $155,167,197,226$
+- cognition 117-18, 136, 139, 144-6, 155,167,197,226
 - Colebrooke, Henry Thomas 211
 - Collins, Steven 27, 209
-- compassion ix, $7-8,76-8,81-2$, $85-6,89-91,152,168,195$
-- concentration $84,103,109,118$, 126, 171-2, 203, 204
+- compassion ix, 7-8,76-8,81-2, 85-6,89-91,152,168,195
+- concentration 84,103,109,118, 126, 171-2, 203, 204
 - Cone, Margaret 208, 225
-- consciousness $12,64-5,67,69,73$, $83,114,118-27,132,134-8,141$, $144-6,150,196,220$
-- context, historical vii, ix, $4,14,18$, $75,107,142,171-2,183,195$
-- cosmogony $8,12,61,118,121,127$, $133-8,141,184-6$
-- cosmology 25-6, 33-42, 46, 63, 66, $72-3,87,88-9,141,186$; see also macrocosm
+- consciousness 12,64-5,67,69,73, 83,114,118-27,132,134-8,141, 144-6,150,196,220
+- context, historical vii, ix, 4,14,18, 75,107,142,171-2,183,195
+- cosmogony 8,12,61,118,121,127, 133-8,141,184-6
+- cosmology 25-6, 33-42, 46, 63, 66, 72-3,87,88-9,141,186; see also macrocosm
 - Coulson, Michael 221
 - Cousins, L. S. 208, 213, 215
 - cow-killing 181
@@ -2732,15 +2714,15 @@ Full details of publications appear in the Bibliography.
 - Davids, T. W. Rhys 7, 51, 140, 183-4, 207, 224, 225
 - DeLay, Dorothy 93
 - Dependent Origination 110, 118, 122, 132-8 passim, 142, 145, 160, 182, 218-19, 222
-- desire $38,43,56,57,61,74,89$, $121,124,128,134-5,145,181$, $183,218,220,222$
-- determinism vii, $13,19,20,21,22$, 129, 131-2
-- dhamma (constituent of reality) $129-30,144,155,218,219$
+- desire 38,43,56,57,61,74,89, 121,124,128,134-5,145,181, 183,218,220,222
+- determinism vii, 13,19,20,21,22, 129, 131-2
+- dhamma (constituent of reality) 129-30,144,155,218,219
 - Dhamma (the Truth the Buddha taught) xii, 161, 189-90, 199
 - Dhammapada 35, 87
 - Dharmaguptaka 174, 176, 224
 - Digambara 45, 46, 47, 52
-- dreaming $37,63,66$
-- dukkha 10, 36, 68-9, 84, 115, 122, $132,138,149,178,196$
+- dreaming 37,63,66
+- dukkha 10, 36, 68-9, 84, 115, 122, 132,138,149,178,196
 - Dundas, Paul 45, 46, 48, 52, 56, 211
 - education, traditional 15, 102, 172
 - egalitarianism 15,195
@@ -2749,27 +2731,27 @@ Full details of publications appear in the Bibliography.
 - empiricism 10, 144
 - emptiness 91, 148
 - Enlightenment, Buddha's, see under Buddha
-- epistemology 61, 73, 120, 123, 134, $142,144-6,156$
-- equanimity $78-9,81-2,85-6,89-90$
-- ethicization vii, 14, 25-6, 30-6, 38, $48,51,58,83,88,123-6,203$
-- ethics, Buddhist $13,75,77,81,84$, 109, 169-70, 179, 224
-- evidence, author's use of ix, 4, $94-7,208$
-- existence $64-5,67,68-9,73,131$, $134,139,141,150,155,160$
-- experience, conscious vii, ix, 3, $9-10,15,16,25,27,34,65,67-9$, $73-4,82,102,111-18,123,125$, 129-31, 135, 140-2, 144-60
+- epistemology 61, 73, 120, 123, 134, 142,144-6,156
+- equanimity 78-9,81-2,85-6,89-90
+- ethicization vii, 14, 25-6, 30-6, 38, 48,51,58,83,88,123-6,203
+- ethics, Buddhist 13,75,77,81,84, 109, 169-70, 179, 224
+- evidence, author's use of ix, 4, 94-7,208
+- existence 64-5,67,68-9,73,131, 134,139,141,150,155,160
+- experience, conscious vii, ix, 3, 9-10,15,16,25,27,34,65,67-9, 73-4,82,102,111-18,123,125, 129-31, 135, 140-2, 144-60
 - passim, 166, 167, 196, 220
 - fathers (paternal ancestors), see pitaras
-- feelings of pleasure and pain 12 , $20,114,126-7,132,145$
-- fire $32,103,111-28$ passim, 130, $131,140,158,185-6,196,210$, 212,219
+- feelings of pleasure and pain 12 , 20,114,126-7,132,145
+- fire 32,103,111-28 passim, 130, 131,140,158,185-6,196,210, 212,219
 
 - Fire Sermon 111-14, 124, 126, 127, 203
 - First Council 100-1, 106, 173, 216
-- First Sermon 50, 58, 102-4, 108, $111-13,126-7,130-1,133,138$, 171
-- five fire wisdom $29-30,33,38,41-3$, $64,79,81-4,89-90$
+- First Sermon 50, 58, 102-4, 108, 111-13,126-7,130-1,133,138, 171
+- five fire wisdom 29-30,33,38,41-3, 64,79,81-4,89-90
 - Frauwallner, Erich 39, 138, 145, 210, 217, 220, 226
 - Freud, Sigmund 216
 - funerals 29, 32, 41-3, 72, 79, 81
 - Fussman, Gérard 97
-- gahapati $23-4,49,58,81,112$
+- gahapati 23-4,49,58,81,112
 - gandhabba 72
 - Gandhara 98
 - gantha-dhura 47
@@ -2792,16 +2774,16 @@ Full details of publications appear in the Bibliography.
 - hylozoism 48,52
 - idealism 64, 197, 201
 - ignorance 121, 132-4, 138-9
-- impermanence $1,9-10,67,69-71$, $84,128,140,149,196,207-8$
+- impermanence 1,9-10,67,69-71, 84,128,140,149,196,207-8
 - individuation vii, 24-5, 127, 135, 195
 - Indra 181, see also Sakka
-- intention 7, 12-14, 36, 43, 49-50, $54,56,58-9,73-4,75,109,121$, $123,141,197,203$
-- irony vii, $2,18,137,138,142$
+- intention 7, 12-14, 36, 43, 49-50, 54,56,58-9,73-4,75,109,121, 123,141,197,203
+- irony vii, 2,18,137,138,142
 - Italian language 5
 
 - Jacobi, Hermann 51
 - Jaini, P. S. 57, 211, 213
-- Jainism vii, viii, xiv, 30, 32, 33, 34, $36,40,44,45-59$ passim, 63, 64, $65,74,75,97,181,191,195,204$, 211, 213, 225
+- Jainism vii, viii, xiv, 30, 32, 33, 34, 36,40,44,45-59 passim, 63, 64, 65,74,75,97,181,191,195,204, 211, 213, 225
 - James, William 152, 157-9, 221
 - Japanese 198
 - Jātaka 12, 119
@@ -2810,24 +2792,24 @@ Full details of publications appear in the Bibliography.
 - jhāna 72, 84, 108, 192, 204; see also meditation
 - jina-kappa 47
 - jīva, seelife monad
-- Johnson, Will (W. J.) 34-5, 49-51, $210-12$
+- Johnson, Will (W. J.) 34-5, 49-51, 210-12
 - Jūjaka 180-1
 - Juo-Hsūeh, Bhikkhunī 212
-- Jurewicz, Joanna ix-x, 30, 32-3, 42, 116-19, 127, 133-9, 210, 218, $219-20$
+- Jurewicz, Joanna ix-x, 30, 32-3, 42, 116-19, 127, 133-9, 210, 218, 219-20
 
 - Kaccāyana-gotto Sutta 160
 - Kālāmas, advice to 15-16, 166, 199, 200
 - Kandaraka Sutta 191
 - Kapilavatthu 177
 - karma
-- brahminical $7,14,32,34,37-8$, $43,49,63,65,83,89,169$
-- Buddhist vii, viii-ix, 7, 11-14, $16,19-22,24-8,32,35-6$, $43-4,49-51,58-9,60,70$, $71-2,73-4,75,77,83,85$,
-- $123,127,129,141-2,154$, 194-6, 198-9, 206
-- Jain 32, 34-6, 47-51, 58-9, 62, $75,190,195$
+- brahminical 7,14,32,34,37-8, 43,49,63,65,83,89,169
+- Buddhist vii, viii-ix, 7, 11-14, 16,19-22,24-8,32,35-6, 43-4,49-51,58-9,60,70, 71-2,73-4,75,77,83,85,
+- 123,127,129,141-2,154, 194-6, 198-9, 206
+- Jain 32, 34-6, 47-51, 58-9, 62, 75,190,195
 - Kathmandu 99
 - Keown, Damien 13
-- khandhā 8, 12, 103-4, 113-15, 120, $124-6,128,135-6,145-6,154$, 197
-- Khandhaka 57, 101, 104, 130, 132, $174,176,182,224$
+- khandhā 8, 12, 103-4, 113-15, 120, 124-6,128,135-6,145-6,154, 197
+- Khandhaka 57, 101, 104, 130, 132, 174,176,182,224
 - Kim, Wan Doo 214
 - kindness, see love
 - Koṇḍañña 104, 130
@@ -2838,10 +2820,10 @@ Full details of publications appear in the Bibliography.
 
 - Lakoff, George 116
 - language, Buddha's view of 17, 146-9, 152-4, 157-9, 165, 168, 187, 195-6
-- liberation vii, $33,48,63,74,82-4$, 90,162 ; see also nirvana
-- life monad $34-5,40,48,51,52,62$, 63,65
+- liberation vii, 33,48,63,74,82-4, 90,162 ; see also nirvana
+- life monad 34-5,40,48,51,52,62, 63,65
 - Līnatthavanoṇanā 225
-- literalism xiii, 2, 6-7, 59, 70, 73, 76, $78,83-4,88-90,107,116,131$, $154,168-9,218,223$
+- literalism xiii, 2, 6-7, 59, 70, 73, 76, 78,83-4,88-90,107,116,131, 154,168-9,218,223
 - Lloyd, G. E. R. 218
 - Lord's Prayer 86
 - Lotus Sutra 165
@@ -2851,7 +2833,7 @@ Full details of publications appear in the Bibliography.
 - macrocosm 38-40, 66, 69, 134, 141, 142
 - Madhupindika Sutta 221
 - Madhyamaka 131
-- magic $21,65,72,146$
+- magic 21,65,72,146
 - Mahā Assapura Sutta 225
 - Mahā Sammata 186
 - Mahā Sihanāda Sutta 163
@@ -2874,26 +2856,26 @@ Full details of publications appear in the Bibliography.
 - Māra 213
 - Marx, Karl 108, 200, 216
 - McGrath, Elizabeth 93, 110
-- meditation $14,17,58,66,86,90$, $126-7,162,219,223$
+- meditation 14,17,58,66,86,90, 126-7,162,219,223
 - mesocosm 39
-- metaphor vii, $2,6-7,12,15,33,44$, $45,48,55,57,68,75-6,78,83,84$, $103,104,109,111-16,118,121$, $124-5,134,135,140,141,151$, $153,155,158,165,181,191-2$, 196, 222
+- metaphor vii, 2,6-7,12,15,33,44, 45,48,55,57,68,75-6,78,83,84, 103,104,109,111-16,118,121, 124-5,134,135,140,141,151, 153,155,158,165,181,191-2, 196, 222
 - method 4, 75, 92-5
 - metta, seelove
 - Metta Sutta 86-7, 214, 215
 - microcosm 38-40, 66, 69, 134, 141
-- Middle Way 50, 58, 102-3, 130, $131,160,168$
+- Middle Way 50, 58, 102-3, 130, 131,160,168
 - Moggallāna 130-1
 - Mohammed 4
 - Mokṣa-dharma 118
 - Moliya Sivaka 20-1
-- monetization $24-5$
+- monetization 24-5
 - monks, Buddhist xii, 13, 27, 175-7, 224
 - moon 42,81
 - moral undertakings 14, 27, 179,
 - 224; see also ethics, Buddhist
 - Moses 4
 - Mūlasarvāstivāda 174
-- mysticism 3, 141, 150, 152, 154-5, $157-8$
+- mysticism 3, 141, 150, 152, 154-5, 157-8
 
 - Nāgārjuna 131, 154-5, 159
 - ñāna-dassana 56-7
@@ -2906,26 +2888,26 @@ Full details of publications appear in the Bibliography.
 - nijjarā 54, 62, 190, 225
 - Nikāya, four xiii
 - nirutti 147, 213, 220
-- nirvana vii, viii, $12,17,27,56,66$, $68,69,73,76,77,78,82-3,84,87$, $89-90,103,104,111-12,114$, $115,125-7,130,140,149,151$, 155-9 passim, 160, 167, 168, 197, 203, 207, 210, 215, 217
-- No Self/No Soul 8-11, 16, 60-2, $69-70,77,84,125,129,138,148$, 198,199
-- Noble Truths 10, 16, 36, 68, 103-4, $130,138,145,161,163,167,182$
+- nirvana vii, viii, 12,17,27,56,66, 68,69,73,76,77,78,82-3,84,87, 89-90,103,104,111-12,114, 115,125-7,130,140,149,151, 155-9 passim, 160, 167, 168, 197, 203, 207, 210, 215, 217
+- No Self/No Soul 8-11, 16, 60-2, 69-70,77,84,125,129,138,148, 198,199
+- Noble Truths 10, 16, 36, 68, 103-4, 130,138,145,161,163,167,182
 - non-returner 89-90
 - non-violence, see ahimsā
 - Norman, K. R. 54, 103, 217, 221
 - novices xii, 175-7, 224
 - Numata Foundation vii-viii
-- nuns xii, xiii, 2, 52-4, 55, 101, 105, $157,162,166,173,176,212$
+- nuns xii, xiii, 2, 52-4, 55, 101, 105, 157,162,166,173,176,212
 
 - Obeyesekere, Gananath 25, 30-2, 209-10
-- Olivelle, Patrick 39, 121, 184-5, $210,218,225,226$
+- Olivelle, Patrick 39, 121, 184-5, 210,218,225,226
 - Onians, Isabelle 220
-- ontology $2,9-10,41,61,120,123$, $133-4,144,145,156$
-- orality $100-5,220$
+- ontology 2,9-10,41,61,120,123, 133-4,144,145,156
+- orality 100-5,220
 - ordination, Buddhist 54, 175-7, 224
 - outcastes 42,44
 - padikkamana 55
-- Pali viii, xi, 5-6, 11, 57, 67, 70, 71, $87,95,98,99,112,147,151,175$, 187, 193-4, 201, 216, 221, 225
-- Pali Canon vii, xi, xiii, xv, 5, 19, 35, $46,47,49,50,51,53,66,73$, 97-102 passim, 104-5, 107, 112, $113,127,128,132,142,145,146$, $151,153,157,159,162,163,165$, 181, 193, 194, 199, 201, 207, 208, 217, 221, 223
+- Pali viii, xi, 5-6, 11, 57, 67, 70, 71, 87,95,98,99,112,147,151,175, 187, 193-4, 201, 216, 221, 225
+- Pali Canon vii, xi, xiii, xv, 5, 19, 35, 46,47,49,50,51,53,66,73, 97-102 passim, 104-5, 107, 112, 113,127,128,132,142,145,146, 151,153,157,159,162,163,165, 181, 193, 194, 199, 201, 207, 208, 217, 221, 223
 - Pāṇini 146
 - papañca 150, 205, 221
 - pariyāya 6, 207
@@ -2939,47 +2921,47 @@ Full details of publications appear in the Bibliography.
 - Perutz, Max 92-3, 215
 - peta 71-3
 - pitaras 29, 32, 42, 70, 181, 210
-- plants, violence against $52-3$
-- Plato $1,4,15,62$
-- Popper, K. R. 94, 110, 149, 173, $177-8,216,217,222$
+- plants, violence against 52-3
+- Plato 1,4,15,62
+- Popper, K. R. 94, 110, 149, 173, 177-8,216,217,222
 - Prajāpati 118
 - Prakrit xi
 - pre-Socratic philosophers 39, 128
 - preta, see peta
-- process vii, $1,10-11,13,73-4,111$, $114,119,123-5,128,129,131$, $134-7,140-1,148,160,196-8$, 206
+- process vii, 1,10-11,13,73-4,111, 114,119,123-5,128,129,131, 134-7,140-1,148,160,196-8, 206
 
 - Puggala-paññatti 223
 - puñña, punya 14, 44, 49
-- purity/impurity $34,43-4,188-9$
+- purity/impurity 34,43-4,188-9
 - puruṣa 36-7, 63, 135, 185, 186
 - puthujjana 204
 - Rajgir 45
 - Rāhula (the Buddha's son) 176-7
-- Rahula, Ven. Dr Walpola viii, 5, $153,155-6,172,219,221,223$
+- Rahula, Ven. Dr Walpola viii, 5, 153,155-6,172,219,221,223
 - rakkhasa 181, 225
 - Rāmānuja 64
-- randomness vii, $10,13,19$
-- rebirth $16,22,28,29-43$ passim, 45 , $62-3,65-6,70,74,81,87,119$, 163,196
-- responsibility vii, $11,13,22,69$, $141-2,195$
+- randomness vii, 10,13,19
+- rebirth 16,22,28,29-43 passim, 45 , 62-3,65-6,70,74,81,87,119, 163,196
+- responsibility vii, 11,13,22,69, 141-2,195
 - Ricoeur, Paul 96, 216
-- right view $27,35,103,153-4,160$, 210
-- ritual $14,34,44,58,71,77,137$, 153, 194, 200, 202, 203
+- right view 27,35,103,153-4,160, 210
+- ritual 14,34,44,58,71,77,137, 153, 194, 200, 202, 203
 - Ronkin, Noa x, 145-6, 149-50, 220
 - Sabbāsava Sutta 56
-- sacrifice $7,25,37,39,41,43,51,77$, $112,116,146,181,191,225$
+- sacrifice 7,25,37,39,41,43,51,77, 112,116,146,181,191,225
 - Saddhatissa, Ven. H. viii
 - Sakka 70
 - Sāmaññaphala Sutta 171, 172, 225
 - samārambha 56
 - samatha 126, 127, 171
 - saṃkappa 203
-- saṃkhārā $1,10-11,12,70,127$, $135-6,139-41,148,198,207,220$
+- saṃkhārā 1,10-11,12,70,127, 135-6,139-41,148,198,207,220
 - Sāṃkhya 63, 64, 144, 205
-- saṃsāra $29,33,36,42,47-8,51$, $67-8,135,159,205$; see also rebirth
+- saṃsāra 29,33,36,42,47-8,51, 67-8,135,159,205; see also rebirth
 - Saṅgārava 77-8, 105
-- Saṅgha xii-xiii, $2,14,17,25,47,52$, $55,101,130,161,162,173,178$, $188-90$
+- Saṅgha xii-xiii, 2,14,17,25,47,52, 55,101,130,161,162,173,178, 188-90
 - Śankara 64
-- Sanskrit xi, 5-6, 11, 57, 63, 67, 71, $79,87,95,98,112,139,146,148$, $151-2,175,181-2,186,196,221$
+- Sanskrit xi, 5-6, 11, 57, 63, 67, 71, 79,87,95,98,112,139,146,148, 151-2,175,181-2,186,196,221
 - Sāriputta 130-1, 177
 - sāsana xii
 - Śatapatha Brāhmaṇa 118-19, 133
@@ -2990,7 +2972,7 @@ Full details of publications appear in the Bibliography.
 - Schopenhauer, Artur 60
 - Seaford, Richard 24-5, 209
 - Second Council 101, 104, 130, 174
-- sense organs $59,123,132,135$, $144-6,196,205,220$
+- sense organs 59,123,132,135, 144-6,196,205,220
 - Shakyas xiv
 - shamanism 66
 - Shaw, Sarah 215, 223
@@ -3001,10 +2983,10 @@ Full details of publications appear in the Bibliography.
 - slaves 23, 26, 189
 - Smart, Ninian 154, 221
 - Socrates 7, 15, 165
-- soma $117-18,218$
+- soma 117-18,218
 - Soṇadaṇḍa 109
 - sophistication 76
-- soul $8-9,61-2,64,69,70,119,168$
+- soul 8-9,61-2,64,69,70,119,168
 - śrāddha 71
 - Sri Lanka 86, 99-100, 105-6, 176
 - Srinivas, M. N. 106-7
@@ -3015,7 +2997,7 @@ Full details of publications appear in the Bibliography.
 - Suddhodana 177
 - śūdra xv, 188
 - Sumanigala-vilāsinī 216, 225
-- sun $81,113,116-17$
+- sun 81,113,116-17
 - Sutta-nipāta 153, 225
 - Sutta Pitaka xiii, 173, 174, 183
 - Sutta-vibhañga 174, 175-6
@@ -3024,7 +3006,7 @@ Full details of publications appear in the Bibliography.
 - sva-dharma 14
 - Śvetāmbara 45, 46-7
 - Szczurek, Przemyslaw 216
-- tādi $151-2$
+- tādi 151-2
 - tanhā, see desire
 - Tathāgata 151-2, 154, 167
 - Tattvārtha Sūtra 56, 59, 213
@@ -3036,7 +3018,7 @@ Full details of publications appear in the Bibliography.
 - theodicy 19-21, 26
 - thera-kappa 47
 - Thera-therī-gāthā 53-4, 221
-- Theravada xiii, xv, 25-6, 47, 85, 86, $106,126,147,155,163,168,198$, 199, 208, 221, 226
+- Theravada xiii, xv, 25-6, 47, 85, 86, 106,126,147,155,163,168,198, 199, 208, 221, 226
 - Three Jewels xii, 177, 200
 - Three Refuges, see Three Jewels
 - Tibetan language 98, 175
@@ -3045,21 +3027,21 @@ Full details of publications appear in the Bibliography.
 - Tipitaka, see Pali Canon
 - Tīrthamkara 45-6
 - trade xiv, 22-3, 27
-- transfer of merit $36,72,85,198-9$, 226
-- translation $5,8-9,95,98,106$, $139-40,147,216$
+- transfer of merit 36,72,85,198-9, 226
+- translation 5,8-9,95,98,106, 139-40,147,216
 
 - Udāna 217, 222, 225
 - understanding, see wisdom
-- unintended consequences 167, $173,200,222$
+- unintended consequences 167, 173,200,222
 - upādāna, upādi 12, 113-16, 218
 - Upaka 57
 - Upāli(senior monk) 100
 - Upāli (novice) 175-6
-- Upanishads ix, xv, 2, 29-30, 36, 39, $40,60,63-70,74,79,120-1$,
+- Upanishads ix, xv, 2, 29-30, 36, 39, 40,60,63-70,74,79,120-1,
 - 133-4, 136, 154, 158, 165, 182, 187, 205, 219
 
 - Aitareya 226
-- Brhad-āranyaka xv, 29-30, 33, $36-8,41-3,49,60,63-5,76$, $79-80,82-4,88,89-90,107$, $118,120,121,133,135,150$, 184-7, 193, 204, 205, 220
+- Brhad-āranyaka xv, 29-30, 33, 36-8,41-3,49,60,63-5,76, 79-80,82-4,88,89-90,107, 118,120,121,133,135,150, 184-7, 193, 204, 205, 220
 - Chāndogya 30, 38, 41-3, 80, 83, 162,210
 - Kauṣ̄takī 209
 - Mundaka 151
@@ -3071,21 +3053,73 @@ Full details of publications appear in the Bibliography.
 - Vedānta 60, 61, 70, 128, 150-1, 157, 182, 195, 204, 205
 - Vedas xi, xiv, 80, 102, 182, 187, 217, 225
 
-- Ṛg Veda ix-x, xv, 29, 37, 42, 61, $64,70,101,116-18,133-4$, 188,219
+- Ṛg Veda ix-x, xv, 29, 37, 42, 61, 64,70,101,116-18,133-4, 188,219
 - vibhajja-vādo 168,171
 - vihāra 79
 - Vijñānavāda 3, 219
-- vinaya xii-xiii, 15-16, 52, 99-101, $104,108,130,132,162,163,170$, $173-7,224$
-- vipassanā $47,171,127$
+- vinaya xii-xiii, 15-16, 52, 99-101, 104,108,130,132,162,163,170, 173-7,224
+- vipassanā 47,171,127
 - Waldschmidt, Ernst 217
 - Watson, James 93
 - Williams, Paul 131, 161-2, 222-3
 - Willis, Michael 209
-- wisdom $7-8,56,61,84,109,165$, 168
+- wisdom 7-8,56,61,84,109,165, 168
 - world, Buddha's definition of 67-8, 125,141
-- writing xiii, $5,17,80,100,102,106$, 172,208
+- writing xiii, 5,17,80,100,102,106, 172,208
 - Wynne, Alexander x, 84, 96, 102, 126, 217, 219, 221
 
 - Yājñavalkya 37-8, 63-5, 88, 153-4
 
 - Zen 3
+
+### Keywords
+
+* [[Richard Gombrich]]
+* [[Buddha]]
+* [[Historical Context]]
+* [[Brahminism]]
+* [[Jainism]]
+* [[Karma]]
+* [[Rebirth]]
+* [[Nirvana]]
+* [[Pali Canon]]
+* [[Metaphor]]
+* [[Irony]]
+* [[Abstraction]]
+* [[Ethicization]]
+* [[Individual Responsibility]]
+* [[No-Self]]
+* [[Dukkha]]
+* [[Impermanence]]
+* [[Process]]
+* [[Dependent Origination]]
+* [[Fire Metaphor]]
+* [[Consciousness]]
+* [[Intention]]
+* [[Skill in Means]]
+* [[Brahma-vihāras]]
+* [[Sangha]]
+* [[Vinaya]]
+* [[Upanisads]]
+* [[Rg Veda]]
+* [[Jiva]]
+* [[Ahimsa]]
+* [[Academic Scepticism]]
+* [[Conjecture and Refutation]]
+* [[Oral Tradition]]
+* [[Buddhist Commentaries]]
+* [[Literalism]]
+* [[Cognition]]
+* [[Language (Buddha's View)]]
+* [[Apophatic Theology]]
+* [[Ineffability]]
+* [[Pragmatism (Buddha's)]]
+* [[Unanswered Questions]]
+* [[Middle Way]]
+* [[Satire]]
+* [[Social Metaphors]]
+* [[Walpola Rahula]]
+* [[Joanna Jurewicz]]
+* [[Sue Hamilton]]
+* [[Karl Popper]]
+* [[Mahayana]]

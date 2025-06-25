@@ -42,7 +42,7 @@ The Buddha's first teaching is recorded in the Sañghabhedavastu of the Mūlasar
 [^5]: SĀ 379 at T II 103c13 to 104c29. For a survey of Sanskrit fragment parallels to SĀ 379 cf. Chung 2008: 122 f .
 [^6]: On the school affiliation of the Samyukta-āgama cf., e.g., Lü 1963: 242, Waldschmidt 1980: 136, Mayeda 1985: 99, Enomoto 1986: 23, Schmithausen 1987: 306, Choong 2000: 6 note 18, Hiraoka 2000, Harrison 2002: 1, Oberlies 2003: 64, Bucknell 2006: 685 and Glass 2010.
 [^7]: T 110 at T II 504a4 to 504b21, which has been translated into English by Sastri 1938: 479f; and D 337 sa 275 a6 to 277 a4 or Q 1003 shu 283 b 1 to 285 a7, entitled chos kyi 'khor lo'i mdo; for the text cf. Chung 2006: 86-99, who juxtaposes the Tibetan discourse with SĀ 379, relevant Sanskrit parallels and T 110. A rendering into Sanskrit of the Tibetan discourse can be found in Sastri 1938: 476-478; for a translation into French cf. Feer 1870: 363-380.
-[^8]: The relevant Sanskrit fragments have been edited by Waldschmidt 1957: 140-162 (\$\$11.14 to 14.12); for a translation into English cf. Kloppenborg 1973: 23-29; cf. also the study by Waldschmidt 1951/1967: 177-180.
+[^8]: The relevant Sanskrit fragments have been edited by Waldschmidt 1957: 140-162 (§§11.14 to 14.12); for a translation into English cf. Kloppenborg 1973: 23-29; cf. also the study by Waldschmidt 1951/1967: 177-180.
 [^9]: Wogihara 1971: 579,19 to 580,22.
 [^10]: D 4094 nyu 28a7 to 29 b6 or Q 5595 thu 64 a 8 to 66 a 2.
 [^11]: Gnoli 1977: 135,1 to 137,17, the corresponding part of the Tibetan version is D 1 nga 42 a 5 to 44 b6 or Q ce 39 b8 to 42 a7, edited by Waldschmidt 1957: 141-163, and the corresponding Chinese version is T 1450 at T XXIV 127b24 to 128b15, translated into German by Waldschmidt 1957: 141163 .
@@ -168,7 +168,7 @@ Then the Blessed One told the five: "Because of giving reasoned attention with t
 Again he told the five men: "Because of giving reasoned attention with the power of effort to this noble truth of duhkha, which I had not understood before and which now was to be understood ... to this noble truth of the arising of duhkha, which I had not eradicated before and which now was to be eradicated ... to this noble truth of the cessation of duhkha, which I had not realized before and which now was to be realized ... to this noble truth of the path to the cessation of duhkha, which I had not cultivated before and which now was to be cultivated, I attained the arising of pure wisdom, vision, knowledge, understanding and awakening."
 
 [^40]: The translated section is found in T 1450 at T XXIV 127b24 to 128 b 15 .
-[^41]: I have emended the present reference in T 1450 at T XXIV 127 b25, which at this point actually speaks of "wrong teachers", 邪師, but three lines below, as pointed out by Waldschmidt 1957: 141 note 12, T 1450 switches to the more appropriate "wrong teachings", 邪法. The Sanskrit and Tibetan versions instead speak of the two extremes, cf. Gnoli 1977: 134,10 and Waldschmidt 1957: 141,8 $(\$ 14)$
+[^41]: I have emended the present reference in T 1450 at T XXIV 127 b25, which at this point actually speaks of "wrong teachers", 邪師, but three lines below, as pointed out by Waldschmidt 1957: 141 note 12, T 1450 switches to the more appropriate "wrong teachings", 邪法. The Sanskrit and Tibetan versions instead speak of the two extremes, cf. Gnoli 1977: 134,10 and Waldschmidt 1957: 141,8 (§14)
 [^42]: Adopting a variant without 應.
 
 "Because of giving reasoned attention with the power of effort to this noble truth of duhkha, which I had not heard before, which being already fully understood need not be understood again ... to this noble truth of the arising of duhkha, which I had not heard before, which having already forever eradicated I need not eradicate again... to this noble truth of the cessation of duhkha, which I had not realized before, [^43] which having already realized I need not realize again ... to this noble truth of the path to the cessation of duhkha, which I had not cultivated before, which having already cultivated I need not cultivate again, I attained the arising of pure wisdom, vision, knowledge, understanding and awakening.
@@ -247,7 +247,7 @@ At that time I told them: "Five monks, you should know that there are two extrem
 
 [^0]
 [^0]:    [^51] Cf. Hartmann 1994: 333f and on the general pattern of biographies emerging from a Vinaya environment cf., e.g., Frauwallner 1956: 46 and Hirakawa 1993/1998: 264.
-    [^52] Waldschmidt 1957: 140-162 (\$\$11.14 to 14.12)
+    [^52] Waldschmidt 1957: 140-162 (§§11.14 to 14.12)
     [^53] The translated section is found in MĀ 204 at T I 777 C 25 to 778 a2.
 moner; the second is to torture oneself and cause suffering to oneself, which is an ignoble thing and which is not connected to what is beneficial. [^54]
 "Five monks, abandon these two extremes and take up the middle path that accomplishes understanding and wisdom, [778a] that brings about certainty and the attainment of mastery and that leads to wisdom, leads to awakening and leads to Nirvāna, namely the eight[fold] right path, from right view to right concentration. These are its eight [parts]."

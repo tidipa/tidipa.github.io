@@ -1,3 +1,7 @@
+---
+title: Bhikkhu Anālayo - Awakening or Enlightenment? On the Significance of bodhi (2021)
+---
+
 # Awakening or Enlightenment? On the Significance of bodhi 
 
 Bhikkhu Anālayo [^1]

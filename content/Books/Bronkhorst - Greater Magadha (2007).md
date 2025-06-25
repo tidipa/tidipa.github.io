@@ -1,3 +1,8 @@
+---
+title: Bronkhorst, Johannes - Greater Magadha, Brill (2007)
+description:
+  In *Greater Magadha*, Johannes Bronkhorst posits the existence of a distinct cultural sphere in early India, located east of the traditional Brahmanical heartland, which was the cradle of religious movements such as Buddhism, Jainism, and Ājīvikism. This culture was defined by a unique spiritual ideology centered on the belief in rebirth and karmic retribution, as well as by features like round funerary mounds (stūpas), a distinct medical tradition, and a cyclical conception of time. Bronkhorst argues that these concepts were foreign to the Vedic-Brahmanical culture to its west, which only gradually absorbed them over a long period of cultural interaction. This process is traced through Brahmanical texts that reveal varied reactions - hesitant acceptance and adaptation in the Upaniṣads and the Mahābhārata, long-term disregard by the Mīmāṃsā school, and outright rejection by the Cārvākas, whom he identifies as a Brahmanical school. A central part of the thesis involves a chronological re-evaluation of late-Vedic literature, which Bronkhorst, using evidence from grammarians like Pāṇini, argues is much later than traditionally held and was composed contemporaneously with this cultural amalgamation.
+---
 
 # Greater Magadha 
 
@@ -23,24 +28,26 @@ This book is printed on acid-free paper.
 
 Library of Congress Cataloging-in Publication data 
 
-Bronkhorst, Johannes, 1946-
-Greater Magadha : studies in the culture of early India / by Johannes Bronkhorst. p. cm. - (Handbook of oriental studies, Section two, India ; v. 19= Handbuch der Orientalistik)
-Includes bibliographical references and index.
-ISBN-13: 978-90-04-15719-4 (alk. paper)
+Bronkhorst, Johannes, 1946- \
+Greater Magadha : studies in the culture of early India / by Johannes Bronkhorst. p. cm. - (Handbook of oriental studies, Section two, India ; v. 19= Handbuch der Orientalistik) \
+Includes bibliographical references and index. \
+ISBN-13: 978-90-04-15719-4 (alk. paper) \
 ISBN-10: 90-04-15719-0 (alk. paper)
 
 1. Magadha (Kingdom)—Civilization. I. Title.
 
-DS426.B76 2007
+DS426.B76 2007 \
 934'.04-dc22
 
-Copyright 2007 by Koninklijke Brill NV, Leiden, The Netherlands.
+Copyright 2007 by Koninklijke Brill NV, Leiden, The Netherlands. \
 Koninklijke Brill NV incorporates the imprints BRILL, Hotei Publishing, IDC Publishers, Martinus Nijhoff Publishers and VSP.
 
 All rights reserved. No part of this publication may be reproduced, translated, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without prior written permission from the publisher.
 
 Authorization to photocopy items for internal or personal use is granted by Koninklijke Brill NV provided that the appropriate fees are paid directly to The Copyright Clearance Center, 222 Rosewood Drive, Suite 910, Danvers, MA 01923, USA.
+
 Fees are subject to change.
+
 PRINTED IN THE NETHERLANDS
 
 *For Joy*
@@ -553,7 +560,7 @@ The following description in the Śvetāśvatara Upaniṣad also gives the bodil
 
 The Maitrāyaṇīya Upaniṣad [^31] speaks of a six-membered Yoga, consisting of restraint of the breath, withdrawal of the senses, meditation, fixing the mind, insight (tarka), and concentration. All these terms, with the single exception of tarka, are known from the other early passages on meditation which we have studied. The explanation of 'fixing the mind' (dhāraṇā) is interesting (MaitUp 6.20): [^32]
 
-> And elsewhere also it has been said: After this, the fixing of it (i.e., of the mind). As a result of pressing the tip of the tongue against the palate and suppressing speech, mind and breath, one sees Brahman through insight ( $($; tarka).
+> And elsewhere also it has been said: After this, the fixing of it (i.e., of the mind). As a result of pressing the tip of the tongue against the palate and suppressing speech, mind and breath, one sees Brahman through insight (?; tarka).
 
 Details of meditation are found in the following verses: [^33]
 
@@ -998,7 +1005,7 @@ This tradition of wisdom and asceticism might, of course, very well be the one w
 
 ### Cyclic time 
 
-A presupposition of both early Buddhism and early Jainism is the doctrine of rebirth and karmic retribution. This implies that all living beings, with the exception of those rare individuals who escape from it, are subjected to an ongoing cycle of rebirths.ā j \bar{j} v i k i s m$, as we have seen, subscribed to the same idea, with this important difference that it believed the cycle of rebirths to be finite for all, with a beginning and an end for each individual. In Buddhism and Jainism there is no such beginning, and there is an end only for those who manage to escape. But even in *Ājīvikism* the beginning is relative, i.e., specific for each individual, not common to all. So it is plausible that the *Ājīvikas* accepted that there were always earlier individuals, with the result that the process as a whole is beginningless, here too.
+A presupposition of both early Buddhism and early Jainism is the doctrine of rebirth and karmic retribution. This implies that all living beings, with the exception of those rare individuals who escape from it, are subjected to an ongoing cycle of rebirths. *Ājīvikism*, as we have seen, subscribed to the same idea, with this important difference that it believed the cycle of rebirths to be finite for all, with a beginning and an end for each individual. In Buddhism and Jainism there is no such beginning, and there is an end only for those who manage to escape. But even in *Ājīvikism* the beginning is relative, i.e., specific for each individual, not common to all. So it is plausible that the *Ājīvikas* accepted that there were always earlier individuals, with the result that the process as a whole is beginningless, here too.
 
 The spectre of a beginningless cycle of rebirths, or a beginningless succession of cycles of rebirths, does not, of itself, impose a cyclic structure on time. However, the information we possess about these three religions from Greater Magadha suggests that they all, each of them, believed that beginningless time was carved up into units. [^129] A Buddhist sermon states: [^130] "Inconceivable is any beginning to the cycle of this samsāra; an earliest point is not discerned of beings who, obstructed by spiritual ignorance and fettered by craving, run and wander on." Here nothing is said about units. These appear in some of the accounts of the Buddha's enlightenment. During this event the Buddha acquired three knowledges, the first one being knowledge of his earlier existences. Of these, the texts tell us, the Buddha remembered up to a hundred thousand, followed by several kalpas. [^131] A kalpa is obviously a "eon" of great length. In this account the Buddha remembers several of them, elsewhere he is said to have remembered up to ninety-one. [^132] As to the length of a kalpa, the following comparison should help our failing imagination: "if there were a seven-mile high mountain of solid granite, and once a century it was stroked with a piece of fine cloth, it would be worn away before a great eon would pass. Nevertheless, more eons have passed than there are grains of sand on the banks of the river Ganges." [^133] These texts do not tell us what happens at the end of a kalpa or at its beginning. The following passage from the Brahmajāla Sutta provides some information: [^134]
 
@@ -1014,7 +1021,7 @@ This passage does not use the term kalpa (Pāli kappa; it uses addha(n) instead)
 
 Similar ideas were current in Jainism. Schubring (1962/2000: 18), basing himself on canonical texts, speaks of "the assumption of the world having neither beginning nor end, i.e. being everlasting. Incessantly, though only within a small part of the universe, the wheel of time revolves with its spokes [...], the gradations ranging from the paradisiacal to the catastrophical period [...] and back to the former, ceaselessly passing through the point denoting the present."
 
-Among the very few things we know about Ājīvikism, one is that each living being has to pass through $8,400,000$ great kalpas. No details have survived, yet this piece of information allows us to conclude that this religion, too, had a notion of cyclic time.
+Among the very few things we know about Ājīvikism, one is that each living being has to pass through 8,400,000 great kalpas. No details have survived, yet this piece of information allows us to conclude that this religion, too, had a notion of cyclic time.
 
 A cyclic notion of time, in which kalpas, yugas and other time units play a role, is a common feature of classical Hinduism from a certain date onward. It is not known to the Vedic texts. Among the earliest texts in this tradition that show familiarity with the concept we must count the Mahābhārata. A recent study on these eons in the Mahābhārata - The Mahābhārata and the Yugas by Luis GonzálezReimann (2002)—now comes to the conclusion "that the yuga theory is a relatively late addition to the poem" (p. 202). We will see in chapter IIA. 2 that there are good reasons to think that the core of the Mahābhārata of the critical edition was composed and written down at some time during the two centuries preceding the Common Era. Parts were subsequently added until approximately the time of the Guptas, when the archetype of our critical text was established. It follows that it is certainly possible that the cyclic vision of time was not yet known to the first written version of the Mahābhārata, and became part of it in passages that were subsequently added. If, therefore, González-Reimann's hypothesis is correct-and he argues his case convincingly-we may have to see in the cyclic vision of time an element that entered into the Brahmanical tradition from the culture of Greater Magadha at a time when the core of the Mahābhārata (its first written version) was already in existence.
 
@@ -1043,19 +1050,19 @@ An example of the absorption of elements from the culture of Greater Magadha int
 
 ### Vedic asceticism
 
-Information about Vedic asceticism can be obtained from various sources. Following Sprockhoff (1979: 416 f.), we first consider the kinds of householder that are called Śālīnas, Yāyāvaras, and Cakracaras, and that are described in the Baudhāyana Dharma Sūtra (3.1.1f.). [^1] These householders leave their home in order to settle in a hut or cottage at the end of the village (BaudhDhS 3.1.17). There they serve the fires and offer certain sacrifices (19). They neither teach nor sacrifice for others (21). BaudhDhS 3.2 enumerates the various ways of subsistence from which these householders can choose. The ninth of these (3.2.16 f.)-called siddhecchā$ (or siddhoñchā)-is most interesting in the present context. It is reserved for someone who has become tired of the (other) modes of subsistence on account of old age or disease (dhätuksaya). The person who adopts this mode of subsistence must interiorize (the fires; ātmasamäropana) and behave like a samnyāsin (samnyāsivad upacārah), [^2] except for using a strainer and wearing a reddish-brown garment. This description shows that the way of life of these householders is not preparatory to that of the vänaprastha, as it has been claimed: [^3] the siddhecchā$ presents itself as the mode of subsistence for those who are old and sick, and therefore likely to die as householders. There is no indication in the text that the ascetic way of life was only, or predominantly, chosen by old men: the fact that one of the sub-choices is especially recommended for the aged suggests rather that the other alternatives were preferred by younger candidates.
+Information about Vedic asceticism can be obtained from various sources. Following Sprockhoff (1979: 416 f.), we first consider the kinds of householder that are called Śālīnas, Yāyāvaras, and Cakracaras, and that are described in the Baudhāyana Dharma Sūtra (3.1.1f.). [^1] These householders leave their home in order to settle in a hut or cottage at the end of the village (BaudhDhS 3.1.17). There they serve the fires and offer certain sacrifices (19). They neither teach nor sacrifice for others (21). BaudhDhS 3.2 enumerates the various ways of subsistence from which these householders can choose. The ninth of these (3.2.16 f.) - called siddhecchā (or siddhoñchā)-is most interesting in the present context. It is reserved for someone who has become tired of the (other) modes of subsistence on account of old age or disease (dhätuksaya). The person who adopts this mode of subsistence must interiorize (the fires; ātmasamäropana) and behave like a samnyāsin (samnyāsivad upacārah), [^2] except for using a strainer and wearing a reddish-brown garment. This description shows that the way of life of these householders is not preparatory to that of the vänaprastha, as it has been claimed: [^3] the siddhecchā presents itself as the mode of subsistence for those who are old and sick, and therefore likely to die as householders. There is no indication in the text that the ascetic way of life was only, or predominantly, chosen by old men: the fact that one of the sub-choices is especially recommended for the aged suggests rather that the other alternatives were preferred by younger candidates.
 
 [^1]: Sprockhoff, 1984: 21 f., deals in more detail with these types of householder, and criticizes Varenne (1960: II: 81 f.), according to whom these are not gehasthas; in support of his position Sprockhoff refers to Schmidt, 1968: 635 n. 2; Bodewitz, 1973: 298 f.; Sprockhoff, 1976: 117 f., 124; Kane, HistDh II, 1, p. 641 f. One might add that the Padārthadharmasaṅgraha (alias Praśastapāda Bhāṣya; WI p. 64 § 313) refers to householders who, with the help of riches acquired through the lifestyle of Śālīna and/or Yāyāvara, perform the five mahāyajñas. Heesterman (1982), having studied the opposition Śālīna-Yāyāvara in earlier texts, thinks that in the Baudhāyana Dharma Sūtra "the basic opposition has [...] been reduced to a secondary differentiation within the common category of the householder" (p. 265).
 
 The Baudhāyana Dharma Sūtra is not the only early text that prescribes ascetic practices for the householder. Sprockhoff (1984: 25) has rightly drawn attention to the fact that gleaning corns (*śiloñcha*)-which constitutes one of the possible ways of subsistence of the 'ascetic' householders of the Baudhāyana Dharma Sūtra-is enumerated among the proper occupations (svakarman) of a Brahmin in the Āpastamba Dharma Sūtra (2.10.4). Also the Mānava Dharma Śāstra mentions this activity as an option for the householder (Manu 4.5,10). The best householder, moreover, makes no provisions for the morrow (asvastanika; Manu 4.7-8); almost the same term is used in connection with the householder in the Mahābhārata (12.235.3), which also mentions the mode of life in imitation of pigeons (käpotī vrtti), another form of asceticism also found in the enumeration of the Baudhāyana Dharma Sūtra.
 
-These texts clearly prescribe an ascetic life-style as an option for the Vedic householder. This life-style often emphasizes and enlarges certain elements which were not unknown to the observant Vedic Brahmin. The ascetic element, in particular, is not foreign to the Vedic sacrificial tradition. The execution of a sacrifice demands from the sacrificer (yajamāna) various restrictions. [^4] G. U. Thite (1975: 193 f.) enumerates and illustrates, on the basis of Brāhmaṇa passages, restrictions concerning food-according to some a complete fast may be required-sexual abstinence, limitations of speech-e.g., complete silence until sunset - restricted movements, and various other rules. Similar restrictions are mentioned in the Śrauta Sūtras. The Āpastamba Śrauta Sūtra takes a rather extreme position in the following passage: [^5] "When the consecrated sacrificer (dīksita) has become thin, he is pure for the sacrifice. When nothing is left in him, he is pure for the sacrifice. When his skin and bones touch each other, he is pure for the sacrifice. When the black disappears from his eyes, he is pure for the sacrifice. He begins the dīksā$ being fat, he sacrifices being thin."
+These texts clearly prescribe an ascetic life-style as an option for the Vedic householder. This life-style often emphasizes and enlarges certain elements which were not unknown to the observant Vedic Brahmin. The ascetic element, in particular, is not foreign to the Vedic sacrificial tradition. The execution of a sacrifice demands from the sacrificer (yajamāna) various restrictions. [^4] G. U. Thite (1975: 193 f.) enumerates and illustrates, on the basis of Brāhmaṇa passages, restrictions concerning food-according to some a complete fast may be required-sexual abstinence, limitations of speech-e.g., complete silence until sunset - restricted movements, and various other rules. Similar restrictions are mentioned in the Śrauta Sūtras. The Āpastamba Śrauta Sūtra takes a rather extreme position in the following passage: [^5] "When the consecrated sacrificer (dīksita) has become thin, he is pure for the sacrifice. When nothing is left in him, he is pure for the sacrifice. When his skin and bones touch each other, he is pure for the sacrifice. When the black disappears from his eyes, he is pure for the sacrifice. He begins the dīksā being fat, he sacrifices being thin."
 
 [^2]: On the samnyāsin, see Bronkhorst, 1998: 23 ff.
 [^3]: Sprockhoff, 1979: 417; 1984: 25; Schmidt, 1968: 635.
 [^4]: The consecration (*dīkṣā*) of the sacrificer has repeatedly been studied; see, e.g., Lindner, 1878; Caland and Henry, 1906: 11 ff.; Oldenberg, 1917: 397 f.; Hauer, 1922: 65 f.; Keith, 1925: 300 f.; Gonda, 1965: 315 ff. Knipe (1975: 124), who is aware of the ascetic element of Vedic religion, claims without justification that "a renunciant tradition [...] was certainly an important dimension of brāhmanical orthopraxy well before the advent of the heterodox schools".
 
-This link with the Vedic dīkṣā remains visible in some of the later texts. The Baudhāyana Dharma Sūtra, for example, speaks of the dīksās of the forest dwellers. [^6] Certainly not by coincidence these dīksās include the restriction of food to roots and fruit (kandamūlaphalabhaka; 3.3.3), to what comes by chance (pravyttāsin; 9, 11), to water (toyāhāra; 13) and to wind (vāyubhaksa; 14), restraints which characterize the life of the vānaprastha in the Āpastamba Dharma Sūtra. Also the Mahābhārata (e.g., 5.118.7; 12.236.14) and the Mānava Dharma Śāstra (6.29) use the term dīksā$ in connection with forest-dwellers. One passage of the Mahābhārata (12.66.7) goes to the extent of calling the stage of life of the forest-dweller dīksāsrama, which confirms our impression that this way of life constitutes one permanent dīksā .{ }^{7}$ The observation in the Mahābhārata (12.185.1.1) to the effect that forest-dwellers pursue the Dharma of Rṣis is also suggestive in this connection. [^8]
+This link with the Vedic dīkṣā remains visible in some of the later texts. The Baudhāyana Dharma Sūtra, for example, speaks of the dīksās of the forest dwellers. [^6] Certainly not by coincidence these dīksās include the restriction of food to roots and fruit (kandamūlaphalabhaka; 3.3.3), to what comes by chance (pravyttāsin; 9, 11), to water (toyāhāra; 13) and to wind (vāyubhaksa; 14), restraints which characterize the life of the vānaprastha in the Āpastamba Dharma Sūtra. Also the Mahābhārata (e.g., 5.118.7; 12.236.14) and the Mānava Dharma Śāstra (6.29) use the term dīksā in connection with forest-dwellers. One passage of the Mahābhārata (12.66.7) goes to the extent of calling the stage of life of the forest-dweller dīksāsrama, which confirms our impression that this way of life constitutes one permanent dīksā .[^7] The observation in the Mahābhārata (12.185.1.1) to the effect that forest-dwellers pursue the Dharma of Rṣis is also suggestive in this connection. [^8]
 
 [^5]: ĀpŚS 10.14.9-10.
 [^6]: BaudhDhS 3.3.15. The word vaikhānasa here is obviously a synonym of vānaprastha in sūtra 3.3.1.
@@ -1133,7 +1140,7 @@ In this enumeration no painful mortifications are included. The life of the pari
 
 We turn to the next question: The Āpastamba Dharma Sūtra deals explicitly with the way of insight, practised by the parivrāja. Does this mean that it knows the alternative way of inaction, the asceticism in which immobilization of body and mind is central? Yes it does, and it speaks about it in connection with the forest-dweller (vānaprastha). The forest-dweller, like the wandering ascetic, is chaste (2.21.19), without house, without shelter, without protection, he is a muni who utters words only during recitation (21). The description so far is identical with the one of the wandering ascetic, [^42] except for the qualification that the forest-dweller has a single fire (ekāgnir). This qualification is surprising in that the following lines do not as much as mention the libations without which the fire would not survive; moreover, such a fire is virtually excluded by the absence of house, shelter or protection. Sūtra 2.22 .21 states explicitly, but in a different context, to be considered below, that a shelter is required for a fire (agnyartham śaranam). One has the impression that this qualification has been added to give a Vedic flavour to a way of life that in reality was without it. [^43]
 
-[^39]: The concluding portion is obscure: [...] iti sarvāśramāṇām samayapadāni tāny anutisṭhan vidhinā sārvagāmī bhavati "these (good qualities) have been settled by the agreement (of the wise) for all (the four) orders; he who, according to the precepts of the sacred law, practises these, enters the universal soul" (Bühler, 1879: 78); "these are [the virtues] which must necessarily be observed thoughout all of the [four] stages of life. He who puts them into practice according to the rules becomes one who goes everywhere" (Nakamura, 1983: 308); "these (virtues) have been agreed upon for all the āśramas; attending to them according to the rules one becomes possessed of that one who is going everywhere ( $=$ one becomes united with the universal Self)" (Schmidt, 1968: 641); "there is agreement that these apply to all orders of life. By practicing them according to the rules, a man attains the All" (Olivelle, 2000: 61). The commentator Śankara believes that one of the quoted stanzas refers to a state of renunciation (sarcasamnyāsa), see Nakamura, 1983: 307 and 318 n. 10. This interpretation is in no way compelling. The relevant portion of the stanza (1.8.22.8) reads: (yab) [...] prādhvam cāṣya sadācaret. This means no more than: "and who acts always in accordance with its path". No far-reaching conclusions can be drawn from this.
+[^39]: The concluding portion is obscure: [...] iti sarvāśramāṇām samayapadāni tāny anutisṭhan vidhinā sārvagāmī bhavati "these (good qualities) have been settled by the agreement (of the wise) for all (the four) orders; he who, according to the precepts of the sacred law, practises these, enters the universal soul" (Bühler, 1879: 78); "these are [the virtues] which must necessarily be observed thoughout all of the [four] stages of life. He who puts them into practice according to the rules becomes one who goes everywhere" (Nakamura, 1983: 308); "these (virtues) have been agreed upon for all the āśramas; attending to them according to the rules one becomes possessed of that one who is going everywhere (= one becomes united with the universal Self)" (Schmidt, 1968: 641); "there is agreement that these apply to all orders of life. By practicing them according to the rules, a man attains the All" (Olivelle, 2000: 61). The commentator Śankara believes that one of the quoted stanzas refers to a state of renunciation (sarcasamnyāsa), see Nakamura, 1983: 307 and 318 n. 10. This interpretation is in no way compelling. The relevant portion of the stanza (1.8.22.8) reads: (yab) [...] prādhvam cāṣya sadācaret. This means no more than: "and who acts always in accordance with its path". No far-reaching conclusions can be drawn from this.
 [^40]: ĀpDhS 1.23.3. Tr. Nakamura, 1983: 308. Note the use of 'yoga' here and in 1.23.5.
 [^41]: The question is also raised in Gampert, 1939: 8.
 [^42]: The term muni is used in connection both with the parivrāja and with the vānaprastha. A similar general use of muni is found in the epic (Shee, 1986: 175).
@@ -1149,10 +1156,10 @@ It will be clear that the Āpastamba Dharma Sūtra describes, under the two head
 
 We have already noted that the author of the Āpastamba Dharma Sūtra was not favourably inclined toward asceticism in any of its forms. The same is undoubtedly also true for the aim which many ascetics pursued, viz., liberation from rebirth. It is therefore interesting to cite the defiant statement with which he describes what a frequent sacrificer can look forward to: "Thereafter, the Vedas declare, they obtain an eternal reward (phala) designated by the term 'heaven' (svargasabda)". [^47] One has the impression that the Vedic heaven is presented here in a form that is meant to compete with the liberation aimed at by others.
 
-[^45]: It is the succession described in these two and the following sūtras that is announced by the wordā n u p \bar{u} r c y a$ in sūtra 6 , not "the successive performance (of the acts prescribed for theā \bar{r} r a m a s$ )". Olivelle (1984: 101) may therefore be mistaken in thinking that these rules constitute "an exception to the rule that an äśrama has to be selected immediately after completing one's Vedic studies". In his recent translation of the Dharma Sūtras, Olivelle (2000: 105) translates: "orderly sequence limited to the forest hermit". See further Sprockhoff, 1991: 25, 27.
+[^45]: It is the succession described in these two and the following sūtras that is announced by the word ānupårvya in sūtra 6 , not "the successive performance (of the acts prescribed for the áramas)". Olivelle (1984: 101) may therefore be mistaken in thinking that these rules constitute "an exception to the rule that an äśrama has to be selected immediately after completing one's Vedic studies". In his recent translation of the Dharma Sūtras, Olivelle (2000: 105) translates: "orderly sequence limited to the forest hermit". See further Sprockhoff, 1991: 25, 27.
 [^46]: Skurzak (1948) already drew attention to the threefold classification of ascetics in the Āpastamba Dharma Sūtra.
 
-Let us, by way of conclusion, pay attention to the terms vānaprastha and parivrāja that are used in the Āpastamba Dharma Sūtra. Vānaprastha is used to denote two types of ascetics, those of Vedic and those of Greater Magadhan extraction. It is therefore difficult to determine to which of these cultural domains this term originally belonged. The term parivrāja in the Āpastamba Dharma Sūtra, on the other hand, is connected with non-Vedic ascetics only. This agrees with the use of the corresponding term paribhājaka in the Pāli Buddhist canon, which refers throughout to non-Vedic ascetics. No term corresponding to vānaprastha is found in these texts. [^48] The situation is different in the Jaina canon in Ardha-Māgadhī, and this may be due to the fact that most of its parts are much later than the Brahmanical and Buddhist texts considered above. Here the word vānaprastha (vāna(p)pattha) occurs a few times, always in connection with Brahmanical ascetics. We read here about vānaprastha ascetics (vānapatthā$ tāvasā) who are, among other things, hottiyaā$, which corresponds to Sanskrit agnihotrikāh according to the commentator. [^49] According to one ms reading, these ascetics are also sottiya, which might correspond to Sanskrit śrotiya. [^50] Interestingly, the Jaina canon also uses the term parivrājaka (Ardha-Māgadhī parivvāyaga/-ya) to refer to Brahmins on some occasions. The parivrājaka Khanda(g)a, for example, knows the four Vedas with their aigas and upā̄igas, and many other Brahmanical and parivrājaka texts (Viy 2.1.12). Essentially the same description is repeated for the parivrājaka Moggala (or Poggala) (Viy 11.12.16) and for the Brahmins Gobahula and Bahula (Viy 15.16, 36). [^51] It is clear that this confused terminology dates from a time when earlier distinctions had become blurred.
+Let us, by way of conclusion, pay attention to the terms vānaprastha and parivrāja that are used in the Āpastamba Dharma Sūtra. Vānaprastha is used to denote two types of ascetics, those of Vedic and those of Greater Magadhan extraction. It is therefore difficult to determine to which of these cultural domains this term originally belonged. The term parivrāja in the Āpastamba Dharma Sūtra, on the other hand, is connected with non-Vedic ascetics only. This agrees with the use of the corresponding term paribhājaka in the Pāli Buddhist canon, which refers throughout to non-Vedic ascetics. No term corresponding to vānaprastha is found in these texts. [^48] The situation is different in the Jaina canon in Ardha-Māgadhī, and this may be due to the fact that most of its parts are much later than the Brahmanical and Buddhist texts considered above. Here the word vānaprastha (vāna(p)pattha) occurs a few times, always in connection with Brahmanical ascetics. We read here about vānaprastha ascetics (vānapatthā tāvasā) who are, among other things, hottiyaā, which corresponds to Sanskrit agnihotrikāh according to the commentator. [^49] According to one ms reading, these ascetics are also sottiya, which might correspond to Sanskrit śrotiya. [^50] Interestingly, the Jaina canon also uses the term parivrājaka (Ardha-Māgadhī parivvāyaga/-ya) to refer to Brahmins on some occasions. The parivrājaka Khanda(g)a, for example, knows the four Vedas with their aigas and upā̄igas, and many other Brahmanical and parivrājaka texts (Viy 2.1.12). Essentially the same description is repeated for the parivrājaka Moggala (or Poggala) (Viy 11.12.16) and for the Brahmins Gobahula and Bahula (Viy 15.16, 36). [^51] It is clear that this confused terminology dates from a time when earlier distinctions had become blurred.
 
 [^47]: ĀpDhS 2.23.12. Tr. Olivelle, 2000: 109.
 [^48]: The same is true of Pāṇini's grammar. The term vānaprastha is not mentioned, whereas parivrājaka, bhikṣu, maskarin and śramanā do occur. Patañjali's Mahābhāsya (soon after 150 BCE ), be it noted, mentions the cāturāśramya under P. 5.1.124 vt. 1 .
@@ -1170,7 +1177,7 @@ Consider next the three types of ascetics distinguished by Megasthenes (sent as 
 > 
 > Of [^54] the Sarmanes he tells us that those he held in most honour are called the Hylobioi. They live in the woods, where they subsist on leaves of trees and wild fruits, and wear garments made from the bark of trees. They abstain from sexual intercourse and from wine. [...] Next in honour to the Hylobioi are the physicians, since they are engaged in the study of the nature of man. They are simple in their habits, but do not live in the fields. Their food consists of rice and barley-meal, which they can always get for the mere asking, or receive from those who entertain them as guests in their houses. [...] This class and the other class practise fortitude, both by undergoing active toil, and by the endurance of pain, so that they remain for a whole day motionless in one fixed attitude.
 
-One type of Brahmin ascetic is here described, besides two kinds of Śramanas. Megasthenes' remark about the views of the Brahmin ascetics, concerning the embryonic nature of this life, and death as birth into another, better existence, is of particular interest. The Vedic texts look upon the consecrated sacrificer (diksita) as an embryo preparing to be reborn into another kind of existence. [^55] Vedic asceticism, as we have seen, was in many respects a permanent form of dīksā$.
+One type of Brahmin ascetic is here described, besides two kinds of Śramanas. Megasthenes' remark about the views of the Brahmin ascetics, concerning the embryonic nature of this life, and death as birth into another, better existence, is of particular interest. The Vedic texts look upon the consecrated sacrificer (diksita) as an embryo preparing to be reborn into another kind of existence. [^55] Vedic asceticism, as we have seen, was in many respects a permanent form of dīksā.
 
 [^52]: Schwanbeck, 1846: 136-139, Fragm. 41; Jacoby, 1958: 636-38. Tr. McCrindle, 1877: 98-102.
 [^53]: Note the deer skin again, and recall that Manu (2.23) states that only that land is fit for sacrifice where the black buck, from which this skin is taken, roams naturally.
@@ -1308,7 +1315,7 @@ We have seen in the preceding chapter that there is such a thing as Vedic asceti
 [^23]: Mhbh 12.9.4-6 \& 10-11; tr. Fitzgerald, 2004: 185.
 [^24]: Mhbh 12.9.24-29b; tr. Fitzgerald, 2004: 186.
 
-I have given this passage in the translation of Fitzgerald, which is very good, yet a rereading in terms our reflections so far will prove fruitful. Let us first consider the phrase "Having abandoned all those activities the living can do to improve things for themselves"; the Sanskrit contains the compound abhyudayakriyaā$. The translation "activities to improve things for themselves" does not reflect the fact that abhyudaya, lit. "elevation", often refers to the elevation which is the result of religious activity. Elsewhere in the Śāntiparvan, in a discussion which contrasts inactivity (nivtti) with activity (pravrtti), activity is associated with deeds that are abhyudayokta. The whole verse reads (Mhbh 12.327.5):
+I have given this passage in the translation of Fitzgerald, which is very good, yet a rereading in terms our reflections so far will prove fruitful. Let us first consider the phrase "Having abandoned all those activities the living can do to improve things for themselves"; the Sanskrit contains the compound abhyudayakriyaā. The translation "activities to improve things for themselves" does not reflect the fact that abhyudaya, lit. "elevation", often refers to the elevation which is the result of religious activity. Elsewhere in the Śāntiparvan, in a discussion which contrasts inactivity (nivtti) with activity (pravrtti), activity is associated with deeds that are abhyudayokta. The whole verse reads (Mhbh 12.327.5):
 
 > *ime sabrahmakā lokāh sasurāsuramānavāh* |\
 > *kriyāsv abhyudayoktāsu saktā drīyanti sarvasah* ||\
@@ -1552,7 +1559,7 @@ It is through the self (ātman), according to BĀrUp(K) 1.4.7, that one knows, o
 > 
 > In the beginning this world was only Brahman, and it knew only itself (ātman), thinking: "I am Brahman." As a result, it became the Whole. Among the gods, likewise, whosoever realized this, only they became the Whole. It was the same also among the seers and among humans. Upon seeing this very point, the seer Vāmadeva proclaimed: "I was Manu, and I was the sun." This is true even now. If a man knows "I am Brahman" in this way, he becomes this whole world.
 
-Nothing in this passage suggests that Brahman, or the self for that matter, is inactive. On the contrary, the immediately following passage explains that Brahman created a variety of entities, beginning with the ruling power (ksatra). The self (ātman), we further learn, is a world for all beings. For example, "when he makes offerings and sacrifices, he becomes thereby a world for the gods" (BĀrUp(K) 1.4.16). This self, moreover, being alone in the beginning, wished to have a wife so as to father offspring, plus wealth to perform rites BĀrUp(K)  1.4 .17$ ). All this is quite the opposite of inactivity.
+Nothing in this passage suggests that Brahman, or the self for that matter, is inactive. On the contrary, the immediately following passage explains that Brahman created a variety of entities, beginning with the ruling power (ksatra). The self (ātman), we further learn, is a world for all beings. For example, "when he makes offerings and sacrifices, he becomes thereby a world for the gods" (BĀrUp(K) 1.4.16). This self, moreover, being alone in the beginning, wished to have a wife so as to father offspring, plus wealth to perform rites BĀrUp(K)  1.4 .17 ). All this is quite the opposite of inactivity.
 
 Consider now the discussion between Yājñavalkya and Maitreyī as recounted in BĀrUp(K) 2, i.e., not in the Yājñavalkya-Kāṇda. The teaching on the self is here summed up in one sentence: "All these - the priestly power, the royal power, worlds, gods, beings, the Whole-all that is nothing but his self." The self here described is deeply involved in the world - indeed, it is the world - and there is no hint that it does not participate in its activities. (The situation is different in the version of this dialogue that occurs in the Yājñavalkya-Kāṇda, for which see below, chapter III.4. [^44]
 
@@ -1591,7 +1598,7 @@ In view of the above it is hardly surprising that the efforts that have been mad
 
 Twenty-five years later, Klaus Butzenberger (1996; 1998) takes the same position, but he obviously feels less certain for he covers his back in various ways: His "methodological positivism" (1996: 58), to begin with, is presented as a principle that presumably justifies leaving out of account possible non-Vedic antecedents. And the element "karmic retribution" is left out of consideration, ostensibly because "the earliest forms of [the doctrine] are still far away from the sophisticated precision and preciseness of the later theistic and philosophical systems" (1996: 59 n. 10 and 11). Herman W. Tull, in his book The Vedic Origins of Karma (1989), tries to get around the difficulty presented by karmic retribution by trying to trace it to Vedic ritual. Typically, Tull interprets Yājñavalkya's statement "A man turns into something good by good action and into something bad by bad action" (BĀrUp(K) 3.2.13 = B1 above) as referring to ritual exactitude: good being equated with the correct performance of the rite, bad with the incorrect performance. He overlooks the fact that there is no such thing as bad ritual activity in the Veda; mistakes can be made but can then be corrected. [^48] Yet this oversight is at the basis of his argument: "It is this ritual substratum that scholars of an earlier generation failed, or were simply unwilling, to recognize in their examination of Upaniṣadic thought. Such lack of recognition, I believe, was at the base of these scholars' inability to understand generally the origin of the karma doctrine" (p. 3). Not surprisingly, H. W. Bodewitz (1992; 1996) is convinced by neither of these two approaches, and comes to the conclusion that the new doctrine may not have arisen in ritualistic circles. Further, he makes the important observation that the assumption of a gradual development of the new doctrine within Vedic culture does not account any better for the Vedic evidence than the assumption of a gradual absorption from without.
 
-It is unlikely that Vedic scholars will stop looking for "earlier forms" of the doctrine of rebirth and karmic retribution in Vedic literature. There can be no objection to this, as long as they make no unjustified claims on the basis of this material. In practice they often come up with beliefs that are in some respects similar to the doctrine of rebirth without karmic retribution, and claim that these beliefs are the precursors of the doctrine of rebirth with karmic retribution that underlies religions like Buddhism and indeed the Upanisadic passages which we have studied. One example is a very short article "The earliest form of the idea of rebirth in India" by Michael Witzel (1984). It starts with the observation that "[i]t has frequently been denied that (traces of) the well-known theory of rebirth of the Upanisads and of Buddhism are to be found in early Indian texts such as the Ṛgveda". This, the article claims, is not correct: "A number of stray remarks in various Vedic texts, however, reveal an early form of this idea". As examples we find that "birds are regarded as being (magically) identical with the unborn children of the offering priest or householder (yajamāna)", and other similar observations. "It is a small step," the article continues, "to conceive the idea that the deceased take the form of unborn children and are reborn within their own family or elsewhere". In spite of the claim that these beliefs are earlier forms of the beliefs that we find in the Upanisads and in Buddhism, the article concedes that " [t]he concepts of a second death (punarmrtyu) and the connection of this simple form of the rebirth theory with the Karma theory are only to be met with in late Brāhmaṇa texts viz. the Upaniṣads" (my emphasis, JB). The karma theory is here, as in many other publications (cp. Butzenberger's remarks cited above), treated as a minor and inconsequential addition to the "idea of rebirth". By understanding it in this way the classical theory of rebirth and karmic retribution is deprived of what might be considered to be its most important part. Other scholars, among them Obeyesekere (1980), have observed that rebirth theories are very wide-spread in the world so that "[t]he Indian religious philosophers can be credited, not with the invention of the rebirth theory, but rather with transforming the 'rebirth eschatology' into the 'karmic eschatology'" (p. 138). [^49] In spite of the omission of karmic retribution, Witzel's article takes it for granted that these Vedic ideas are the precursors [^50] of the belief in rebirth and karmic retribution, so that it reaches the following conclusion: "The Vedic texts thus provide several 'stepping stones' allowing to follow up the development of the 'classical' rebirth theory: an (also) Indo-European belief in birds as the souls of the departed ancestors and of unborn children, the fear of the second death (punarmrtyu), and the ahimsā$ and karma idea, the combination of which resulted at an unknown time (ca. the late Brāhmaṇa / early Upaniṣad period) in the creation of the 'classical' Indian theory of rebirth". [^51] One of the problems with this conclusion is that the Vedic stepping stones do not provide us with a clue as to how and why the idea of rebirth came to be connected with the theory of karmic retribution, a theory which in any case is still rather loosely connected with it in the earliest Upanisads. This problem is, of course, avoided if we assume that the "karma idea" co-existed with a belief in rebirth, not in the Vedic milieu to be sure, but in the culture of Greater Magadha from which it was borrowed by the Upaniṣadic sages.
+It is unlikely that Vedic scholars will stop looking for "earlier forms" of the doctrine of rebirth and karmic retribution in Vedic literature. There can be no objection to this, as long as they make no unjustified claims on the basis of this material. In practice they often come up with beliefs that are in some respects similar to the doctrine of rebirth without karmic retribution, and claim that these beliefs are the precursors of the doctrine of rebirth with karmic retribution that underlies religions like Buddhism and indeed the Upanisadic passages which we have studied. One example is a very short article "The earliest form of the idea of rebirth in India" by Michael Witzel (1984). It starts with the observation that "[i]t has frequently been denied that (traces of) the well-known theory of rebirth of the Upanisads and of Buddhism are to be found in early Indian texts such as the Ṛgveda". This, the article claims, is not correct: "A number of stray remarks in various Vedic texts, however, reveal an early form of this idea". As examples we find that "birds are regarded as being (magically) identical with the unborn children of the offering priest or householder (yajamāna)", and other similar observations. "It is a small step," the article continues, "to conceive the idea that the deceased take the form of unborn children and are reborn within their own family or elsewhere". In spite of the claim that these beliefs are earlier forms of the beliefs that we find in the Upanisads and in Buddhism, the article concedes that " [t]he concepts of a second death (punarmrtyu) and the connection of this simple form of the rebirth theory with the Karma theory are only to be met with in late Brāhmaṇa texts viz. the Upaniṣads" (my emphasis, JB). The karma theory is here, as in many other publications (cp. Butzenberger's remarks cited above), treated as a minor and inconsequential addition to the "idea of rebirth". By understanding it in this way the classical theory of rebirth and karmic retribution is deprived of what might be considered to be its most important part. Other scholars, among them Obeyesekere (1980), have observed that rebirth theories are very wide-spread in the world so that "[t]he Indian religious philosophers can be credited, not with the invention of the rebirth theory, but rather with transforming the 'rebirth eschatology' into the 'karmic eschatology'" (p. 138). [^49] In spite of the omission of karmic retribution, Witzel's article takes it for granted that these Vedic ideas are the precursors [^50] of the belief in rebirth and karmic retribution, so that it reaches the following conclusion: "The Vedic texts thus provide several 'stepping stones' allowing to follow up the development of the 'classical' rebirth theory: an (also) Indo-European belief in birds as the souls of the departed ancestors and of unborn children, the fear of the second death (punarmrtyu), and the ahimsā and karma idea, the combination of which resulted at an unknown time (ca. the late Brāhmaṇa / early Upaniṣad period) in the creation of the 'classical' Indian theory of rebirth". [^51] One of the problems with this conclusion is that the Vedic stepping stones do not provide us with a clue as to how and why the idea of rebirth came to be connected with the theory of karmic retribution, a theory which in any case is still rather loosely connected with it in the earliest Upanisads. This problem is, of course, avoided if we assume that the "karma idea" co-existed with a belief in rebirth, not in the Vedic milieu to be sure, but in the culture of Greater Magadha from which it was borrowed by the Upaniṣadic sages.
 
 [^48]: See Bodewitz, 1992: 9.
 [^49]: See further Obeyesekere, 1996; 2002: ch. 1. Obeyesekere may very well be right; however, the Indian religious philosophers he refers to were certainly not Vedic or Upanisadic philosophers.
@@ -1661,7 +1668,7 @@ In spite of this, some of the early texts of Buddhism contain passages which cle
 
 [^1]: MN I p. 22-23; tr. Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, 1995: 105-106
 
-These two knowledges are followed by a third one, the knowledge of the destruction of the taints (ā s a v a$ / āsrava), after which liberation is attained. The connection between this third knowledge and liberation is clear: in a way the Buddhist path to liberation is the path leading to the destruction of the taints. The first and second knowledge, on the other hand, have no obvious and intrinsic connection with liberation. Their presence here appears to serve a different purpose altogether. It attributes to the Buddha, at the moment of his deepest insights, a confirmation that the doctrine of rebirth and karmic retribution is true, and provides this doctrine with the highest seal of approval imaginable for a believing Buddhist. The fact that there was a need for such approval suggests that the early Buddhists were confronted with people who did not accept it. Our texts do not tell us who these people were.
+These two knowledges are followed by a third one, the knowledge of the destruction of the taints (āsava / āsrava), after which liberation is attained. The connection between this third knowledge and liberation is clear: in a way the Buddhist path to liberation is the path leading to the destruction of the taints. The first and second knowledge, on the other hand, have no obvious and intrinsic connection with liberation. Their presence here appears to serve a different purpose altogether. It attributes to the Buddha, at the moment of his deepest insights, a confirmation that the doctrine of rebirth and karmic retribution is true, and provides this doctrine with the highest seal of approval imaginable for a believing Buddhist. The fact that there was a need for such approval suggests that the early Buddhists were confronted with people who did not accept it. Our texts do not tell us who these people were.
 
 Elsewhere in the canon, however, critical views of the kind countered by the first two knowledges are associated with concrete personalities, most notably Ajita Kesakambalī in the Pāli canon. [^2]
 
@@ -1714,7 +1721,7 @@ A later chapter of the same text records the views of others who come to the sam
 A further indication that shows that some people were critical of the doctrine of rebirth and karmic retribution is a story that has been preserved in two different versions, one by the Buddhists and the other one by the Jainas. It is the story of King Pāyāsi (Buddhist) or Paesi (Jaina). It has been studied in great detail by Ernst Leumann in 1885, and by Willem Bollée in 2002, [^11] so a short reminder of the points relevant for us will do. The Buddhist version occurs in the Pāyāsi Sutta (no. 23) of the Dīgha Nikāya (DN II p. 316-358), which presents the contents of Pāyāsi's thought in the following sentence: [^12]
 
 [^10]: Sūy 2.1.15 (ed. Muni Jambūvijaya 2.648-649, pp. 129-30).
-[^11]: In an appendix Bollée adds text and translation of a portion of Haribhadra's Samarācca-kahā, in which the nāstika Pingakesa is involved in a discussion with a Jaina teacher. Pingakesa's position is described as (p. 357-358): "By no means in this world can (the existence of) a soul be assumed which is different from the five elements and which will go to another world, but these elements which change (i.e., a compound) in such a way (as to produce a living being) are quite naturally called soul and when they stop aggregating and return to their fivefoldness (i.e., dissolve their unison), then it is said that the man is dead. Yet no one here leaves his body and goes to another existence $[\ldots]$ "
+[^11]: In an appendix Bollée adds text and translation of a portion of Haribhadra's Samarācca-kahā, in which the nāstika Pingakesa is involved in a discussion with a Jaina teacher. Pingakesa's position is described as (p. 357-358): "By no means in this world can (the existence of) a soul be assumed which is different from the five elements and which will go to another world, but these elements which change (i.e., a compound) in such a way (as to produce a living being) are quite naturally called soul and when they stop aggregating and return to their fivefoldness (i.e., dissolve their unison), then it is said that the man is dead. Yet no one here leaves his body and goes to another existence ..."
 [^12]: DN II. 316-317: n'atthi paraloko, n'atthi opapātikā, n'atthi sukaṭadukkaṭānaṃ kammānaṃ phalaṃ cipāko ti.
 
 "There is no other world, there are no spontaneously born beings, there is no fruit or result of good or evil deeds." The Jaina version occurs in the Rāyapaseniya (Skt. Rājapraśnīya), which is one of the twelve Upāngas of the Śvetāmbara canon. King Paesi's position is equally negative: confronted with a Jaina teacher who maintains that the soul and the body are different and not identical, he believes the opposite, viz., that the soul and the body are identical. [^13] It is also clear that the king does not believe in existence after death. [^14] In both versions the king engages in a long discussion in which all manner of situations are imagined or recalled that might prove the existence of a next world, or of the soul, but do not. The king concludes from these that the next world and the soul do not exist, [^15] while his interlocutor has an explanation for each and every one of them. A later version of the story occurs in the Mahāvastu. [^16]
@@ -1796,7 +1803,7 @@ If this suggestion looks at first surprising, a number of other factors support 
 [^44]: See Uno, 1999.
 [^45]: Balbir, 1993: 78 f .
 [^46]: Kotyārya, p. 439: vedo 'pi "vijñānaghana evaitebhyo bhūtebhyaḥ samutthāya tāny evānu vinaśyati" iti paralokanāstitvam anuvadati.
-[^47]: Kumārila, Ślokavārttika, Ātmavāda v. 140ab: vedād evātmanāstitvam yo nāma pratipadyate [...] I resolve ātmanāstitvam as ātma-nāstitvam, "non-existence of the self". Theoretically one might read ātmanā astitvam (or ātmana $[h]$ astitvam, with incorrect sandhi!?); this is difficult to construe, but may lie behind Jha's translation (p. 407): "One who would seek to know the Soul by the help of the Veda alone [...]".
+[^47]: Kumārila, Ślokavārttika, Ātmavāda v. 140ab: vedād evātmanāstitvam yo nāma pratipadyate [...] I resolve ātmanāstitvam as ātma-nāstitvam, "non-existence of the self". Theoretically one might read ātmanā astitvam (or ātmana [h] astitvam, with incorrect sandhi!?); this is difficult to construe, but may lie behind Jha's translation (p. 407): "One who would seek to know the Soul by the help of the Veda alone [...]".
 [^48]: Pārthasārathi, Nyāyaratnākara p. 513: yo vedavādī śsyyah, yo vā "vijñānaghana evaitebhyo bhūtebhyaḥ samutthāya tāny evānu vinaśyati [na] pretya samjñāsti"iti bhūtawaitanyābhidhānād vedavirodham ātmano manyate [...] The edition reads tam pretya, which must be a mistake.
 [^49]: Jayanta Bhaṭ̣a, Nyāyamañjarī, ed. Varadacharya, vol. II p. 268.
 [^50]: Jayanta Bhaṭ̣a, Nyāyamañjarī, ed. Varadacharya, vol. I p. 647.
@@ -1877,7 +1884,7 @@ With all this in mind we consider sūtra 1.2.4. We noted already that this sūtr
 [^12]: Kāma Sūtra 1.2.4: sthāvire dharmaṃ moksaṃ ca.
 [^13]: The commentator Yaśodhara (13th century CE) knows the words moksaṃ ca as part of the sūtra, but clearly feels uncomfortable about them, for he explains that they relate to the opinion of others (mokṣagrahaṇam paramatāpekṣam), viz., those interested in (higher) knowledge (jñānavādin).
 
-And yet, the author of the Kāma Sūtra must have known that there were people who accepted the aim of liberation from rebirth for he mentions people for whom this was the ultimate goal. Sūtra 4.1.9, for example, presents an enumeration that contains the terms śramaṇa "female śramaṇa" and kṣapaṇa "Buddhist or Jaina nun"; a good wife should not consort with them. Sūtra 5.4.43 mentions a ksapaṇikā "Buddhist or Jaina nun" and a tāpas̄̄ "female ascetic". [^14] Sūtra 1.5.23 mentions the pravrajitā "female wandering ascetic" as a possible sexual partner according to Suvarnanābha; sūtra 1.5.29 mentions this same pravrajitā as agamyā$ "not eligible to be a lover". [^15] According to sūtra 5.5.8, the pravrajitā is an easy prey for a headman called sūtrādhyaksa. [^16] The Buddhist or Jaina nun, at any rate, belonged to a religious movement in which liberation from rebirth stood central. The same may, but does not have to be true of the movements to which the śramanaā$ and the pravrajitā$ belonged. Interestingly, the Kāma Sūtra enumerates a number of males practising religious restraints, sexual restraint among them, as potential targets for a courtesan. Most notably, these include the śrotrya, the brahmacārin, the dīksita, the vratin, and the lingin. [^17] None of these terms necessarily refers to a man belonging to a movement in which liberation played a role.
+And yet, the author of the Kāma Sūtra must have known that there were people who accepted the aim of liberation from rebirth for he mentions people for whom this was the ultimate goal. Sūtra 4.1.9, for example, presents an enumeration that contains the terms śramaṇa "female śramaṇa" and kṣapaṇa "Buddhist or Jaina nun"; a good wife should not consort with them. Sūtra 5.4.43 mentions a ksapaṇikā "Buddhist or Jaina nun" and a tāpas̄̄ "female ascetic". [^14] Sūtra 1.5.23 mentions the pravrajitā "female wandering ascetic" as a possible sexual partner according to Suvarnanābha; sūtra 1.5.29 mentions this same pravrajitā as agamyā "not eligible to be a lover". [^15] According to sūtra 5.5.8, the pravrajitā is an easy prey for a headman called sūtrādhyaksa. [^16] The Buddhist or Jaina nun, at any rate, belonged to a religious movement in which liberation from rebirth stood central. The same may, but does not have to be true of the movements to which the śramanā and the pravrajitā belonged. Interestingly, the Kāma Sūtra enumerates a number of males practising religious restraints, sexual restraint among them, as potential targets for a courtesan. Most notably, these include the śrotrya, the brahmacārin, the dīksita, the vratin, and the lingin. [^17] None of these terms necessarily refers to a man belonging to a movement in which liberation played a role.
 
 [^14]: These sūtras also mention a bhikṣukī, which the dictionaries of Apte and Monier-Williams translate "female mendicant". However, this same word occurs in sūtra 1.3.14 in an enumeration of women who can teach a virgin (ācāryā̄h) kanvānām), in the form pūvasamssytā bhikṣukī; Doniger \& Kakar translate here "a female renunciant with whom she (i.e., the virgin) has previously been intimate"; Schmidt (1897: 41) and Mylius (1987: 26) translates "Bettelnonne", and Mylius adds in a note (p. 171 n. 54): "Ein Beweis für das moralische Absinken der Bud-dha-Nonnen bereits in jener Zeit". See further Doniger \& Kakar, 2002: p. 188 n. 1.4.35, and p. 21 n. 35 (Yaśodhara's interpretation). Everywhere else in the Kāma Sūtra "female mendicant" appears to be a satisfactory translation for bhikṣukī. According to Chakladar (1929: 130), all female ascetics or mendicants are generally spoken of as pravrajitā or bhikṣukī.
 [^15]: Doniger \& Kakar (2002: 189) offer the following comment on sūtra 1.5.23: "It is a stunning indication of [Vātsyāyana's] attitude to religious renunciation that he even considers here, without either approval or censure, a renunciant woman as a potential sexual partner. Yet at 1.5.29 he disqualifies wandering ascetic women as sexual partners." However, these two sūtras can be understood to imply that Suvarṇanābha and Vātsyāyana disagree on this point.
@@ -2036,7 +2043,7 @@ The second introductory question we have to ask is whether or not Pānini's Vedi
 
 This takes us to the main point. If Pānini's Vedic rules were not meant to be strictly followed, this should have been indicated in the Astāathyāyī. Option is indeed indicated in a number of Vedic rules: P. 1.2.36, 6.2.164, and 7.4.44 (which all have vibhāṣa chandasi), P. 1.4.9 (sasthiyuktaś chandasi vā), P. 8.3.49 (chandasi vā 'prāmreditayoh), P. 5.3.13 (vā ha ca chandasi), P. 3.4.88 and 6.1.106 (vā chandasi), P. 6.4.5 and 6.4.86 (chandasy ubhayathā), P. 6.4.162 (vibhāsarjos chandasi), P. 8.2.70 (amnarūdharavar ity ubhayathā chandasi), P. 8.3.104 (yajusy ekesām), P. 8.3.119 (nicyabhibhyo'd vyavāye vā chandasi), P. 8.3.8 (ubhayatharksu), and P. 6.4.9 (vā sapūrvasya nigame). The words bahulam chandasi 'variously in ritual literature' occur no less than seventeen times together, [^10] not counting the rules wherein they may have to be continued. In P. 1.2.61 (chandasi punarvasvor ekavacanam) and 62 (visākhayoś ca [chandasi]), the word anyatarasyām is in force from P. 1.2.58, and is not cancelled until nityam in 1.2.63. In P. 6.1.52 (khideś chandasi) there is continuation of vibhāṣa from sūtra 51, cancelled by nityam in 6.1.57. P. 3.1.85 (vyatyayo bahulam) continues chandasi from 3.1.84 (chandasi śayaj api), which itself indicates optionality by means of the word api. Similar devices are used in P. 1.4.81 (chandasi pare 'pi), and 82 (vyavahitāś ca); P. 3.3.130 (anyebhyo 'pi drīyate [chandasi 129]); P. 5.3.14 (itarābhyo 'pi drīyate [chandasi 13]); P. 6.3.137 (anyesām api drīyate [rci 133][?]); P. 6.4.73 and 7.1.76 (chandasy api drīyate); P. 7.1.38 (ktvāpi chandasi); P. 5.2.50 (that ca chandasi); P. 5.3.20 (tayor dārhilau ca chandasi); P. 5.3.33 (paśca paścā ca chandasi); P. 5.4.12 (amu ca chandasi); and P. 5.4.41 (vykajyesṭhābhyāṃ tiltātilau ca chandasi). P. 3.2.106 (liṭah kānaj vā is confined to ritual literature because only there lit is used ( P . 3.2.105 [chandasi lit]). P. 8.1.64 (vaivāveti ca chandasi) continues vibhāsā (63), cancelled by nityam in 8.1.66. P. 6.1.209 (justā̄tpite ca chandasi) continues vibhāṣā from 208, discontinued by 6.1.210 (nityam mantre). In P. 6.3.108 (pathi ca chandasi) the word ca continues vibhāṣā from 6.3.106 (cf. Kiparsky, 1979: 62). P. 8.3.105 (stutastomayoś chandasi) appears to continue ekeṣām from 8.3.104. P. 4.4.113 (srotaso vibhāsā dyaddyau) continues chandasi from 4.4.110.
 
-[^10]: P. 2.3.62, 4.39, 73, 76, 3.2.88, 5.2.122, 6.1.34, 70, 133, 178, 2.199, 4.75, $7.1 .8,10,103,3.97,4.78$. Cf. Shivaramaiah, 1969.
+[^10]: P. 2.3.62, 4.39, 73, 76, 3.2.88, 5.2.122, 6.1.34, 70, 133, 178, 2.199, 4.75, 7.1 .8,10,103,3.97,4.78. Cf. Shivaramaiah, 1969.
 
 Nityam in P. 4.1.29 (nityam samjñāachandasob), in 4.1.46 and 7.4.8 (nityam chandasi), and in 6.1.210 (nityam mantre), does not indicate that here, exceptionally, some Vedic rules are universally valid. Rather, it is meant to block the option that is valid in the preceding rules, as so often in the Aṣtādhyāyī. We have no alternative but to assume that, just as in his other rules, Pānini's Vedic rules not indicated as being optional were meant to be generally valid. [^11]
 
@@ -2055,7 +2062,7 @@ We can conclude that Pānini's term chandas covered more than just 'Sacred Liter
 
 The final introductory question we have to consider is the following. Are Pānini's Vedic rules descriptive or prescriptive? To some extent, to be sure, they describe the language that Pānini found in Vedic texts, and are therefore descriptive. But are they exclusively so? It may well be that Vedic texts were still being composed in Pānini's day, and that he gives in his grammar guidelines regarding correct Vedic usage. This possibility will be discussed in a following section (Pānini and the Veda (2)). Here attention may be drawn to one reason to conclude that at least some of Pānini's rules may have been meant to be prescriptive, besides, or rather than, being descriptive. They may have been composed with something like *ūha* in mind.
 
-*Ūha* [^13] is the term used to describe the adjustments Vedic mantras undergo to make them fit for other ritual contexts. An original mantra such as agnaye tvā justam nirvapāmi, directed to Agni, can become modified into süryāya tvā justam nirvapāmi, directed to Sürya. [^14] Devīr āpah śuddhā yūyam (MaitS 1.1.11; 1.2.16; 3.10.1; KāṭhS 3.6), directed to the waters, becomes deva ājya suddham tvam when directed to clarified butter (äjya). Sometimes only the number needs adjustment, as whenā y u r$ āśāste (MaitS 4.13.9; TaitS 2.6.9.7; TaitBr 3.5.10.4) becomes āyur āśāsāte or āyur āśāsate. Only the gender is modified when jūr asi dhṛtā manasā justāa visṇave tasyās te satyasavasah (MaitS 1.2.4; 3.7.5; KāṭhS 2.5; 24.3; TaitS 1.2.4.1; 6.1.7.2; VājS 4.17; ŚPaBr 3.2.4.11; ŚPaBrK 4.2.4.9) becomes jūr asi dhṛto manasā justo visṇave tasya te satyasavasah because a bull is under discussion.
+*Ūha* [^13] is the term used to describe the adjustments Vedic mantras undergo to make them fit for other ritual contexts. An original mantra such as agnaye tvā justam nirvapāmi, directed to Agni, can become modified into süryāya tvā justam nirvapāmi, directed to Sūrya. [^14] Devīr āpah śuddhā yūyam (MaitS 1.1.11; 1.2.16; 3.10.1; KāṭhS 3.6), directed to the waters, becomes deva ājya suddham tvam when directed to clarified butter (äjya). Sometimes only the number needs adjustment, as when āyur āśāste (MaitS 4.13.9; TaitS 2.6.9.7; TaitBr 3.5.10.4) becomes āyur āśāsāte or āyur āśāsate. Only the gender is modified when jūr asi dhṛtā manasā justāa visṇave tasyās te satyasavasah (MaitS 1.2.4; 3.7.5; KāṭhS 2.5; 24.3; TaitS 1.2.4.1; 6.1.7.2; VājS 4.17; ŚPaBr 3.2.4.11; ŚPaBrK 4.2.4.9) becomes jūr asi dhṛto manasā justo visṇave tasya te satyasavasah because a bull is under discussion.
 
 [^13]: For a brief description, see Chakrabarti, 1980: 134-36 and Jha, 1942: 29499 .
 
@@ -2130,7 +2137,7 @@ Balasubrahmanyam's observation is misleading in that subhagamkaran̄̄ is not ta
 
 Griffiths (2004: xxxvii), following Kamaleswar Bhattacharya (2001) and to a lesser extent Louis Renou (1957a), thinks that it seems likely that Pāṇini has made use of the Paippalāda Saṃhitā. He bases this conclusion on forms prescribed by Pāṇini in non-Vedic rules. [^26] This raises, once again, the question whether in Pāṇini's opinion wordforms in the Atharvaveda were Vedic or not. The material at my disposal does not allow me to propose a definite answer. It should, however, be recalled that non-Vedic rules cannot but play a limited role (perhaps none at all) in determining which Vedic texts were known to Pāṇini.
 
-A passage in the Chāndogya Upaniṣad is interesting in that it might be read as confirming that the Atharvaveda did not exist as a collection until long after the other three Vedas were collected. Sections 3.1-5 make a number of comparisons, or rather identifications, of which one in particular is of special interest to us. Section 3.1 states that the bees are the *ṛc*es, the flower is the Ṛgveda; in 3.2 the bees are the yajuses, the flower is the Yajurveda; and in 3.3 the bees are the sämans, the flower is the Sāmaveda. The interesting observation comes in section 3.4, where the bees are the atharvängirasah and the flower is itihāsapurānam. In 3.5, finally, the bees are the hidden teachings (guhyā \bar{a} d \bar{a} \bar{a} \bar{h}$ ), which may be the Upaniṣads, and the flower is Brahman (n.). Since the atharvängirasah constitute the Atharvaveda as we know it, the logic of the situation would have required that the flower in 3.4 be identified with the Atharvaveda. The fact that it is not hardly allows an explanation other than that the author of this passage did not know such a definite collection of atharvans and aingirases. Itihāsa and purāna certainly do not designate the Atharvaveda, neither separately nor jointly (see Horsch, 1966: 13 f.).
+A passage in the Chāndogya Upaniṣad is interesting in that it might be read as confirming that the Atharvaveda did not exist as a collection until long after the other three Vedas were collected. Sections 3.1-5 make a number of comparisons, or rather identifications, of which one in particular is of special interest to us. Section 3.1 states that the bees are the *ṛc*es, the flower is the Ṛgveda; in 3.2 the bees are the yajuses, the flower is the Yajurveda; and in 3.3 the bees are the sāmans, the flower is the Sāmaveda. The interesting observation comes in section 3.4, where the bees are the atharvāṅgirasaḥ and the flower is itihāsapurānam. In 3.5, finally, the bees are the hidden teachings (guhyā ādeśāḥ), which may be the Upaniṣads, and the flower is Brahman (n.). Since the atharvängirasah constitute the Atharvaveda as we know it, the logic of the situation would have required that the flower in 3.4 be identified with the Atharvaveda. The fact that it is not hardly allows an explanation other than that the author of this passage did not know such a definite collection of atharvans and aingirases. Itihāsa and purāna certainly do not designate the Atharvaveda, neither separately nor jointly (see Horsch, 1966: 13 f.).
 
 Bloomfield (1899: 2 f.), too, came to the conclusion "that many hymns and prose pieces in the AV. date from a very late period of Vedic productivity." Indeed, "there is nothing in the way of assuming that the composition of such texts as the [Aitareya Brāhmaṇa] and [Śatapatha Brāhmaṇa] preceded the redactions of the Atharvan Saṃhitās."
 
@@ -2139,7 +2146,7 @@ Bloomfield (1899: 2 f.), too, came to the conclusion "that many hymns and prose 
 
 Patañjali's Mahābhāṣya allows us to obtain an approximate idea as to the time before which the Atharvaveda was constituted into a collected whole. It cites in its opening passage the first lines of the four Vedas; these apparently existed as collections in those days (second century BCE). The first line is śam no devīr abhistaye, which begins the Paippalāda version of the Atharvaveda. Patañjali even informs us of the size of the Atharvaveda known to him, saying (Mahā-bh II p. 378 l. 11; on P. 5.2.37): viṃśino'igirasah. This fits the twenty books of the Atharvaveda in both its surviving versions. [^27] We may conclude that the Paippalāda Saṃhitā existed essentially in its present form in the second century BCE.
 
-The Aitareya Brāhmaṇa transgresses Pāṇini's rules in containing itarad, nominativeā v \bar{a} m$ (3.1), and several neuter Tatpuruṣa compounds in -an (3.2). It is also interesting that AitBr 7.17 has the periphrastic perfect *āmantrayām āsa*, as opposed to P. 3.1.40, which allows only *kṛ* in such formations (Keith, 1936: 747). We further find optatives in *-(ay)īta* instead of *-(ay)eta* (Renou, 1940: 11), and the ending *-ai* for both genitive and ablative *-ās* (Caland, 1927a: 50 ), not prescribed by Pāṇini.
+The Aitareya Brāhmaṇa transgresses Pāṇini's rules in containing itarad, nominative *āvām* (3.1), and several neuter Tatpuruṣa compounds in -an (3.2). It is also interesting that AitBr 7.17 has the periphrastic perfect *āmantrayām āsa*, as opposed to P. 3.1.40, which allows only *kṛ* in such formations (Keith, 1936: 747). We further find optatives in *-(ay)īta* instead of *-(ay)eta* (Renou, 1940: 11), and the ending *-ai* for both genitive and ablative *-ās* (Caland, 1927a: 50 ), not prescribed by Pāṇini.
 
 The other Brāhmaṇas that are often considered early are the Kauṣītaki Brāhmaṇa, Pañcaviṃśa Brāhmaṇa, Jaiminīya Brāhmaṇa, and Śatapatha Brāhmaṇa (Renou, 1957: 14). We can be brief about them.
 
@@ -2165,7 +2172,7 @@ The regional origin and early spread of most of the Vedic texts may account for 
 
 ### Pānini and the Veda (2)
 
-Further conclusions as to the parts of the Veda that were known to Pānini may be drawn by taking as point of departure Paul Kiparsky's book Pānini as a Variationist (1979). The main aim of this book is to show that the words *vā*, vibhāsā$ and anyatarasyām in Pānini's Aṣṭādhyāyī do not-as has always been supposed-all mean the same thing, viz. just 'optionally', but rather have three different meanings, viz. 'preferably' (vā), 'preferably not' (vibhāsā) and 'either way' (anyatarasyām). It can be said that Kiparsky has established this thesis beyond reasonable doubt.
+Further conclusions as to the parts of the Veda that were known to Pānini may be drawn by taking as point of departure Paul Kiparsky's book Pānini as a Variationist (1979). The main aim of this book is to show that the words *vā*, vibhāsā and anyatarasyām in Pānini's Aṣṭādhyāyī do not-as has always been supposed-all mean the same thing, viz. just 'optionally', but rather have three different meanings, viz. 'preferably' (vā), 'preferably not' (vibhāsā) and 'either way' (anyatarasyām). It can be said that Kiparsky has established this thesis beyond reasonable doubt.
 
 Once accepted, it can be used for further investigations. Kiparsky is aware of this, and one of the possibilities which he points at is "that we can also use this more exact information to get a firmer idea of Pānini's date" (p. 16). Kiparsky repeatedly recurs to this question in his book. Here however he has missed some essential points, due to the fact that he starts from the assumption, repeatedly expressed, that Pānini lived after the completion of Vedic literature. Without this assumption a different picture emerges.
 
@@ -2261,7 +2268,7 @@ These two questions are of course interrelated, and connected with a third one: 
 Few scholars nowadays would agree that the texts of the early Buddhist canon were all composed at one at the same time. The tradition according to which the sermons of the Buddha-all of them-were recited by the disciple Ānanda soon after the demise of his master does not find many followers in academic circles. Other portions of the ancient canon are widely considered to be even less old than this so-called Sūtra-Piṭaka. It is frequently pointed out that according to the Ceylonese tradition canonical texts were not written down until the first century BCE, which leaves several centuries between the first composition of at least some of these texts and their fixation in writing. During this long period they were preserved orally; the reliability of this oral tradition cannot be verified. It may
 be significant that the Assalāyana Sutta of the Majjhima Nikāya (MN II p. 149) refers to the Greeks (yona), which suggests that the passage which contains this reference was composed after-perhaps long after - the conquests of Alexander the Great, and therefore perhaps a century or more after the death of the Buddha. [^2] Unfortunately the canonical texts in Pāli do not contain many indications like this one which might help us to determine the precise dates of some of their portions. [^3] It is therefore far from evident at which points during the period between the death of the Buddha and the first writing down of (parts of) the Pāli canon references to Vedic texts found their way into this canon. This in its turn has radical consequences for the interpretation of the findings to be discussed in this chapter. If certain passages of the Pāli canon show acquaintance with a certain Vedic text, we cannot with certainty conclude from this that that Vedic text existed at the time of the Buddha; quite on the contrary, the only safe conclusion will be that those passages of the Pāli canon were composed after the completion of that particular Vedic text (more precisely: of a possibly earlier version of that particular Vedic text). This is the opposite of what scholars have usually concluded from such passages, and raises fundamental questions with regard to the methodology used by earlier workers in the field.
 
-In what follows the references to parts of the Veda and related issues which occur in the Sūtra-Piṭaka (Sutta-Piṭaka) of the Pāli canon will be considered. [^4] There are here very few explicit references to Vedic texts. [^5] A learned Brahmin is often characterized as being a "master of the three Vedas" (tinnaṃ vedānaṃ pāragū), [^6] without further specification as to what exactly these three Vedas encompass, nor indeed which Vedas are meant. A passage in the Dīgha Nikāya provides help by distinguishing the following kinds of Brahmins: addhariya a brāhmaṇā, tittiriyā brāhmaṇā, chandokā brāhmaṇā, bahvārijjhā brāhmaṇā. [^7] The expression addhariya corresponds no doubt to Sanskritā d h v a r i k a,{ }^{8}$ which shows that the Brahmins concerned were somehow connected with the sacrifice, but does not tell us much more about them. The remaining three Brahmins cannot but be Taittirīya, Chāndogya and Bahvṛca Brahmins, who belong to the Black Yajurveda, the Sāmaveda and the Ṛgveda respectively. That is to say, these passages show that these three Vedas were known to the authors of these passages in one form or another. A passage in the Suttanipāta (927) which uses the word āthabbaṇa (Skt. ātharvaṇa) suggests that the Atharvaveda, too, was known in some form or other. Another passage of the Suttanipāta (289) speaks of the 48 years which Brahmins used to live as celibates, acquiring knowledge. Falk (1988: 228) is no doubt right in pointing out that this number 48 has to be read, in the light of Brahmanical sources, as four times twelve: twelve years for the memorization of each of the four Vedas. [^9]
+In what follows the references to parts of the Veda and related issues which occur in the Sūtra-Piṭaka (Sutta-Piṭaka) of the Pāli canon will be considered. [^4] There are here very few explicit references to Vedic texts. [^5] A learned Brahmin is often characterized as being a "master of the three Vedas" (tinnaṃ vedānaṃ pāragū), [^6] without further specification as to what exactly these three Vedas encompass, nor indeed which Vedas are meant. A passage in the Dīgha Nikāya provides help by distinguishing the following kinds of Brahmins: addhariya a brāhmaṇā, tittiriyā brāhmaṇā, chandokā brāhmaṇā, bahvārijjhā brāhmaṇā. [^7] The expression addhariya corresponds no doubt to Sanskrit ādhvarika[^8] which shows that the Brahmins concerned were somehow connected with the sacrifice, but does not tell us much more about them. The remaining three Brahmins cannot but be Taittirīya, Chāndogya and Bahvṛca Brahmins, who belong to the Black Yajurveda, the Sāmaveda and the Ṛgveda respectively. That is to say, these passages show that these three Vedas were known to the authors of these passages in one form or another. A passage in the Suttanipāta (927) which uses the word āthabbaṇa (Skt. ātharvaṇa) suggests that the Atharvaveda, too, was known in some form or other. Another passage of the Suttanipāta (289) speaks of the 48 years which Brahmins used to live as celibates, acquiring knowledge. Falk (1988: 228) is no doubt right in pointing out that this number 48 has to be read, in the light of Brahmanical sources, as four times twelve: twelve years for the memorization of each of the four Vedas. [^9]
 
 [^2]: Basham is, in my opinion, overcautious in this respect (1980: 23 n. 3): "[References to the Yonas or Greeks are] not absolutely conclusive for a late date. The Kandahar Greek edict of Asoka has given conclusive proof of the presence of Greek-speaking settlers on the borders of India in the third century B.C. and these may well have been there long before Alexander, since the Achaemenians established settlements of Asiatic Greeks in Bactria". One should not attribute too much significance to the fact that Pānini knows the word yavana. Apart from the fact that Pānini lived on the outskirts of what was or had been the Achaemenid empire, Karttunen (1989: 142 ff.) and Falk (1994: 327 n. 45) remind us that Pānini may very well have lived after the arrival of Alexander in the subcontinent, perhaps even under the Mauryas.
 [^3]: Basham (1980: 23 n .3 ) tries to identify some passages in the Pāli canon that may be relatively late. For another attempt, see Appendix VI, which presents a preliminary collection of potentially more recent features, all in Sūtras that discuss the position of Brahmins in society.
@@ -2275,7 +2282,7 @@ Beside the above references to Vedic texts and to Brahmins connected with them, 
 [^6]: DN I p. 88, 114, 138; MN II p. 133, 141, [146,] 147, 165, 168, 210; AN I p. 163, 166; III p. 223; Sn p. 105.
 [^7]: DN I p. 237. This is the reading of the Nālandā-Devanāgarī-Pāli-Series (p. 200), which notes the following variant for the last item: bahvaridhā brāhmañā. The PTS edition reads five rather than four items, the last two of which are: chandāva brāhmaṇā, brāhma-cariyā brāhmaṇā.
 [^8]: Some authors (Weber, 1855: 160; Dutt, 1960: 1; Gokhale, 1970: 53) propose, incorrectly, Skt. adhvaryu; cp. Cone, 2001: 83 s.v. addhariya.
-[^9]: The line indassa bāhā-r$-asi dakkhinā *ti* in the Bhūridatta Jātaka (Jā VI p. 212 1. 11), which dates from a later period, is a quotation from TaitS 1.1.9.1 indrasya bāhur asi dakṣinaḥ; cf. Hinüber, 1986: 131 § 275.
+[^9]: The line indassa bāhā-r-asi dakkhinā *ti* in the Bhūridatta Jātaka (Jā VI p. 212 1. 11), which dates from a later period, is a quotation from TaitS 1.1.9.1 indrasya bāhur asi dakṣinaḥ; cf. Hinüber, 1986: 131 § 275.
 
 It is not clear what conclusions can be drawn from these data. Chronological conclusions, if any, only concern the passages or pericopes concerned, and these are few in number. Whatever Vedic texts were known to the authors of these passages - and we have seen that it is difficult to determine which ones they are - were not necessarily known to the authors of other passages of the canon; [^12] nothing whatsoever can be concluded from them as to the Vedic texts known to the Buddha or his contemporaries. It is only fair to conclude that the search for explicit references to Vedic texts in the early Buddhist canon provides us with no information as to the Vedic texts that existed at the time of the Buddha.
 
@@ -2320,9 +2327,9 @@ Before we study these similarities, it is important to consider the following. W
 [^22]: Keith (1914: II: 423) translates purīsa first as "dust" ("he puts down in the middle [a brick] full of dust"), then as "faeces" ("the middle of the body is faeces"). This play on the double meaning of purīsa may very well have been intended (and understood in that way still at the time of the Buddha); it makes Gombrich's argument all the less convincing.
 [^23]: The word upanisad, Pāli upanisā, is not unknown to the Buddhist texts, but in a different meaning; see Falk, 1986a; Renou, 1946.
 
-With this in mind, we turn to the Alagaddūpama Sutta which is, according to Gombrich (1996: 39), "probably the most important of all texts" on the topic of Buddhism as a reaction to Brahmanical doctrine. This Sutta rejects a point of view in which K. R. Norman (1981) finds Upaniṣadic echoes. [^24] One of these echoes is the notion of a soul or self (attā$ ) which is, Norman observes, "by definition nicca and sukha" (p. 202); we may add that this self is believed to be unchanging, immutable. Since we have dealt with this conception of the soul in an earlier chapter, and have shown that it is a conception which the Upanisads themselves must have borrowed from the spiritual culture of Greater Magadha, we can discard this specific "Upaniṣadic echo" as proof of Upaniṣadic influence on this part of the Alagaddūpama Sutta and turn to the other echo suggested by Norman. It is the notion of a self that is identical with the world. It finds expression in the following words (MN I p. 136): so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo sassatisamaṃ tath' eva thassāmi, "The world and the attā are the same; having passed away I shall be eternal, fixed, everlasting, of an unchangeable nature; I shall remain for ever exactly so" (tr. Norman). Norman comments (1981: 201).
+With this in mind, we turn to the Alagaddūpama Sutta which is, according to Gombrich (1996: 39), "probably the most important of all texts" on the topic of Buddhism as a reaction to Brahmanical doctrine. This Sutta rejects a point of view in which K. R. Norman (1981) finds Upaniṣadic echoes. [^24] One of these echoes is the notion of a soul or self (attā) which is, Norman observes, "by definition nicca and sukha" (p. 202); we may add that this self is believed to be unchanging, immutable. Since we have dealt with this conception of the soul in an earlier chapter, and have shown that it is a conception which the Upanisads themselves must have borrowed from the spiritual culture of Greater Magadha, we can discard this specific "Upaniṣadic echo" as proof of Upaniṣadic influence on this part of the Alagaddūpama Sutta and turn to the other echo suggested by Norman. It is the notion of a self that is identical with the world. It finds expression in the following words (MN I p. 136): so loko so attā, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo sassatisamaṃ tath' eva thassāmi, "The world and the attā are the same; having passed away I shall be eternal, fixed, everlasting, of an unchangeable nature; I shall remain for ever exactly so" (tr. Norman). Norman comments (1981: 201).
 
-> The idea that the world and the ātman (= brahman) are the same is found in the Upanisads, and it is possible to find actual verbal echoes of the Upaniṣads in this passage, e.g. eṣa maā t m \bar{a}$ ([Chāndoga Upaniṣad] III.14.3-4), and yathākratur asmiṃl loke puruṣo bhavati tathetah pretya bhavati sa kratuṃ kurvīta [...] etam itah pretyābhisambhavitāsmīti (ibid. III.14.1 and 4).
+> The idea that the world and the ātman (= brahman) are the same is found in the Upanisads, and it is possible to find actual verbal echoes of the Upaniṣads in this passage, e.g. eṣa ma ātmā ([Chāndoga Upaniṣad] III.14.3-4), and yathākratur asmiṃl loke puruṣo bhavati tathetah pretya bhavati sa kratuṃ kurvīta [...] etam itah pretyābhisambhavitāsmīti (ibid. III.14.1 and 4).
 
 The Upanisadic passage which Norman refers to is the one we have studied in part in chapter IIA. 3 above (passage C), and gives expression to the teaching of Śāndilya.
 
@@ -2355,7 +2362,7 @@ These three lineages suggest that the text of the Bṛhadāraṇyaka Upaniṣad 
 [^1]: Upaniṣadic passages will often be cited in the translation of Olivelle (1996; 1998). On the composition of the Bṛhadāraṇyaka Upaniṣad, see also Hock, 2002.
 [^2]: This seems presupposed in the remarks in Goodall, 1996, pp. 68, 99 and 107, which speak of "the teachers of this doctrine" at the end of portions I and II, and of "the chain of teachers" at the end of portion III.
 
-An inspection of the lineages as they occur in the Kāṇva version of the Upaniṣad reveals that the first two-those which conclude adhyā y a s 2$ and 4 respectively-are very similar to each other. Of the 58 generations enumerated at BĀrUp(K) 2.6, only eleven (numbers 10 to 20 , counting from the present) have nothing corresponding to them at BĀrUp(K) 4.6. The other way round, BĀrUp(K) 4.6 enumerates 59 generations, of which twelve (numbers 10 to 21) have no corresponding items at BĀrUp(K) 2.6. It is tempting to conclude from this that portions I and II had indeed been joined eight generations before the most recent end of the lineages, presumably by someone called Āgniveśya, and that before that date they had been preserved separately by different lineages of individuals. [^3] The fact that the oldest thirty-eight generations in the two lineages are identical may merely mean that later generations liked to think of both texts as having ultimately been derived from one and the same source, viz. Brahman. These oldest steps constitute the mythological origin of the lineage (with a number of identifiable mythological figures in it), and it is clear that, even if we assume that the lineages represent some historical reality, the same may not be true of their mythological origin.
+An inspection of the lineages as they occur in the Kāṇva version of the Upaniṣad reveals that the first two-those which conclude adhyāas 2 and 4 respectively-are very similar to each other. Of the 58 generations enumerated at BĀrUp(K) 2.6, only eleven (numbers 10 to 20 , counting from the present) have nothing corresponding to them at BĀrUp(K) 4.6. The other way round, BĀrUp(K) 4.6 enumerates 59 generations, of which twelve (numbers 10 to 21) have no corresponding items at BĀrUp(K) 2.6. It is tempting to conclude from this that portions I and II had indeed been joined eight generations before the most recent end of the lineages, presumably by someone called Āgniveśya, and that before that date they had been preserved separately by different lineages of individuals. [^3] The fact that the oldest thirty-eight generations in the two lineages are identical may merely mean that later generations liked to think of both texts as having ultimately been derived from one and the same source, viz. Brahman. These oldest steps constitute the mythological origin of the lineage (with a number of identifiable mythological figures in it), and it is clear that, even if we assume that the lineages represent some historical reality, the same may not be true of their mythological origin.
 
 [^3]: An alternative interpretation would be the one proposed by Reinvang (2000: 172): "The fact that the Honey Section and the Yājñavalkya Section both finish with a genealogical list of teachers, implies that the Honey Section and the Yājñavalkya Section originally constituted the Upaniṣad sections of each recension [viz., Mādhyandina and Kāṇva, JB]. Each recension then at some point adopted and appendixed the Upanişad section of the other, and some time later the Supplementary Section [...] In this perspective it seems most likely that the Honey Section originally belonged to the mädhyamdina and the Yājñavalkya Section to the kānva." (Cp. already Caland, 1926: 108, which speaks of "the double recension of the famous dialogue of Yājñavalkya with Maitreyt, one of which may originally have belonged to the Kāṇvas and the other to the Mādhyandinas".) Witzel (1997: 330) seems to make a similar but slightly different proposal: "BĀU, a text composed of, at least, three major strata, is indicative of how certain sections could be appropriated by two neighboring traditions, that of the Yājñavalkya and the Sāndiliya Vājasaneyins: BĀU 1-2 BĀU 3-4, shows how various tales and dialogues were assembled into a new framework." A weakness of Reinvang's perspective might be that it does not easily leave space for the Yājñavalkya-Kāṇda as an independent work, where there is evidence to believe that it was once known as one, as will be shown below.
 
@@ -2422,64 +2429,64 @@ Table 1.
 | Parameṣthin | Parameṣthin |
 | Brahman | Brahman |
 
-The third lineage, at BĀrUp(K) 6.5$, is different. Its generations are shown in table 2 .
+The third lineage, at BĀrUp(K) 6.5, is different. Its generations are shown in table 2 .
 
 Table 2.
 
-| BārUp(K) 6.5 (Kānva III) | |
-| :--: | :--: |
-| Pautim§ßÊputra | |
-| K§ty§yanÊputra | |
-| GautamÊputra | |
-| Bh§radv§jÊputra | |
-| P§r§áarÊputra | |
-| AupasvastÊputra | |
-| P§r§áarÊputra | |
-| K§ty§yanÊputra | |
-| KauáikÊputra | |
-| ĀlambÊputra&Vaiy§ghrapadÊputra | |
-| K§ÖvÊputra&K§pÊputra | |
-| ĀtreyÊputra | |
-| GautamÊputra | |
-| Bh§radv§jÊputra | |
-| P§r§áarÊputra | |
-| V§tsÊputra | |
-| P§r§áarÊputra | |
-| V§rk§ruÖÊputra | |
-| V§rk§ruÖÊputra | |
-| Ārtabh§gÊputra | |
-| “auØgÊputra | |
-| S§ÒkÜtÊputra | |
-| Ālamb§yanÊputra | |
-| ĀlambÊputra | |
-| J§yantÊputra | |
-| M§Ö·åk§yanÊputra | |
-| M§Ö·åkÊputra | |
-| “§Ö·alÊputra | |
-| R§thÊtarÊputra | |
-| Bh§lukÊputra | |
-| two KrauñcikÊputras | |
-| VaidabhÜtÊputra | |
-| K§ráakeyÊputra | |
-| Pr§cÊnayogÊputra | |
-| S§ÒjÊvÊputra | |
-| Pr§ánÊputra $suriv§sin | M§Ö·åk§yani |
-| $sur§yaÖa | M§Ö·avya |
-| $suri | Kautsa |
-| Y§jñavalkya | M§hitthi |
-| Udd§laka | V§makakß§yaÖa |
-| AruÖa | “§Ö·ilya |
-| Upaveái | V§tsya |
-| Kuári | Kuári |
-| V§jaáravas Yajñavacas | R§jastamb§yana |
-| Jihv§vat B§dhyoga Tura | K§vaßeya |
-| Asita V§rßagaÖa | Praj§pati |
-| Harita Kaáyapa | Brahman |
-| “ilpa Kaáyapa | |
-| Kaáyapa Naidhruvi | |
-| V§c | |
-| AmbhiÖÊ | |
-| Āditya | |
+| | BārUp(K) 6.5 (Kānva III) | |
+| :--: | :--: | :--: |
+| | Pautimāṣīputra | |
+| | Kātyāyanīputra | |
+| | Gautamīputra | |
+| | Bhāradvājīputra | |
+| | Pārāáarīputra | |
+| | Aupasvastīputra | |
+| | Pārāáarīputra | |
+| | Kātyāyanīputra | |
+| | Kauáikīputra | |
+| | Ālambīputra&Vaiyāghrapadīputra | |
+| | Kāṇvīputra&Kāpīputra | |
+| | Ātreyīputra | |
+| | Gautamīputra | |
+| | Bhāradvājīputra | |
+| | Pārāáarīputra | |
+| | Vātsīputra | |
+| | Pārāáarīputra | |
+| | Vārkāruṇīputra | |
+| | Vārkāruṇīputra | |
+| | Ārtabhāgīputra | |
+| | Śauṅgīputra | |
+| | Sāṃkṛtīputra | |
+| | Ālambāyanīputra | |
+| | Ālambīputra | |
+| | Jāyantīputra | |
+| | Māṇḍūkāyanīputra | |
+| | Māṇḍūkīputra | |
+| | Śāṇḍalīputra | |
+| | Rāthītarīputra | |
+| | Bhālukīputra | |
+| | two Krauñcikīputras | |
+| | Vaidabhṛtīputra | |
+| | Kāráakeyīputra | |
+| | Prācīnayogīputra | |
+| | Sāṃjīvīputra | |
+| Prāśnīputra Āsurivāsin | | Māṇḍūkāyani |
+| Āsurāyaṇa | | Māṇ·avya |
+| Āsuri | | Kautsa |
+| Yājñavalkya | | Māhitthi |
+| Uddālaka | | Vāmakakṣāyaṇa |
+| Aruṇa | | Śāṇḍilya |
+| Upaveái | | Vātsya |
+| Kuári | | Kuári |
+| Vājaáravas Yajñavacas | | Rājastambāyana |
+| Jihvāvat Bādhyoga Tura | | Kāvaṣeya |
+| Asita Vārṣagaṇa | | Prajāpati |
+| Harita Kaáyapa | | Brahman |
+| “ilpa Kaáyapa | | |
+| Kaáyapa Naidhruvi | | |
+| Vāc | | |
+| Ambhiṇī | | |
+| Āditya | | |
 
 It deviates in various respects from the other two. Most striking perhaps is that in its more recent portion the men concerned are not identified by their own names but by those of their mothers ("son of ..."). [^4] It is only towards the mythological origin that individuals are referred to by their own names. In spite of this difference, an altogether different sequence of individuals appears to be enumerated here from the ones we find in the other two lineages. [^5] Pautimāsīputra, however, the most recent figure in the third lineage, is likely to be the same as Pautimāṣya, who is the most recent one in the other two. [^6] This is possible if we interpret Pautimāṣīputra to mean "son of Pautimāṣī", [^7] and derive Pautimāṣī from Pautimāṣya in the sense "name of a wife because of the connection with her husband" by the grammatical rule P. 4.1.47 (punyyogād ākhyāyām) with P. 6.4.150 (halas taddhitasya). The son of the wife of Pautimāṣya, also being a gotra-descendant of Pūtimāṣa, is likewise called Pautimāṣya.
 
@@ -2498,7 +2505,7 @@ Note that the two versions of the lineage do not recognize one and the same ulti
 [^9]: Belvalkar \& Ranade (1927: 113) saw in the double occurrence of the dialogue between Yājñavalkya and Maitreyī, once in the Madhu-Kāṇda (portion I) and once in the Yājñavalkya-Kāṇda (portion II), "a proof ... of the co-ordinate existence of the Madhu and the Yājñavalkya Kāṇdas as independent Upanishads".
 [^10]: This general picture is supported by the Mādhyandina lineages, even though the names are here altogether different.
 
-By coincidence we know where "Pautimāṣya" got his alternative beginning of the lineage from, for exactly the same passage-beginning with samānamā$ sāṃ̃̃vīputrāt which is then followed by the genealogy reproduced on the right hand side of table 2 aboveoccurs elsewhere in the Śatapatha Brāhmaṇa, at ŚPaBr 10.6.5.9, i.e. at the end of books 6-10 (both Mādhyandina and Kāṇva). There this passage occurs all on its own, and is not accompanied by the lineage that occurs at the end of the Upanişad. Renou (1948: 76 [886]) concludes from the implicit reference here to the end of the Upanişad that books 6-10 were made, or at least completed, after the books of Yājñavalkya (i.e., ŚPaBr 1-5 and 11-14). This may be so, but the fact that the final and partial lineage of the end of book 10 has been added to the lineage at the end of the Upaniṣad (in its Kāṇva recension) suggests that the situation may be more complex than that. It suggests, for example, that the author of the (partial) lineage at the end of book 10 of the Brāhmaṇa looked upon the lineage at the end of the Upaniṣad as belonging to much more than only portion III of the Upaniṣad; probably, as Renou proposes, as belonging to the whole Brāhmaṇa, including the Upaniṣad but excluding books 6-10. [^11]
+By coincidence we know where "Pautimāṣya" got his alternative beginning of the lineage from, for exactly the same passage-beginning with samānamā sāṃ̃̃vīputrāt which is then followed by the genealogy reproduced on the right hand side of table 2 aboveoccurs elsewhere in the Śatapatha Brāhmaṇa, at ŚPaBr 10.6.5.9, i.e. at the end of books 6-10 (both Mādhyandina and Kāṇva). There this passage occurs all on its own, and is not accompanied by the lineage that occurs at the end of the Upanişad. Renou (1948: 76 [886]) concludes from the implicit reference here to the end of the Upanişad that books 6-10 were made, or at least completed, after the books of Yājñavalkya (i.e., ŚPaBr 1-5 and 11-14). This may be so, but the fact that the final and partial lineage of the end of book 10 has been added to the lineage at the end of the Upaniṣad (in its Kāṇva recension) suggests that the situation may be more complex than that. It suggests, for example, that the author of the (partial) lineage at the end of book 10 of the Brāhmaṇa looked upon the lineage at the end of the Upaniṣad as belonging to much more than only portion III of the Upaniṣad; probably, as Renou proposes, as belonging to the whole Brāhmaṇa, including the Upaniṣad but excluding books 6-10. [^11]
 
 [^11]: It is interesting to recall in this context that the Sāṇdilya books (ŚPaBr(M) 6-10; ŚPaBr(K) 8-12 ), according to Caland (1926: 105), did not originally form part of the Kāṇva Brāhmaṇa. He elaborates: "Probably the Kāṇvas had at one time lost the exposition of the cayana ritual and replaced it by the Sāṇdilya books (M. 6-10 ) as now known to us, no effort being made to bring the text into agreement with the Kāṇva tradition as fixed in their Saṃhitā." Horsch (1965: 229 n. 5) has the following to say about the partial genealogy added to book 10 of the Śatapatha Brāhmaṇa: "Es handelt sich um die Mādhyamḍina-Tradition, während diese Liste in BĀU(M) felht. Śatapatha Brāhmaṇa (M) wurde also von der Kāṇva-Schule überarbeitet." See also Eggeling, 1881: xxxi ff.
 
@@ -2506,7 +2513,7 @@ The supposition that this alternative version of part of the lineage has been ad
 
 However, portion II sings an altogether different tune. This whole portion is dedicated to the figure of Yājñavalkya, who appears here as invariably successful in his endeavours. One of his feats is a debate (BĀrUp(K) 3) which supposedly took place at the court of King Janaka and in which Yājñavalkya put various learned Brahmins to shame; the consequences are worst for one of them, Śākalya, whose head shatters apart. [^12] Most of this does not necessarily contradict the information about Yājñavalkya which we derive from portion III, but some passages do. One of his unfortunate opponents during this debate is none else than Uddālaka, and even though Uddālaka physically survives this ordeal, he comes out of it a big loser. It did not help that he had started the discussion with a threat directed at Yājñavalkya (BĀrUp(K) 3.7.1: "if you drive away the cows meant for the Brahmins, Yājñavalkya, without knowing what that string is and who that inner controller is, your head will shatter apart"), for in the end Uddālaka is silenced by Yājñavalkya's superior knowledge. There is no hint in this part of the Upaniṣad that Yājñavalkya was, or had ever been, Uddālaka's pupil, and indeed this information would no doubt have turned Yājñavalkya from a supremely wise debater into an impertinent and ungrateful rascal in the eyes of his later admirers. [^13]
 
-[^12]: The same vidagdha Sākalya gets another stab at ŚPaBr(K) 4.1 .7$, where Yājñavalkya shows that one of his opinions is not up to the mark. This Sākalya, by the way, had already died once as a result of defeat in a debate with Yājñavalkya at SPaBr 11.6.3; see below.
+[^12]: The same vidagdha Sākalya gets another stab at ŚPaBr(K) 4.1 .7, where Yājñavalkya shows that one of his opinions is not up to the mark. This Sākalya, by the way, had already died once as a result of defeat in a debate with Yājñavalkya at SPaBr 11.6.3; see below.
 
 This confrontation between Yājñavalkya and Uddālaka easily explains why the person who collected the different portions of the Bṛhadāraṇyaka Upaniṣad (was it Pautimāṣya?) felt uncomfortable with a lineage in which Yājñavalkya was clearly presented as the pupil of Uddālaka. [^14] He thus had a second reason for proposing a corrected version of the lineage. We can only be grateful that, in spite of his misgivings, he also left us the older lineage.
 
@@ -2556,7 +2563,7 @@ These modifications are far from innocent. Nothing in Yājñavalkya's instructio
 
 Yājñavalkya's instruction of his wife in portion I has a lot to say about the self (ātman) in which the whole world resides, but culminates in the teaching that "after death there is no awareness" (BĀrUp(K) 2.4.12: na pretya samjñāsti). [^27] Significantly, the instruction in portion II appears to play down this position. [^28] Where in portion I Maitreyī reacts by saying "Now you have totally confused me by saying 'after death there is no awareness'" (BĀrUp(K) 2.4.13: atraiva mā bhagavān amūmuhan na pretya samjñāstiti), her reaction in portion II is: "Now, sir, you have utterly confused me! I cannot perceive this at all." (BĀrUp(K) 4.5.14: atraiva mā bhagavān mohāntam āpīpipat / na vā aham imaṃ vijānāmīti /). Hanefeld (1976: 87) comments:
 
-[^25]: In version I we find at its place alam vā ara idam vijñānāya, which Olivelle, following Thieme, translates: "this body, you see, has the capacity to perceive". Hanefeld translates (p. 81, 87): "hinreichend ist dies [Gesagte] für die Erkenntnis". Slaje (2002: 215), having translated "Look, what [I just said] (idam) truly serves (alam) [your] understanding (vijñānāya):", then adds a footnote (n. 24) in which he states: "The Mādhyandina recension instead reads: "Look, actually imperishable, this [your] central instance [of cognition] (ātman) here bears [indeed] the property of indestructibility. However, it [re]joins with (samsarga) [its causes,] the 'material' components (mātrā)." Here Slaje refers by mistake to the Mādhyandina recension of the story as told in portion II, i.e. to $\mathrm{B} \bar{A} r \mathrm{Up}(\mathrm{M}) 4.5 .15=\mathrm{S} \mathrm{PaBr} 14.7 .3 .15$. The Mādhyandina version corresponding to the present passage does not differ from the Kāṇva one.
+[^25]: In version I we find at its place alam vā ara idam vijñānāya, which Olivelle, following Thieme, translates: "this body, you see, has the capacity to perceive". Hanefeld translates (p. 81, 87): "hinreichend ist dies [Gesagte] für die Erkenntnis". Slaje (2002: 215), having translated "Look, what [I just said] (idam) truly serves (alam) [your] understanding (vijñānāya):", then adds a footnote (n. 24) in which he states: "The Mādhyandina recension instead reads: "Look, actually imperishable, this [your] central instance [of cognition] (ātman) here bears [indeed] the property of indestructibility. However, it [re]joins with (samsarga) [its causes,] the 'material' components (mātrā)." Here Slaje refers by mistake to the Mādhyandina recension of the story as told in portion II, i.e. to BĀrUp(M) 4.5 .15 = ŚPaBr 14.7 .3 .15. The Mādhyandina version corresponding to the present passage does not differ from the Kāṇva one.
 [^26]: For an analysis of Yājñavalkya's thought in version I, see Slaje, 2002. Slaje characterizes the thought here expressed as "hylozoic" and describes it as "archaic, pre-systemic thought which has not yet reached the clear-cut differentiation between the ontological concepts of 'mind' and 'matter' as achieved by other and obviously later philosophers".
 [^27]: Recall that the Cārvākas invoked this statement to support their doctrinal position, as shown in chapter IIB.2, above.
 [^28]: It is for this reason that the part of Śabara's Mīmāṃsā Bhāṣya that criticizes this position quotes other passages from portion I, not from portion II. Slaje (2006: 141 n. 94) rightly states: "From the narrower context of [BĀrUp] 2.4 (= portion I) a similar procedure would not have been possible, because virtually all of the counter-statements relevant for the Mīmāṃsaka are entirely lacking there." See further Appendix VIII, below.
@@ -2641,7 +2648,7 @@ The word anuvyākhyāna occurs four times in Vedic literature, three times in th
 
 > *rgvedo yajurvedaḥ sāmavedo 'tharvāñgirasa itihāsah purānaṃ vidyā upaniṣadah ślokāh sūtrāny anuvyākhyānāni vyākhyānāni*
 
-Paul Horsch discussed some of the terms of this enumeration in his Die vedische Gāthā- und Śloka-Literatur. The terms anuvyākhyāna and vyākhyāna, he argued (1966: 32), cannot but refer to texts that explain (vyākhyā-$-). They must be predecessors of the later commentatorial literature. With regard to anuvyākhyāna he expressed the opinion that this can only be an additional or extended vyākhyāna (p. 32). [^41]
+Paul Horsch discussed some of the terms of this enumeration in his Die vedische Gāthā- und Śloka-Literatur. The terms anuvyākhyāna and vyākhyāna, he argued (1966: 32), cannot but refer to texts that explain (vyākhyā-). They must be predecessors of the later commentatorial literature. With regard to anuvyākhyāna he expressed the opinion that this can only be an additional or extended vyākhyāna (p. 32). [^41]
 
 This opinion is problematic. The position of anuvyākhyāna between sūtra and vyākhyāna suggests rather that, if anything, the vyākhyāna is secondary to the anuvyākhyāna, which in its turn might conceivably be some kind of commentary on the sūtra. The enumeration, moreover, seems to display a hierarchical structure, beginning as it does with the 'five Vedas' (itihāsa and purāna being occasionally referred to as 'the fifth Veda'; see Bronkhorst, 1989b: 129 f.) which supports the idea that anuvyākhyāna is 'higher' than vyākhyāna and 'lower' than sūtra.
 
@@ -2687,7 +2694,7 @@ Since khyā replaces the root cakṣ beforeā ārdhadhātuka suffixes by P. 2.4.
 
 ---
 
-(i) The word anvācaṣte in Patañjali's Mahābhāṣya occurs most often in the expressionā c \bar{a} r y a h$ suhṛd bhūtvā anvācaṣte, which appears to refer in all cases but one-where it refers to Pāṇini [^48]-to Kātyāyana (see Bronkhorst, 1987: 6 f.).
+(i) The word anvācaṣte in Patañjali's Mahābhāṣya occurs most often in the expression ācāryaḥ suhṛd bhūtvā anvācaṣte, which appears to refer in all cases but one-where it refers to Pāṇini [^48]-to Kātyāyana (see Bronkhorst, 1987: 6 f.).
 
 In four of the five remaining cases [^49] it can reasonably be argued that anvācaṣte has Kātyāyana as (understood) subject, even though Kielhorn's edition of the Mahābhāṣya contains no indication to this effect. They all occur in the following general context:
 
@@ -2839,11 +2846,11 @@ The so-called Pārājika rules of the Buddhists necessarily play a central role 
 [^4]: Oberlies, 1997: 196-197: "Es dürfte deutlich geworden sein, wie viel an Übereinstimmung zwischen dem Regelwerk der Brahmanen, der Buddhisten und der Jainas besteht. Chronologische Überlegungen machen es in hohem Masse wahrscheinlich, dass dieses innerhalb der vedisch-brahmanischen Kultur entstanden ist." It is puzzling that in another publication Oberlies (2004, esp. p. 125) presents the "Śramaṇa-Bewegung" as being older than the early Upaniṣads; this chronological relationship may not, in Oberlies's opinion, apply to the doctrine of karma, for he points out in a note (p. 123 n .7 ) that this doctrine is presented as new by Yājñavalkya in BĀrUp 3.2.13.
 [^5]: Oberlies (1997: 172 n. 4) refers to Jacobi's arguments in support of the chronological priority of the Brahmanical texts, but all he says about them is that at least one of these arguments-Jacobi's reliance on an early date for the Gautama Dharma Sūtra - has meanwhile been shown to be without value.
 
-The modern scholarly discussion about non-violence (ahimsaā$ ) is related to the question of asceticism in the three main traditions. Predictably several scholars (e.g. Schmidt, 1968; 1997; Tull, 1996) maintain that this idea has Vedic roots, [^8] but there are others who are critical about this. In a recent article Bodewitz (1999: 33), referring to a paper in which it is once again claimed that the ascetic renouncers of the so-called śramaṇa tradition "seem to have adopted non-violence from Brāhmaṇic circles", objects against this claim and complains about the fact "that even now such rather unfounded conclusions are uncritically repeated". Hans-Peter Schmidt, whose earlier article on the subject (1968) was very influential, realizes in his more recent contribution (1997) that there are difficulties with his earlier position. [^9] He mentions the opinion according to which the history of Jainism may go back to the tīrthankara Pārśva who presumably lived around the 9th-8th century BCE, [^10] and refers to Jaini's argument to the effect "that the Jainas have no memory of a time when they fell within the Vedic fold and could accordingly not have started as an ahimsā$ oriented sect with the Vedic tradition". Schmidt responds (p. 219): "Even if one concedes the rather vague possibility that Buddhism and Jainism originated in a completely different milieu than Vedism, the question remains against which practices the ascetic movements were directed." Since Schmidt does not explain his own words, we are left to wonder why we should assume that the ascetic movements must be thought of as being directed against any practices at all, and therefore as protest movements. [^11] We have seen that ascetic movements such as Jainism and Buddhism had more important things to worry about, viz., freedom from karmic retribution, yet the desire to see them as protest movements has been very persistent in modern scholarship, partly on account of the comparison of Buddhism with Protestantism in Christianity. [^12] Once we give up the idea that the ascetic movements were directed against certain practices, we are free to "concede the [...] possibility that Buddhism and Jainism originated in a completely different milieu than Vedism". [^13]
+The modern scholarly discussion about non-violence (ahimsaā ) is related to the question of asceticism in the three main traditions. Predictably several scholars (e.g. Schmidt, 1968; 1997; Tull, 1996) maintain that this idea has Vedic roots, [^8] but there are others who are critical about this. In a recent article Bodewitz (1999: 33), referring to a paper in which it is once again claimed that the ascetic renouncers of the so-called śramaṇa tradition "seem to have adopted non-violence from Brāhmaṇic circles", objects against this claim and complains about the fact "that even now such rather unfounded conclusions are uncritically repeated". Hans-Peter Schmidt, whose earlier article on the subject (1968) was very influential, realizes in his more recent contribution (1997) that there are difficulties with his earlier position. [^9] He mentions the opinion according to which the history of Jainism may go back to the tīrthankara Pārśva who presumably lived around the 9th-8th century BCE, [^10] and refers to Jaini's argument to the effect "that the Jainas have no memory of a time when they fell within the Vedic fold and could accordingly not have started as an ahimsā oriented sect with the Vedic tradition". Schmidt responds (p. 219): "Even if one concedes the rather vague possibility that Buddhism and Jainism originated in a completely different milieu than Vedism, the question remains against which practices the ascetic movements were directed." Since Schmidt does not explain his own words, we are left to wonder why we should assume that the ascetic movements must be thought of as being directed against any practices at all, and therefore as protest movements. [^11] We have seen that ascetic movements such as Jainism and Buddhism had more important things to worry about, viz., freedom from karmic retribution, yet the desire to see them as protest movements has been very persistent in modern scholarship, partly on account of the comparison of Buddhism with Protestantism in Christianity. [^12] Once we give up the idea that the ascetic movements were directed against certain practices, we are free to "concede the [...] possibility that Buddhism and Jainism originated in a completely different milieu than Vedism". [^13]
 
 [^6]: Hinüber, 1999: 22-23 (with references to the secondary literature in notes): "Die einschlägigen 'Gelübde' (vrata) für vedische Asketen finden sich im BaudhāyanaDharmasūtra, die fünf Mahāvratas für Jaina-Mönche im Āyārañgasutta und in anderen Jaina-Texten. Über das Verhältnis dieser beiden Texte zueinander und zu den Buddhistischen Parallelen lassen sich allenfalls vage Vermutungen anstellen, da die Textchronologie ebenso unklar ist wie der genaue Ort ihrer Entstehung. Es ist daher oft nicht erkennbar, in welcher Schule Neuerungen eingeführt wurden, etwa um sich von anderen zu unterscheiden. Diese Unsicherheit in der Beurteilung der Textgrundlage gilt in ganz besonderem Masse für das Baudhāyana-Dharmasūtra, dessen Abschnitt über die Gelübde eines Asketen als späterer Zusatz gelten muss." Surprisingly, Oberlies's article refers to, and therefore knows, Hinüber's publication.
 [^7]: Oberlies (1997: 197), too, is interested in the original form (Urgestalt) of ascetic rules, but in his opinion "massgeblich muss dabei die vedisch-brahmanische Form der Vorschrift sein".
-[^8]: Others (e.g., Alsdorf, 1962) postulate pre-Aryan roots. Schmithausen (2000) takes no position but analyses the motivation underlying ahimsā$.
+[^8]: Others (e.g., Alsdorf, 1962) postulate pre-Aryan roots. Schmithausen (2000) takes no position but analyses the motivation underlying ahimsā.
 [^9]: Note Houben, 1999: 124-125 n. 35: "When Schmidt (1997: 228) observes: 'My main argument was and is that the Vedic sources do allow us to reconstruct a development within the Vedic culture,' one may answer: It may be possible to do so, but the exercise is not called for: we know that intensive and dynamic relationships existed between Vedic and non-Vedic groups even before the development under discussion became noticeable."
 [^10]: This date is to be taken with great caution. If we accept literally the distance of 250 years which traditionally separates Pārśva from Mahāvīra, the accuracy of which is not guaranteed, and take into consideration recent thought about the date of the Buddha, and therefore of Mahāvīra, we come to a date for Pārśva in the 7 th century BCE.
 [^11]: Schmidt further argues (1997: 219): "That Buddhism was a reaction against late Vedic ideas would appear from the anātman-doctrine which can hardly be anything but a criticism of the ātman-doctrine." This argument is without value, because, to put it succinctly, the ātman-doctrine rejected by the Buddhists was not a late-Vedic idea, but an idea introduced into late-Vedic texts under the influence of the culture of Greater Magadha; all this has been dealt with in extenso above.
@@ -2863,7 +2870,7 @@ These findings raise new questions for future research that can only be alluded 
 
 We have seen that the centuries preceding the Common Era saw two altogether different cultures that existed next to each other without profoundly influencing each other (initially). Both belonged to speakers of Indo-Aryan languages. The question that imposes itself is how such a situation might have come about. It is clear that the idea of a linear development of culture, with different temporal instalments succeeding each other, paralleled by a presumably linear linguistic development from Old Indo-Aryan to Middle Indo-Aryan, can no longer be maintained. Our study confronts us with speakers of Middle Indo-Aryan whose culture was not derived from Vedic culture, but existed next to it.
 
-This observation is not altogether new. In recent years various scholars have warned against confusing linguistic and cultural denominations. [^1] Asko Parpola, for example, observed in 1988 that "we must distinguish between the modern use of the name 'Aryan' to denote a branch of the Indo-European language family, and the ancient tribal name used of themselves by many, but not necessarily all, peoples who have spoken those languages" (Parpola, 1988: 219). George Erdosy stated in 1995: "Until recently, archaeologists, and to a lesser extent linguists, had persistently confused 'Aryans' with 'Indo-Aryans'" (Erdosy, 1995c: 3). In another publication of the same year he adopted the view that the āryas were indigenous to South Asia, noting that "the identification ofā r y a s$ as racial or linguistic groups originating outside South Asia is questionable on the following grounds. First, while the Rigveda contains accounts of migrations and is replete with battles, it preserves no memory of a foreign ancestry; ārya tribes appear in the northwest of the subcontinent and from the beginning fight each other as well as non-āryas. Second, āryas see themselves as subscribers to a set of religious beliefs and social conventions [...], and not as physiologically or linguistically distinct." [^2] He then continues: "Coupled with the undeniable fact thatā r y a s$ speak a language with striking structural similarities to languages outside South Asia, the following conclusions seem inescapable: (1) While Indo-European languages may well have spread to South Asia through migration, the āryas were not their carriers. (2) Aryas do not constitute a racial group; rather belonging to diverse ethnic groups, they are distinguished by a set of ideas and it is these-instead of the people holding them - which spread rapidly over the subcontinent." (Erdosy, 1995b: 89-90). [^3] A number of scholars, moreover, distinguish, on linguistic or other grounds, two or more waves of immigration of "Aryans" (i.e., Indo-Aryans); [^4] this then raises the question as to which wave is responsible for the composition of the Veda: one of these, or all of them, each a different part? Parpola has a tendency to see contributions of different waves in Vedic religion. This does not prevent him from stating: "Māgadhī, the language of Magadha, is the easternmost Aryan dialect of which we have knowledge in Vedic times. Speakers of Proto-Māgadhī must have moved to the Gangetic Valley fairly early, before it was occupied by the Vedic Aryans. On their eastward advance from the GangesYamuna Doab, the Vedic Aryans encountered non-Vedic people worshipping 'demons' (asura), and the abominable language which they spoke resembles the later Māgadhī Prakrit." (Parpola, 2002: 257). [^5] Investigations along these lines, which are beyond the scope of this book, may one day account for the situation that prevailed in nothern India during the centuries preceding the Common Era. [^6]
+This observation is not altogether new. In recent years various scholars have warned against confusing linguistic and cultural denominations. [^1] Asko Parpola, for example, observed in 1988 that "we must distinguish between the modern use of the name 'Aryan' to denote a branch of the Indo-European language family, and the ancient tribal name used of themselves by many, but not necessarily all, peoples who have spoken those languages" (Parpola, 1988: 219). George Erdosy stated in 1995: "Until recently, archaeologists, and to a lesser extent linguists, had persistently confused 'Aryans' with 'Indo-Aryans'" (Erdosy, 1995c: 3). In another publication of the same year he adopted the view that the āryas were indigenous to South Asia, noting that "the identification of āryas as racial or linguistic groups originating outside South Asia is questionable on the following grounds. First, while the Rigveda contains accounts of migrations and is replete with battles, it preserves no memory of a foreign ancestry; ārya tribes appear in the northwest of the subcontinent and from the beginning fight each other as well as non-āryas. Second, āryas see themselves as subscribers to a set of religious beliefs and social conventions [...], and not as physiologically or linguistically distinct." [^2] He then continues: "Coupled with the undeniable fact that āryas speak a language with striking structural similarities to languages outside South Asia, the following conclusions seem inescapable: (1) While Indo-European languages may well have spread to South Asia through migration, the āryas were not their carriers. (2) Aryas do not constitute a racial group; rather belonging to diverse ethnic groups, they are distinguished by a set of ideas and it is these-instead of the people holding them - which spread rapidly over the subcontinent." (Erdosy, 1995b: 89-90). [^3] A number of scholars, moreover, distinguish, on linguistic or other grounds, two or more waves of immigration of "Aryans" (i.e., Indo-Aryans); [^4] this then raises the question as to which wave is responsible for the composition of the Veda: one of these, or all of them, each a different part? Parpola has a tendency to see contributions of different waves in Vedic religion. This does not prevent him from stating: "Māgadhī, the language of Magadha, is the easternmost Aryan dialect of which we have knowledge in Vedic times. Speakers of Proto-Māgadhī must have moved to the Gangetic Valley fairly early, before it was occupied by the Vedic Aryans. On their eastward advance from the GangesYamuna Doab, the Vedic Aryans encountered non-Vedic people worshipping 'demons' (asura), and the abominable language which they spoke resembles the later Māgadhī Prakrit." (Parpola, 2002: 257). [^5] Investigations along these lines, which are beyond the scope of this book, may one day account for the situation that prevailed in nothern India during the centuries preceding the Common Era. [^6]
 
 [^1]: Already Max Müller warned against confusing linguistic and racial terminology: "I have declared again and again that if I say Aryas, I mean neither blood nor bones, nor hair nor skull; I mean simply those who speak an Aryan language [...]." Cited in Di Constanzo, 2004: 96.
 [^2]: Cp. Kuiper, 1991: 96: "As a sociological term 'Aryan' denotes all those who took part in the sacrifices and festivals."
@@ -2992,7 +2999,7 @@ There are therefore good reasons to interpret the passage from Śañkara's Brahm
 
 > [Objection:] Has the existence of a self that is different from the body and capable of enjoying the fruits of the Śāstra not [already] been stated at the very beginning of the [present] Śāstra, in the first Pāda [of the Brahma Sūtra and its Bhāṣya]?
 > 
-> [Answer:] That is true; it has been stated by the author of the [Brahma Sūtra-]Bhāṣya (i.e., by Śañara himself). [^11] But there (i.e., at the beginning of the Brahma Sūtra) there is no sūtra about the existence of a self. Here (i.e., in Brahma Sūtra 3.3.53), on the other hand, the existence of the [self] has been established, after an initial objection, by the author of the Sūtra himself. And having taken it from here itself,ā c a ̄ r y a$ Śabarasvāmin has described [the existence of the self] in [the section of the Mīmāṃsā Bhāṣya] dealing with the means of valid cognition. Therefore also the revered Upavarṣa in the first Tantra (i.e. in his commentary on the Mīmāṃsā Sūtra), when he had to discuss the existence of the self, contented himself with saying: 'We shall explain this in the Śārīraka'.
+> [Answer:] That is true; it has been stated by the author of the [Brahma Sūtra-]Bhāṣya (i.e., by Śañara himself). [^11] But there (i.e., at the beginning of the Brahma Sūtra) there is no sūtra about the existence of a self. Here (i.e., in Brahma Sūtra 3.3.53), on the other hand, the existence of the [self] has been established, after an initial objection, by the author of the Sūtra himself. And having taken it from here itself, ācārya Śabarasvāmin has described [the existence of the self] in [the section of the Mīmāṃsā Bhāṣya] dealing with the means of valid cognition. Therefore also the revered Upavarṣa in the first Tantra (i.e. in his commentary on the Mīmāṃsā Sūtra), when he had to discuss the existence of the self, contented himself with saying: 'We shall explain this in the Śārīraka'.
 
 This way of understanding Śañara's reference to the first Pāda agrees with the way in which he refers to the first, second and third *adhyāya*s. Wherever in his Brahma Sūtra Bhāṣya he refers to *adhyāya*s, they are *adhyāya*s of his Brahma Sūtra Bhāṣya (or of the Brahma Sūtra), numbered according to the position they have in his own work. Śañara refers to the "first *adhyāya* " at the very beginning of the second adhyāya of his Brahma Sūtra Bhāṣya. There can be no doubt that here it concerns the first adhyāya of the Brahma Sūtra (Bhāṣya), not of ritual Mīmāṃsā. Similarly, the "second adhyāya" referred to at the very beginning of the third adhyāya and under Brahma Sūtra 2.1.1 clearly refers to Śankara's own second chapter (or to that chapter of the Brahma Sūtra). The same applies to the "third adhyāya" referred to at the beginning of chapter four and under Brahma Sūtra 3.1.1. [^12]
 
@@ -3050,7 +3057,7 @@ It goes without saying that Mīmāṃsā Sūtra 1.2.1 constituted a challenge fo
 
 Padmapāda-like Sureśvara probably a pupil of Śañara (Hacker, 1951: 1929-30 (= (23)-(24); Ungemach, 1996) and therefore a contemporary of the former-disagrees with Sureśvara where the authorship of the Brahma Sūtra is concerned. [^22] He does so in the following passage: [^23]
 
-> And as to where or how the Vedic texts relating to the cognition of the existent entity (serve as a pramāna) is not explained by the revered Jaimini since in accordance with this resolve he set about investigating into the nature of Dharma only and since such knowledge (i.e., ofā t m a n$ as distinguished from the body) is not to the purpose. But the revered Bādarāyaṇa on the other hand having resolved to inquire into a different topic altogether, has expounded (the subject of the separate existence of ātman) in the 'samanvayādhikarana'-[Brahma Sūtra] I.1.1-4.
+> And as to where or how the Vedic texts relating to the cognition of the existent entity (serve as a pramāna) is not explained by the revered Jaimini since in accordance with this resolve he set about investigating into the nature of Dharma only and since such knowledge (i.e., of ātman as distinguished from the body) is not to the purpose. But the revered Bādarāyaṇa on the other hand having resolved to inquire into a different topic altogether, has expounded (the subject of the separate existence of ātman) in the 'samanvayādhikarana'-[Brahma Sūtra] I.1.1-4.
 
 [^20]: Sureśvara repeats his position again in the immediately following sentence: "It is only the Vedic texts related to commands that bear on action" (adhiodanaṃ ya āmnāyas taṣyaiva syāt kriyārthatā̄; tr. Alston, 1959: 67).
 [^21]: BŚūBhā on sūtra 1.1.4 (ed. J. L. Shastri p. 94 1. 1-2). See further below.
@@ -3079,7 +3086,7 @@ Let us now consider some further passages that have a bearing on the relationshi
 It is not clear from this statement whether Rāmānuja still knew the long commentary of Bodhāyana or only the condensed versions prepared by the Ācāryas he mentions. [^27] Mesquita (1984: 179-180) surmises that he knew Bodhāyana's commentary in fragmentary form; this would explain that there are only seven quotations from this Vṛtti, all from the first adhyāya, in the Śrī Bhāṣya. When, therefore, Rāmānuja cites a few pages later an unspecified Vṛtikāra, it is not fully clear whether the author cited is Bodhāyana (which seems probable), or someone else. The unspecified Vṛttikāra is cited in the following passage: [^28]
 
 [^26]: Rāmānuja, Śrī Bhāṣya I p. 2.
-[^27]: Rāmānuja's Vedārthasaṃgraha (§ 93; van Buitenen, 1956: 128; Matsumoto, 2003: 39) refers to "old commentaries on [Veda and] Vedānta, accepted by recognized scholars, [and composed] by Bodhāyana, Ṭañka, Dramiḍa, Guhadeva, Kapardi(n), Bhāruci etc." (some manuscripts omit ${ }^{\text {Veda }}{ }^{\text {® }}$ ). Rāmānuja's predecessor Yāmuna mentions as commentators on the Brahma Sūtra Dramiḍa (some editions merely say bhāṣyakrt) and Śrīvatsāṅkamiśra, and enumerates furthermore the following thinkers: Ṭañka, Bhartrprapañca, Bhartṛmitra, Bhartṛhari, Brahmadatta, Śaṅkara, Śrīvatsāṅka and Bhāskara (Ātmasiddhi p. 9-10; cf. Neveel, 1977: 66 ff., 100; Mesquita, 1979: 165-166). A seventeenth century work in the tradition of Viśisṭādvaita, Śrīnivāsa's Yatipatimatadīpikā (= Yatīndramatadīpikā; p. 1), enumerates Vyāsa, Bodhāyana, Guhadeva, Bhāṇaruci, Brahmānandi(n), Draviḍācārya, Śrīparāṃkuśa, Nātha, Yāmunamuni, Yatīśvara etc. as the names of earlier teachers. For the twenty-one earlier commentators of the Brahma Sūtra enumerated by Madhva, see B. N. K. Sharma, 1981: 98. For a discussion of several of these thinkers, see Nakamura, 2004: 61 ff .
+[^27]: Rāmānuja's Vedārthasaṃgraha (§ 93; van Buitenen, 1956: 128; Matsumoto, 2003: 39) refers to "old commentaries on [Veda and] Vedānta, accepted by recognized scholars, [and composed] by Bodhāyana, Ṭañka, Dramiḍa, Guhadeva, Kapardi(n), Bhāruci etc." (some manuscripts omit °veda°). Rāmānuja's predecessor Yāmuna mentions as commentators on the Brahma Sūtra Dramiḍa (some editions merely say bhāṣyakrt) and Śrīvatsāṅkamiśra, and enumerates furthermore the following thinkers: Ṭañka, Bhartrprapañca, Bhartṛmitra, Bhartṛhari, Brahmadatta, Śaṅkara, Śrīvatsāṅka and Bhāskara (Ātmasiddhi p. 9-10; cf. Neveel, 1977: 66 ff., 100; Mesquita, 1979: 165-166). A seventeenth century work in the tradition of Viśisṭādvaita, Śrīnivāsa's Yatipatimatadīpikā (= Yatīndramatadīpikā; p. 1), enumerates Vyāsa, Bodhāyana, Guhadeva, Bhāṇaruci, Brahmānandi(n), Draviḍācārya, Śrīparāṃkuśa, Nātha, Yāmunamuni, Yatīśvara etc. as the names of earlier teachers. For the twenty-one earlier commentators of the Brahma Sūtra enumerated by Madhva, see B. N. K. Sharma, 1981: 98. For a discussion of several of these thinkers, see Nakamura, 2004: 61 ff .
 
 > The Vṛttikāra states this [in the following words]: "After the knowledge of karma which has been acquired, there is desire to know Brahma." And he will state that Karmamīmāṃsā and Brahmamīmāṃsā are one Śāstra, in the words: "This Śārīraka has been joined with the sixteenfold [composition] of Jaimini, [^29] and that proves that the two Śāstras are one."
 
@@ -3493,7 +3500,7 @@ It will be clear from the above that we are entitled to accept, at least provisi
 
 [^12]: See Filliozat, 1953: 691; Slaje, 1993: 49.
 
-Much of chapter 212 is concerned with enumerations of elements that make up the person. These enumerations are interesting in themselves, but do not particularly concern us in our present investigation. [^13] We are primarily interested in the general picture of Pañcaśikha's thought, and as such our questions are similar to the ones asked by Janaka and translated above. We have found confirmation for the idea that, in Pañcaśikha's opinion, their is no consciousness (samjnā$ ) after death. In order to understand this better, we will wish to know what happens at death. This issue had been addressed in chapter 211; the expression there used was sattvasamksaya "the waning away of a being" (12.211.33 and 38). Pañcaśikha's view of death had found expression in verse 38-39, and was: "Seasons, years, the lunar days, winter and summer, pleasant and unpleasant, as they see these that have passed by - such is the waning away of a being. Of one possessed by old age or annihilating death, this weak element first and then that weak element vanish, as of a house." Chapter 212 uses the same expression sattvasamksaya, and now puts the following explanation in the mouth of Pañcaśikha (Mhbh 12.212.42):
+Much of chapter 212 is concerned with enumerations of elements that make up the person. These enumerations are interesting in themselves, but do not particularly concern us in our present investigation. [^13] We are primarily interested in the general picture of Pañcaśikha's thought, and as such our questions are similar to the ones asked by Janaka and translated above. We have found confirmation for the idea that, in Pañcaśikha's opinion, their is no consciousness (samjnā ) after death. In order to understand this better, we will wish to know what happens at death. This issue had been addressed in chapter 211; the expression there used was sattvasamksaya "the waning away of a being" (12.211.33 and 38). Pañcaśikha's view of death had found expression in verse 38-39, and was: "Seasons, years, the lunar days, winter and summer, pleasant and unpleasant, as they see these that have passed by - such is the waning away of a being. Of one possessed by old age or annihilating death, this weak element first and then that weak element vanish, as of a house." Chapter 212 uses the same expression sattvasamksaya, and now puts the following explanation in the mouth of Pañcaśikha (Mhbh 12.212.42):
 
 > yathāṃavagatā nadyo vyaktīr jahati nāma ca / \
 > na ca svatāṃ niyacchanti tādrśah sattvasamksayah //
@@ -3509,7 +3516,7 @@ It is immediately after this verse that Pañcaśikha confirms that there can be 
 
 [^13]: Cf. van Buitenen, 1988: 44.
 
-In these verses Pañcaśikha appears as someone who thinks that the part of the person which we might call "soul" (jīva) is mixed up with other souls at death in such a manner that no samjñaā$ can possibly remain. This suggests that samjñaā$ is understood here, not as consciousness in general, but rather as personal consciousness, i.e. the individual consciousness that distinguishes one person from another.
+In these verses Pañcaśikha appears as someone who thinks that the part of the person which we might call "soul" (jīva) is mixed up with other souls at death in such a manner that no saṃjñā can possibly remain. This suggests that saṃjñā is understood here, not as consciousness in general, but rather as personal consciousness, i.e. the individual consciousness that distinguishes one person from another.
 
 How do we have to conceive of this individual soul? It is obviously something individual and something which one person does not share with another. Pañcaśikha gives some specifications in verses 40-41, which also answer the king's fear that "everything would have dissolution as basis" (sarvam ucchedanisṭham syāt; verse 3), saying (Mhbh 12.212.40-41):
 
@@ -3569,7 +3576,7 @@ Leopold von Schroeder (1879: 194 f.; 1881-86: 1: x1 f., 2: viii f.) has argued t
 
 [^1]: The value of this case is somewhat in doubt since TaitBr 2.8.2.5 cites the same mantra as RV 10.47.1 with jagrbhnā̄; it may have contained jagrbhma.
 
-The following Vedic forms are attested only in the Kāṭhaka Saṃhitā (cf. Schroeder, 1880; 1895): ramayām akab (P. 3.1.42) at KāṭhS 7.7; upacāyyapṛ̣̣a (P. 3.1.123) at KāṭhS 11.1; and ksariti (P. 7.2.34) at KāṭhS 12.11. One word occurs only in the Kāṭhaka Saṃhitā and in the Kapiṣthala Saṃhitā. Since the latter "is practically a variant of the Kāṭhaka" (Gonda, 1975: 327), it is here included: jagatya- (P. 4.4.122) at KāṭhS 1.8 KapS 1.8, and at KāṭhS 31.7. Adhvarya in P. 3.1.123 may indicate acquaintance with KāṭhS $35.7=$ KapS 48.9 (Thieme, 1935: 23-24; Gotō, 1987: 191 n. 355).
+The following Vedic forms are attested only in the Kāṭhaka Saṃhitā (cf. Schroeder, 1880; 1895): ramayām akab (P. 3.1.42) at KāṭhS 7.7; upacāyyapṛ̣̣a (P. 3.1.123) at KāṭhS 11.1; and ksariti (P. 7.2.34) at KāṭhS 12.11. One word occurs only in the Kāṭhaka Saṃhitā and in the Kapiṣthala Saṃhitā. Since the latter "is practically a variant of the Kāṭhaka" (Gonda, 1975: 327), it is here included: jagatya- (P. 4.4.122) at KāṭhS 1.8 KapS 1.8, and at KāṭhS 31.7. Adhvarya in P. 3.1.123 may indicate acquaintance with KāṭhS 35.7= KapS 48.9 (Thieme, 1935: 23-24; Gotō, 1987: 191 n. 355).
 
 A Vedic form found exclusively in a verse of the Atharvaveda (AVŚ 6.16.3, AVP 19.5.8) is ailayīt. Thieme (1935: 64) maintained that it is formed by P. 3.1.51, and concluded from it that Pānini knew that verse. Falk (1993a: 209-210), however, has drawn attention to complications which invalidate this conclusion. [^2] Śvatāti (P. 4.4.143) is only found at AVP 5.36.1-9. The word māmakī, formed by P. 4.1.30, occurs only AVP 6.6.8. [^3]
 
@@ -3581,7 +3588,7 @@ Two Vedic forms occur in the Lātyāyana Śrauta Sūtra of the Sāmaveda and now
 
 We turn to forms excluded by Pāṇini.
 
-P. 3.1.35 (kāspratyayādā m$ amantre litī) forbids a periphrastic perfect to occur in a mantra, yet AVŚ 18.2.27 has gamayām cakāra (cf. Whitney, 1893: 249), AVP 18.65.10 gamayām cakartha (see Bhattacharya, 2001: 31).
+P. 3.1.35 (kāspratyayādā ām amantre litī) forbids a periphrastic perfect to occur in a mantra, yet AVŚ 18.2.27 has gamayām cakāra (cf. Whitney, 1893: 249), AVP 18.65.10 gamayām cakartha (see Bhattacharya, 2001: 31).
 
 P. 5.1.91 (vatsarāntāc chaś chandasi) prescribes -īya after words ending in -vatsara, resulting in forms like samvatsariya. The next rule, 5.1.92 (samparipūrvāt kha ca), adds -ina in the same position, provided that -vatsara- is preceded by sam- or pari-. This means that Pāṇini did not know, or approve of, forms wherein -vatsarina- is not preceded by sam- or pari-. Yet such forms occur: idāvatsarīna at TaitBr 1.4.10.2 and anuvatsarīna at TaitBr 1.4.10.3.
 
@@ -3591,7 +3598,7 @@ P. 6.3.84 (samānasya chandasy amūrdhaprabhṛtyudarkesu) forbids substitution 
 
 P. 7.1.26 (netarāc chandasi) prohibits the use of neuter itarad in ritual literature. Yet it occurs at AitBr 6.15; KauṣBr 12.8; ŚPaBr 4.5.8.14 and 13.8.2.9; TaitBr 3.10.11.4; JaimBr 1.213, 2.75, and 2.249; and at ṢaḍBr 4.3.7, 4.4.10, and 4.5.8.
 
-P. 7.2.88 (prathamāyāś ca dvivacane bhāṣāyām) prescribes the nominativesā v \bar{a} m$ and yuvām with long penultimateā$ for secular language, thus excluding these nominatives from the Vedic language. Yet they occur:ā v \bar{a} m$ at AitBr 4.8; Śān̄̄r 5.7; ŚPaBr 4.1.5.16 and 14.1.1.23; BĀrUp[K] 3.2.13; ChānUp 8.8.1; and yuvām at PañBr 21.1.1.
+P. 7.2.88 (prathamāyāś ca dvivacane bhāṣāyām) prescribes the nominativesā v ām and yuvām with long penultimate ā for secular language, thus excluding these nominatives from the Vedic language. Yet they occur: āvām at AitBr 4.8; Śān̄̄r 5.7; ŚPaBr 4.1.5.16 and 14.1.1.23; BĀrUp[K] 3.2.13; ChānUp 8.8.1; and yuvām at PañBr 21.1.1.
 
 We obtain further results by applying the rule that Pāṇini's grammar is to be taken seriously more strictly. Grammatical sūtras that are not indicated as being optional must be accepted as intended to be of general validity. In incidental cases this may give rise to doubts, [^5] but no such doubt attaches to the following cases.
 
@@ -3601,7 +3608,7 @@ P. 2.3.61 (presyabruvor haviso devatāsampradāne) is a rule valid for Brāhma�
 
 P. 3.1.59 (krmrdrruhibhyaś chandasi) is a nonoptional rule (cf. Kiparsky, 1979: 62) prescribing an as an aorist marker after the roots *kṛ*, *mṛ*, *dṛ*, and *ruh* in ritual literature. It excludes in this way the forms akārsīt, akārsīh, akārsam, aruksat and rukṣat from Vedic literature. Yet these forms occur, as follows: (a)kārsīt (GPaBr 1.3.4; ChānUp 6.16.1); akārsīh (ŚPaBr 10.5.5.3; GPaBr 1.3.11); akārsam (AVP 20.1.6; TaitBr 3.7.5.5; TaitĀr 10.24.1, 10.25.1; GPaBr 1.3.12); aruksat (AVŚ 12.3.42; AVP 16.90.3 \& 6, 17.40.2); rukṣat (AVP 16.150.10).
 
-P. 4.4.105 (sabhāyāh yah) prescribes the suffix ya after sabhā$ in the sense tatra sādhuh (4.4.98). The next rule, P. 4.4.106 (dhaś chandasi), makes an exception for ritual literature. The form sabhya derived by P. 4.4.105 should apparently not occur in Vedic literature. It does, though, at the following places: AVŚ 8.10.5, 19.55.6; AVP 16.133.3; MaitS 1.6.11; TaitBr 1.2.1.26, 3.7.4.6; and ŚPaBr 12.9.2.3.
+P. 4.4.105 (sabhāyāh yah) prescribes the suffix ya after sabhā in the sense tatra sādhuh (4.4.98). The next rule, P. 4.4.106 (dhaś chandasi), makes an exception for ritual literature. The form sabhya derived by P. 4.4.105 should apparently not occur in Vedic literature. It does, though, at the following places: AVŚ 8.10.5, 19.55.6; AVP 16.133.3; MaitS 1.6.11; TaitBr 1.2.1.26, 3.7.4.6; and ŚPaBr 12.9.2.3.
 
 P. 5.4.103 (anasantān napuṃsakāc chandasi) prescribes for ritual literature the addition of tac to neuter Tatpuruṣa compounds the last member of which ends in -an or -as. Patañjali in his Mahābhāṣya (2: 441) makes this rule optional, in order to account for words like brahmasāman and devacchandas, but this merely emphasizes the fact that Pānini's rule is not optional. Yet there are numerous exceptions, some of which occur in the following texts: [^7]
 
@@ -3631,7 +3638,7 @@ P. 5.4.142 (chandasi ca) prescribes substitution of datR for danta final in a Ba
 
 P. 7.1.56 (śrīgrāmanyoś chandasi) determines the form of the genitive plural of śrī and grāmanī as śrīnām and grāmanīnām, respectively. But genitive sūtagrāmanyām occurs at ŚPaBr 13.4.2.5 and 13.5.2.7.
 
-P. 6.4.141 reads mantreṣs āñy āder ātmanah (lopah 134) "In mantras there is elision of the initial [soundā$ ] of ātman when [the instrumental singular ending] *āṅ* follows." It is not easy to determine the precise meaning of this sūtra. It may not imply that ātman never loses its initial *ā* before other case endings, since for all we know Pānini may have looked upon tman as a separate vocable, but this sūtra clearly excludes the occurrence of ātmanā in mantras. This form is found, however, in mantras at the following places: AVŚ 8.2.8 AVP 16.3.9; AVŚ 9.5.31-36 AVP 16.99.8; AVŚ 18.2.7; AVŚ 19.33.5 AVP 12.5.5; AVP 3.28.1, 16.100.5-11, and 16.119.1-3; VājSM 32.11 VājSK 35.3.8; and MaitS 2.8.14.
+P. 6.4.141 reads mantreṣs āñy āder ātmanah (lopah 134) "In mantras there is elision of the initial [sound ā] of ātman when [the instrumental singular ending] *āṅ* follows." It is not easy to determine the precise meaning of this sūtra. It may not imply that ātman never loses its initial *ā* before other case endings, since for all we know Pānini may have looked upon tman as a separate vocable, but this sūtra clearly excludes the occurrence of ātmanā in mantras. This form is found, however, in mantras at the following places: AVŚ 8.2.8 AVP 16.3.9; AVŚ 9.5.31-36 AVP 16.99.8; AVŚ 18.2.7; AVŚ 19.33.5 AVP 12.5.5; AVP 3.28.1, 16.100.5-11, and 16.119.1-3; VājSM 32.11 VājSK 35.3.8; and MaitS 2.8.14.
 
 To the above cases the following may be added:
 
@@ -3702,27 +3709,31 @@ Oldenberg (1888: 384-85) points out that the Saṃhitā text contains several no
 
 In what phase of the development of the Ṛgveda does Pānini fit? There is no doubt that Pānini came after Śākalya, for he mentions him four times (P. 1.1.16; 6.1.127; 8.3.19; 4.51; see above). The question is: Had the Ṛgveda known to Pānini already obtained the form which it had at the time of the Ṛgveda Prātisākhya, and which was to remain virtually unchanged ever since? Three passages in the Aṣṭādhyāyī may indicate that this was not the case. [^12]
 
-(i) P. 6.1.134: so'ci lope cet pādapūranam [sulopah (132)] "There is elision of [the nom. sing. case-affix] *sU* of *sa* 'he' before a vowel, if, in case of elision, there is completion of the Pāda." This rule is obeyed in our Ṛgveda where sas is followed by a vowel different from *a*; e.g., in RV 1.32.15: sed $u$ rājā kṣayati carṣanīnām for sah / it / etc., and in RV 8.43.9: sauṣadhīr anu rudhyase for sah / oṣadhīh / etc. (cf. Oldenberg, 1888: 464; Arnold, 1905: 74). Where, on the other hand, sas is followed by *a* - and the metre requires contraction, "ist in einer Reihe von Fällen $s \bar{a}$ - überliefert [...], in einigen andern so *a* - oder so mit dem Abhinihita Sandhi" (Oldenberg, 1888: 464; cf. Arnold, 1897: 292). Oldenberg is of the opinion that all these cases originally had $s \bar{a}-{ }^{13}$ Apparently Pānini defends here quite generally an older reading which survived but in a number of cases. Moreover, Pānini's concern for metre contrasts with the unconcern in this respect found in the Ṛgveda Prātisākhya; see Oldenberg, 1888: 372-73n; Müller, 1891: lxxix f.
-(ii) P. 6.1.115: nāntahpādam avyapare [^14] [saṃhitāyām (72), ekah pūrvaparayoh (84), pūrvah (107), eñah padāntād ati (109)] "In a Saṃhitā [text],
+(i) P. 6.1.134: so'ci lope cet pādapūranam [sulopah (132)] "There is elision of [the nom. sing. case-affix] *sU* of *sa* 'he' before a vowel, if, in case of elision, there is completion of the Pāda." This rule is obeyed in our Ṛgveda where sas is followed by a vowel different from *a*; e.g., in RV 1.32.15: sed u rājā kṣayati carṣanīnām for sah / it / etc., and in RV 8.43.9: sauṣadhīr anu rudhyase for sah / oṣadhīh / etc. (cf. Oldenberg, 1888: 464; Arnold, 1905: 74). Where, on the other hand, sas is followed by *a* - and the metre requires contraction, "ist in einer Reihe von Fällen sā - überliefert [...], in einigen andern so *a* - oder so mit dem Abhinihita Sandhi" (Oldenberg, 1888: 464; cf. Arnold, 1897: 292). Oldenberg is of the opinion that all these cases originally had sā-.[^13] Apparently Pānini defends here quite generally an older reading which survived but in a number of cases. Moreover, Pānini's concern for metre contrasts with the unconcern in this respect found in the Ṛgveda Prātisākhya; see Oldenberg, 1888: 372-73n; Müller, 1891: lxxix f.
 
-[^0]
-[^0]:    [^11] Oldenberg (1888: 386) thinks that these redactors preceded the Padapāṭha. Since he gives no real arguments, we can ignore his opinion.
-    [^12] On the form of the Ṛgveda at the time of Patañjali, see below.
-    [^13] Oldenberg later (1907: 834-35) changed his view, on the basis of the later language. This, of course, is a weak argument. Pānini's rule is evidence that Oldenberg's earlier opinion was the correct one.
-    [^14] This is the reading found in Patañjali's Mahābhāṣya. The Kāśikā has:
-when *e* or *o* which are final in a word precede, [and] when *a* which is not [itself] followed by *v* or *y* follows, [then] the preceding [sound is] not the single [substitute] of both the preceding and the following [sound], when [these sounds occur] in the interior of a Pāda."
+(ii) P. 6.1.115: nāntahpādam avyapare [^14] [saṃhitāyām (72), ekah pūrvaparayoh (84), pūrvah (107), eñah padāntād ati (109)] "In a Saṃhitā [text], when *e* or *o* which are final in a word precede, [and] when *a* which is not [itself] followed by *v* or *y* follows, [then] the preceding [sound is] not the single [substitute] of both the preceding and the following [sound], when [these sounds occur] in the interior of a Pāda."
+
+[^11]: Oldenberg (1888: 386) thinks that these redactors preceded the Padapāṭha. Since he gives no real arguments, we can ignore his opinion.
+[^12]: On the form of the Ṛgveda at the time of Patañjali, see below.
+[^13]: Oldenberg later (1907: 834-35) changed his view, on the basis of the later language. This, of course, is a weak argument. Pānini's rule is evidence that Oldenberg's earlier opinion was the correct one.
+[^14]: This is the reading found in Patañjali's Mahābhāṣya. The Kāśikā has: prakytyāntahpādam avyapare. The Bhāṣya-reading seems to be older, for, although Patañjali is acquainted with the reading prakrtyā, Kātyāyana's vārttikas show no sign of such an acquaintance. See Thieme, 1935: 47-48. The word prakrtyā may have been borrowed from RVePrā 2.51 (155), which defines the meaning of praghya.
+
 P. 6.1.116: avyādavadyādavakramuravratāyamavantvavasyusu ca [samhitäyām (72), ekah pūrvaparayoh (84), pūrvah (107), enah padāntād ati (109), näntahpädam (115)] "In a Saṃhitā [text], when *e* or *o* which are final in a word precede, [and] when *a* follows which is [the initial sound] in [one of the following words:] avyāt, avadyāt, avakramuh, avrata, ayam, avantu, avasyu, [then] the preceding [sound is] not the single [substitute] of both the preceding and the following [sound], when [these sounds occur] in the interior of a Pāda."
-P. 6.1.116 is not always in agreement with the facts of our Ṛgveda. There are at least two places where ayam has been joined with a preceding $-e$ or $-o$, viz. RV 1.108.6 vṛnāno 'yam and RV 5.30.3 vahate 'yam. Nowhere does ayam behave in the prescribed manner. Avasyu is joined with a preceding $-o$ in RV 8.21.1 bharanto 'vasyavah. And avantu is always joined with a preceding $-e$ or $-o$ (RVePrā 2.40(144); Böhtlingk, 1887: 298). The precise prescription contained in P. 6.1.116 makes it very difficult to believe, with Thieme (1935: 51), that this rule does "not imply strict application".
 
-A glance at the metrically restored text of the Ṛgveda (van Nooten \& Holland, 1994) shows that there is indeed no need to accept Thieme's belief. We there find that P. 6.1.116 is in almost complete agreement with the original form of that text. We find there RV 1.108.6 vṛnāno ayam and RV 8.21.1 bharanto avasyavah, contrary to the preserved text. Avantu is here never joined with preceding $-e$ or -o (RV 6.52.4: dhruvāso avantu; 4.33.3, 5.41.11, 10.15.1, 10.77.8: no avantu; 7.36.7: vājino avantu; 10.15.5: te avantu). The one occurrence of avadyāt after $-e$ or $-o$ is RV 4.4.15, which has mitramaho avadyāt, both in the preserved and in the metrically restored text; the one instance of avakramuh after $-e$ or $-o$ is RV 7.32.27 mäs̃ivāso avakramuh, again in both texts; avrata follows -e or -o at RV 6.14.3 (sīkṣanto avratam) and 9.73.5 (samdahanto avratān), both times without single substitute in both versions of the text. Avasyu never joins preceding $-e$ or $-o$ : To RV 8.21.1
-prakytyāntahpādam avyapare. The Bhāṣya-reading seems to be older, for, although Patañjali is acquainted with the reading prakrtyā, Kātyāyana's vārttikas show no sign of such an acquaintance. See Thieme, 1935: 47-48. The word prakrtyā may have been borrowed from RVePrā 2.51 (155), which defines the meaning of praghya.
-we can now add RV 3.42.9 (kuśikāso avasyavah) and 7.32.17 (pārthivo avasyur). Acyyāt does not occur in the Ṛgveda; this is not problematic, for there is no reason to think that P. 6.1.116 applies only to that text. The only exception to P. 6.1.116 in the metrically restored text of the Ṛgveda appears to be RV 5.30.3 vahate 'yam.
+P. 6.1.116 is not always in agreement with the facts of our Ṛgveda. There are at least two places where ayam has been joined with a preceding *-e* or *-o*, viz. RV 1.108.6 vṛnāno 'yam and RV 5.30.3 vahate 'yam. Nowhere does ayam behave in the prescribed manner. Avasyu is joined with a preceding *-o* in RV 8.21.1 bharanto 'vasyavah. And avantu is always joined with a preceding *-e* or *-o* (RVePrā 2.40(144); Böhtlingk, 1887: 298). The precise prescription contained in P. 6.1.116 makes it very difficult to believe, with Thieme (1935: 51), that this rule does "not imply strict application".
+
+A glance at the metrically restored text of the Ṛgveda (van Nooten \& Holland, 1994) shows that there is indeed no need to accept Thieme's belief. We there find that P. 6.1.116 is in almost complete agreement with the original form of that text. We find there RV 1.108.6 vṛnāno ayam and RV 8.21.1 bharanto avasyavah, contrary to the preserved text. Avantu is here never joined with preceding *-e* or -o (RV 6.52.4: dhruvāso avantu; 4.33.3, 5.41.11, 10.15.1, 10.77.8: no avantu; 7.36.7: vājino avantu; 10.15.5: te avantu). The one occurrence of avadyāt after *-e* or *-o* is RV 4.4.15, which has mitramaho avadyāt, both in the preserved and in the metrically restored text; the one instance of avakramuh after *-e* or *-o* is RV 7.32.27 mäs̃ivāso avakramuh, again in both texts; avrata follows -e or -o at RV 6.14.3 (sīkṣanto avratam) and 9.73.5 (samdahanto avratān), both times without single substitute in both versions of the text. Avasyu never joins preceding *-e* or *-o* : To RV 8.21.1 we can now add RV 3.42.9 (kuśikāso avasyavah) and 7.32.17 (pārthivo avasyur). Acyyāt does not occur in the Ṛgveda; this is not problematic, for there is no reason to think that P. 6.1.116 applies only to that text. The only exception to P. 6.1.116 in the metrically restored text of the Ṛgveda appears to be RV 5.30.3 vahate 'yam.
 
 We will see below that there is reason to believe that sūtras 6.1.115 and 116 were forerunners of certain sūtras from the Ṛgveda Prātiśākhya. Like the latter, but presumably on a larger scale, they did imply strict application.
+
 (iii) Pānini appears to consider the sandhi form -ay+a- for -as+acorrect, which agrees with the original Ṛgveda, but not with the Ṛgveda known to us. This has been explained above.
 
-It must still be shown that the sūtras 6.1.134 and 6.1.115-116 really are about the Veda. In the case of P. 6.1.134 there can be no doubt. The preceding rule contains the word chandasi "in Sacred Literature". The Kāśikā illustrates the rule with the help of the two examples from the Ṛgveda which were reproduced above (and adds that some think that the rule is not confined to Vedic verse alone: pādagrahanenātra ślokapādasyāpi grahanam kecit icchanti; this would justify a verse subsequently quoted in the Kāśikā). Indeed, wherever the word pāda is used in the Aṣtādhyāyī to specify a context (as it does in P. 6.1.134 and P. 6.1.115), it appears to refer to feet of Vedic verse. The remaining places are: P. 3.2.66 (havye 'nantahpādam): here chandasi is understood from rule 63; P. 8.3.9 (dirghād aṭi samānapāde): rkṣu is understood from the preceding rule; P. 6.1.115 (nāntahpādam avyapare) and 8.3.103 (yusmattattataksuhsv antahpādam): here yajusi "in a sacrificial formula in prose" occurs in a following rule (P. 6.1.117 and 8.3.104 respectively), suggesting that the verse-feet ( $p \bar{a} d a$ ) talked about in the earlier rules likewise belong to sacrificial formulas, and therefore to Vedic verse; P. 8.1.6 (prasamupodah pādapūraṇe), finally, deals with a phenomenon which is only found in Vedic verse (see the Kāśikā on this rule).
+---
+
+It must still be shown that the sūtras 6.1.134 and 6.1.115-116 really are about the Veda. In the case of P. 6.1.134 there can be no doubt. The preceding rule contains the word chandasi "in Sacred Literature". The Kāśikā illustrates the rule with the help of the two examples from the Ṛgveda which were reproduced above (and adds that some think that the rule is not confined to Vedic verse alone: pādagrahanenātra ślokapādasyāpi grahanam kecit icchanti; this would justify a verse subsequently quoted in the Kāśikā). Indeed, wherever the word pāda is used in the Aṣtādhyāyī to specify a context (as it does in P. 6.1.134 and P. 6.1.115), it appears to refer to feet of Vedic verse. The remaining places are: P. 3.2.66 (havye 'nantahpādam): here chandasi is understood from rule 63; P. 8.3.9 (dirghād aṭi samānapāde): rkṣu is understood from the preceding rule; P. 6.1.115 (nāntahpādam avyapare) and 8.3.103 (yusmattattataksuhsv antahpādam): here yajusi "in a sacrificial formula in prose" occurs in a following rule (P. 6.1.117 and 8.3.104 respectively), suggesting that the verse-feet (pāda) talked about in the earlier rules likewise belong to sacrificial formulas, and therefore to Vedic verse; P. 8.1.6 (prasamupodah pādapūraṇe), finally, deals with a phenomenon which is only found in Vedic verse (see the Kāśikā on this rule).
+
 P. 8.3.17, which justifies the sandhi form -ay+a-for -as+a-, occurs in the company of P. 8.3.18 and 19, which mention Śākaṭāyana and Śākalya respectively (see above). These two authorities are mentioned in the Ṛgveda Prātiśākhya, and their opinions may be considered to apply also to the Ṛgveda, if not primarily to that work. It is therefore safe to say the same of P. 8.3.17.
+
 The above strongly suggests that Pānini worked with a version of the Ṛgveda which is earlier than the versions described in the Ṛgveda Prātiśākhya. A possible objection would be that Pānini's version is not earlier, but quite simply different from the ones of the Prātiśākhya. And indeed, we have no guarantee that the Ṛgveda Prātiśākhya describes all the versions of the Ṛgveda which existed in its time. The fact that we obtain opinions of the authorities mentioned in the Prātiśākhya from sources other than the Prātiśākhya shows that the information provided by the Prātiśākhya is in no way complete.
 
 There is, nonetheless, reason to think that Pānini did not draw upon an altogether different version of the Ṛgveda. To begin with, Pānini mentions Śākalya on four occasions (see above) and also knows of the Śākalas, or so it seems (P. 4.3.128). Perhaps more important, his rules 6.1.115-116 (discussed above) appear to be an earlier version of some rules of the Ṛgveda Prātiśākhya. [^15] This will now be shown.
@@ -3778,7 +3789,7 @@ This last passage contains a further pair of examples which, this time, can both
 
 Let us now consider the last pair occurring in the list under P. 6.1.9 vt. 4, repeated under P. 8.2.25 vt. 3. The Vedic form is here śivā udrasya bhesajī, which is explained (iti prāpte) as śivā rudrasya bhesajī. This is mysterious because the 'Vedic form', i.e. the first half, cannot be traced in the Veda, while its 'explanation' can; śivā rudrasya bhesajī occurs TaitS 4.5.10.1. No close parallels exist in Vedic literature. [^3] The most plausible explanation is therefore that Patañjali knew the formula as it occurs in the TaitS in the form śivā udrasya bhesajī. This would mean that the change to śivā rudrasya bhesajī in the Taittirīya Saṃhitā did not take place until after Patañjali, or at any rate was not yet known to him. The final redaction of the Taittirīya Saṃhitā did not, in this view, take place until very late, much later than is commonly believed. This in its turn is of course only possible if we assume that the Padapāṭha on the Taittirīya Saṃhitā did not come into existence, or did not gain general currency, until after Patañjali. The peculiarities of the Taittirīya corpus-Saṃhitā, Brāhmaṇa and Āraṇyaka-where brāhmaṇa portions and mantra portions are distributed in a rather haphazard manner, support the view that the final redaction of these texts did not take place until late. [^4] Rau too (p. 103) wonders whether the Taittirīya Āraṇyaka may have changed after Patañjali, saying: "[es] erstaunt [...], das wahrhaftig verlotterte Taittirīya-Āraṇyaka so oft zitiert zu finden. Könnte es erst nach dem 2. Jhr. v. Chr. bis zu seiner jetzigen Gestalt verwahrlost sein?"
 
-The question in how far the reading of all the Vedic texts known to Patañjali had already been fixed in all details arises again in connection with the quotation sūryam te dyāvāpṛthivīmantam in the Mahābhāṣya on P. 8.2.15. In this form the phrase cannot be traced, but with -prthivīvantam it occurs AVŚ 19.18 .5 and AVP 7.17.5. It is unlikely that Patañjali made a mistake in quoting, for the issue of $m$ or *v* is discussed in that very context. Exactly the same applies to viśvakarmānam te saptarṣimantam, which occurs with -vantam AVŚ 19.18.7 and AVP 7.17.7. Again, a plausible explanation is that the Atharvaveda in both its versions was not finally redacted until late. Rau fails to draw conclusions of this type, yet he proposes, justifiably, the reading ātmann eva nir mimīsva for AVP 5.11.8 on the basis of the quotation in the Mahābhāṣya ātmana eva nirmimīsva, rejecting the surviving Paippalāda reading (p. 18). Moreover, he does not hesitate (p. 54) to propose an emended reading mādbhis tva candro vṛtrahā for AVŚ 19.27.2 and AVP 10.7.2, drawing inspiration from the quotation in the Mahābhāṣya.
+The question in how far the reading of all the Vedic texts known to Patañjali had already been fixed in all details arises again in connection with the quotation sūryam te dyāvāpṛthivīmantam in the Mahābhāṣya on P. 8.2.15. In this form the phrase cannot be traced, but with -prthivīvantam it occurs AVŚ 19.18 .5 and AVP 7.17.5. It is unlikely that Patañjali made a mistake in quoting, for the issue of *m* or *v* is discussed in that very context. Exactly the same applies to viśvakarmānam te saptarṣimantam, which occurs with -vantam AVŚ 19.18.7 and AVP 7.17.7. Again, a plausible explanation is that the Atharvaveda in both its versions was not finally redacted until late. Rau fails to draw conclusions of this type, yet he proposes, justifiably, the reading ātmann eva nir mimīsva for AVP 5.11.8 on the basis of the quotation in the Mahābhāṣya ātmana eva nirmimīsva, rejecting the surviving Paippalāda reading (p. 18). Moreover, he does not hesitate (p. 54) to propose an emended reading mādbhis tva candro vṛtrahā for AVŚ 19.27.2 and AVP 10.7.2, drawing inspiration from the quotation in the Mahābhāṣya.
 
 [^3]: Bloomfield and Edgerton, 1930-1934: II: 313.
 [^4]: Kashikar (2002) draws attention to "another text-order" of the Taittirīya texts, the Ārṣeyapāṭha, "a compact whole covering all the Taittirīya texts, namely, the Saṃhitā, Brāhmaṇa and Āraṇyaka", which he looks upon as "of course a later innovation" (p. 56).
@@ -3829,7 +3840,7 @@ Many of the names of mixed castes enumerated in the early legal treatises are al
 
 In the Introduction we studied a passage in which the grammarian Patañjali indicated that the land of the Āryas extended westward to the point he called ādarśa. He was followed in this by the authors of some Dharma Sūtras. We also saw that Manu, when enumerating the limits of his Madhyadeśa some centuries later, called what is apparently the same place vinaśana. In both cases the translation "place where the Sarasvatī disappears" appears justified. Indeed, the Mahābhārata states this about vinaśana in so many words (yatra naṣtā sarasvatī). [^1] The Sarasvatī disappears in the Thar desert, near what is now the border between India and Pakistan. It follows that Patañjali looked upon the lands west of that point, i.e., by and large the Indus valley and all that is beyond it, as non-Brahmanical territory. He confirms this by giving two examples of people who live beyond this limit, viz., the Sakas and the Yavanas. [^2]
 
-The Śatapatha Brāhmaṇa (9.3.1.24) already expresses itself in negative terms about the inhabitants of the domain of the seven rivers that flow westwards, i.e., the Punjab. [^3] The Baudhāyana Śrauta Sūtra, in its turn, enumerates the names of several tribes which a Brahmin should not visit, among them the Āraṭtas and the Gāndhāras in the north-west. [^4] Another passage from this same Śrauta Sūtra (18.44) confirms the separate status of Gandhāra and of the land of theā /$ Aratṭtas. Witzel (1989: 235) translates it as follows: "Ayu went eastward. His (people) are the Kuru-Pañcāla and the Kāsī-Videha. This is the Āyava migration. (His other people) stayed at home in the West. His people are the Gāndhāri, Parśu and Aratṭa. This is the Amāvasava (group)." Cardona and Jain (2003: 33 sq.) do not accept this translation, and propose the following improvement: "Āyu went eastward. Of him there are these: the Kuru-Pañcālas, the Kāsi-Videhas. This is the going forth of Āyu. Amāvasu (went) westward. Of him there are these: the Gāndhāris, the Sparśa, and the Arātṭtas. This is the (going forth) of Amāvasu." The precise area of the Āratṭtas remains unknown, that of the Gāndhāras on the other hand is clearly Gandhāra, a region which was therefore situated outside the domain of the orthodox Brahmins. [^5] The two passages from the Baudhāyana Śrauta Sūtra clearly show that these areas were outside the heartland of Vedic Brahmanism.
+The Śatapatha Brāhmaṇa (9.3.1.24) already expresses itself in negative terms about the inhabitants of the domain of the seven rivers that flow westwards, i.e., the Punjab. [^3] The Baudhāyana Śrauta Sūtra, in its turn, enumerates the names of several tribes which a Brahmin should not visit, among them the Āraṭtas and the Gāndhāras in the north-west. [^4] Another passage from this same Śrauta Sūtra (18.44) confirms the separate status of Gandhāra and of the land of theā / Aratṭtas. Witzel (1989: 235) translates it as follows: "Ayu went eastward. His (people) are the Kuru-Pañcāla and the Kāsī-Videha. This is the Āyava migration. (His other people) stayed at home in the West. His people are the Gāndhāri, Parśu and Aratṭa. This is the Amāvasava (group)." Cardona and Jain (2003: 33 sq.) do not accept this translation, and propose the following improvement: "Āyu went eastward. Of him there are these: the Kuru-Pañcālas, the Kāsi-Videhas. This is the going forth of Āyu. Amāvasu (went) westward. Of him there are these: the Gāndhāris, the Sparśa, and the Arātṭtas. This is the (going forth) of Amāvasu." The precise area of the Āratṭtas remains unknown, that of the Gāndhāras on the other hand is clearly Gandhāra, a region which was therefore situated outside the domain of the orthodox Brahmins. [^5] The two passages from the Baudhāyana Śrauta Sūtra clearly show that these areas were outside the heartland of Vedic Brahmanism.
 
 [^1]: Mhbh 9.36.1-2.
 [^2]: Witzel (2006: 472) observes that "the Sakas seem to have favored local religions. In Mathurā, which we know best, inscriptions of Jaina and Buddhist devotees abound [...], but there is very little from brahmins." La Vallée Poussin (1930: 202) "voit mal que les Śakas, en 170 ou en 150 avant notre ère, aient pris une importance assez grande pour que cet exemple soit possible, pour qu'ils soient dés lors intimement associés, dans l'estime des brāhmanes, aux Yavanas". Frauwallner (1960: 108-111 (300-303)) takes over La Vallée Poussin's argument and adds that Patañjali had no reason to mention, beside people that, though remote, were Indian, people that were not Indian, viz., the Sakas. The fact that the Sakas are here mentioned does however not constitute sufficient reason to push the date of Patañjali forward; cp. Cardona, 1976: 265 sq. Note further that Witzel (2003: 95) speaks of an invasion of the Sakas into the south of Afghanistan in 140 BCE. With regard to Frauwallner's argument it must be stated that it is not at all self-evident that for an inhabitant of the Land of the Āryas the opposition Indian / non-Indian made any sense at all.
@@ -3842,7 +3853,7 @@ In the middle of the third century BCE, it was Mazdaism, rather than Brahmanism,
 [^6]: See further Fussman, 1994: 31 ff. Also Shaked, 2004.
 [^7]: See further chapter III. 3 and Appendix V. The Kambojas-according to Benveniste, 1958: 45-48-were Iranians who adhered to Mazdaism, to whom the Aramaic inscription of Aśoka in Kandahar was addressed. With regard to their name, Witzel (2006: 461 n .11 ) proposes the following speculation: "Kamboja may have been the title of the Persian crown prince, whence he perhaps got the name Cambyses (Old Pers. Kambaujīa)." This speculation had already been proposed by Charpentier and criticized by La Vallée Poussin; see Karttunen, 1989: 145. (Witzel, 1997c: 32 n .32 proposes a speculative connection between the name of Cyrus and that of the Kurus.) Note in this connection that the Mānava Dharma Sāstra (10.43-44) mentions the Yavanas and the Kambojas or Kāmbojas - along with the Dravidas, the Sakas, the Chinese and others - as being Kṣatriyas who gradually went down to reach the level of Sūdras because they did not observe Brahmanical law (Filliozat, 1981: 116 n. 40).
 
-One of Aśoka's inscriptions observes that the two classes of Brahmins and Śramanas do not exist among the Yonas: "There is no country where these (two) classes, (viz.) the Brāhmanas and the Śramanas, do not exist, except among the Yōnas." [^8] (Karttunen (2003: 299) concludes that the Assalāyana Sutta and this Aśokan passage may be "more or less contemporary".) The Mahābhārata describes the inhabitants of Gandhāra as being beyond the system of varnas, as being fishermen. [^9] All this indicates that the Brahmanical order of society was not current in these areas. Understandably, the Brahmins considered the Greeks a threat to the order of their society, a fear which finds expression in the Yuga Purāṇa: "Then, having approached Sāketa together with the Pañcālas and Māthuras, the Yavanas - valiant in battle - will reach Kusumadhvaja [Pāṭaliputra]. [...] There will be the vilest men, dishonorable and unrighteous. At the end of the Yuga, Brahmins, Kṣatriyas, Vaiśyas and Śūdras will be similar in dress, and of similar conduct-there is no doubt. [...] Śūdras will also be utterers of bhoh, and Brahmins will be utterers ofā r y a .{ }^{10}$ Mārkaṇdeya's discourse in the third book of the Mahābhārata expresses similar fears: "Brahmins do the work of Śūdras, as the yuga expires, Śūdras become gatherers of wealth or practice the Law of the baronage. [...] Many barbarian kings, O overlord of men, will rule the earth with false policies, being given to evil and lies. Āndhras, Scythians, Pulindas, Greeks, Kāmbojas, Aurṇikas, Śūdras, and Ābhīras will be kings then, best of men. Not a Brahmin then lives by his own Law, and likewise the Kṣatriyas and Vaiśyas work at the wrong tasks, O king. [...] The Śūdras will say bhoh, and the Brahmins will say ārya." [^11] And again: "No Brahmins, Kṣatriyas, or Vaiśyas will be left, overlord of men: the world will all be one class (ekavarna) at the end of the yuga." [^12] The same fear also finds expression in some Purāṇic passages. [^13]
+One of Aśoka's inscriptions observes that the two classes of Brahmins and Śramanas do not exist among the Yonas: "There is no country where these (two) classes, (viz.) the Brāhmanas and the Śramanas, do not exist, except among the Yōnas." [^8] (Karttunen (2003: 299) concludes that the Assalāyana Sutta and this Aśokan passage may be "more or less contemporary".) The Mahābhārata describes the inhabitants of Gandhāra as being beyond the system of varnas, as being fishermen. [^9] All this indicates that the Brahmanical order of society was not current in these areas. Understandably, the Brahmins considered the Greeks a threat to the order of their society, a fear which finds expression in the Yuga Purāṇa: "Then, having approached Sāketa together with the Pañcālas and Māthuras, the Yavanas - valiant in battle - will reach Kusumadhvaja [Pāṭaliputra]. [...] There will be the vilest men, dishonorable and unrighteous. At the end of the Yuga, Brahmins, Kṣatriyas, Vaiśyas and Śūdras will be similar in dress, and of similar conduct-there is no doubt. [...] Śūdras will also be utterers of bhoh, and Brahmins will be utterers of ārya.[^10] Mārkaṇdeya's discourse in the third book of the Mahābhārata expresses similar fears: "Brahmins do the work of Śūdras, as the yuga expires, Śūdras become gatherers of wealth or practice the Law of the baronage. [...] Many barbarian kings, O overlord of men, will rule the earth with false policies, being given to evil and lies. Āndhras, Scythians, Pulindas, Greeks, Kāmbojas, Aurṇikas, Śūdras, and Ābhīras will be kings then, best of men. Not a Brahmin then lives by his own Law, and likewise the Kṣatriyas and Vaiśyas work at the wrong tasks, O king. [...] The Śūdras will say bhoh, and the Brahmins will say ārya." [^11] And again: "No Brahmins, Kṣatriyas, or Vaiśyas will be left, overlord of men: the world will all be one class (ekavarna) at the end of the yuga." [^12] The same fear also finds expression in some Purāṇic passages. [^13]
 
 [^8]: Hultzsch, 1925: Rock Edict XIII, Kalsi version, pp. 44-47; Parasher, 1991: 238 .
 [^9]: E.g., Mhbh 12.65 .13 ff.; 200.40-41.
@@ -3950,7 +3961,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Bareau, André (1970): Recherches sur la biographie du Buddha dans les Sūtrapiṭaka et les Vinayapitaka anciens:II: les derniers mois, le parinirvāna et les funérailles, tome I. Paris: EFEO. (PEFEO, 77.)
 - Bareau, André (1975): "Les récits canoniques des funérailles du Buddha et leurs anomalies: nouvel essai d'interprétation." BEFEO 62, 151-189.
 - Barua, P. R. (1965): "The place of the brāhmaṇas in Buddhist literature." Fournal of the Asiatic Society of Pakistan 10(2), 1-16.
-- Basham, A. L. (1951): History and Doctrines of the A $\bar{\partial} v \bar{v} k a s . A$ vanished Indian religion. Reprint: Motilal Banarsidass, Delhi, 1981.
+- Basham, A. L. (1951): History and Doctrines of the Ājīvikas. A vanished Indian religion. Reprint: Motilal Banarsidass, Delhi, 1981.
 - Basham, A. L. (1980): "The background to the rise of Buddhism." Studies in History of Buddhism. Ed. A. K. Narain. Delhi: B.R. Publishing Corporation. Pp. 13-31.
 - Baudhāyana Dharma Sūtra. The Baudhāyanadharmaśāstra, edited by E. Hultzsch. Leipzig 1884. Genehmigter Nachdruck: Kraus Reprint, Nendeln, Liechtenstein. 1966. (AKM, VIII. Band, No. 4.) See also Olivelle, 2000.
 - Bechert, Heinz (1997): The Dating of the Historical Buddha / Die Datierung des historischen Buddha, Part 3. (Symposien zur Buddhismusforschung, IV, 3.) Göttingen: Vandenhoeck \& Ruprecht. (AAWG, Folge 3, Nr. 222.)
@@ -3961,10 +3972,10 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Belvalkar, S. K., \& R. D. Ranade (1927): History of Indian Philosophy. Poona. Reprint: Oriental Books Reprint Corporation, New Delhi, 1974.
 - Benveniste, Émile (1958): "Les données iraniennes." JA 246, 36-48. (This is part of a longer article, "Une billingue gréco-araméenne d'Asoka", with further contributions by Daniel Schlumberger, Louis Robert, and André Dupont-Sommer, covering pp. 1-48.)
 - Bhandarkar, R. G. (1868): From the Preface to the first Edition of the Second Book of Sanskrit. Reprint: Bhandarkar, 1927-33: II: 415-20.
-- Bhandarkar, R. G. (1876): "Āchārya, the friend of the student, and the relations between the three āchāryas." IA 5, 345-50. Reprint: Bhandarkar, 1927-33: I: $136-47$.
+- Bhandarkar, R. G. (1876): "Āchārya, the friend of the student, and the relations between the three āchāryas." IA 5, 345-50. Reprint: Bhandarkar, 1927-33: I: 136-47.
 - Bhandarkar, R. G. (1885): "The date of Patañjali, No. I: Being the first reply to Professor Peterson" (JBBRAS 16, 199 f.) Reprint: Bhandarkar, 1927-33: I: 157-85.
 - Bhandarkar, Ramakrishna Gopal (1927-33): Collected Works of Sir R. G. Bhandarkar. 4 vols. Poona: BORI. (Government Oriental Series-Class B, No. I-IV.)
-- Bhartṛhari: Mahābhāṣya Dīpikā. (1) Edited by K.V. Abhyankar and V.P. Limaye. Poona: BORI. 1970 (Post-Graduate and Research Department Series No.8). (2) Partly edited by V. Swaminathan under the title Mahābhāṣya Tikā$. Varanasi: Banaras Hindu University. 1965 (Hindu Vishvavidyalaya Nepal Rajya Sanskrit Series, 11). (3) Manuscript reproduced. Poona: BORI. 1980. (4) "Critical edition" and translation. Poona: BORI. (Āhnika 1 by Johannes Bronkhorst (1987); Āhnika 2 by G. B. Palsule (1988); Āhnika 3 by G. B. Palsule (1983); Āhnika 4 by G. V. Devasthali and G. B. Palsule (1989); Āhnika 5 by V. P. Limaye, G. B. Palsule, and V. B. Bhagavat (1984); Āhnika 6, part 1, by V. B. Bhagavat and Saroja Bhate (1986); Āhnika 6, part 2, by V. B. Bhagavat and Saroja Bhate; Āhnika 7 by G. B. Palsule and V. B. Bhagavat.)
+- Bhartṛhari: Mahābhāṣya Dīpikā. (1) Edited by K.V. Abhyankar and V.P. Limaye. Poona: BORI. 1970 (Post-Graduate and Research Department Series No.8). (2) Partly edited by V. Swaminathan under the title Mahābhāṣya Tikā. Varanasi: Banaras Hindu University. 1965 (Hindu Vishvavidyalaya Nepal Rajya Sanskrit Series, 11). (3) Manuscript reproduced. Poona: BORI. 1980. (4) "Critical edition" and translation. Poona: BORI. (Āhnika 1 by Johannes Bronkhorst (1987); Āhnika 2 by G. B. Palsule (1988); Āhnika 3 by G. B. Palsule (1983); Āhnika 4 by G. V. Devasthali and G. B. Palsule (1989); Āhnika 5 by V. P. Limaye, G. B. Palsule, and V. B. Bhagavat (1984); Āhnika 6, part 1, by V. B. Bhagavat and Saroja Bhate (1986); Āhnika 6, part 2, by V. B. Bhagavat and Saroja Bhate; Āhnika 7 by G. B. Palsule and V. B. Bhagavat.)
 - Bhāskara: Brahma Sūtra Bhāṣya. In: Brahmasūtrabhāṣyam Bhāskarācārya viracitam. Brahmasūtra with a commentary by Bhāskarāchārya. Ed. by Vindhyeshavari Prasāda Dvivedin. Benares 1915. (Chowkhamba Sanskrit Series 70, 185, 209.) Reprint: Chowkhamba Sanskrit Series Office, Varanasi, 1991 (Chowkhamba Sanskrit Series, 20).
 - Bhat, M. S. (1968): "The Vedic stem rātri- and Pāṇini." JBBRAS 41-42 (1966-67, N.S.), 8-11.
 - Bhatt, V. P. (1975): "Genealogies in the Bṛhadāraṇyaka Upaniṣad." Journal of the Ganganatha Jha Kendriya Sanskrit Vidyapeetha 31 (Aditya Natha Jha Commemoration Volume), 63-70.
@@ -3976,7 +3987,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Bhikkhu Ñāṇamoli and Bhikkhu Bodhi (tr.)(1995): The Middle Length Discourses of the Buddha. A new translation of the Majjhima Nikāya. Boston: Wisdom Publications.
 - Biardeau, Madeleine (1964): Théorie de la connaissance et philosophie de la parole dans le brahmanisme classique. Paris, La Haye: Mouton. (Le Monde d'Outre-mer Passé et Présent, première série, études, 23.)
 - Biardeau, Madeleine (1968): "L'ātman dans le commentaire de Śabarasvāmin." Mélanges d'Indianisme à la Mémoire de Louis Renou. Paris: E. de Boccard. Pp. 109125 .
-- Biardeau, Madeleine (1976): "Le sacrifice dans l'hindouisme." In: Le sacrifice dans l'Inde ancienne, by Madeleine Biardeau and Charles Malamoud. Paris: Presses Universitaires de France. (BEHE, Section des Sciences Religieuses, 79.) Pp. $7-154$.
+- Biardeau, Madeleine (1976): "Le sacrifice dans l'hindouisme." In: Le sacrifice dans l'Inde ancienne, by Madeleine Biardeau and Charles Malamoud. Paris: Presses Universitaires de France. (BEHE, Section des Sciences Religieuses, 79.) Pp. 7-154.
 - Biardeau, Madeleine (2002): Le Mahābhārata. Un récit fondateur du brahmanisme et son interprétation. 2 tomes. Paris: Éditions du Seuil.
 - Bloomfield, Leonard (1933): Language. London: George Allen \& Unwin. Reprint 1969.
 - Bloomfield, Maurice (1899): The Atharva Veda. Asian Publication Services. 1978.
@@ -3997,9 +4008,9 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - anschauungen vor der Zeitenwende. Textteile, Nijjutti, Übersetzung und Anmerkungen. Wiesbaden: Franz Steiner. (Schriftenreihe des Südasien-Instituts der Universität Heidelberg, 24.)
 - Bollée, W. B. (1999): "Adda or the oldest extant dispute between Jains and heretics (Sūyagaḍa 2,6), Part two." JIP 27(5), 411-437.
 - Bollée, Willem (2002): The Story of Paesi (Paesi-kahāṇayaṃ). Soul and Body in Ancient India, a dialogue on materialism. Text, translation, notes and glossary. Wiesbaden: Harrassowitz. (Beiträge zur Kenntnis südasiatischer Sprachen und Literaturen, 8.)
-- Bouy, Christian (2000): Gauḍapāda, l'Āgamaśāstra. Un traité vedāntique en quatre chapitres. Texte, traduction et notes. Paris: Édition-Diffusion de Boccard. (Collège de France, PICI, Série in- $8^{\circ}$, Fascicule 69.)
+- Bouy, Christian (2000): Gauḍapāda, l'Āgamaśāstra. Un traité vedāntique en quatre chapitres. Texte, traduction et notes. Paris: Édition-Diffusion de Boccard. (Collège de France, PICI, Série in-8°, Fascicule 69.)
 - Brereton, Joel P. (1997): "'Why is a sleeping dog like a Vedic sacrifice'; structure of Upaniṣadic Brahmodya." = Witzel, 1997a: 1-14.
-- Brhadāranyaka Upaniṣad $=$ Limaye and Vadekar, 1958: 174-282.
+- Brhadāranyaka Upaniṣad = Limaye and Vadekar, 1958: 174-282.
 - Brinkhaus, Horst (1978): Die altindischen Mischkastensysteme. Wiesbaden: Franz Steiner. (Alt- und Neu-Indische Studien, 19.)
 - Brockington, J. L.(1981): The Sacred Thread. Hinduism in its continuity and diversity. Edinburgh University Press. 1989.
 - Brockington, John (1998): The Sanskrit Epics. Leiden etc.: E. J. Brill. (Handbuch der Orientalistik, Abt. Indien, 12.)
@@ -4056,7 +4067,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Chakladar, H. C. (1929): Social Life in Ancient India. A study in Vatsyayana's Kamasutra. Second revised edition. Calcutta: Susil Gupta. 1954.
 - Chakrabarti, Samiran Chandra (1980): The Paribhāṣās in the Śrauta Sūtras. Calcutta: Sanskrit Pustak Bhandar.
 - Chakravarti, Pulinbihari (1951): Origin and Development of the Sāmkhya System of Thought. Calcutta: Metropolitan. pp. 43-44, 102, 113-130.
-- Chāndogya Upaniṣad $=$ Limaye and Vadekar, 1958: 68-173.
+- Chāndogya Upaniṣad = Limaye and Vadekar, 1958: 68-173.
 - Charvet, Pascal (tr.)(2002): Arrien : Le Voyage en Inde d'Alexandre le Grand. Commentaires de Pascal Charvet, Fabrizia Baldissera et Klaus Karttunen. Paris: NiL.
 - Chattopadhyaya, Debiprasad, and Mrinal Kanti Gangopadhyaya (1990): Cārvāka/ Lokāyata. An anthology of source materials and some recent studies. New Delhi: Indian Council of Philosophical Research.
 - Chaubey, Braj Bihari (ed.)(2001): Vādhūla-Anvākhyānam. Hoshiarpur: Katyayan Vaidik Sahitya Prakashan.
@@ -4131,7 +4142,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Franco, Eli (2004): The Spitzer Manuscript. The oldest philosophical manuscript in Sanskrit. 2 vols. Wien: Österreichische Akademie der Wissenschaften. (Österreichische
 - Akademie der Wissenschaften, philosophisch-historische Klasse, Denkschriften, 323. Band; Beiträge zur Kultur- und Geistesgeschichte Asiens Nr. 43.)
 - Franco, Eli (2004a): "The Spitzer Manuscript (SHT 810)—A philosophical manuscript from the Kuṣāṇa period." Turfan Revisited. The first century of research into the arts and cultures of the Silk Road. Ed. Desmond Durkin-Meisterernst, SimoneChristiane Raschmann, Jens Wilkens, Marianne Yaldiz, Peter Zieme. Berlin: Dietrich Reimer. Pp. 92-94.
-- Franco, Eli (2005): "Knowledge in Indian philosophy." Encyclopedia of Philosophy. $2^{\text {nd }}$ edition. Ed. Donald M. Borchert. Vol. I. Pp. 115-123.
+- Franco, Eli (2005): "Knowledge in Indian philosophy." Encyclopedia of Philosophy. 2nd edition. Ed. Donald M. Borchert. Vol. I. Pp. 115-123.
 - Franco, Eli, and Karin Preisendanz (1998): "Materialism, Indian school of." Routledge Encyclopedia of Philosophy, ed. Edward Craig, vol. 6, pp. 178-181.
 - Franke, R. Otto (tr.)(1913): Dīghanikāya. Das Buch der langen Texte des buddhistischen Kanons in AuswahI übersetzt. Göttingen: Vandenhoeck \& Ruprecht.
 - Frauwallner, Erich (1926): "Untersuchungen zu den älteren Upaniṣaden." Zeitschrift für Indologie und Iranistik 4, 1-45. = KlSchr pp. 95-139.
@@ -4148,7 +4159,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Gambhirananda, Swami (tr.)(1972): Brahma-Sūtra-Bhāşya of Śrī Śaikarācārya. Second edition. Calcutta: Advaita Ashrama.
 - Gampert, Wilhelm (1939): Die Sühnezeremonien in der altindischen Rechtsliteratur. Prag: Orientalisches Institut. (Monografie Archivu Orientálního, 6.)
 - Geiger, Wilhelm (1916/1994): A Pāli Grammar. Translated into English by Batakrishna Ghosh, revised and edited by K. R. Norman. Oxford: Pali Text Society.
-- Ghatage, A. M. (1948): "Traces of short $\overline{\mathrm{e}}$ and $\overline{\mathrm{o}}$ in Ṛgveda." ABORI 29, 1-20.
+- Ghatage, A. M. (1948): "Traces of short ĕ and ŏ in Ṛgveda." ABORI 29, 1-20.
 - Gnoli, Raniero (1978): The Gilgit manuscript of the Saighabhedavastu, being the 17th and last section of the Vinaya of the Mūlasarvāstivādin, Part II. Edited, with the assistance of T. Venkatacharya. Roma: Istituto per il medio ed estremo Oriente. (Serie Orientale Roma, 49, 2.)
 - Gokhale, Balakrishna Govind (1970): "The Brāhmaṇas in early Buddhist literature." Journal of Indian History 48, 51-61.
 - Gombrich, Richard (1987): "Three souls, one or none: the vagaries of a Pāli pericope." Fournal of the Pāli Text Society 11, 73-78.
@@ -4162,7 +4173,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Gonda, Jan (1975): Vedic Literature (Saṃhitās and Brāhmaṇas). Wiesbaden: Otto Harrassowitz. (HIL vol. 1, fasc. 1.)
 - Gonda, J. (1976): Triads in the Veda. Amsterdam etc.: North-Holland Publishing Company. (Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen, Afd. Letterkunde, Nieuwe Reeks, 91.)
 - Gonda, Jan (1977): The Ritual Sūtras. Wiesbaden: Otto Harrassowitz. (HIL vol. 1, fasc. 2.)
-- Gonda, Jan (1987): "Notes on purīsa." ABORI 68 (Ramakrishna Gopal Bhandarkar $150^{\text {th }}$ Birth-Anniversary Volume, 1-14.
+- Gonda, Jan (1987): "Notes on purīsa." ABORI 68 (Ramakrishna Gopal Bhandarkar 150th Birth-Anniversary Volume, 1-14.
 - González-Reimann, Luis (2002): The Mahābhārata and the Yugas. India's great epic poem and the Hindu system of world ages. New York etc.: Peter Lang. 2002. (Asian Thought and Culture, 51.)
 - Goodall, Dominic (1996): Hindu Scriptures. London: Phoenix.
 - Gotō, Toshifumi (1987): Die "I. Prāsensklasse" im Vedischen. Wien: Verlag der Österreichischen Akademie der Wissenschaften.
@@ -4171,7 +4182,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Govindānanda: Bhāṣyaratnaprabhā. See under Śankara: Brahma Sūtra Bhāṣya.
 - Griffiths, Arlo (2004): The Paippalädasamhitā of the Atharvaveda, Kāṇdas 6 and 7: A new edition with translation and commentary. Doctoral thesis, University Leiden.
 - Griffiths, Arlo (2004a): "Paippalāda mantras in the Kauśikasūtra." = Griffiths \& Houben, 2004: 49-99.
-- Griffiths, Arlo, and Jan E. M. Houben (ed.)(2004): The Vedas. Texts, Language $\mathcal{E}$ Ritual. Proceedings of the Third International Vedic Workshop, Leiden 2002. Groningen: Egbert Forsten. (Groningen Oriental Studies, 20.)
+- Griffiths, Arlo, and Jan E. M. Houben (ed.)(2004): The Vedas. Texts, Language \& Ritual. Proceedings of the Third International Vedic Workshop, Leiden 2002. Groningen: Egbert Forsten. (Groningen Oriental Studies, 20.)
 - Gunaratna Sūri: Tarka-rahasya-dīpikā. See under Haribhadra.
 - Gupta, Chitrarekha (1983): The Brahmanas of India. A study based on inscriptions. Delhi: Sundeep Prakashan.
 - Hacker, Paul (1947): "Śankarācārya and Śankarabhagavatpāda. Preliminary remarks concerning the authorship problem." New IA 9, 175-186. Corrected
@@ -4207,7 +4218,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Hock, Hans Henrich (2002): "The Yājñavalkya cycle in the Bṛhad Āraṇyaka Upaniṣad." JAOS 122(2), 278-286.
 - Hoffmann, Karl (1974): "Pāṇini VII 2, 69 saniṃ sasanivāṃsam." MSS 32, 7380 .
 - Holt, John Clifford (2004): The Buddhist Visnu. Religious transformation, politics, and culture. New York: Columbia University Press.
-- Honda, Megumu (1993): "Index to the Ślokavārttika." Dōhō Daigaku Kiyō 7, 148-33 $(=(1)-(116))$.
+- Honda, Megumu (1993): "Index to the Ślokavārttika." Dōhō Daigaku Kiyō 7, 148-33 (=(1)-(116)).
 - Hopkins, E. Washburn (1901): The Great Epic of India. Its character and origin. Reprint: Punthi Pustak, Calcutta, 1978.
 - Horsch, Paul (1965): "Soziologisches zur altindischen Namenskunde." AS 18/19, 227-246.
 - Horsch, Paul (1966): Die vedische Gāthā- und Śloka-Literatur. Bern: Francke.
@@ -4216,9 +4227,8 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Hosoda, Noriaki (2004): "The simile of the leech (jalāyukā) as saṃsārin." Three Mountains and Seven Rivers. Prof. Musashi Tachikawa's Felicitation Volume. Ed. Shoun Hino, Toshihiro Wada. Delhi: Motilal Banarsidass. Pp. 707-724.
 - Houben, Jan E. M. (1999): "To kill or not to kill the sacrificial animal (yajña-paśu)? Arguments and perspectives in Brahmanical ethical philosophy." Violence denied. Violence, non-violence and the rationalization of violence in South Asian cultural history. Ed. Jan E. M. Houben and Karel R. van Kooij. Leiden etc.: Brill. (Brill's Indological Library, 16.) Pp. 105-183.
 - Hultzsch, E. (1925): Inscriptions of Aśoka. Oxford. Reprint: Indian Book House, Delhi-Varanasi, 1969. (Corpus Inscriptionum Indicarum vol. I.)
-- Hume, Robert Ernest (1931): The Thirteen Principal Upanishads, translated from the San-
-- skrit. Second edition, revised. Reprint: Oxford University Press, 1975.
-- Ikari, Yasuke (1998): "A survey of the new manuscripts of the Vādhūla school: MSS. of $\mathrm{K}_{1}$ and $\mathrm{K}_{4}$." Zinbun 33, 1-30.
+- Hume, Robert Ernest (1931): The Thirteen Principal Upanishads, translated from the Sanskrit. Second edition, revised. Reprint: Oxford University Press, 1975.
+- Ikari, Yasuke (1998): "A survey of the new manuscripts of the Vādhūla school: MSS. of K_1 and K_4." Zinbun 33, 1-30.
 - Irwin, John (1979): "The stūpa and the cosmic axis : the archaeological evidence." South Asian Archaeology 1977. Vol. 1. Ed. Maurizio Taddei. Naples. (Istituto Universitario Orientale, Seminario di Studi Asiatici, Series Minor, VI.) Pp. 799-845.
 - Jacobi, Hermann (1880): "On Mahāvīra and his predecessors." IA 9, June 1880, pp. 158-163. = KiSchr II pp. 797-802.
 - Jacobi, Hermann (1884): Jaina Sūtras, translated from the Präkrit. Part I: Ācārānga Sūtra, Kalpa Sūtra. Oxford University Press. Reprint: Motilal Banarsidass, Delhi, 1980. (Sacred Books of the East, 22.)
@@ -4257,7 +4267,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Kashikar, C. G. (1951): "The problem of the Gaḷantas in the Rigveda-Padapāṭha." Proceedings of the All-India Oriental Conference 13 (1946), 39-46.
 - Kashikar, C. G. (1968): "The Taittirīya-Brāhmaṇa in relation to the Sūtrakāras." Pratidānama. Festschrift Franciscus Bernardus Jacobus Kuiper. The Hague and Paris: Mouton, 398-408.
 - Kashikar, C. G. (2002): "On the Taittirīya Brāhmaṇa." ABORI 82 (2001 [2002]), 43-56.
-- Katha Upaniṣad $=$ Limaye and Vadekar, 1958: 11-27.
+- Katha Upaniṣad = Limaye and Vadekar, 1958: 11-27.
 - Keith, Arthur Berriedale (ed., tr.)(1909): The Aitareya Aranyaka. Oxford: Clarendon Press.
 - Keith, Arthur Berriedale (tr.) (1914): The Veda of the Black Yaṭus School entitled Taittirīya Sanhita. 2 parts. Cambridge, Mass.: Harvard University Press (Harvard Oriental Series 18, 19).
 - Keith, Arthur Berriedale (tr.) (1920): Rigveda Brahmanas: The Aitareya and Kausitaki Brähmanas of the Rigveda. Delhi, Patna, and Varanasi: Motilal Banarsidass. 1971 (Harvard Oriental Series 25).
@@ -4338,7 +4348,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Mīmāṃsaka, Yudhiṣṭhira (1973): Samskṛta Vyākarana-Śāstra kā Itihāsa. Parts I-III. Sonipat: Rāma Lāl Kapūr Trust. Saṃvat 2030.
 - Mīmāṃsaka, Yudhiṣṭhira (1987): Mīmāṃsā-Śābara-Bhāṣya [prathamo bhāgah], śāstrāva-tāra-vedaśrutyāmnāyasamjñāmīmāṃsā-śrautayajhamīmāṃsā"khyais tribhir nibandhair yuktah, vividhaprakārakais tippaniibhir vividhapariisṭ̣ai ca samalamkṛtah. Bahālagaḍha: Ramlal Kapur Trust.
 - Mīmāṃsākoṣa. Edited by Kevalānandasaraswatī. 7 vols. Wai: Prajna Pathashala Mandal. 1952-1966.
-- Minard, Armand (1968): "Sur les divisions du Śatapatha-Brāhmaṇa." Mélanges d'Indianisme à la mémoire de Louis Renou. Paris: E. de Boccard. (PICI, Série In-8 ${ }^{\circ}$, Fasc. 28.) Pp. 523-28.
+- Minard, Armand (1968): "Sur les divisions du Śatapatha-Brāhmaṇa." Mélanges d'Indianisme à la mémoire de Louis Renou. Paris: E. de Boccard. (PICI, Série In-8°, Fasc. 28.) Pp. 523-28.
 - Minh Chau, Thich (1991): The Chinese Madhyama Āgama and the Pāli Majjhima Nikāya. A comparative study. Delhi: Motilal Banarsidass.
 - Minkowski, Christopher Z. (1991): Priesthood in Ancient India. A study of the Maitrāvaruna priest. Vienna. (PDNRL, 18.)
 - Minkowski, Christopher (1996): "Nividica." BIS 9/10, 225-236.
@@ -4349,7 +4359,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Moghe, S.G. (1984): "Śankarācārya and Pūrva-Mīmāṃsā." Studies in the Pūrva Mīmāṃsā. Delhi: Ajanta Publications. Pp. 1-13.
 - Mohan, Krishna (1981): Early Medieval History of Kashmir. New Delhi: Meharchand Lachhmandas.
 - Morton Smith, R. (1966): "On the White Yajurveda vamśa." East and West, NS 16(1-2), 112-125.
-- Motegi, Shujun (1999): "The teachings of Pañcaśikha in the Mokṣadharma." AS $53(3), 513-535$.
+- Motegi, Shujun (1999): "The teachings of Pañcaśikha in the Mokṣadharma." AS 53(3), 513-535.
 - Müller, Max (1869): Rig-Veda-Prātiśākhya, das älteste Lehrbuch der vedischen Phonetik. Sanskrittext mit Übersetzung und Anmerkungen. Leipzig: F.A. Brockhaus.
 - Müller, F. Max (1891): Vedic Hymns. Part I. Oxford: Clarendon Press.
 - Mundaka Upanisad = Limaye and Vadekar, 1958: 38-47.
@@ -4436,7 +4446,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Renou, Louis (1956): Hymnes spéculatifs du Veda. Paris: Gallimard.
 - Renou, Louis (1957): Altindische Grammatik: Introduction générale. Nouvelle édition du texte (by Jacob Wackernagel) paru en 1896, au tome I. Göttingen: Vandenhoeck and Ruprecht.
 - Renou, Louis (1957a): "Faits de langue propres au Paippalāda-Atharvaveda." Études Védiques et Pāninéennes. Paris: E. de Boccard. Pp. 105-119.
-- Renou, Louis (1960): "La forme et l'arrangement interne des Prātiśākhya." JA $248,1-40$.
+- Renou, Louis (1960): "La forme et l'arrangement interne des Prātiśākhya." JA 248,1-40.
 - Renou, Louis (1961): "Sur la forme de quelques textes sanskrits." JA 249, 163-211. (= Renou, 1997: II: 519-567.)
 - Renou, Louis (1962): "Sur la forme des Brahmasūtra." Indological Studies in Honor of W. Norman Brown. Ed. Ernest Bender. New Haven, Connecticut: American Oriental Society. (American Oriental Series, 47.) Pp. 195-203. (= Renou, 1997: II: 621-629.)
 - Renou, Louis (1965): The Destininy of the Veda in India. Delhi etc.: Motilal Banarsidass. (French original published in 1960)
@@ -4477,7 +4487,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Schrader, F. Otto (ed.)(1912): The Minor Upaniṣads critically edited. Vol. I: SaṃnyāsaUpaniṣads. Madras: The Adyar Library.
 - Schreiner, Peter (1991): Bhagavad-Gita: Wege und Weisungen. Übersetzt und eingeleitet. Zürich: Benziger.
 - Schroeder, Leopold von (1879): "Ueber die Maitrāyaṇī Saṃhitā, ihr Alter, ihr Verhältniss zu den verwandten Śākhā's, ihrer sprachliche und historische Bedeutung." ZDMG 33, 177-207.
-- Schroeder, Leopold von (1880): "Das Kāṭhakam und die Māitrāyaṇī Saṃhitā." Monatsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin (1879), $675-704$.
+- Schroeder, Leopold von (1880): "Das Kāṭhakam und die Māitrāyaṇī Saṃhitā." Monatsberichte der Königlich Preussischen Akademie der Wissenschaften zu Berlin (1879), 675-704.
 - Schroeder, Leopold von (ed.) (1881-1886): Maitrāyaṇī Saṃhitā. Parts I-IV. Leipzig: F. A. Brockhaus.
 - Schroeder, Leopold von (1895): "Das Kāṭhaka, seine Handschriften, seine Accentuation und seine Beziehung zu den indischen Lexicographen und Grammatiker." ZDMG 49, 145-171.
 - Schroeder, Leopold von (ed.)(1900-1910): Kāṭhaka, die Saṃhitā der Kaṭha-Śākhā. Wiesbaden: Franz Steiner. 1970-72.
@@ -4555,7 +4565,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Tsuchida, Ryutaro (1996): "Versuch einer Interpretation von Chāndogya-Upaniṣad 2,23." StII 20 (Festschrift Paul Thieme), 453-484.
 - Tsuchida, Ryutaro (2000): "Ahiṃsā in the life of brahmanical householders." = Tsuchida \& Wezler, 2000: 411-432.
 - Tsuchida, Ryutaro, and Albrecht Wezler (ed.)(2000): Harāmandalaharī. Volume in Honour of Professor Minoru Hara on his Seventieth Birthday. Ed. Reinbek: Inge Wezler.
-- Tsuji, Naoshiro (1981): Chosakush $\bar{u}$, I. Kyoto. (not seen)
+- Tsuji, Naoshiro (1981): Chosakushū, I. Kyoto. (not seen)
 - Tucci, Giuseppe (1923-1929): Linee di una storia del materialismo indiano. Reprinted with modifications: Tucci, 1971a: 49-155. References are to the reprint.
 - Tucci, Giuseppe (ed.)(1971): Minor Buddhist Texts, Part III: Third Bhāvandkrama. Roma: Is. M. E. O. (Serie Orientale Roma, 43.)
 - Tucci, Giuseppe (1971a): Opera Minora. Parte I. Roma: Giovanni Bardi. 1971. (Università di Roma, Studi Orientali Pubblicati a cura della Scuola Orientale, 6.)
@@ -4598,18 +4608,18 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Wilden, Eva (2000): Der Kreislauf der Opfergaben im Veda. Stuttgart: Franz Steiner. (Alt- und Neu-Indische Studien, 51.)
 - Winternitz, Moriz (1926): "Zur Lehre von den Āśramas." Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. Festgabe Hermann Jacobi zum 75. Geburtstag. Hrsg. v. Willibald Kirfel. Bonn: Fritz Klopp. Pp.215-227.
 - Wirth, Gerhard, und Oskar von Hinüber (1985): Arrian : Der Alexanderzug, Indische Geschichte. Griechisch und deutsch, herausgegeben und übersetzt. Munich-Zurich: Artemis. (Sammlung Tusculum.)
-- Witzel, Michael (1975): "Eine fünfte Mitteilung über das Vādhūlasūtra." StII 1, $75-108$.
+- Witzel, Michael (1975): "Eine fünfte Mitteilung über das Vādhūlasūtra." StII 1, 75-108.
 - Witzel, Michael (1981 \& 1982): "Materialien zu den vedischen Schulen, 1 : Über die Caraka-Šākhā." StII 7, 109-132 \& 8/9, 171-240.
 - Witzel, Michael (1984): "The earliest form of the idea of rebirth in India." Proceedings of the Thirty-First International Congress of Human Sciences in Asia and North Africa (Tokyo-Kyoto 31st August-7th September 1983). Ed. Yamamoto Tatsuro. Tokyo: The Tōhō Gakkai. Vol. I. Pp. 145-146.
 - Witzel, Michael (1985): "Regionale und überregionale Faktoren in der Entwicklung vedischer Brahmanengruppen im Mittelalter (Materialien zu den vedischen Schulen, 5)." Regionale Tradition in Südasien. Hrsg. Hermann Kulke und Dietmar Rothermund. Wiesbaden: Franz Steiner. (Beiträge zur Südasienforschung, Südasien-Institut, Universität Heidelberg, 104.) Pp. 37-76.
 - Witzel, Michael (1985a): "Die Atharvaveda-Tradition und die Paippalāda-Saṃhitā." ZDMG Supplementa 6, 256-271.
 - Witzel, Michael (1986): "On the archetype of Patañjali's Mahābhāṣya." IIJ 29, 249-259.
 - Witzel, Michael (1987): "On the localisation of Vedic texts and schools (Materials on Vedic Sākhās, 7)." India and the Ancient World. History, trade and culture before A.D. 650. Ed. Gilbert Pollet. Leuven: Departement Oriëntalistiek. (Orientalia Lovanensia, Analecta, 25.) Pp. 173-213.
-- Witzel, Michael (1989): "Tracing the Vedic dialects." Dialectes dans les littératures indo-aryennes. Ed. Colette Caillat. Paris: de Boccard. (Publications de l'Institut de Civilisation Indienne, Série in- $8^{\text {th }}$, Fascicule 55.) Pp. 97-265.
+- Witzel, Michael (1989): "Tracing the Vedic dialects." Dialectes dans les littératures indo-aryennes. Ed. Colette Caillat. Paris: de Boccard. (Publications de l'Institut de Civilisation Indienne, Série in-8th, Fascicule 55.) Pp. 97-265.
 - Witzel, Michael (1990): "Notes on Vedic dialects (1)." Zinhun 25, 31-70.
 - Witzel, Michael (1993): "Toward a history of the Brahmins." JAOS 113(2), 264268.
 - Witzel, Michael (1994): "The Brahmins of Kashmir." In: A Study of the Nlamata. Aspects of Hinduism in ancient Kashmir. Ed. Yasuke Ikari. Kyoto: Institute for Research in Humanities, Kyoto University. Pp. 237-294.
-- Witzel, Michael (1995): "Early Indian history: Linguistic and textual parametres." $=$ Erdosy, 1995: 85-125.
+- Witzel, Michael (1995): "Early Indian history: Linguistic and textual parametres." = Erdosy, 1995: 85-125.
 - Witzel, Michael (1995a): "Rgvedic history: poets, chieftains and politics." = Erdosy, 1995: 307-352.
 - Witzel, Michael (1997): "The development of the Vedic canon and its schools: The social and political milieu. (Materials on Vedic Sākhās, 8)." = Witzel, 1997a: 257-345.
 - Witzel, Michael (ed.)(1997a): Inside the Texts, Beyond the Texts: New approaches to the study of the Vedas. Cambridge: Department of Sanskrit and Indian Studies, Harvard University. Distributed by South Asia Books, Columbia, Mo. (Harvard Oriental Series, Opera Minora, 2.)
@@ -4633,7 +4643,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Zysk, Kenneth G. (1989): "Mantra in Āyurveda: A study of the use of magico-religious speech in ancient Indian medicine." = Alper, 1989: 123-143.
 - Zysk, Kenneth G. (1990). "The Indian ascetic traditions and the origins of Āyurvedic medicine." JEAS 1, 119-124.
 - Zysk, Kenneth G. (1991): Asceticism and Healing in Ancient India. Medicine in the Buddhist monastery. Oxford University Press.
-- Zysk, Kenneth G. (2005): "Indian traditions of physiognomy: preliminary remarks." $=$ Jacobsen, 2005: 425-443.
+- Zysk, Kenneth G. (2005): "Indian traditions of physiognomy: preliminary remarks." = Jacobsen, 2005: 425-443.
 
 ### INDEX 
 
@@ -4644,7 +4654,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - abhyudaya 108
 - Ācārānga Sūtra 16
 - Ācārya / ācārya 67, 244, 281, 284, 291, 293, 319
-- accent $107,184,185,192,346$
+- accent 107,184,185,192,346
 - Achaemenid 209, 362
 - activity, suppression of 15
 - ädarśa 1,357
@@ -4668,10 +4678,10 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Aitareya Brāhmaṇa xiii, 82, 83, 179, 180, 190, 194, 197, 200, 202
 - Ajātaśatru 3, 254
 - ajina, see also antelope-skin 82, 84
-- Ajita Kesakambalī / Keśakambalin 48, $144,145,146,147,149,153$
+- Ajita Kesakambalī / Keśakambalin 48, 144,145,146,147,149,153
 - äjivaka 38,43
-- Ājīvika xii, 3, 5, 35, 38, 39, 41, 42, 43, $44,45,46,47,48,49,50,51,53,69$, 105,106
-- Āj̄̄vikism vii, 3, 5, 9, 28, 34, 38, 39, 40, $41,42,45,49,50,51,69,70,85$, $105,106,111$
+- Ājīvika xii, 3, 5, 35, 38, 39, 41, 42, 43, 44,45,46,47,48,49,50,51,53,69, 105,106
+- Āj̄̄vikism vii, 3, 5, 9, 28, 34, 38, 39, 40, 41,42,45,49,50,51,69,70,85, 105,106,111
 - Alagaddūpama Sutta 216, 217
 - Alexander 209, 353
 - Allahabad 1, 2
@@ -4702,7 +4712,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - ānvāśikā 171, 172
 - anyatarasyām 186, 188, 199
 - Ānyatareya 335
-- Āpastamba Dharma Sūtra vii, xiii, 56, $79,80,81,85,86,87,88,89,90,91$, $93,193,251$
+- Āpastamba Dharma Sūtra vii, xiii, 56, 79,80,81,85,86,87,88,89,90,91, 93,193,251
 - Āpastamba Śrauta Sūtra xiii, 81, 193, 194, 201, 228
 - apavarga 66
 - Āpiśali 203
@@ -4712,13 +4722,13 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - āraṃbha 17
 - Āraṭṭa / Araṭṭa / Ārāṭṭa 358
 - archaeology / archaeological 4, 13, 248, 251, 254, 266
-- archetype $71,94,95,96$
+- archetype 71,94,95,96
 - Arjuna 29, 35, 36, 48, 49, 100, 101, 109, 110
 - Arrian 361
 - Ārṣeyapāṭha 350
 - Ārstịṣeṇa 84
 - Ārtabhāga, see also Jāratkārava 116, 122, 232
-- artha $164,165,169,170,171$
+- artha 164,165,169,170,171
 - Artha Śāstra 157, 163, 166, 168, 169, 170, 171, 172, 223, 271, 272, 287, 355
 - arthavāda 289, 304
 - Aruṇa 222, 226
@@ -4730,15 +4740,15 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Āryaḍeśa 360
 - Āryaśūra 150
 - Āryāvarta 1, 2, 269, 360
-- ascetic $17,24,30,32,38,41,42,43,45$, $50,55,56,57,58,61,64,66,68,79$, $80,81,82,83,85,87,88,89,90,91$, $92,93,99,100,107,109,110,118$, $145,166,254,259,260,261,327$
-- asceticism $15,18,19,20,21,22,24,25$, $27,28,29,31,32,38,40,41,44,49$, $50,52,61,64,65,67,68,72,79,80$, $81,82,84,85,88,90,93,99,105$, $107,108,109,110,260,273,316$
-- ascetic practices $15,19,24,30,31,50$, $67,80,107,312$
-- ascetic rules $259,260,262$
+- ascetic 17,24,30,32,38,41,42,43,45, 50,55,56,57,58,61,64,66,68,79, 80,81,82,83,85,87,88,89,90,91, 92,93,99,100,107,109,110,118, 145,166,254,259,260,261,327
+- asceticism 15,18,19,20,21,22,24,25, 27,28,29,31,32,38,40,41,44,49, 50,52,61,64,65,67,68,72,79,80, 81,82,84,85,88,90,93,99,105, 107,108,109,110,260,273,316
+- ascetic practices 15,19,24,30,31,50, 67,80,107,312
+- ascetic rules 259,260,262
 - Asita 222, 272, 273
 - Aśoka 3, 5, 209, 358, 359
-- āśrama $61,86,88,90,163,167,168,170$
-- Assalāyana Sutta 209, 211, 212, 214, $353,358,359$
-- Aṣṭādhyāyī 179, 180, 183, 184, 186, 187, 190, 191, 192, 195, 198, 199, 202, 203, 204, 205, 207, 243, 246, 257, 335, 336, 337, 338, 339, 341, $343,345,346,347$
+- āśrama 61,86,88,90,163,167,168,170
+- Assalāyana Sutta 209, 211, 212, 214, 353,358,359
+- Aṣṭādhyāyī 179, 180, 183, 184, 186, 187, 190, 191, 192, 195, 198, 199, 202, 203, 204, 205, 207, 243, 246, 257, 335, 336, 337, 338, 339, 341, 343,345,346,347
 - Aṣṭaka 211
 - āstika 152, 153, 310
 - Āsuri 65, 221, 222, 318, 328
@@ -4748,7 +4758,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Aśvapati Kaikeya 128
 - atharvāagiras 196
 - Atharvaveda xiii, 8, 58, 195, 196, 197, 210, 213, 271, 273, 297, 330, 351
-- ātman $34,47,101,102,116,118,119$, $125,126,127,128,129,147,148$,
+- ātman 34,47,101,102,116,118,119, 125,126,127,128,129,147,148,
 - 214, 216, 232, 233, 234, 235, 261, 283, 290, 314, 334, 351, 363, 365
 - ātmasamāropana 80
 - Ātmasiddhi 291, 296
@@ -4772,9 +4782,9 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - bards 94
 - Bārhaspatya 150, 153
 - Bārhaspatya Sūtra 151, 153
-- Baudhāyana Dharma Sūtra, xiv, 2, 61, $62,63,64,68,79,80,81,251,259$, 260, 354
+- Baudhāyana Dharma Sūtra, xiv, 2, 61, 62,63,64,68,79,80,81,251,259, 260, 354
 - Baudhāyana Gṛhyaśeṣa Sūtra 68
-- Bhagavadgītā vii, xiv, 25, 26, 29, 30, 31, $35,36,37,38,46,47,48,49,51,96$, $179,180,300$
+- Bhagavadgītā vii, xiv, 25, 26, 29, 30, 31, 35,36,37,38,46,47,48,49,51,96, 179,180,300
 - Bhagavatī, see also Viyāhapannatti 21, 43
 - Bhāmatī 158, 293
 - Bhāṇaruci 291
@@ -4789,7 +4799,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Bhāṣāvṛtti 336
 - Bhāskara 48, 285, 291, 292, 294, 296, 297, 298
 - bhāṣya 62, 79, 83, 140, 154, 155, 156, 172, 189, 233, 245, 281, 282, 283, 284, 285, 286, 289, 290, 291, 292,
-- 293, 296, 298, 304, 305, 341, 348, $349,363,365$
+- 293, 296, 298, 304, 305, 341, 348, 349,363,365
 - Bhāṣyaratnaprabhā 293
 - Bhaṭṭa 152, 154, 155, 156, 158
 - Bhavadāsa 189, 292
@@ -4817,33 +4827,33 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Brahmadatta Prāsenajita 8
 - Brahmajāla Suṭta 70, 217, 218
 - Brahmamīmāṃsā 292, 297
-- Brahman 26, 31, 32, 36, 63, 66, 108, $113,114,115,116,117,119,124$, 126, 127, 128, 130, 196, 216, 221, 222, 225, 228, 231, 254, 271, 302, 305
+- Brahman 26, 31, 32, 36, 63, 66, 108, 113,114,115,116,117,119,124, 126, 127, 128, 130, 196, 216, 221, 222, 225, 228, 231, 254, 271, 302, 305
 - brāhmaṇa xiii, xv, xvii, xviii, 66, 81, 84, 132, 134, 139, 175, 177, 187, 189, 193, 194, 195, 197, 198, 200, 203, 204, 206, 210, 213, 214, 215, 225, 228, 237, 238, 240, 243, 254, 258, 267, 301, 329, 332, 350, 359, 364
 - Brahmānandi(n) 291
 - brahmanical ascetic 56, 58, 91, 259
 - brahmanical literature 4,72
-- brahmanical society $3,95,162$
-- brahmanical territory $2,3,84,97,254$, 357
-- brahmanical tradition $24,28,29,33,71$, $77,102,112,137,139,140,154$, 268, 275, 319
+- brahmanical society 3,95,162
+- brahmanical territory 2,3,84,97,254, 357
+- brahmanical tradition 24,28,29,33,71, 77,102,112,137,139,140,154, 268, 275, 319
 - brāhmaṇya king 98
 - brahmasakacyatā 218
 - Brahmasiddhi 284
-- Brahma Sūtra 281, 282, 283, 284, 285, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 301, $302,303,304,305,306$
+- Brahma Sūtra 281, 282, 283, 284, 285, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 301, 302,303,304,305,306
 - Brahma Sūtra Bhāṣya xiv, 281, 282, 283, 284, 285, 289
 - Brahma Sūtra Vṛtti 291
-- Brahmin ix, 2, 3, 6, 7, 8, 9, 35, 57, 58, $61,66,80,82,84,85,91,92,95$, $97,98,103,110,113,114,118,119$, $120,122,125,128,131,139,142$, $145,146,150,153,154,162,163$, $164,166,171,172,209,210,211$, 212, 213, 214, 226, 228, 229, 230, 231, 232, 254, 260, 269, 270, 271, 272, 273, 301, 307, 309, 319, 321, $326,327,353,354,355,358,359$, $360,361,362$
-- breath $26,27,43,60,99,112,116,117$, 123,128
-- Bṛhadāraṇyaka Upaniṣad xiii, 28, 115, $116,119,120,121,122,123,124$, 126, 129, 130, 131, 139, 154, 179, 180, 201, 217, 218, 219, 224, 227, 229, 230, 232, 236, 237, 238, 239, 240, 242, 258, 320, 364
+- Brahmin ix, 2, 3, 6, 7, 8, 9, 35, 57, 58, 61,66,80,82,84,85,91,92,95, 97,98,103,110,113,114,118,119, 120,122,125,128,131,139,142, 145,146,150,153,154,162,163, 164,166,171,172,209,210,211, 212, 213, 214, 226, 228, 229, 230, 231, 232, 254, 260, 269, 270, 271, 272, 273, 301, 307, 309, 319, 321, 326,327,353,354,355,358,359, 360,361,362
+- breath 26,27,43,60,99,112,116,117, 123,128
+- Bṛhadāraṇyaka Upaniṣad xiii, 28, 115, 116,119,120,121,122,123,124, 126, 129, 130, 131, 139, 154, 179, 180, 201, 217, 218, 219, 224, 227, 229, 230, 232, 236, 237, 238, 239, 240, 242, 258, 320, 364
 - Bṛhadaśva 65
 - Bṛhaspati 151, 157
 - Bṛhatsaṃhitā 273
 - Bṛhat-saṃnyāsa Upaniṣad 251
-- Buddha 4, 6, 13, 18, 21, 32, 42, 52, 60, $63,67,69,143,144,150,166,175$, 176, 177, 181, 207, 208, 209, 211, 212, 214, 215, 218, 219, 223, 237, 248, 249, 250, 251, 253, 254, 258, 261, 271, 272, 274, 275, 353, 354, 356
+- Buddha 4, 6, 13, 18, 21, 32, 42, 52, 60, 63,67,69,143,144,150,166,175, 176, 177, 181, 207, 208, 209, 211, 212, 214, 215, 218, 219, 223, 237, 248, 249, 250, 251, 253, 254, 258, 261, 271, 272, 274, 275, 353, 354, 356
 - Buddhacarita 49, 62, 67, 150, 272
 - Buddhaghosa 43
 - buddhi 25, 63, 104, 327
-- Buddhism vii, xi, xv, 3, 4, 5, 6, 9, 13, $14,15,24,28,32,38,39,50,52$, $53,55,56,60,61,69,85,102,104$, $105,111,133,134,135,142,143$, 175, 176, 177, 207, 212, 216, 248, 249, 250, 255, 258, 259, 261, 262, 267, 273, 274, 275, 279, 318, 354, $361,364,366$
-- Buddhists viii, xviii, 3, 18, 19, 21, 33, 38, $40,41,46,48,53,54,55,93,144$,
+- Buddhism vii, xi, xv, 3, 4, 5, 6, 9, 13, 14,15,24,28,32,38,39,50,52, 53,55,56,60,61,69,85,102,104, 105,111,133,134,135,142,143, 175, 176, 177, 207, 212, 216, 248, 249, 250, 255, 258, 259, 261, 262, 267, 273, 274, 275, 279, 318, 354, 361,364,366
+- Buddhists viii, xviii, 3, 18, 19, 21, 33, 38, 40,41,46,48,53,54,55,93,144,
 - 148, 149, 152, 153, 156, 176, 215, 216, 239, 252, 259, 260, 261, 270, 275, 281, 314, 315, 316, 364, 366
 - buddhist canon ix, 5, 15, 21, 32, 38, 91, 104, 145, 208, 211, 239, 250, 353, 358
 - Caikitāneya 8
@@ -4863,24 +4873,24 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - cāturāśramsa 91
 - chandas 187, 188, 203, 334
 - chāndogya 210, 231, 354
-- Chāndogya Upaniṣad xiv, 66, 112, 114, $115,118,119,120,121,123,124$, $125,126,128,131,139,180,196$, 216, 217, 230, 231, 235, 304, 305
-- chronology viii, $6,173,175,177,179$, 181, 207, 215, 219, 255, 256, 258, 259, 260, 347
+- Chāndogya Upaniṣad xiv, 66, 112, 114, 115,118,119,120,121,123,124, 125,126,128,131,139,180,196, 216, 217, 230, 231, 235, 304, 305
+- chronology viii, 6,173,175,177,179, 181, 207, 215, 219, 255, 256, 258, 259, 260, 347
 - Citra Gāngyāyani / Citra Gārgyāyaṇi 112, 230, 231
 - city / cities 4, 162, 163, 164, 248, 249, 250, 251, 252, 255
-- confluence (of Gaṅgā and Yamunā) 2, $3,4,13$
+- confluence (of Gaṅgā and Yamunā) 2, 3,4,13
 - correlative cosmology 256, 270
 - correspondence 42, 127, 129, 256, 259, 269, 274
 - cosmology, see also correlative cosmology 40
-- court $92,116,120,150,158,162,163$, 164, 226, 228, 250, 271, 272, 318, 319
+- court 92,116,120,150,158,162,163, 164, 226, 228, 250, 271, 272, 318, 319
 - courtesan 164, 166, 169
 - curse 167, 269, 271, 273
-- cycle of rebirths $24,38,61,66,68,69$, 106, 131
-- cyclic time vii, $69,70,265,268$
+- cycle of rebirths 24,38,61,66,68,69, 106, 131
+- cyclic time vii, 69,70,265,268
 - dakṣinā 210, 228
 - dayda 170
 - Darius 362
 - Dāsa 266, 267
-- death $16,17,18,23,24,27,39,40,42$, $50,55,89,90,92,97,99,100,101$, $107,108,109,110,114,119,121$, $122,134,139,140,143,144,145$, $146,147,149,152,154,156,168$, $169,176,209,233,234,235,236$, $309,310,311,312,313,314,316$, $317,318,319,320,321,323,324$, $325,326,327,353,364,365$
+- death 16,17,18,23,24,27,39,40,42, 50,55,89,90,92,97,99,100,101, 107,108,109,110,114,119,121, 122,134,139,140,143,144,145, 146,147,149,152,154,156,168, 169,176,209,233,234,235,236, 309,310,311,312,313,314,316, 317,318,319,320,321,323,324, 325,326,327,353,364,365
 - demonic people 4,64
 - Devadaha Sutta 18
 - Devasvāmin 293, 294
@@ -4888,7 +4898,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Devatākāṇda 292
 - devotion 31, 36, 37
 - dhāranā 26, 271
-- Dharma vii, xiii, xiv, xv, xvi, xviii, 1, 2, $56,61,62,63,64,66,67,79,80,81$, $85,86,87,88,89,90,91,93,108$, $135,161,164,165,166,167,168$, $169,170,171,193,213,251,259$, 283, 290, 293, 297, 298, 305, 309, $354,355,357$
+- Dharma vii, xiii, xiv, xv, xvi, xviii, 1, 2, 56,61,62,63,64,66,67,79,80,81, 85,86,87,88,89,90,91,93,108, 135,161,164,165,166,167,168, 169,170,171,193,213,251,259, 283, 290, 293, 297, 298, 305, 309, 354,355,357
 - Dharmaguptaka 32
 - dharmakāya 274, 354
 - dhātu 59
@@ -4910,18 +4920,18 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - eluka 5
 - enlightenment 32, 69, 67, 143
 - Eon 6, 69, 70
-- epic $13,27,64,88,94,97,98,103$
+- epic 13,27,64,88,94,97,98,103
 - esoteric Buddhism 274, 275
 - etymology / etymologies, see also fanciful etymologies 204, 256, 257, 269, 274
 - fanciful etymologies 204, 256, 257, 269, 274
-- fasting to death $27,90,101$
+- fasting to death 27,90,101
 - fatalism 105, 111
 - five fire doctrine 124, 131
 - forest-dweller, see also dīkṣāśrama 81, 88, 89,90
 - Four Restraints 42
 - fundamental (spiritual) ideology of Greater Magadha 53, 98, 106
 - funerary mounds 15
-- funerary practices vii, $6,55,265$
+- funerary practices vii, 6,55,265
 - Gālava 221, 336, 338
 - Gandak 7
 - Gandhāra ix, 4, 357, 358, 359, 360, 361,362
@@ -4930,21 +4940,21 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Gāndhāri 358
 - Gangā, see also Ganges 2, 3, 4
 - Ganges, see also Gangā 2, 13, 48, 70, 251,267
-- Ganges valley $2,3,13,103,249,252$, 255, 268
+- Ganges valley 2,3,13,103,249,252, 255, 268
 - Gārgya 221, 335
 - gārhasthya 84
 - Gaudapāda 306
 - Gautama 63, 221, 223, 259, 302
 - Gautama Dharma Sūtra xv, 251, 259, 355
 - Gītā Bhāṣya 296
-- god $5,6,7,17,31,36,43,59,61,62$, $63,66,68,72,83,107,108,109$, $113,114,115,116,123,127,128$, $140,162,164,185,190,213,218$, $303,304,305,361$
+- god 5,6,7,17,31,36,43,59,61,62, 63,66,68,72,83,107,108,109, 113,114,115,116,123,127,128, 140,162,164,185,190,213,218, 303,304,305,361
 - Gosāla Mankhaliputta, see also Makkhali Gosāla 39
 - Gotama Rāhūgaṇa 6, 7, 21
 - gotra 164, 223
 - Govindānanda 282, 293
 - grammarians of Sanskrit 183
-- Greater Magadha vii, $1,4,5,9,11,13$, $14,15,24,28,29,52,53,55,56,60$, $61,64,67,68,69,71,72,75,77$, $79,84,85,87,90,91,93,97,98$, $101,104,105,106,107,109,111$, $112,134,135,137,138,141,176$, 204, 215, 216, 217, 256, 257, 258, 260, 261, 262, 265, 267, 268, 269, $270,273,275$
-- Greeks, see also yona, yavana 45, 92, 209, $214,353,358,359$
+- Greater Magadha vii, 1,4,5,9,11,13, 14,15,24,28,29,52,53,55,56,60, 61,64,67,68,69,71,72,75,77, 79,84,85,87,90,91,93,97,98, 101,104,105,106,107,109,111, 112,134,135,137,138,141,176, 204, 215, 216, 217, 256, 257, 258, 260, 261, 262, 265, 267, 268, 269, 270,273,275
+- Greeks, see also yona, yavana 45, 92, 209, 214,353,358,359
 - Greek sources vii, 92
 - grhastha 79, 86, 170
 - Grhya Sūtras xvii, 139, 179, 180
@@ -4956,7 +4966,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - hapax legomenon / legomena 352
 - Haribhadra 148, 153, 154
 - Harivaṃśa 151
-- heaven, see also svarga 62, 67, 68, 83, 91, $100,110,111,121,156,168,169$, $170,301,305,365$
+- heaven, see also svarga 62, 67, 68, 83, 91, 100,110,111,121,156,168,169, 170,301,305,365
 - he 'lavo he 'lavah 7
 - he 'layo he 'layah 8
 - hermitage 6, 65
@@ -4967,21 +4977,21 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Hiraṇyakeśin Dharma Sūtra 86
 - Hiraṇyakeśin Śrauta Sūtra xv, 190
 - Honey Section 219, 220
-- householder $65,66,79,80,83,86,128$, $133,154,171$
+- householder 65,66,79,80,83,86,128, 133,154,171
 - Huili 326, 327
 - humour 59, 60, 104, 215, 218
-- identification $88,126,196,211,252$, 256, 266, 269
-- immobility $37,42,45$
-- immobilization $24,32,52,72,88,99$, 105,108
-- immutable / immutability $72,129,216$, 217, 228, 233, 239, 259, 300, 339
-- inactivity $22,35,45,99,100,108,127$, 130,269
+- identification 88,126,196,211,252, 256, 266, 269
+- immobility 37,42,45
+- immobilization 24,32,52,72,88,99, 105,108
+- immutable / immutability 72,129,216, 217, 228, 233, 239, 259, 300, 339
+- inactivity 22,35,45,99,100,108,127, 130,269
 - Indica xv, 361
 - Indo-Aryan 7, 13, 265, 266, 267
 - Indo-European 134, 180, 265, 266
 - Indra 68, 128
 - Indus 163, 357, 361, 362
 - Indus valley civilization 249
-- intention $18,19,53,98,99,107,229$, 288, 303
+- intention 18,19,53,98,99,107,229, 288, 303
 - iśvaramaharsi 62
 - itihāsa 196, 240, 241
 - itihāsapurāna 196
@@ -4989,10 +4999,10 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Jaimini 288, 289, 290, 291, 292, 293, 295, 299, 303, 304, 305, 306, 307
 - Jaiminīya Brāhmaṇa 8, 123, 124, 197, 229, 231
 - Jaiminīya Upaniṣad Brāhmaṇa xv, 238 jaina asceticism 27, 41
-- jaina canon, Śvetāmbara 15, 22, 23, 28, $43,77,91,146,147,153$
-- Jainas 3, 15, 18, 19, 20, 21, 22, 32, 38, $40,44,45,46,48,50,52,53,99$, $100,105,146,148,153,156,259$, 260, 261, 272, 281, 364
+- jaina canon, Śvetāmbara 15, 22, 23, 28, 43,77,91,146,147,153
+- Jainas 3, 15, 18, 19, 20, 21, 22, 32, 38, 40,44,45,46,48,50,52,53,99, 100,105,146,148,153,156,259, 260, 261, 272, 281, 364
 - Jainendra Mahāvrrti 338
-- Jainism vii, xii, $3,4,5,6,9,13,14,15$, $18,19,22,23,24,25,28,33,38$, $41,42,44,45,49,50,51,52,53$, $56,61,69,70,72,85,99,100,105$, 142, 143, 255, 258, 261, 262, 272, 274, 318
+- Jainism vii, xii, 3,4,5,6,9,13,14,15, 18,19,22,23,24,25,28,33,38, 41,42,44,45,49,50,51,52,53, 56,61,69,70,72,85,99,100,105, 142, 143, 255, 258, 261, 262, 272, 274, 318
 - Jaivali Pravāhaṇa, see also Pravāhaṇa Jaivali 113, 114, 124, 231
 - Jamadagni 211
 - Janaka 116, 118, 120, 125, 226, 228, 229, 230, 231, 238, 309, 318, 319, 320, 321, 323
@@ -5018,7 +5028,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Kalpasūtra 299, 301
 - kāma 164, 165, 169, 170, 171
 - Kamalaśīla 45
-- Kāma Sūtra 150, 163, 164, 165, 166, $167,168,169,171,190,271$
+- Kāma Sūtra 150, 163, 164, 165, 166, 167,168,169,171,190,271
 - Kamboja 353, 358, 359
 - Kāmboja 359
 - kamma 17, 44
@@ -5026,16 +5036,16 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Kāṇva xiii, xviii, 7, 95, 198, 220, 221, 222, 225, 226, 228, 233, 238, 239, 323
 - Kāpālika 158
 - Kapardi(n) 291
-- Kapila vii, 61, 62, 63, 64, 65, 66, 67, $68,185,268,302$
+- Kapila vii, 61, 62, 63, 64, 65, 66, 67, 68,185,268,302
 - Kapilavastu 63
 - Kapiṣṭhala Saṃhitā xv, 330
-- karma $19,20,41,42,43,44,45,46$, $50,98,121,132,133,134,140,259$, 292, 301, 311, 312
+- karma 19,20,41,42,43,44,45,46, 50,98,121,132,133,134,140,259, 292, 301, 311, 312
 - karmakāṇda 290
 - Karmamīmāṇsā 292
 - karman 16, 18, 19, 20, 22
 - karmayoga 29, 30, 31
 - karmendriya 327
-- karmic retribution vii, viii, 15, 24, 28, $29,33,35,45,52,53,55,69,72$, $73,75,77,87,90,97,99,100,101$, $102,105,106,112,115,116,117$, $118,119,120,121,122,123,124$, $125,126,130,131,132,133,134$, $135,137,139,140,142,143,144$, $145,146,148,149,150,151,152$, $158,161,162,167,168,169,171$, $172,176,177,207,215,216,217$, 228, 230, 231, 232, 233, 235, 236, 258, 259, 261, 265, 268, 269, 273, $325,327,328,365$
+- karmic retribution vii, viii, 15, 24, 28, 29,33,35,45,52,53,55,69,72, 73,75,77,87,90,97,99,100,101, 102,105,106,112,115,116,117, 118,119,120,121,122,123,124, 125,126,130,131,132,133,134, 135,137,139,140,142,143,144, 145,146,148,149,150,151,152, 158,161,162,167,168,169,171, 172,176,177,207,215,216,217, 228, 230, 231, 232, 233, 235, 236, 258, 259, 261, 265, 268, 269, 273, 325,327,328,365
 - Kāśakṛtsna 292, 299
 - Kashmir, see also Kaśmīra 64, 96, 322, 360
 - Kāśī 4, 358
@@ -5054,7 +5064,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Kevaddha Sutta 358
 - kevalin 20
 - Khila-Kāṇ̣̣a 219, 224
-- king $3,5,7,8,20,27,64,65,68,94$, $95,97,98,103,113,114,115,116$, $118,119,120,124,125,128,132$, $148,149,150,158,162,163,170$, 226, 228, 229, 230, 231, 238, 253, 254, 271, 272, 309, 314, 318, 319, $324,355,359$
+- king 3,5,7,8,20,27,64,65,68,94, 95,97,98,103,113,114,115,116, 118,119,120,124,125,128,132, 148,149,150,158,162,163,170, 226, 228, 229, 230, 231, 238, 253, 254, 271, 272, 309, 314, 318, 319, 324,355,359
 - Kisa Saṅkicca 40, 48
 - Kosala / Kosalas 4, 6, 8, 9, 211
 - Kotyārya 154, 155
@@ -5063,7 +5073,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Kṛtakoṭi 293, 294
 - Kṣatṛ 354
 - ksatra 98, 127, 271
-- Kṣatriya $35,95,110,114,118,131,139$, $162,163,213,231,355,359,360$
+- Kṣatriya 35,95,110,114,118,131,139, 162,163,213,231,355,359,360
 - kṣetrajña 63, 324, 325, 327, 328
 - Kullūka 293
 - Kumārila 152, 192, 308, 365
@@ -5077,9 +5087,9 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Lātyāyana Śrauta Sūtra xvi, 330
 - laukäyatika 150
 - liberating knowledge 113, 126, 131, 132
-- liberation, see also mokṣa 16, 17, 18, 19, $20,22,24,25,26,28,29,30,31,32$, $33,37,38,40,42,45,46,49,50$, $52,53,65,66,67,68,72,87,90$, $91,98,99,100,101,102,103,105$, $106,109,110,111,114,123,124$, $126,131,141,143,144,152,156$, $164,165,166,167,168,169,170$, 172, 217, 231, 236, 270, 279, 280, 283, 301, 305, 307, 308, 328
+- liberation, see also mokṣa 16, 17, 18, 19, 20,22,24,25,26,28,29,30,31,32, 33,37,38,40,42,45,46,49,50, 52,53,65,66,67,68,72,87,90, 91,98,99,100,101,102,103,105, 106,109,110,111,114,123,124, 126,131,141,143,144,152,156, 164,165,166,167,168,169,170, 172, 217, 231, 236, 270, 279, 280, 283, 301, 305, 307, 308, 328
 - lineage 22, 82, 219, 220, 222, 223, 224, 225, 226, 227, 236, 238
-- Lokāyata 150, 151, 152, 153, 154, 155, $156,158,162,171,172,325,326$, $327,364,365$
+- Lokāyata 150, 151, 152, 153, 154, 155, 156,158,162,171,172,325,326, 327,364,365
 - lokāyatika 149, 150, 155, 326, 327
 - Lopāmudrā 82
 - macrocosm 126, 129, 269, 274
@@ -5095,10 +5105,10 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Magadha 3, 4, 8, 9, 238, 253, 254, 255, 267, 269
 - Māgadha 8
 - Māgadhī 8, 41, 91, 267
-- magic $59,167,269,271$
+- magic 59,167,269,271
 - magical thought viii, 203, 255, 256, 257
-- Mahābhārata vii, ix, 5, 25, 27, 30, 31, $51,63,64,65,66,68,70,71,72,80$, $81,82,83,84,94,95,96,97,98$, $105,106,110,111,119,121,135$, $140,149,159,161,162,164,213$, 223, 241, 273, 293, 301, 309, 326, $355,357,359,360$
-- Mahābhāṣya ix, xiv, xvi, xviii, 1, 2, 84, $91,96,189,197,202,205,206,207$, 223, 243, 244, 245, 246, 332, 338, $339,341,348,349,350,351$
+- Mahābhārata vii, ix, 5, 25, 27, 30, 31, 51,63,64,65,66,68,70,71,72,80, 81,82,83,84,94,95,96,97,98, 105,106,110,111,119,121,135, 140,149,159,161,162,164,213, 223, 241, 273, 293, 301, 309, 326, 355,357,359,360
+- Mahābhāṣya ix, xiv, xvi, xviii, 1, 2, 84, 91,96,189,197,202,205,206,207, 223, 243, 244, 245, 246, 332, 338, 339,341,348,349,350,351
 - Mahābhāṣya Dīpikā xiii, xvi, 338, 340
 - mahākalpa 44, 47
 - Mahāprajāpatī Gautamī 223
@@ -5116,11 +5126,11 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Mālavikāgnimitra 3
 - Malayagiri 155
 - manas 25, 26, 327
-- Mānava Dharma Śāstra xvi, 1, 80, 81, $213,354,359$
+- Mānava Dharma Śāstra xvi, 1, 80, 81, 213,354,359
 - Mānava Śrauta Sūtra xvi, 190
 - Mandana Miśra 284, 287, 302
 - Māndūkeya 335
-- mantra 8, 85, 89, 185, 186, 188, 189, 190, 191, 193, 194, 195, 210, 240, 241, 270, 271, 272, 273, 274, 329, $330,331,334,340,350$
+- mantra 8, 85, 89, 185, 186, 188, 189, 190, 191, 193, 194, 195, 210, 240, 241, 270, 271, 272, 273, 274, 329, 330,331,334,340,350
 - Manu xvi, 1, 80, 92, 97, 99, 127, 149, 213, 271, 284, 293, 354, 357
 - manuscript xvi, 94, 95, 96, 97, 180, 199, 243, 274, 291, 321
 - manuscript tradition 95,96
@@ -5137,24 +5147,24 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Mauryan empire 3, 9, 95
 - Mazdaism 358
 - Methātithi 149, 153, 284
-- medicine vii, $56,57,58,59,60,256$, 268, 271, 272, 275
+- medicine vii, 56,57,58,59,60,256, 268, 271, 272, 275
 - meditation xi, 20, 22, 23, 25, 26, 27, 28, 30,31
 - Megasthenes 56, 57, 92, 93, 361
-- mendicant $41,103,118,125,166,251$, 273, 326
+- mendicant 41,103,118,125,166,251, 273, 326
 - methodological positivism 132
 - microcosm 126, 129, 269, 274
 - Middle Indo-Aryan 265
-- Mīmāṃsā xii, 32, 140, 142, 152, 153, $156,158,161,162,167,189,270$, 279, 283, 285, 287, 289, 290, 291, 293, 295, 296, 297, 298, 299, 300, $302,303,304,305,306,307,308$, 365
+- Mīmāṃsā xii, 32, 140, 142, 152, 153, 156,158,161,162,167,189,270, 279, 283, 285, 287, 289, 290, 291, 293, 295, 296, 297, 298, 299, 300, 302,303,304,305,306,307,308, 365
 - Mīmāṃsā Bhāṣya 233, 284, 285
-- Mīmāṃsaka 141, 153, 156, 162, 203, 234, 279, 281, 293, 294, 302, 303, $306,307,308,335,336,338,365$
+- Mīmāṃsaka 141, 153, 156, 162, 203, 234, 279, 281, 293, 294, 302, 303, 306,307,308,335,336,338,365
 - Mīmāṃsā Sūtra ix, xvii, 140, 167, 279, 280, 282, 283, 284, 285, 287, 288,
 
 - 289, 290, 291, 292, 294, 295, 298, 299, 301, 302, 303, 304, 306, 363
 - Mithilā 25, 27, 319
 - Mitra 8, 83
-- moksa, see also liberation 20, 65, 111, $140,164,165,167,169,170,171$, 294, 309, 314
-- moon $112,113,114,115,116,167,272$
-- motionless / motionlessness $15,18,20$, $23,24,25,26,27,28,45,56,57,92$, 93
+- moksa, see also liberation 20, 65, 111, 140,164,165,167,169,170,171, 294, 309, 314
+- moon 112,113,114,115,116,167,272
+- motionless / motionlessness 15,18,20, 23,24,25,26,27,28,45,56,57,92, 93
 - Mūjavants 8
 - Mūlasarvāstivādin 48
 - munda, see also maundya 58, 107, 111
@@ -5190,7 +5200,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - nivṛttidharma 67
 - Niyati 40, 41, 106
 - non-attachment 36, 37
-- non-performing of new actions 21,22 , $45,49,50$
+- non-performing of new actions 21,22 , 45,49,50
 - non-violence, see also ahimsa 260
 - Northern Black Polished ware 13
 - Nyāya 154, 171, 172, 302
@@ -5208,7 +5218,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - orthoepic diaskeuasis xi, 192, 198, 204, 205
 - orthoprax / orthopraxy 7, 81, 269, 319
 - padukāra 340
-- Padapātha 193, 194, 198, 337, 340, 341, $345,350,351$
+- Padapātha 193, 194, 198, 337, 340, 341, 345,350,351
 - Padārthadharmasañgraha 79
 - Padmapāda 289, 290, 296
 - Paesi 148
@@ -5218,7 +5228,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Paṇṇavaṇā 68
 - Pañcāla 7, 230, 335, 358, 359
 - Pañcapādikā 289, 290, 296
-- Pañcaśikha 309, 310, 311, 312, 313, $314,315,316,317,318,319,320$, $321,323,324,325,328$
+- Pañcaśikha 309, 310, 311, 312, 313, 314,315,316,317,318,319,320, 321,323,324,325,328
 - Pañcaśikha-vākya 309, 327
 - Pañcaviṃśa Brāhmaṇa xvii, 8, 197
 - Pāṇini viii, ix, xi, 91, 154, 175, 176, 177, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 219, 223, 237, 240, 243, 244, 245, 246, 257, 258, 270, 302, 329, 330, 331, 332, 334, 335, 337, 338, 339, 341, 343, 344, 345, 346, 347
@@ -5228,27 +5238,27 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Paralokasiddhi 152
 - Paramārtha 62, 328
 - Pāraskara Gṛhya Sūtra 179
-- parivrāja/parivrā̄aka, see also wandering ascetic $40,68,86,87,88,89,91$, $93,170,171$
+- parivrāja/parivrā̄aka, see also wandering ascetic 40,68,86,87,88,89,91, 93,170,171
 - Pāriyātra 1
 - Parṇotsa 361
 - Parśu 358
 - Pārśva 42, 261
 - Pārthasārathi 153, 155, 156
 - Pāṭaliputra 3, 92, 359, 361
-- Patañjali viii, ix, xvi, 1, 2, 3, 7, 8, 13, 40, $84,85,91,97,175,177,184,197$, 202, 205, 206, 207, 208, 223, 237, 238, 240, 242, 243, 244, 245, 246, 258, 265, 269, 332, 334, 338, 339, $340,341,342,348,349,350,351$, $352,357,360$
+- Patañjali viii, ix, xvi, 1, 2, 3, 7, 8, 13, 40, 84,85,91,97,175,177,184,197, 202, 205, 206, 207, 208, 223, 237, 238, 240, 242, 243, 244, 245, 246, 258, 265, 269, 332, 334, 338, 339, 340,341,342,348,349,350,351, 352,357,360
 - patīana 251
 - Pautimāṣīputra 222, 223, 224
 - Pautimāṣya 221, 223, 224, 225, 227, 238, 239
 - Pāyāsi 148
 - philosopher 57, 58, 92, 134, 139, 154, 156, 158, 233
-- philosophy ix, xii, xv, 30, 32, 41, 57, 62, $68,92,119,135,141,151,155,156$, 157, 158, 172, 213, 268, 279, 280, 298, 307, 320, 327, 365
+- philosophy ix, xii, xv, 30, 32, 41, 57, 62, 68,92,119,135,141,151,155,156, 157, 158, 172, 213, 268, 279, 280, 298, 307, 320, 327, 365
 - Pingakesa 148
 - Prabhākara 140, 141, 308
 - Prabodhacandrodaya 151, 158
 - Prahlāda 62, 64, 68
 - Praisa 191
 - Prajāpati 5, 62, 63, 116, 128, 164, 213, 222
-- prakrti, see also Original Nature 25, 29, $30,35,37,49,66,328$
+- prakrti, see also Original Nature 25, 29, 30,35,37,49,66,328
 - Prācya 335
 - prāna 26, 117, 125
 - prānāgnihotra 300
@@ -5259,7 +5269,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Prātībodhī-putra 8
 - Prātisāākhya xvii, 184, 204, 205, 335, 337, 338, 341, 343, 344, 345, 346, 347
 - Pravāhaṇa Jaivali, see also Jaivali Pravāhaṇa 113, 114, 124, 231
-- pravṛtti $67,68,108$
+- pravṛtti 67,68,108
 - Prayāga 2
 - pre-Aryan 260
 - protest movement 261
@@ -5267,13 +5277,13 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - punarmytya, see also second death 134
 - Punjab, see also Panjab 357, 360
 - pura 251
-- purāna $149,150,196,213,241,359,360$
+- purāna 149,150,196,213,241,359,360
 - Pūraṇa Kassapa / Kāśyapa 40, 47, 48, 211
 - Purāṇapañcalakṣana 64
 - pure meditation 22, 23
 - purīsa 214, 215
-- purity $31,35,43,48,84,254,269,270$, 273
-- purohita $7,8,162,163,272$
+- purity 31,35,43,48,84,254,269,270, 273
+- purohita 7,8,162,163,272
 - puruṣa 47, 51, 213, 242, 328
 - Puruṣamedha 8
 - Puruṣa-sūkta 212, 213
@@ -5281,10 +5291,10 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Pūrvakāṇ̣̣a 293, 297
 - Pūrvamīmāṃsā / Pūrva Mīmāṃsā 279, 280, 281, 282, 288, 293, 294, 295, 296, 297, 298, 299, 306
 - Pusyamitra 3
-- Rājadharmaparvan vii, 97, 98, 100, 101, $103,106,111,326$
+- Rājadharmaparvan vii, 97, 98, 100, 101, 103,106,111,326
 - Rājagṛha 4
 - Rājapura 361
-- rajas $68,103,104,324,325,327$
+- rajas 68,103,104,324,325,327
 - Rā̄atarañgiṇī 5, 362
 - Rājghat 4, 249
 - Rajgir 4, 249
@@ -5294,24 +5304,24 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - rātri / rātrī 185
 - Rāyapaseṇiya (Skt. Rājapraśnīya) 149
 - ṛc 193
-- rebirth $18,24,38,45,53,61,66,67$, $68,69,72,87,90,99,101,106,110$, $114,115,118,119,120,121,122$, $131,133,134,141,146,150,152$, $156,165,166,167,168,169,172$, $176,231,236,269,301,316,319$, 320
-- rebirth and karmic retribution vii, viii, $15,24,28,33,35,52,53,61,69,72$, $73,75,77,87,90,97,100,102,112$, $116,117,118,119,120,123,124$, $125,126,130,131,132,133,134$, $135,137,139,140,142,143,144$, $145,146,148,149,150,151,152$, $158,161,162,167,168,169,171$,
-- $172,176,177,207,215,216,217$, $228,230,231,232,233,235,236$, $258,259,265,267,327,364,365$
+- rebirth 18,24,38,45,53,61,66,67, 68,69,72,87,90,99,101,106,110, 114,115,118,119,120,121,122, 131,133,134,141,146,150,152, 156,165,166,167,168,169,172, 176,231,236,269,301,316,319, 320
+- rebirth and karmic retribution vii, viii, 15,24,28,33,35,52,53,61,69,72, 73,75,77,87,90,97,100,102,112, 116,117,118,119,120,123,124, 125,126,130,131,132,133,134, 135,137,139,140,142,143,144, 145,146,148,149,150,151,152, 158,161,162,167,168,169,171,
+- 172,176,177,207,215,216,217, 228,230,231,232,233,235,236, 258,259,265,267,327,364,365
 - relics 273,274
-- renouncer $55,65,86,109,260,268$
+- renouncer 55,65,86,109,260,268
 - restraint of breath, see also prāṇāyāma 26, 27
-- Ṛgveda / Rigveda viii, ix, xi, xvii, 7, $82,83,133,164,175,176,177,183$, 184, 186, 192, 193, 194, 196, 198, 200, 201, 204, 205, 206, 210, 211, 212, 267, 297, 329, 335, 336, 337, $338,339,340,341,342,343,344$, $345,347,351$
+- Ṛgveda / Rigveda viii, ix, xi, xvii, 7, 82,83,133,164,175,176,177,183, 184, 186, 192, 193, 194, 196, 198, 200, 201, 204, 205, 206, 210, 211, 212, 267, 297, 329, 335, 336, 337, 338,339,340,341,342,343,344, 345,347,351
 - Ṛgveda Bhāṣya 293
-- Ṛgveda Prātiśākhya xvii, 204, 205, 335, $337,338,341,343,344,345,346$, 347
-- rite $89,127,133,168,180,275,300$, 304
-- ritual $3,7,59,60,82,83,84,90,107$, $109,110,121,125,132,133,140$, $156,162,185,186,187,188,189$, 191, 225, 251, 254, 269, 270, 272, 273, 275, 280, 281, 283, 285, 288, 289, 291, 296, 297, 298, 299, 300, $301,302,303,304,305,306,307$, $308,329,331,332,333,360,365$
-- Rṣi / ṛṣi $7,65,81,82,87,210,221,272$, 281
+- Ṛgveda Prātiśākhya xvii, 204, 205, 335, 337,338,341,343,344,345,346, 347
+- rite 89,127,133,168,180,275,300, 304
+- ritual 3,7,59,60,82,83,84,90,107, 109,110,121,125,132,133,140, 156,162,185,186,187,188,189, 191, 225, 251, 254, 269, 270, 272, 273, 275, 280, 281, 283, 285, 288, 289, 291, 296, 297, 298, 299, 300, 301,302,303,304,305,306,307, 308,329,331,332,333,360,365
+- Rṣi / ṛṣi 7,65,81,82,87,210,221,272, 281
 - Roundworld ix, 265, 269, 270, 271
 - Rudra 63
 - rūpakāya 274
 - Śabara / Śabarasvāmin 83, 140, 156, 189, 283, 285, 286, 304, 305, 363, 364,365
-- sacrifice $6,8,36,37,48,64,65,67,79$, $80,81,83,84,85,89,90,92,115$, $118,127,145,156,161,167,190$, 194, 210, 214, 229, 266, 283, 300, $301,305,318,319,361$
-- sacrificer, see also yajamāna 36, 80, 81, $90,92,305,365$
+- sacrifice 6,8,36,37,48,64,65,67,79, 80,81,83,84,85,89,90,92,115, 118,127,145,156,161,167,190, 194, 210, 214, 229, 266, 283, 300, 301,305,318,319,361
+- sacrificer, see also yajamāna 36, 80, 81, 90,92,305,365
 - Sadānanida 155
 - Sadānīra / Sadanira 6, 7
 - Saddarśanasamuccaya 153
@@ -5321,7 +5331,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Śaka xv, 357, 359
 - Śākala 335, 344, 345
 - śākalization 345
-- Śākalya 176, 177, 186, 193, 226, 229, 231, 335, 336, 337, 338, 339, 340, $341,343,344,345$
+- Śākalya 176, 177, 186, 193, 226, 229, 231, 335, 336, 337, 338, 339, 340, 341,343,344,345
 - Śākalya-pitr 335
 - Śākaṭāyana 335, 337, 342, 343
 - Sāketa 4, 359
@@ -5333,17 +5343,17 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Sāmaveda xviii, 196, 210, 330, 351, 352
 - Sambandhavārttika 290
 - Saṃgraha 338
-- samhitä xv, xvi, xviii, 96, 132, 175, 184, 185, 186, 190, 193, 194, 195, 196, 197, 198, 200, 206, 210, 213, 214, 215, 225, 297, 329, 330, 335, 339, $340,341,342,344,349,350$
+- samhitä xv, xvi, xviii, 96, 132, 175, 184, 185, 186, 190, 193, 194, 195, 196, 197, 198, 200, 206, 210, 213, 214, 215, 225, 297, 329, 330, 335, 339, 340,341,342,344,349,350
 - samhitä-pātha 193, 351
 - sāmȳ̄̄̄putra 222, 224
 - samjñā 32, 321, 323, 324, 325, 351
 - samkalpa 109
-- Sāṃkhya $30,35,46,47,62,63,67,68$, 103, 104, 153, 171, 172, 268, 270, 273, 279, 294, 302, 309, 310, 314, $319,324,325,326,327,328$
+- Sāṃkhya 30,35,46,47,62,63,67,68, 103, 104, 153, 171, 172, 268, 270, 273, 279, 294, 302, 309, 310, 314, 319,324,325,326,327,328
 - Sāṃkhyakārikā 62
 - Saṃnyāsa Upaniṣad 251
-- samnyāsin $68,80,86,268$
-- samsāra $20,43,66,67,69,233,301$
-- sandhi $155,183,184,185,186,192$, 193, 198, 199, 200, 204, 336, 337, $338,341,343,344$
+- samnyāsin 68,80,86,268
+- samsāra 20,43,66,67,69,233,301
+- sandhi 155,183,184,185,186,192, 193, 198, 199, 200, 204, 336, 337, 338,341,343,344
 - Śāṇdilya 118, 125, 216, 217, 220, 221, 222, 225
 - Saṅghabhedavastu 46, 48, 49
 - Sañjayī Vairatṭiputra 48, 49
@@ -5360,8 +5370,8 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Sarva(darśana)siddhāntasaṃgraha 292
 - Śāstra 293, 296, 297
 - Satakarni inscription 228
-- Satapatha Brāhmaṇa 4, 5, 6, 7, 9, 55, $82,124,125,197,198,223,225$, 226, 228, 237, 332, 340, 350, 357
-- sattva $47,68,103,104,324,325,327$
+- Satapatha Brāhmaṇa 4, 5, 6, 7, 9, 55, 82,124,125,197,198,223,225, 226, 228, 237, 332, 340, 350, 357
+- sattva 47,68,103,104,324,325,327
 - sattvasamksaya 311, 313, 323
 - Satyāṣāḍha Śrauta Sūtra 86
 - Saunāgas 195
@@ -5370,22 +5380,22 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Sāyaṇa 155, 157, 241, 242, 293, 297
 - Scythian 359
 - second death, see also punarmrtyu 134
-- seer $6,62,63,65,82,99,105,127,164$, 210, 269, 272, 273, 318, 319
+- seer 6,62,63,65,82,99,105,127,164, 210, 269, 272, 273, 318, 319
 - Seleucus 92
-- self, knowledge of the vii, $28,29,32,52$, $67,102,103,124,172,233,305$
-- sepulchral mound $4,5,55$
-- Sīlānka $21,41,47,141,153,154,155$
-- signs $4,6,107,139,167,248,249,270$, $272,273,317,322,342$
+- self, knowledge of the vii, 28,29,32,52, 67,102,103,124,172,233,305
+- sepulchral mound 4,5,55
+- Sīlānka 21,41,47,141,153,154,155
+- signs 4,6,107,139,167,248,249,270, 272,273,317,322,342
 - Simhapura 361
-- Śiva $63,64,330,361$
+- Śiva 63,64,330,361
 - Ślokavārttika 152, 155, 162, 295
-- society, see also brahmanical society 2 , $3,50,55,58,60,85,95,104,107$, $158,162,169,171,209,213,218$, $253,254,255,353,359,361$
+- society, see also brahmanical society 2 , 3,50,55,58,60,85,95,104,107, 158,162,169,171,209,213,218, 253,254,255,353,359,361
 - Song Yun 361
 - sources, archaeological 13
-- sources, literary vii, xii, $3,13,14,15$, $29,38,39,40,61,72,75,79,92,93$, $130,150,210,226,248,260,261$, 262, 273, 288, 301, 309, 319, 326, 344,355
+- sources, literary vii, xii, 3,13,14,15, 29,38,39,40,61,72,75,79,92,93, 130,150,210,226,248,260,261, 262, 273, 288, 301, 309, 319, 326, 344,355
 - Sparśa 358
 - Spitzer manuscript 96, 97
-- Śramaṇa / śramana 38, 56, 57, 58, 84, $85,92,93,153,270,359$
+- Śramaṇa / śramana 38, 56, 57, 58, 84, 85,92,93,153,270,359
 - śramanabrāhmaṇan 84
 - Śrauta Sūtras 8, 81, 139, 188, 189, 191, 194, 201
 - Śrāvastī 4
@@ -5397,10 +5407,10 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Srotriya / śrotriya 91, 163, 164, 166
 - Sthānānga 20
 - Strabo 56, 57, 58, 270
-- stūpa $5,15,274$
+- stūpa 5,15,274
 - Sūdra 6, 35, 213, 355, 359, 360
-- suffering $17,20,21,31,35,60,105$, 214, 318
-- sun $32,63,113,114,115,116,127$, $128,167,272,304$
+- suffering 17,20,21,31,35,60,105, 214, 318
+- sun 32,63,113,114,115,116,127, 128,167,272,304
 - Sunaśepha 180
 - Sunga 3, 95, 228
 - Sutigas 3, 95, 164, 223
@@ -5408,7 +5418,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Sūravīra 335
 - Sūravīra-suta 335
 - Sureśvara 287, 288, 289, 290, 291, 292, 296
-- sūtra ix, xvi, xvii, xviii, $62,81,86,90$, $151,164,165,166,167,168,169$, $172,186,191,237,240,241,243$, 244, 246, 279, 280, 281, 282, 283, 284, 285, 288, 289, 295, 296, 298, $299,302,303,304,305,334$
+- sūtra ix, xvi, xvii, xviii, 62,81,86,90, 151,164,165,166,167,168,169, 172,186,191,237,240,241,243, 244, 246, 279, 280, 281, 282, 283, 284, 285, 288, 289, 295, 296, 298, 299,302,303,304,305,334
 - sūtrādhyakṣa 166
 - Sūtraḳṭānga 19, 146, 153
 - Sūtraḳṭāngavṛtti 141, 153, 154
@@ -5416,9 +5426,9 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Suttanīpāta xviii, 210
 - Sūyagada 19, 21, 34, 146, 147, 153, 154
 - svabhāva 35,324
-- svadharma $35,36,51,170$
+- svadharma 35,36,51,170
 - svādhyāya 86, 89, 90
-- svarga, see also heaven $83,140,156,170$
+- svarga, see also heaven 83,140,156,170
 - svarita 244,346
 - Śvetaketu 119, 129, 164, 230, 235
 - Śvetaketu Āruṇeya 193
@@ -5437,7 +5447,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Tantravārttika 190, 192
 - tantric Buddhism 60, 274, 275
 - Tantrism 274, 275
-- tapas $20,66,82,84$
+- tapas 20,66,82,84
 - tarka 26
 - tat tvam asi 128
 - Tattvaratnākara 292
@@ -5452,14 +5462,14 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - three humours, see also tridosa 59, 104
 - tīrthankara 42, 261
 - town 13, 248, 249, 251, 252, 254
-- traces of earlier deeds $15,20,42,99$, 105
+- traces of earlier deeds 15,20,42,99, 105
 - transmigration 44, 98, 117, 121, 139, 169,325
 - tridosa, see also three humours 59, 60, 104
 - Tripādī 338, 339
 - trivarga 164, 165, 169, 170
 - udātta 244,346
 - Udbhaṭa 154
-- Uddālaka 112, 113, 114, 118, 119, 120, $122,123,124,125,126,128,130$, $131,132,161,164,222,226,227$, 229, 230, 231, 232, 235, 236, 239
+- Uddālaka 112, 113, 114, 118, 119, 120, 122,123,124,125,126,128,130, 131,132,161,164,222,226,227, 229, 230, 231, 232, 235, 236, 239
 - Udyāna 361
 - Ugra 354, 355
 - *ūha* 188, 189, 190, 191
@@ -5467,12 +5477,12 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Upadeśasāhasrī 293, 296
 - Upāli Sutta 34
 - Upānga 91, 149, 293
-- Upaniṣads viii, xi, $25,28,60,63,87$, $101,112,113,119,120,123,124$, $125,126,130,131,132,133,134$, $135,139,141,142,155,161,175$, $176,177,179,181,196,201,206$, 207, 210, 212, 215, 216, 217, 218, $219,220,224,225,226,230,232$, 238, 240, 242, 247, 248, 249, 250, 251, 255, 258, 259, 269, 288, 290,
+- Upaniṣads viii, xi, 25,28,60,63,87, 101,112,113,119,120,123,124, 125,126,130,131,132,133,134, 135,139,141,142,155,161,175, 176,177,179,181,196,201,206, 207, 210, 212, 215, 216, 217, 218, 219,220,224,225,226,230,232, 238, 240, 242, 247, 248, 249, 250, 251, 255, 258, 259, 269, 288, 290,
 - 299, 300, 301, 302, 305, 307, 308, 320
 - Upavarṣa 281, 282, 284, 287, 293, 294
 - Upaveśi 222, 226
 - Uraśā 361
-- urban viii, $4,57,58,161,162,163,164$, 169, 172, 248, 249, 250, 252, 253, 254
+- urban viii, 4,57,58,161,162,163,164, 169, 172, 248, 249, 250, 252, 253, 254
 - urbanization, second viii, 4, 9, 163, 249, 250, 252, 253, 254, 255
 - Uttarādhyayana 19, 68
 - Uttarajjhayaṇa xviii, 19, 22, 23
@@ -5480,7 +5490,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Uttaraṃūmāṃsā / Uttara Mīmāṃsā ix, xviii, 279, 280, 281, 288, 292, 293, 294, 295, 296, 297, 298, 301, 302, 306, 307
 - Uttarayāyāta section 98, 121
 - Uvaṭa 346
-- vā 155, 186, 187, 188, 199, 201, 203, 233, 234, 241, 242, 304, 310, 313, $321,324,325,344$
+- vā 155, 186, 187, 188, 199, 201, 203, 233, 234, 241, 242, 304, 310, 313, 321,324,325,344
 - Vācaspati Miśra xvi, 62, 152, 158, 287, 293
 - Vādhūla Śrauta Sūtra xviii, 243
 - Vāhaṭa 292
@@ -5492,11 +5502,11 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Vāmadeva 127, 211
 - Vāmaka 211
 - Vāmana xv, 153
-- vānaprastha $58,80,81,82,86,88,89,91$, 171
+- vānaprastha 58,80,81,82,86,88,89,91, 171
 - Varāhamihira 273
 - Varanasi 4, 249
 - Vardhamāna 152
-- varna $163,167,170,213,214,272,353$, $355,358,359,361$
+- varna 163,167,170,213,214,272,353, 355,358,359,361
 - Varṣākāra 254
 - vārttika xvi, xix, 195, 207, 237, 238, 243, 244, 245, 246, 332, 334, 342
 - Varuṇa 83
@@ -5506,7 +5516,7 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Vassakāra 254
 - Vāsudeva 63
 - Vātsyāyana xvi, 164, 166, 167, 168, 169, 190, 271
-- Veda viii, xi, 31, 59, 60, 66, 67, 83, 84, $85,87,89,90,91,99,101,107,109$, $110,120,127,131,133,155,156$, 157, 163, 164, 166, 171, 175, 176, 181, 183, 184, 185, 188, 190, 192, 196, 197, 199, 203, 204, 205, 206, 207, 208, 209, 210, 214, 223, 241, 255, 256, 257, 258, 267, 272, 273, 275, 286, 288, 289, 290, 291, 293, 297, 303, 307, 313, 317, 343, 345, $348,349,350,351,352,360,361$, 362
+- Veda viii, xi, 31, 59, 60, 66, 67, 83, 84, 85,87,89,90,91,99,101,107,109, 110,120,127,131,133,155,156, 157, 163, 164, 166, 171, 175, 176, 181, 183, 184, 185, 188, 190, 192, 196, 197, 199, 203, 204, 205, 206, 207, 208, 209, 210, 214, 223, 241, 255, 256, 257, 258, 267, 272, 273, 275, 286, 288, 289, 290, 291, 293, 297, 303, 307, 313, 317, 343, 345, 348,349,350,351,352,360,361, 362
 - Vedamitra 335
 - Vedānta ix, xii, 119, 129, 135, 141, 161, 268, 279, 287, 290, 291, 298, 302, 306, 308
 - Vedāntadeśika 294
@@ -5517,14 +5527,14 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Vedārthasamgraha 291
 - vedic antecedents viii, 122, 130, 131, 132, 266
 - vedic asceticism vii, 93, 107
-- vedic ascetics $57,58,61,79,82,90,91$, 93
-- vedic corpus $14,60,104,175,206,355$
-- vedic literature viii, $4,6,8,9,61,120$, 126, 130, 133, 175, 176, 182, 183, 184, 187, 198, 199, 201, 206, 210, 211, 218, 219, 229, 237, 238, 240, 241, 242, 246, 248, 255, 256, 258, 272, 297, 332, 334, 336, 337, 349, 350
-- vedic religion $5,50,68,81,142,171$, 256, 267, 275
+- vedic ascetics 57,58,61,79,82,90,91, 93
+- vedic corpus 14,60,104,175,206,355
+- vedic literature viii, 4,6,8,9,61,120, 126, 130, 133, 175, 176, 182, 183, 184, 187, 198, 199, 201, 206, 210, 211, 218, 219, 229, 237, 238, 240, 241, 242, 246, 248, 255, 256, 258, 272, 297, 332, 334, 336, 337, 349, 350
+- vedic religion 5,50,68,81,142,171, 256, 267, 275
 - Vena 150
 - vibhāsā 186, 187, 199, 200, 201, 202
 - Videgha 6, 7
-- Videha $6,7,9,116,120,150,211,228$, 229, 230, 238, 322, 358
+- Videha 6,7,9,116,120,150,211,228, 229, 230, 238, 322, 358
 - Vidiśā 3
 - vidyā 171, 240, 358
 - Vijarā 123
@@ -5546,15 +5556,15 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - vyākhyāna 240, 241, 242, 243, 244, 245, 246
 - Vyāḷi 335, 338
 - Vyāsa 82, 99, 105, 106, 291, 293
-- wandering ascetic, see also parivrāja 87, $88,89,90,118,166$
+- wandering ascetic, see also parivrāja 87, 88,89,90,118,166
 - waves of immigration 266
 - weaver 116, 122
-- writing $45,95,152,208,209,254,279$, 281, 298
-- written version of the Mahābhārata 71, $94,95,96,97,98$
+- writing 45,95,152,208,209,254,279, 281, 298
+- written version of the Mahābhārata 71, 94,95,96,97,98
 - Xuanzang 326, 327, 361
 - yajanāna, see also sacrificer 80, 133
-- Yājñavalkya 29, 112, 116, 117, 118, 120, $122,125,127,130,131,132,220$, 222, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 235, 236, 237, $238,239,320,323$
-- Yājñavalkya-Kāṇda viii, 28, 29, 116, 119, $120,122,124,125,126,127,129$, 130, 131, 217, 219, 220, 224, 227, 236, 237, 238, 239, 240, 242, 258, 259
+- Yājñavalkya 29, 112, 116, 117, 118, 120, 122,125,127,130,131,132,220, 222, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 235, 236, 237, 238,239,320,323
+- Yājñavalkya-Kāṇda viii, 28, 29, 116, 119, 120,122,124,125,126,127,129, 130, 131, 217, 219, 220, 224, 227, 236, 237, 238, 239, 240, 242, 258, 259
 - Yājñavalkya Section 129, 219, 220
 - Yājñavalkyasmṛti 241
 - Yajurveda 8, 188, 194, 196, 210, 227, 228, 240, 254
@@ -5573,7 +5583,134 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - Yoga Bhāṣya 62, 293
 - Yoga Sūtra 26, 27, 62
 - yona, see also Greeks, yavana 209, 353, 358, 359
-- Yudhiṣthira 97, 98, 99, 100, 101, 102, $103,106,107,108,109,110,111$, 273, 281, 294, 326
+- Yudhiṣthira 97, 98, 99, 100, 101, 102, 103,106,107,108,109,110,111, 273, 281, 294, 326
 - yuga 5, 70, 71, 359, 360
 - Yuga Purāṇa 359
 - Yuktidīpikā 62
+
+### Keywords
+
+- [[Greater Magadha]]
+- [[Early India]]
+- [[Johannes Bronkhorst]]
+- [[Magadha Civilization]]
+- [[Handbook of Oriental Studies]]
+- [[Cultural Features]]
+- [[Spiritual Ideology]]
+- [[Jainism]]
+- [[Knowledge of the Self]]
+- [[Bhagavadgītā]]
+- [[Ājīvikism]]
+- [[Buddhism]]
+- [[Funerary Practices]]
+- [[Medicine]]
+- [[Kapila]]
+- [[Cyclic Time]]
+- [[Brahmanism]]
+- [[Rebirth]]
+- [[Karmic Retribution]]
+- [[Dharma Sūtra]]
+- [[Vedic Asceticism]]
+- [[Āpastamba Dharma Sūtra]]
+- [[Mahābhārata]]
+- [[Upaniṣads]]
+- [[Cārvākas]]
+- [[Urban Brahmins]]
+- [[Chronology]]
+- [[Linguistic Considerations]]
+- [[Vedic Texts]]
+- [[Sanskrit Grammarians]]
+- [[Pāṇini]]
+- [[Patañjali]]
+- [[Late-Vedic Literature]]
+- [[Urbanization]]
+- [[Magical Thought]]
+- [[Discworld]]
+- [[Roundworld]]
+- [[Vedānta Philosophy]]
+- [[Pūrva-Mīmāṃsā]]
+- [[Uttara-Mīmāṃsā]]
+- [[Śābarabhāṣya]]
+- [[Āryāvarta]]
+- [[Mauryan Empire]]
+- [[Śuṅgas]]
+- [[Stūpas]]
+- [[Śatapatha Brāhmaṇa]]
+- [[Jaiminīya Brāhmaṇa]]
+- [[Vedic Index of Names and Subjects]]
+- [[Atharvaveda]]
+- [[Yajurveda]]
+- [[Śrauta Sūtras]]
+- [[Kauṣītaki Āraṇyaka]]
+- [[Painted Grey Ware]]
+- [[Black and Red Ware]]
+- [[Northern Black Polished Ware]]
+- [[Pāli Tipitaka]]
+- [[Āyurveda]]
+- [[Śramanas]]
+- [[Megasthenes]]
+- [[Strabo]]
+- [[Vānaprastha]]
+- [[Tridoṣa]]
+- [[Sāṃkhya]]
+- [[Yoga Sūtra]]
+- [[Prajāpati]]
+- [[Prahlāda]]
+- [[Āsuri]]
+- [[Rājadharmaparvan]]
+- [[Kalpa]]
+- [[Yuga]]
+- [[Śabara]]
+- [[Prabhākara]]
+- [[Kumārila]]
+- [[Śīlānka]]
+- [[Lokāyatas]]
+- [[Bṛhaspati]]
+- [[Nyāya]]
+- [[Artha Śāstra]]
+- [[Kāma Sūtra]]
+- [[Purohita]]
+- [[Trivarga]]
+- [[Mokṣa]]
+- [[Ṛgveda]]
+- [[Brāhmaṇas]]
+- [[Saṃhitās]]
+- [[Kātyāyana]]
+- [[Śākalya]]
+- [[Ṛgveda Prātiśākhya]]
+- [[Aṣṭādhyāyī]]
+- [[Nirukta]]
+- [[Aitareya Brāhmaṇa]]
+- [[Bṛhadāraṇyaka Upaniṣad]]
+- [[Chāndogya Upaniṣad]]
+- [[Yājñavalkya-Kāṇḍa]]
+- [[Uddālaka]]
+- [[Maitreyī]]
+- [[Anuvyākhyāna]]
+- [[Vyākhyāna]]
+- [[Vādhūla Śrauta Sūtra]]
+- [[Oral Tradition]]
+- [[Assalāyana Sutta]]
+- [[Aggañña Sutta]]
+- [[Ambaṭṭha Sutta]]
+- [[Greeks]]
+- [[Kambojas]]
+- [[Puruṣa-sūkta]]
+- [[Śāṇḍilya]]
+- [[Brahmajāla Sutta]]
+- [[Classical Indian Culture]]
+- [[Dāsas]]
+- [[Māgadhī]]
+- [[Samnyāsins]]
+- [[Relics]]
+- [[Dharmakāya]]
+- [[Tantrism]]
+- [[Asita Devala]]
+- [[Jaimini]]
+- [[Śaṅkara]]
+- [[Upavarṣa]]
+- [[Sureśvara]]
+- [[Rāmānuja]]
+- [[Yāmuna]]
+- [[Xuanzang]]
+- [[Huili]]

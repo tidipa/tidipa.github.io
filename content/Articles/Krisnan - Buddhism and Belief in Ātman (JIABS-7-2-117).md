@@ -195,15 +195,15 @@ transmigrating soul. These practices are similar to those of the śrāddha cerem
 (3) Th.: Is it the identical soul who transmigrates from this world to another and from another to this world?\
 (4) P.: Nay, that cannot be truly said.\
 Th.: Then is it a different soul who transmigrates?\
-$P$.: Nay, that cannot be truly said.\
+P.: Nay, that cannot be truly said.\
 Th.: Then is it both identical and also a different soul who transmigrates . . . ?\
-$P$.: Nay, that cannot truly be said.\
+P.: Nay, that cannot truly be said.\
 Th.: Then is it both identical and also a different soul who transmigrates. . . .\
-$P$.: Nay, that cannot truly be said.\
+P.: Nay, that cannot truly be said.\
 Th.: Then is it neither identical soul nor yet a different soul who transmigrates . . . ?\
-$P$.: Nay, that cannot be said.\
+P.: Nay, that cannot be said.\
 Th.: Is it the identical, a different, both identical and also different, neither identical nor different soul, who transmigrates? \
-$P$.: Nay, that cannot be said \
+P.: Nay, that cannot be said \
 Th.: Surely if the identical soul, without (becoming) different, transmigrates when deceasing hence to another world, there will then be no dying; destruction of life will cease to take place. There is action (karma); there is action's effect; there is the result of deeds done. But when good and bad acts are maturing as results, you say that the very same (person) transmigrates-this is wrong.
 [^35]:  Hare (tr.), The Book of the Gradual Savings (P.T.S., London, 1934) Part III.
 [^36]: Woodward (tr.), The Book of the Gradual Savings (P.T.S., London, 1934) Pt. V.

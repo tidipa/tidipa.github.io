@@ -1,3 +1,9 @@
+---
+title: Anālayo - A Meditator's Life of the Buddha (2017)
+description:
+  Bhikkhu Anālayo's "A Meditator's Life of the Buddha" presents a scholarly yet practical biography that traces the Buddha's inner journey, drawing exclusively from early Buddhist discourses in Pāli and their Chinese Āgama parallels to distinguish historical accounts from later legends. The book chronologically follows Siddhartha Gotama's quest from his initial motivation to go forth, through his struggles with asceticism and mastery of concentration, to the night of his awakening, his subsequent forty-five years of compassionate teaching, and his final meditation. Functioning as a guidebook for serious practitioners, each chapter concludes with a meditative exercise, enabling readers to engage with the Buddha's path and apply his insights—from developing moral conduct and overcoming fear to cultivating the four noble truths and dwelling in emptiness—to their own spiritual journey.
+---
+
 ### Praise for A Meditator's Life of the Buddha 
 
 > In this work, Bhikkhu Anālayo applies his consummate knowledge of the textual collections of Early Buddhism to the task of constructing a biography of the Buddha that focuses on his life as a meditator. The book not only paints a very human picture of the Buddha's life, but through the exercises attached to each chapter it enables the reader to join the Buddha on his quest for enlightenment and beyond, into his mission as a teacher and through to his parinirvāna or passing away. While offering a scholarly portrait of the Buddha, this book is also a testament to the overarching unity of the various early Buddhist schools in their conception of the Buddha's life, a unity that coexists along with a rich diversity in their detailed narrations about particular events in that life.
@@ -44,25 +50,25 @@ Based on the Early Discourses
 
 Anālayo
 
-Windhorse Publications
-169 Mill Road
-Cambridge
-CB1 3AN
-UK
-info@windhorsepublications.com
-windhorsepublications.com
+Windhorse Publications\ 
+169 Mill Road\ 
+Cambridge\ 
+CB1 3AN\ 
+UK\ 
+info@windhorsepublications.com\ 
+windhorsepublications.com\ 
 (c) Anālayo, 2017
 
 The right of Anālayo to be identified as the author of this work has been asserted by him in accordance with the Copyright, Designs and Patents Act 1988.
 
-As an act of Dhammadāna, Anālayo has waived royalty payments for this book.
-The index was not compiled by the author.
-Cover design by Dhammarati
+As an act of Dhammadāna, Anālayo has waived royalty payments for this book. \
+The index was not compiled by the author. \
+Cover design by Dhammarati \
 Cover image: Sandstone figure of the Buddha, Sarnath, fifth century AD; (C) The Trustees of the British Museum.
 
-Typesetting and layout by Ruth Rudd
-Printed by Bell \& Bain Ltd, Glasgow
-British Library Cataloguing in Publication Data:
+Typesetting and layout by Ruth Rudd \
+Printed by Bell \& Bain Ltd, Glasgow \
+British Library Cataloguing in Publication Data: \
 A catalogue record for this book is available from the British Library.
 
 ISBN: 978-1-909314-99-3
@@ -3711,218 +3717,220 @@ MĀ 207 71n5
 MĀ 221 180n1, 181n2, 185n8
 
 Majjhima-nikāya
-MN 1 194n11
-MN 2 119n8, 200n4
-MN 4 14n1, 17n7, 18n11, 97n2, 106n4, 116n2, 116n3
-MN 616 n 5
-MN 10 230n9
-MN 12 52n1, 53n3, 99n8
-MN 14 79n5, 89n4
-MN 19 28n13, 29n14
-MN 2058 n 11
-MN 26 8n10, 13n27, 42n1, 42n2, 44n3, 45n7, 46n10, 47n14, 48n16, 56n9, 125n2, 125n3, 126n4, 134n1, 135n5, 165n7, 176n10
-MN 32 87n1
-MN 36 27n12, 42n1, 55n6, 55n7, 56n8, 60n1, 61n3, 62n5, 69n1, 70n3, 78n2, 79n4, 91n6, 173n5, 203n14
-MN 53227 n 6
-MN 564 n 3
-MN 61 178n17
-MN 63 180n1
-MN 64 161n14
-MN 6573 n 11
-MN 6673 n 9
-MN 68 200n4
-MN 7074 n 12
-MN 72 185n9
-MN 75 24n4
-MN 77 71n5
-MN 85 79n6
-MN 91 199n3, 200n4, 200n5, 201n7, 201n8, 202n9, 202n11, 203n13
+* MN 1 194n11
+* MN 2 119n8, 200n4
+* MN 4 14n1, 17n7, 18n11, 97n2, 106n4, 116n2, 116n3
+* MN 616 n 5
+* MN 10 230n9
+* MN 12 52n1, 53n3, 99n8
+* MN 14 79n5, 89n4
+* MN 19 28n13, 29n14
+* MN 2058 n 11
+* MN 26 8n10, 13n27, 42n1, 42n2, 44n3, 45n7, 46n10, 47n14, 48n16, 56n9, 125n2, 125n3, 126n4, 134n1, 135n5, 165n7, 176n10
+* MN 32 87n1
+* MN 36 27n12, 42n1, 55n6, 55n7, 56n8, 60n1, 61n3, 62n5, 69n1, 70n3, 78n2, 79n4, 91n6, 173n5, 203n14
+* MN 53227 n 6
+* MN 564 n 3
+* MN 61 178n17
+* MN 63 180n1
+* MN 64 161n14
+* MN 6573 n 11
+* MN 6673 n 9
+* MN 68 200n4
+* MN 7074 n 12
+* MN 72 185n9
+* MN 75 24n4
+* MN 77 71n5
+* MN 85 79n6
+* MN 91 199n3, 200n4, 200n5, 201n7, 201n8, 202n9, 202n11, 203n13
+* MN 100 173n7
+* MN 117 91n5
+* MN 121 48n18, 49n20, 189n1, 190n4
+* MN 122 195n15
+* MN 123 83n20
+* MN 128 32n1, 33n3, 35n9, 38n14
+* MN 136 107n6
+* MN 137 171n2
+* MN 147 158n10
+* MN 152 192n8
 
-MN 100 173n7
-MN 117 91n5
-MN 121 48n18, 49n20, 189n1, 190n4
-MN 122 195n15
-MN 123 83n20
-MN 128 32n1, 33n3, 35n9, 38n14
-MN 136 107n6
-MN 137 171n2
-MN 147 158n10
-MN 152 192n8
 Samyukta-āgama (T 99)
-SĀ 14 109n10, 156n6
-SĀ 34 109n11
-SĀ 75 130n15
-SĀ 101 181n3
-SĀ 104 184n7
-SĀ 200 158n10
-SĀ 211 25n6, 26n11
-SĀ 230 184n6
-SĀ 250 191n6
-SĀ 254 177n14
-SĀ 262 140n16
-SĀ 282 192n8
-SĀ 285 108n7
-SĀ 287 110n12
-SĀ 296 167n13
-SĀ 301 139n15
-SĀ 312 195n13
-SĀ 373 71n6
-SĀ 379 152n1, 153n3
-SĀ 389 149n10
-SĀ 402 165n8
-SĀ 475 93n8
-SĀ 550 230n10
-SĀ 585 193n10
-SĀ 592 204n16
-SĀ 639 212n8
-SĀ 659 227n4, 227n5
-SĀ 721 121n10
-SĀ 803 63n9
-SĀ 807 63n9, 67n16
-SĀ 894 157n8
-SĀ 931 40n19, 230n11
-SĀ 932 226n3
-SĀ 949 99n5
-SĀ 962 185n9
-SĀ 1044 19n12
-SĀ 1087204 n 15
-SĀ 109483 n 21
-SĀ 109572 n 8
-SĀ 1096131 n16
-SĀ 114238 n 15
-SĀ 1152175 n 9
-SĀ 1158 173n6, 173n7, 174n8
-SĀ 1188 162n1, 163n2
-SĀ 1189102 n 13
-SĀ 1212166 n11
-SĀ 1267141 n17
-Samyukta-āgama (T 100)
-SĀ { }^{2} 26204 \mathrm{n} 15
-SĀ { }^{2} 75175 \mathrm{n} 9
-SĀ { }^{2} 81 173n6, 173n7, 174n8
-SĀ { }^{2} 101163 n 2
-SĀ { }^{2} 102 102n13
-SĀ { }^{2} 11738 \mathrm{n} 15
-SĀ { }^{2} 156 40n19, 230n11
-SĀ { }^{2} 157 226n3
-SĀ { }^{2} 169 193n10
-SĀ { }^{2} 180141 \mathrm{n} 17
-SĀ { }^{2} 186 204n16
-SĀ { }^{2} 196 185n9
-SĀ { }^{2} 228 166n11
-SĀ { }^{2} 267181 \mathrm{n} 3
-SĀ { }^{2} 342 99n5
-Samyukta-āgama (T 101)
-SĀ { }^{3} 4102 \mathrm{n} 13
-SĀ { }^{3} 12147 \mathrm{n} 5
-Samyutta-nikāya
-SN 1.1141 n 17
-SN 2.18 193n10
-SN 4.1 83n21
-SN 4.5 131n16
-SN 4.7 204n15
-SN 4.1872 n 8
-SN 6.1 127n5, 128n7
-SN 6.2 162n1, 163n2
-SN 7.1 173n6, 174n8, 175n9
-SN 7.2 175n9
-SN 8.7 166n11, 166n12
+* SĀ 14 109n10, 156n6
+* SĀ 34 109n11
+* SĀ 75 130n15
+* SĀ 101 181n3
+* SĀ 104 184n7
+* SĀ 200 158n10
+* SĀ 211 25n6, 26n11
+* SĀ 230 184n6
+* SĀ 250 191n6
+* SĀ 254 177n14
+* SĀ 262 140n16
+* SĀ 282 192n8
+* SĀ 285 108n7
+* SĀ 287 110n12
+* SĀ 296 167n13
+* SĀ 301 139n15
+* SĀ 312 195n13
+* SĀ 373 71n6
+* SĀ 379 152n1, 153n3
+* SĀ 389 149n10
+* SĀ 402 165n8
+* SĀ 475 93n8
+* SĀ 550 230n10
+* SĀ 585 193n10
+* SĀ 592 204n16
+* SĀ 639 212n8
+* SĀ 659 227n4, 227n5
+* SĀ 721 121n10
+* SĀ 803 63n9
+* SĀ 807 63n9, 67n16
+* SĀ 894 157n8
+* SĀ 931 40n19, 230n11
+* SĀ 932 226n3
+* SĀ 949 99n5
+* SĀ 962 185n9
+* SĀ 1044 19n12
+* SĀ 1087204 n 15
+* SĀ 109483 n 21
+* SĀ 109572 n 8
+* SĀ 1096131 n16
+* SĀ 114238 n 15
+* SĀ 1152175 n 9
+* SĀ 1158 173n6, 173n7, 174n8
+* SĀ 1188 162n1, 163n2
+* SĀ 1189102 n 13
+* SĀ 1212166 n11
+* SĀ 1267141 n17
 
-SN 10.8 204n16
-SN 12.2 113n18
-SN 12.10 108n7
-SN 12.15 139n15
-SN 12.20 167n13, 167n14
-SN 12.23 147n6, 147n7
-SN 12.63 71n6
-SN 12.65 109n9, 110n13
-SN 15.5 99n5
-SN 16.9 38n15
-SN 22.26 109n10, 156n6
-SN 22.51 147n5
-SN 22.58 130n15
-SN 22.59 109n11
-SN 22.85 184n7
-SN 22.90 140n16
-SN 35.68 184n6
-SN 35.95 195n13
-SN 35.117 25n6, 26n7, 26n11
-SN 35.121 158n10
-SN 35.191 191n6, 191n7
-SN 36.24 93n8, 156n5
-SN 42.9 99n6
-SN 46.42 121n10
-SN 47.9 168, 207n1
-SN 47.14 212n8
-SN 47.18 102n13
-SN 48.9 227n6
-SN 48.50 227n5
-SN 51.10 210n7
-SN 54.11 63n9, 64n10, 64n11, 64n12
-SN 55.7 19n12
-SN 56.11 138n13, 143n2, 146n3, 152n1
-SN 56.23 165n8
+Samyukta-āgama (T 100)
+* SĀ<sup>2</sup> 26204 \mathrm{n} 15
+* SĀ<sup>2</sup> 75175 \mathrm{n} 9
+* SĀ<sup>2</sup> 81 173n6, 173n7, 174n8
+* SĀ<sup>2</sup> 101163 n 2
+* SĀ<sup>2</sup> 102 102n13
+* SĀ<sup>2</sup> 11738 \mathrm{n} 15
+* SĀ<sup>2</sup> 156 40n19, 230n11
+* SĀ<sup>2</sup> 157 226n3
+* SĀ<sup>2</sup> 169 193n10
+* SĀ<sup>2</sup> 180141 \mathrm{n} 17
+* SĀ<sup>2</sup> 186 204n16
+* SĀ<sup>2</sup> 196 185n9
+* SĀ<sup>2</sup> 228 166n11
+* SĀ<sup>2</sup> 267181 \mathrm{n} 3
+* SĀ<sup>2</sup> 342 99n5
+
+Samyukta-āgama (T 101)
+* SĀ<sup>3</sup> 4102 \mathrm{n} 13
+* SĀ<sup>3</sup> 12147 \mathrm{n} 5
+
+Samyutta-nikāya
+* SN 1.1141 n 17
+* SN 2.18 193n10
+* SN 4.1 83n21
+* SN 4.5 131n16
+* SN 4.7 204n15
+* SN 4.1872 n 8
+* SN 6.1 127n5, 128n7
+* SN 6.2 162n1, 163n2
+* SN 7.1 173n6, 174n8, 175n9
+* SN 7.2 175n9
+* SN 8.7 166n11, 166n12
+* SN 10.8 204n16
+* SN 12.2 113n18
+* SN 12.10 108n7
+* SN 12.15 139n15
+* SN 12.20 167n13, 167n14
+* SN 12.23 147n6, 147n7
+* SN 12.63 71n6
+* SN 12.65 109n9, 110n13
+* SN 15.5 99n5
+* SN 16.9 38n15
+* SN 22.26 109n10, 156n6
+* SN 22.51 147n5
+* SN 22.58 130n15
+* SN 22.59 109n11
+* SN 22.85 184n7
+* SN 22.90 140n16
+* SN 35.68 184n6
+* SN 35.95 195n13
+* SN 35.117 25n6, 26n7, 26n11
+* SN 35.121 158n10
+* SN 35.191 191n6, 191n7
+* SN 36.24 93n8, 156n5
+* SN 42.9 99n6
+* SN 46.42 121n10
+* SN 47.9 168, 207n1
+* SN 47.14 212n8
+* SN 47.18 102n13
+* SN 48.9 227n6
+* SN 48.50 227n5
+* SN 51.10 210n7
+* SN 54.11 63n9, 64n10, 64n11, 64n12
+* SN 55.7 19n12
+* SN 56.11 138n13, 143n2, 146n3, 152n1
+* SN 56.23 165n8
+
 Sutta-nipāta
-Sn 424 26n10
-Sn 937 11n20, 11n21, 11n22
-Sn 938 11n23
-Sn 939 11n20, 12n24
+* Sn 424 26n10
+* Sn 937 11n20, 11n21, 11n22
+* Sn 938 11n23
+* Sn 939 11n20, 12n24
 
 Taishō edition
-T 3 96n1, 129n11
-T 5 207n1, 210n7
-T 6 168n15, 207n1, 210n6, 216n1
-T 7 210n7, 216n1
-T 10 177n16
-T 36 146n4
-T 38 120n9, 121n10
-T 46 177n15
-T 47 176n12
-T 54 79n5, 89n4
-T 55 79n5, 89n4
-T 57 117n6
-T 61 166n11
-T 63 166n11
-T 75 163n3, 164n5
-T 76 199n3, 200n5, 201n7, 202n11, 203n13
-T 87 20n18
-T 88 20n18
-T 89 20n17
-T 94 180n1
-T 154.16 87n1
-T 184 80n8
-T 186 80n8
-T 187 80n9
-T 189 80n10, 139n14
-T 190 80n8
-T 191 139n14
-T 192 80n8
-T 193 80n10
-T 198 11n20
-T 211 135n5, 178n17
-T 212 62n8, 88n2, 112n17, 135n5, 163n2, 178n17
-T 713 110n13
-T 714 110n13
-T 715 110n13
-T 757 52n1, 82n17, 99n8
-T 765 24n2
-T 1421 128n8, 135n2, 177n13
-T 1425 177n13
-T 1428 45n7, 78n3, 128n8, 159n11, 177n13
-| T 1442 | 178n17 | T 1559 | 172n4 |
-| T 1448 | 63n9, 66n15, | T 1579 | 35n9 |
-|  | 77n16 |  |  |
-| T 1450 | 128n8 | Udāna |  |
-| T 1509 | 180n1 | Ud 1.3 | 112n17 |
-| T 1536 | 229n8 | Ud 1.10 | 194n12 |
-| T 1558 | 172n4 | Ud 6.1 | 210n7 |
+* T 3 96n1, 129n11
+* T 5 207n1, 210n7
+* T 6 168n15, 207n1, 210n6, 216n1
+* T 7 210n7, 216n1
+* T 10 177n16
+* T 36 146n4
+* T 38 120n9, 121n10
+* T 46 177n15
+* T 47 176n12
+* T 54 79n5, 89n4
+* T 55 79n5, 89n4
+* T 57 117n6
+* T 61 166n11
+* T 63 166n11
+* T 75 163n3, 164n5
+* T 76 199n3, 200n5, 201n7, 202n11, 203n13
+* T 87 20n18
+* T 88 20n18
+* T 89 20n17
+* T 94 180n1
+* T 154.16 87n1
+* T 184 80n8
+* T 186 80n8
+* T 187 80n9
+* T 189 80n10, 139n14
+* T 190 80n8
+* T 191 139n14
+* T 192 80n8
+* T 193 80n10
+* T 198 11n20
+* T 211 135n5, 178n17
+* T 212 62n8, 88n2, 112n17, 135n5, 163n2, 178n17
+* T 713 110n13
+* T 714 110n13
+* T 715 110n13
+* T 757 52n1, 82n17, 99n8
+* T 765 24n2
+* T 1421 128n8, 135n2, 177n13
+* T 1425 177n13
+* T 1428 45n7, 78n3, 128n8, 159n11, 177n13
+* T 1442, 178n17, T 1559, 172n4
+* T 1448, 63n9, 66n15,, T 1579, 35n9, , 77n16
+* T 1450, 128n8, Udāna
+* T 1509, 180n1, Ud 1.3, 112n17
+* T 1536, 229n8, Ud 1.10, 194n12
+* T 1558, 172n4, Ud 6.1, 210n7
 
 Vinaya
-Vin I 1,4 112n17
-Vin I 20,36 131n16
-Vin I 182,11 177n13
-Vin II 156,25 204n16
-Vin IV 204,22 164n6
+* Vin I 1,4 112n17
+* Vin I 20,36 131n16
+* Vin I 182,11 177n13
+* Vin II 156,25 204n16
+* Vin IV 204,22 164n6
 
 ### WINDHORSE PUBLICATIONS 
 
@@ -3932,18 +3940,18 @@ As a not-for-profit enterprise, we ensure that all surplus income is invested in
 
 The Windhorse is a mythical animal that flies over the earth carrying on its back three precious jewels, bringing these invaluable gifts to all humanity: the Buddha (the 'awakened one'), his teaching, and the community of all his followers.
 
-Windhorse Publications
-169 Mill Road
-Cambridge CB1 3AN
-UK
-info@windhorsepublications.com
-Perseus Distribution
-210 American Drive
-Jackson TN 38301
-USA
-Windhorse Books
-PO Box 574
-Newtown NSW 2042
+Windhorse Publications \
+169 Mill Road \
+Cambridge CB1 3AN \
+UK \
+info@windhorsepublications.com \
+Perseus Distribution \
+210 American Drive \
+Jackson TN 38301 \
+USA \
+Windhorse Books \
+PO Box 574 \
+Newtown NSW 2042 \
 Australia
 
 ### THE TRIRATNA BUDDHIST COMMUNITY 
@@ -3954,15 +3962,69 @@ Through these and other activities, Triratna is developing a unique approach to 
 
 If you would like more information about Triratna please visit thebuddhistcentre.com or write to:
 
-London Buddhist Centre
-51 Roman Road
-London E2 0HU
-UK
-Aryaloka
-14 Heartwood Circle
-Newmarket NH 03857
-USA
-Sydney Buddhist Centre
-24 Enmore Road
-Sydney NSW 2042
+London Buddhist Centre \
+51 Roman Road \
+London E2 0HU \
+UK \
+Aryaloka \
+14 Heartwood Circle \
+Newmarket NH 03857 \
+USA \
+Sydney Buddhist Centre \
+24 Enmore Road \
+Sydney NSW 2042 \
 Australia
+
+### Keywords
+
+* [[A Meditator's Life of the Buddha]]
+* [[Bhikkhu Anālayo]]
+* [[Early Buddhism]]
+* [[Buddha Biography]]
+* [[Meditation Practice]]
+* [[Enlightenment]]
+* [[Awakening]]
+* [[Nirvāṇa]]
+* [[Dharma Teaching]]
+* [[Scholarly Portrait]]
+* [[Meditative Exercises]]
+* [[Pāli Discourses]]
+* [[Chinese Āgamas]]
+* [[Spiritual Journey]]
+* [[Compassionate Teaching]]
+* [[Parinirvāṇa]]
+* [[Practical Guidebook]]
+* [[Contemplation of the Buddha]]
+* [[Explorations of the Mind]]
+* [[Meditative States]]
+* [[Motivation to Go Forth]]
+* [[Moral Conduct]]
+* [[Obstacles to Concentration]]
+* [[Absorption States]]
+* [[Immaterial Attainments]]
+* [[Ascetic Practices]]
+* [[Breath Control]]
+* [[Fasting]]
+* [[Finding the Path]]
+* [[Determination]]
+* [[Recollection of Past Lives]]
+* [[Divine Eye]]
+* [[Destruction of Influxes]]
+* [[Four Noble Truths]]
+* [[Three Turnings]]
+* [[Honouring the Dharma]]
+* [[Teaching Methods]]
+* [[Views and Opinions]]
+* [[Dwelling in Emptiness]]
+* [[Daily Conduct]]
+* [[Old Age, Disease, and Death]]
+* [[Final Meditation]]
+* [[Community of Noble Disciples]]
+* [[Confidence]]
+* [[Generosity]]
+* [[Equanimity]]
+* [[Karma]]
+* [[Dependent Arising]]
+* [[Five Aggregates of Clinging]]
+* [[Wheel of Dharma]]
+* [[Tathāgata]]

@@ -338,7 +338,7 @@ The second of these two points invites, at least in theory, a reflection on the 
 [^48]: In some cases, it may be appropriate to speak of state-dependent memory (wherein memories are difficult to recall unless the conditions at encoding and recall are similar); see Radulovic et al. (2018). Memories of overwhelming traumatic stress, for example, can be subject to dissociative amnesia. It is at least conceivable that overwhelming traumatic stress sometimes provokes a state of deep absorption (itself often looked upon as a state of dissociation), so that they are more easily recalled in a state of deep absorption.
 [^49]: For a possible alternative path, see Appendix A.
 [^50]: There have been more recent attempts to determine whether Buddhism, if properly interpreted, is true. Some (e.g., Wright 2017) maintain that it is, others (e.g., Thompson 2020) that it is not.
-[^51]: '"Classic" psychedelic drugs' is a term used to refer to psychedelics that are agonists at the serotonin 2A (5-HT2A) receptor and share a similar phenomenological profile. Among the drugs it covers are: d-lysergic acid diethylamide (LSD); mescaline, the active chemical in a variety of psychoactive cacti, most notably peyote (Lophophora williamsii); psilocybin, a psychoactive alkaloid found in a number of mushroom genera, most notably Psilocybe; and $N, N$-dimethyltryptamine (DMT), the primary hallucinogenic chemical in the Amazonian brew ayahuasca, also known as yagé (Healy 2021, p. 639).
+[^51]: '"Classic" psychedelic drugs' is a term used to refer to psychedelics that are agonists at the serotonin 2A (5-HT2A) receptor and share a similar phenomenological profile. Among the drugs it covers are: d-lysergic acid diethylamide (LSD); mescaline, the active chemical in a variety of psychoactive cacti, most notably peyote (Lophophora williamsii); psilocybin, a psychoactive alkaloid found in a number of mushroom genera, most notably Psilocybe; and N,N-dimethyltryptamine (DMT), the primary hallucinogenic chemical in the Amazonian brew ayahuasca, also known as yagé (Healy 2021, p. 639).
 [^52]: Reference to Curran et al. (2018); Zhang and Stackman (2015). Also Fattore et al. (2018) explores the link between psychedelics and reconsolidation.
 [^53]: For example, Frood (2012); Krebs and Johansen (2012); Johnson et al. (2014).
 [^54]: It is not known whether or to what extent the "classic" psychedelics (see note 51, above) are "ideal".
@@ -350,7 +350,7 @@ The second of these two points invites, at least in theory, a reflection on the 
 - Berridge, Kent C., and Terry E. Robinson. 2016. Liking, wanting, and the incentive-sensitization theory of addiction. American Psychologist 71: 670-79. [CrossRef] [PubMed]
 - Bloom, Paul. 2021. The Sweet Spot. The Pleasures of Suffering and the Search for Meaning. New York: Ecco.
 - Bronkhorst, Johannes. 1993. The Two Traditions of Meditation in Ancient India, 2nd ed. Delhi: Motilal Banarsidass, Reprint in 2000.
-- Bronkhorst, Johannes. 1998. Did the Buddha believe in karma and rebirth? Journal of the International Association of Buddhist Studies 21: $1-19$.
+- Bronkhorst, Johannes. 1998. Did the Buddha believe in karma and rebirth? Journal of the International Association of Buddhist Studies 21: 1-19.
 - Bronkhorst, Johannes. 2009. Buddhist Teaching in India. Boston: Wisdom Publications.
 - Bronkhorst, Johannes. 2017. Can religion be explained? The role of absorption in various religious phenomena. Method and Theory in the Study of Religion 29: 1-30. [CrossRef]
 - Bronkhorst, Johannes. 2022a. Mystical experience. Religions 13: 589. [CrossRef]
@@ -371,7 +371,7 @@ The second of these two points invites, at least in theory, a reflection on the 
 - Exton-McGuinness, Marc T. J., Jonathan L. C. Lee, and Amy C. Reichelt. 2015. Updating memories-The role of prediction errors in memory reconsolidation. Behavioural Brain Research 278: 375-84. [CrossRef]
 - Fattore, Liana, Alessandro Piva, Mary Tresa Zanda, Guido Fumagalli, and Cristiano Chiamulera. 2018. Psychedelics and reconsolidation of traumatic and appetitive maladies memories: Focus on cannabinoids and ketamine. Psychopharmacology 235: 433-45. [CrossRef]
 - Faure, Bernard. 2012. A gray matter: Another look at Buddhism and neuroscience. Tricycle 22: 71-75, 111.
-- Faure, Bernard. 2017. Can (and should) neuroscience naturalize Buddhism? International Journal of Buddhist Thought \& Culture 27: $113-33$.
+- Faure, Bernard. 2017. Can (and should) neuroscience naturalize Buddhism? International Journal of Buddhist Thought \& Culture 27: 113-33.
 - Fernández, Rodrigo S., Mariano M. Boccia, and María E. Pedreira. 2016. The fate of memory: Reconsolidation and the case of prediction error. Neuroscience and Biobehavioral Reviews 68: 423-41. [CrossRef]
 - Flanagan, Owen. 2011. The Bodhisattva's Brain. Buddhism Naturalized. Cambridge and London: The MIT Press.
 - Frankland, Paul W., Sheena A. Josselyn, and Stefan Köhler. 2019. The neurobiological foundation of memory retrieval. Nature Neuroscience 22: 1576-85. [CrossRef] [PubMed]

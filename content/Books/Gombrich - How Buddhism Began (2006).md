@@ -1,3 +1,9 @@
+---
+title: Gombrich, Richard F. - How Buddhism Began (2006)
+description:
+  Richard F. Gombrich's *How Buddhism Began* argues that the Buddha's original teachings must be understood within their historical context, primarily as a debate with and reaction to contemporary religious ideas, especially those of Brahminism. Gombrich posits that the Buddha was not an essentialist philosopher concerned with 'what' things are, but a pragmatic teacher focused on 'how' they function, notably by reinterpreting concepts like *kamma* from ritual action to intention. The book's other central theme is that subsequent generations of disciples, by taking the Buddha's metaphors and allegories literally, created new doctrines and scholastic distinctions that went far beyond his original, often context-dependent, message. This process is illustrated through analyses of key texts and concepts, such as the development of 'release by insight' as an alternative to meditation and a reinterpretation of the Aṅgulimāla story, suggesting that many apparent inconsistencies in the Pali Canon arose from a failure to appreciate the Buddha's use of skillful means and the specific debates he was engaged in.
+---
+
 How Buddhism Began 
 
 The conditioned genesis of the early teachings
@@ -6,8 +12,8 @@ Second edition
 
 Richard F. Gombrich
 
-Routledge
-Taylor \& Francis Group
+Routledge \
+Taylor \& Francis Group \
 LONDON AND NEW YORK
 
 Also available as a printed book see title verso for ISBN details
@@ -548,7 +554,7 @@ Incidentally, this affords a good illustration of how the Pali Canon was formed.
 
 I believe in criticism and debate, so before I go further I should make some acknowledgment of the widely-held view that in fact the Buddha's soteriology was as close to the Vedānta of the early Upaniṣads as makes no difference. One of the arguments used is that the Pali texts contain some characteristic Vedāntin terminology. The best example is that an Enlightened person is said to live brahma-bhūtena attanā, 'with his self/essence become brahman' (e.g. AN II, 211). The Buddha himself is said to be brahma-bhūto, 'become brahman' (e.g. MN I, 111). My answer is at the most general level, as explained in my first chapter: that the Buddha regularly used the language of his opponents, but turned it into metaphor. Examples simply pullulate, because in soteriology metaphors are inevitable. What the Buddha taught we may consider a perfect example of a soteriology; only the most perverse pedant would object that it was not a soteriology at all, because the Greek word sōtēr means 'saviour' and the Buddha was not a saviour, just a teacher who explained how one could save oneself. Similarly, at MN I, 111, a few words after the Buddha is called brahma-bhūto, he is also called amatassa dātā, 'giver of the immortal' - another metaphor, very close to 'saviour'.
 
-One should always try to respond to one's opponent's strongest argument. In my view the strongest argument of those who want to make the Buddha a Vedāntin or quasi-Vedāntin lies in the brief passage in the Udāna (VIII, $3=$ pp. 80-81) which runs: 'There is, monks, an unborn, unbecome, unmade, uncompounded; if there were not, there would be known no escape here from the born, become, made, compounded.'
+One should always try to respond to one's opponent's strongest argument. In my view the strongest argument of those who want to make the Buddha a Vedāntin or quasi-Vedāntin lies in the brief passage in the Udāna (VIII, 3= pp. 80-81) which runs: 'There is, monks, an unborn, unbecome, unmade, uncompounded; if there were not, there would be known no escape here from the born, become, made, compounded.'
 
 The Udāna is an anthology, much of it culled from other extant texts. It is hard not to be sceptical about its antiquity. Its first pages are the same as those of the Mahāvagga of the Vinaya Khandhaka, and the Udāna is obviously the borrower from that extended (and largely allegorical) narrative (see chapters 1 and 3). I accept Frauwallner's finding that the Khandhaka must have been composed soon after the Second Communal Recitation (Frauwallner, 1956:54; Gombrich, 1988a); so the Udāna must be even later.
 
@@ -583,7 +589,7 @@ When is there nothing to illuminate? There are several passages in the Canon whi
 
 The Buddha's interest in how not what, his emphasis on processes rather than objects, could be said to be summarised in his teaching of the pațicca-samuppāda, conditioned origination.
 
-[^14]: Line 2: Ud I, $10=$ p. 9. Line 4: SN sutta I, 3, $3=$ SN I, 13; SN sutta I, 5, $10=$ SN I, 35. Both: SN sutta I, 3, $7=$ SN I, 15. I ignore variations in the first word of the line.
+[^14]: Line 2: Ud I, 10= p. 9. Line 4: SN sutta I, 3, 3= SN I, 13; SN sutta I, 5, 10= SN I, 35. Both: SN sutta I, 3, 7= SN I, 15. I ignore variations in the first word of the line.
 
 There is an enormous literature on this doctrine and I have no ambition to make any substantial addition to it. I would however like to note in passing that I consider Frauwallner to have made a very useful contribution when he pointed out (Frauwallner, 1973:167) that the full twelve-link formulation combines the theory that our troubles are all due to ignorance (the intellectualist analysis) with the theory that they are due to desire (the emotionalist analysis), a matter relevant to chapter 4 below.
 
@@ -1027,7 +1033,7 @@ It is convenient at this point to add the supplementary information provided by 
 6. 'When the faculty of insight of the type who is on the way to realising the result of stream-entry [^7] is very great, and brings insight [^8], he develops the noble path which is introduced by insight. He is called the type "follower of the teaching". When one is on the way to realising the result of streamentry, one is the type "follower of the teaching"; when one has that result one is one who has seen the point.'
 7. 'When the faculty of faith of the type who is on the way to realising the result of stream-entry is very great, and brings faith, [^9] he develops the noble path which is introduced by faith. He is called the type "follower through faith". When one is on the way to realising the result of stream-entry, one is the type "follower through faith"; when one has that result one is "released by faith".
 
-[^7]: Those whose progress towards Enlightenment is irreversible are classified in four grades; in ascending order: stream-enterer, once-returner, non-returner, arahant ( $=$ Enlightened). The stream-enterer has at most seven more lives, the once-returner at most one (as a human being), the non-returner no more as a human being (only in a high heaven), and an arahant, being already Enlightened, cannot be reborn.
+[^7]: Those whose progress towards Enlightenment is irreversible are classified in four grades; in ascending order: stream-enterer, once-returner, non-returner, arahant ( = Enlightened). The stream-enterer has at most seven more lives, the once-returner at most one (as a human being), the non-returner no more as a human being (only in a high heaven), and an arahant, being already Enlightened, cannot be reborn.
 [^8]: Reading paññāvāhī with MA II, 120, which quotes this passage.
 [^9]: Reading saddhāvāhī with MA II, 120 (see previous note).
 
@@ -1186,7 +1192,7 @@ The next paragraph, 36, the last in the sutta, says that a monk is called ubhato
 
 It is not self-evident what is here meant by 'release on both sides'. The context shows that the referent must be the experience of release undergone by a meditator. This is also the view variously propounded by several passages in the commentaries. [^15] Variously, in that they record different opinions about why this is called 'release on both sides'. [^16] None of the recorded opinions corresponds to my own guess: that in keeping with the highly redundant style of these texts, 'on both sides' refers to the fact that he can with equal ease enter and leave each state - in the modern idiom, he 'can take it or let it alone'. But even if my guess is right and this is what the term was originally intended to refer to, I suppose we shall never know for sure, and historically it is a dead end, because no ancient text adopted this interpretation.
 
-However, the fact that 'release on both sides' refers to the release of a meditator fits another canonical passage, a succession of three very short and schematic suttas (AN, Navaka Nipāta, Pañcāla Vagga, suttas XLIII-XLV = AN IV, 451-3). [^17] Each of these three short suttas has exactly the same pattern. It begins by an anonymous monk asking another anonymous monk, his senior (as one can deduce from the terms of address), what the Buddha meant by a certain term. Sutta XLIII deals with the term kāya-sakkhī, XLIV with Paññā-vimutto, XLV with ubhatobhāga-vimutto. These three terms are numbers 3,2 and 1 on our original list. Sakkhī itself means 'eye-witness', so that to add $k \bar{a} y a$, 'body', to it seems redundant. However, what is intended here is that sakkhi, in so far as it refers to the eyes, is metaphorical: the explanation of the term shows that the relevant sensation is tactile, or rather perhaps a feeling permeating the body for which there is no term in the vocabulary of sense perception. Our passage simply goes through the standard list of nine meditative attainments (samāpatti), starting, as always, from the bottom, and says that one who, achieving and staying in them, touches them with his body is called a kāya-sakkhī. But the sting comes in the tail, for it adds that in the first eight cases the Buddha has so called the meditator metaphorically (pariyāyena), but that in the ninth case, the destruction of apperception and feeling, he means it literally (nippariyāyena).
+However, the fact that 'release on both sides' refers to the release of a meditator fits another canonical passage, a succession of three very short and schematic suttas (AN, Navaka Nipāta, Pañcāla Vagga, suttas XLIII-XLV = AN IV, 451-3). [^17] Each of these three short suttas has exactly the same pattern. It begins by an anonymous monk asking another anonymous monk, his senior (as one can deduce from the terms of address), what the Buddha meant by a certain term. Sutta XLIII deals with the term kāya-sakkhī, XLIV with Paññā-vimutto, XLV with ubhatobhāga-vimutto. These three terms are numbers 3,2 and 1 on our original list. Sakkhī itself means 'eye-witness', so that to add kāya, 'body', to it seems redundant. However, what is intended here is that sakkhi, in so far as it refers to the eyes, is metaphorical: the explanation of the term shows that the relevant sensation is tactile, or rather perhaps a feeling permeating the body for which there is no term in the vocabulary of sense perception. Our passage simply goes through the standard list of nine meditative attainments (samāpatti), starting, as always, from the bottom, and says that one who, achieving and staying in them, touches them with his body is called a kāya-sakkhī. But the sting comes in the tail, for it adds that in the first eight cases the Buddha has so called the meditator metaphorically (pariyāyena), but that in the ninth case, the destruction of apperception and feeling, he means it literally (nippariyāyena).
 
 [^15]: They are listed by I. B. Horner in a footnote (Horner, 1957:151).
 [^16]: See the commentary on this passage, DA II, 514-15.
@@ -1395,7 +1401,7 @@ What does this verse mean? Translators have had to choose between what seems to 
 
 >>> 868 Truly it is a long time since a great seer, an ascetic, honoured by me, entered the great wood. Having heard your righteous verse, I shall abandon my numerous evils. (Norman, 1969:82)
 
-The problem here is that in the story (of the AS - never mind the commentaries) it is not a long time since the Buddha entered the forest; yet to whom else could Añgulimāla be referring? Nor does it seem plausible that Añgulimāla had previously been honouring any ascetics at all. This could not even refer to the teacher invented by the commentaries, since he was in Taxila. A further problem is that the adverb cirassam seems naturally to go with the verb nearest to it, which is mahito, 'honoured'. For cirassa( $m$ ) the P.T.S. Pali-English Dictionary records only the meaning 'after a long time, at last'; for the corresponding Sanskrit cirasya, however, Monier-Williams also records the possible meaning 'for a long time', so this meaning might also apply in Pali.
+The problem here is that in the story (of the AS - never mind the commentaries) it is not a long time since the Buddha entered the forest; yet to whom else could Añgulimāla be referring? Nor does it seem plausible that Añgulimāla had previously been honouring any ascetics at all. This could not even refer to the teacher invented by the commentaries, since he was in Taxila. A further problem is that the adverb cirassam seems naturally to go with the verb nearest to it, which is mahito, 'honoured'. For cirassa(*m*) the P.T.S. Pali-English Dictionary records only the meaning 'after a long time, at last'; for the corresponding Sanskrit cirasya, however, Monier-Williams also records the possible meaning 'for a long time', so this meaning might also apply in Pali.
 
 The Ven. Nyanamoli (p. 195) translates the AS :
 
@@ -1570,7 +1576,7 @@ I think we can safely say that for about a thousand years Buddhism in India was 
 
 There is perhaps a certain irony in the fact that somewhere around the time when Hiuen Tsiang was under threat of being made a sacrificial victim - we cannot specify the date closer than by a couple of centuries - Buddhism was massively invaded by tantra, and the Vajrayāna tradition was born. Both in depending on the practitioner's identification with gods/demons, a sophisticated ideologisation of possession, and in drawing power from impurity, Buddhist tantra is paradoxical Buddhism and has turned the tradition on its head in a way which deserves the label of syncretism. But it has been recolonised by Buddhist ethics: its purposes are never immoral, but the allegorical dramas enacted in Buddhist ritual and visualised by its practitioners always witness the triumph of good over evil, and are interpreted as leading to Enlightenment. In other words, what makes the Vajrayāna Buddhist is its ethics. Figuratively we may say that the Buddha converted not only Aṅgulimāla but Aṅgulimāla's entire religion.
 
-# Bibliography of Secondary Sources 
+### Bibliography of Secondary Sources 
 
 - Alsdorf, Ludwig, 1968: Die Āryā-Strophen des Pali-Kanons, Akademie der Wissenschaften und Literatur, Mainz.
 - Brough, John, 1953: The early Brahmanical system of Gotra and Pravara, Cambridge.
@@ -1632,7 +1638,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Rhys Davids, T. W. (tr.), 1899: Dialogues of the Buddha I, Pali Text Society, London.
 - Rhys Davids, T. W., 1903: Buddhist India, London.
 - Rhys Davids, T. W. and C. A. F. (tr.), 1910: Dialogues of the Buddha II, Pali Text Society, London.
-- Ruegg, D. Seyfort, 1974: 'Pali gotta/gotra and the term gotrabh $\bar{u}$ in Pali and Sanskrit', Buddhist Studies in Honour of I.B.Horner, ed. Lance Cousins et al., Dordrecht, pp. 199-210.
+- Ruegg, D. Seyfort, 1974: 'Pali gotta/gotra and the term gotrabhū in Pali and Sanskrit', Buddhist Studies in Honour of I.B.Horner, ed. Lance Cousins et al., Dordrecht, pp. 199-210.
 - Ruegg, David Seyfort, 1989: Buddha-nature, Mind and the Problem of Gradualism in a Comparative Perspective: On the Transmission and Reception of Buddhism in India and Tibet, London.
 - Samuel, Geoffrey, 1993: Civilized Shamans, Washington and London.
 - Schmidt, Kurt (tr.), 1989: Buddhas Reden, 2nd.ed. Leimen.
@@ -1650,9 +1656,9 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Woodward, F. L. (tr.), 1933: The Book of the Gradual Sayings II, Pali Text Society, London.
 - Zürcher, E., 1959: The Buddhist Conquest of China, Leiden.
 
-# General Index 
+### General Index 
 
-- abhidhamma/abhidharma 36, $37,54,65,97,112,131$
+- abhidhamma/abhidharma 36, 37,54,65,97,112,131
 - abhiñña, 'super-knowledges' 116, 124, 126
 - chaḷabhiñña, 'six super-
 - knowledges' 129
@@ -1660,13 +1666,13 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - see kamma
 - adhammā, 'non-teachings' 24
 - āditta, 'on fire' 68, 70
-- aggihutta, 'fire sacrifice' $70,71,78$
+- aggihutta, 'fire sacrifice' 70,71,78
 - akusala, 'unskilful'
 - see kamma
-- allegory $21,72,77,78,80$, 82, 91
+- allegory 21,72,77,78,80, 82, 91
 - in the Lotus Sūtra 69
 - Alsdorf, Ludwig 71
-- Ānanda 46, 77, 93-6, 113, $114,121,128$
+- Ānanda 46, 77, 93-6, 113, 114,121,128
 - anātman/anatta
 - see doctrine of no soul
 - Añgīrasa 71
@@ -1675,9 +1681,9 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Añgulimāla paritta 136
 - anicca, 'impermanent' 33, 119
 - antinomianism 156, 157, 163
-- apperception $4,92,94,99$, $119,121,122,123$
+- apperception 4,92,94,99, 119,121,122,123
 - Aquinas 15
-- arahant, 'Enlightened' 61, $68,99,101,102,105-9$, 128,129
+- arahant, 'Enlightened' 61, 68,99,101,102,105-9, 128,129
 - ārammana
 - see mental objects
 - Aristotle 15, 89, 90
@@ -1687,18 +1693,18 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - āryā verse 38,71 asādhāraṇa-ñāṇa, 'six kind of knowledge not shared by disciples' 86
 - āsava
 - see corruptions
-- asceticism 37, 70, 75, 77, $78,110,134,143,144,145$, $147,152,155,156,159,160$
+- asceticism 37, 70, 75, 77, 78,110,134,143,144,145, 147,152,155,156,159,160
 - Asoka 13, 132
 - asura, 'anti-gods' 83
-- ātman, brahminical concept of $16,32,38,40,63,80,81$
+- ātman, brahminical concept of 16,32,38,40,63,80,81
 - see also soul; self
 - attā
 - see self
-- attha, 'meaning; reference' $24-5$
+- attha, 'meaning; reference' 24-5
 - avijjā, 'ignorance' 113, 115
 - avijñapti
 - see non-information
-- awareness $77,100,106,111$, 115,163
+- awareness 77,100,106,111, 115,163
 - āyatana, 'planes' 45, 120
 - Bahuśrutīya 96
 - see also Srāvakayāna
@@ -1714,38 +1720,38 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - bodhi, 'awakening'
 - see Enlightenment
 - bodhisattva 57, 133
-- body $15,16,40,41,55,94$, $99,100,101,104,119,122$, 123,155
+- body 15,16,40,41,55,94, 99,100,101,104,119,122, 123,155
 - see also soul
 - brahmacārin, 'brahmin
 - student' 67
-- brahman 21, 32, 42, 58, 59, $61,80,81,84,87$
+- brahman 21, 32, 42, 58, 59, 61,80,81,84,87
 - Brahman 17, 21, 32
 - brahma-loka 'worlds of brahman' 58, 84, 85, 161
-- brahma-vihāra 'living with brahman' $60,84,85,86$
+- brahma-vihāra 'living with brahman' 60,84,85,86
 - brāhmaṇa
 - see brahmin
-- brahmin 13, 19-21, 27, 29, $30,59,61,66,70,71,72$, $74,85,92,136,138,140$, $143,152,161$
+- brahmin 13, 19-21, 27, 29, 30,59,61,66,70,71,72, 74,85,92,136,138,140, 143,152,161
 - ritualism 51, 70, 71
 - see also karma
-- brahminism 3, 12, 13, 19, 21, 27-64 passim, 66, 74, 80, $81,82,84,85,88,89,155$, 156,163
+- brahminism 3, 12, 13, 19, 21, 27-64 passim, 66, 74, 80, 81,82,84,85,88,89,155, 156,163
 - Bronkhorst, Johannes 19, 78
 - Brough, John 71
 - Buddha-dhamma-ppabheda, 'eighteen states of the Enlightened' 86
-- Buddhaghosa 8, 24, 25, 51, $52,74,85,86,137,141$, $142,148,162$
+- Buddhaghosa 8, 24, 25, 51, 52,74,85,86,137,141, 142,148,162
 - Buddhism,
 - 'as a historical phenomenon' (sāsana) 4, 5, 6
 - as a 'form of Hinduism' 14,15
 - 'kammatic' 49
-- Mahāyāna $10,17,25,38$, $54,57,58,66,69,93$, 111,133
+- Mahāyāna 10,17,25,38, 54,57,58,66,69,93, 111,133
 - 'nibbanic' 49
 - syncretism 6,163
-- Theravāda/Theravādin 2, 4, $6,8,10,28,38,51,57,65$, $83,95,96,133$
+- Theravāda/Theravādin 2, 4, 6,8,10,28,38,51,57,65, 83,95,96,133
 - Caṇ̣akālī 162
 - Carter, John Ross 34
 - Causton, Richard 6-7
 - cetas, 'thought/mind' 60
-- ceto-vimutti, 'release of the mind' $60,61,112,113$, $115,116-121$
-- Chinese translation of Canon $10,96,111,123,125$, 126,128
+- ceto-vimutti, 'release of the mind' 60,61,112,113, 115,116-121
+- Chinese translation of Canon 10,96,111,123,125, 126,128
 - cit
 - see conscious/consciousness
 - citta
@@ -1754,21 +1760,21 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - pointedness of mind' 115
 - Collins, Steven 28, 35, 88
 - cosmology, Buddhist 82-6, 88,92
-- commentaries $8,9,22,39$, $41,54,59,66,68,77,78$, $79,85,94,107,108,119$, $122,123,125,126,129$, $130,136,137,141,145$, $147,159,160,161$
+- commentaries 8,9,22,39, 41,54,59,66,68,77,78, 79,85,94,107,108,119, 122,123,125,126,129, 130,136,137,141,145, 147,159,160,161
 - comparative religion 2,14
-- compassion $31,60,61,64$, 71,86
-- concentration $77,90,96,100$, $101,104,105,106,110$, $114,115,126,134$
+- compassion 31,60,61,64, 71,86
+- concentration 77,90,96,100, 101,104,105,106,110, 114,115,126,134
 - see also meditation
 - devaluation of 110
-- conscious/consciousness 4 , $21,32,43,44,45,48,55$, $61,62,67,86,87,89,92$, $111,120,121,134$
-- converts $19,20,70,91,135$, 159,162
+- conscious/consciousness 4 , 21,32,43,44,45,48,55, 61,62,67,86,87,89,92, 111,120,121,134
+- converts 19,20,70,91,135, 159,162
 - Conze, Edward 25
-- corruption, textual $8,10,11$, $26,39,103,130,137$, $144-154,159$
-- corruptions (āsava) 29, 46, $99,100,101,102,103,116$, $117,118,121,128,130,132$
+- corruption, textual 8,10,11, 26,39,103,130,137, 144-154,159
+- corruptions (āsava) 29, 46, 99,100,101,102,103,116, 117,118,121,128,130,132
 - cosmogony 81,82
 - Cousins, Lance 126
-- craving $39,47,48,67,68,69$
-- creation $80,81,82$
+- craving 39,47,48,67,68,69
+- creation 80,81,82
 - Cutler, Sally Mellick 153
 - Dabba 143
 - dasa pāramī
@@ -1776,7 +1782,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - dasa balāni
 - see ten powers
 - Davidson, Donald 53
-- debate $3,13,14,19,20,28$, $42,66,72,74,78,91$, 96-134 passim
+- debate 3,13,14,19,20,28, 42,66,72,74,78,91, 96-134 passim
 - Descartes 40
 - deva, 'god' 79, 84, 90, 160,161
 - Devī 157
@@ -1787,7 +1793,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - dhammā
 - see noeta
 - Dhammapāla 8, 137, 142, 148
-- Dharma/dharma 4, 5, 13, 14, $25,26,34-7,134,147$
+- Dharma/dharma 4, 5, 13, 14, 25,26,34-7,134,147
 - in Brahminic thought 34, 35
 - dharmāh ('noeta' in Vaiśeṣika philosophy) 36
 - ditthi
@@ -1796,8 +1802,8 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - the point' 97, 102
 - doctrine of causation/
 - conditioned genesis/
-- origination $6,8,14,30$,
-- $45-8,120,124,125$,
+- origination 6,8,14,30,
+- 45-8,120,124,125,
 - 128,129
 - doctrine of no soul 15 , 33, 119
 - dosa, 'hatred' 115
@@ -1808,31 +1814,31 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - see also four noble truths
 - eight meditative states 86 , 99-103, 121
 - Enlightenment 12, 13, 20, 29
-- $30,46,49,58,60,61,65$,
-- $66,67,70,72,75,77,79$,
-- $96,101,104-7,109,114$,
-- $115,118,119,124-7$,
-- $129-33,135,141,143,164$
+- 30,46,49,58,60,61,65,
+- 66,67,70,72,75,77,79,
+- 96,101,104-7,109,114,
+- 115,118,119,124-7,
+- 129-33,135,141,143,164
 - see also liberation
 - epistemology 1, 32, 43, 87
 - equanimity 60,86
-- essentialism $1-6,12,27,37$
+- essentialism 1-6,12,27,37
 - in definition of religion 2
-- in definition of Buddhism 2, $4-7$
+- in definition of Buddhism 2, 4-7
 - see also Popper, Karl
 - ethicisation of universe by
-- Buddhism 50, 54, 60-64, $163-4$
-- existent/existence 32,33 , $39-41,44,45,47,49,81$, $99,117,118$
-- experience, emphasis on 5 , $28-9,36,43$
+- Buddhism 50, 54, 60-64, 163-4
+- existent/existence 32,33 , 39-41,44,45,47,49,81, 99,117,118
+- experience, emphasis on 5 , 28-9,36,43
 - Falk, Harry 9, 13
 - Fergusson, James 74
 - Finot, L. 76
 - Fischer, Eberhard 72
-- five faculties $100,104,105$, 106, 109, 113
+- five faculties 100,104,105, 106, 109, 113
 - see also awareness; insight; concentration
 - five sets/groups of
-- components of a person 4 , $41,43,67,68,69,92,109$, $112,119,125$
-- four noble truths $29,30,33$, $36,46,102,117,130,134$
+- components of a person 4 , 41,43,67,68,69,92,109, 112,119,125
+- four noble truths 29,30,33, 36,46,102,117,130,134
 - four signs/omens, 'pubba-nimitta' 75
 - Frauwallner, E. 43, 46, 76
 - gandharva, 'semi-divine celestial musician' 85
@@ -1861,14 +1867,14 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - iddhi
 - see super-normal powers
 - identification of worshipper
-- and god $74,155,156$, 159, 163
+- and god 74,155,156, 159, 163
 - impermanence/impermanent
-- $5,8,33,41,109,112,119$, $121,125,134$
+- 5,8,33,41,109,112,119, 121,125,134
 - impurity as power, 155,156
 - indriya
 - see five faculties
 - information (vijñapti) 55
-- insight $17,23,35,96,97,99$, 100-17 passim, 119, 120, $121,125,127,128,129$, 133, 134
+- insight 17,23,35,96,97,99, 100-17 passim, 119, 120, 121,125,127,128,129, 133, 134
 - see also understanding
 - insufficiency ethic 49,51
 - see also Weber
@@ -1876,10 +1882,10 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - see also Śiva
 - jagatī metre 144, 150
 - Jain, Jyotindra 72
-- Jainism/Jains 13, 14, 38, 50, $51,52,55,78,152$
+- Jainism/Jains 13, 14, 38, 50, 51,52,55,78,152
 - see also heterodox groups
 - jhāna, 'stages of
-- concentration' 110, 115, $120,125,126$
+- concentration' 110, 115, 120,125,126
 - jhāyī, 'meditators' 130
 - Johnson, W. J. 51
 - Jones, O. R. 53
@@ -1891,7 +1897,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Kāpālika sect 160
 - karman/karma/kamma,
 - 'works' 27-64 passim, 82,
-- $83,85,93$
+- 83,85,93
 - in brahminism 31-2, 50,61
 - as intention 51-6
 - 'dogmatic' and 'typical'
@@ -1910,11 +1916,11 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - khandha
 - see five sets/groups of
 - components of a person
-- kindness $27,60,61,62,64,86$
+- kindness 27,60,61,62,64,86
 - Kora 143
 - Lamotte, Etienne 49
 - La Vallée Poussin, Louis de
-- $14,96,110,114,125,127$, 130, 133, 134
+- 14,96,110,114,125,127, 130, 133, 134
 - liberation 5,50
 - see also Enlightenment
 - literalism 21, 22, 54, 62, 84
@@ -1948,21 +1954,21 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Mantāṇī 136
 - manass
 - see mind
-- Māra $77,78,79,80,161,162$
-- meditation $35,36,52,72,83$,
-- $84,91,96,97,110,114$,
-- $115,121,123,125,127$,
-- $129,131-4$
+- Māra 77,78,79,80,161,162
+- meditation 35,36,52,72,83,
+- 84,91,96,97,110,114,
+- 115,121,123,125,127,
+- 129,131-4
 - see also concentration
 - competition with insight 96,110
 - mental objects (ārammaṇa) 45
-- merit $56,57,58,81$
+- merit 56,57,58,81
 - transfer of 57
-- metaphor $36,42,51,61$,
-- $65-9,84,89,90,92$,
+- metaphor 36,42,51,61,
+- 65-9,84,89,90,92,
 - 122,123
 - of burden 67,68
-- of fire $65-70$
+- of fire 65-70
 - see also three fires
 - mettā
 - see kindness
@@ -1970,14 +1976,14 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - see wrong view
 - middle path/way 7, 14, 77-8
 - Miller, Barbara Stoler 84, 85
-- mind $16,35,36,48,52,60$,
-- $61,66,77,83,84,86,87$,
-- $91,92,94,95,112,113$,
-- $114,116-9,121$
-- miracles $70,91,92,135$, 143, 154
+- mind 16,35,36,48,52,60,
+- 61,66,77,83,84,86,87,
+- 91,92,94,95,112,113,
+- 114,116-9,121
+- miracles 70,91,92,135, 143, 154
 - Moggallāna 74, 79-80, 103-4
 - moha, 'delusion' 115
-- morality $29,59,64,114,163$
+- morality 29,59,64,114,163
 - Mucalinda 72
 - muditā
 - see sympathetic joy
@@ -1997,25 +2003,25 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - nine-fold classification of
 - moral/spiritual types 98
 - nirvāṇa/nibbāna/nirvana,
-- 'going out' $30,43,45,55$,
-- $58,60,61,64,65,66,68$,
-- $83,84,99,110,114,116$,
-- $117,120,125,128,132$,
+- 'going out' 30,43,45,55,
+- 58,60,61,64,65,66,68,
+- 83,84,99,110,114,116,
+- 117,120,125,128,132,
 - 133, 134
 - see also liberation
 - see also metaphor
 - noble eightfold path 114
-- noeta $24,25,35,36,37,100$, 108, 109
-- nominalism $2,3,4,6$
+- noeta 24,25,35,36,37,100, 108, 109
+- nominalism 2,3,4,6
 - see also essentialism
 - non-dualism 111, 156
 - non-information (avijñapti) 55,56
 - non-returner 102, 105, 107, 109
-- Norman, K. R. 8, 39, 93, $145,146,148,150,152$, 153,158
+- Norman, K. R. 8, 39, 93, 145,146,148,150,152, 153,158
 - Nyanamoli, Ven. 145, 148
 - Oldenberg, Hermann 39, 71
 - once-returner 102, 105, 107, 109
-- ontology $4,16,32,34$, $36,37,38,40,43,44,47$, $48,55,64,86,87,94,95$
+- ontology 4,16,32,34, 36,37,38,40,43,44,47, 48,55,64,86,87,94,95
 - pacceka-sambuddho,
 - 'Enlightened individually' 98
 - pada-parama, 'a person who puts the words first' 22
@@ -2031,7 +2037,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Pārśvanātha 72
 - Pasenadi 62-3
 - pāśupata sect 155
-- paths to salvation $62,69,156$
+- paths to salvation 62,69,156
 - paṭicca-samuppāda
 - see doctrine of
 - causation/conditioned
@@ -2048,7 +2054,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Popper, Karl 1-5, 7, 30
 - see also essentialism; unintended consequences; logic of the situation
 - possession 57, 155, 163
-- pragmatism/pragmatic 16, 24, $29,30,34,39$
+- pragmatism/pragmatic 16, 24, 29,30,34,39
 - Prajāpati 88
 - prajñā
 - see paññā
@@ -2076,25 +2082,25 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - as metaphor for spiritual progress 51
 - quietism 28, 30, 31, 51
 - see also viewpoint
-- raft simile $22-5,35$
+- raft simile 22-5,35
 - rāga, 'passion' 115
 - rāga-virāga 113
 - Rahula, Ven. Dr. Walpola 5
 - Ratnayaka, Sumana 73,75
 - relativism 7
 - Rhys Davids, Mrs C. A. F. 39
-- Rhys Davids, T. W. 17-18, $60,97,142$
+- Rhys Davids, T. W. 17-18, 60,97,142
 - Rudra 157
 - Ruegg, David Seyfort 7, 11, 98
 - rūpa, 'material' 123, 129
 - rūpāvacara
 - see plane of form
 - rules for ordination 73
-- sacrifice $3,15,17,31,40,51$, $78,88,156$
-- human $152,162,163$
+- sacrifice 3,15,17,31,40,51, 78,88,156
+- human 152,162,163
 - sacrificial thread 139,152
 - saddhānusāri, 'follower
-- through faith' 97, $107-10,112$
+- through faith' 97, 107-10,112
 - saddhā-vimutto, 'released by faith' 97
 - Śaiva/Saivite 151-2, 155, 157, 159-60, 163
 - Śākta 151, 157, 159, 163
@@ -2122,7 +2128,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Sāti 47
 - sati
 - see awareness
-- satire $80,91,162$
+- satire 80,91,162
 - satya, 'truth' 32
 - see also four noble truths
 - Sautrāntikas 54, 56
@@ -2130,19 +2136,19 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Schmidt, Kurt 131, 146-8
 - Schmithausen, Lambert 11-12
 - Second Communal Recitation 43, 132
-- self $25,32,33,38,39,40,41$, $42,58,62,63,64,81,125$, 134,163
+- self 25,32,33,38,39,40,41, 42,58,62,63,64,81,125, 134,163
 - Seniya 143
 - sevenfold classification of moral/spiritual types 97-110
 - Shih, Juo-Hsüeh 93
 - sīla
 - see morality
-- Śiva 151-2, 154, 157, $159-161$
+- Śiva 151-2, 154, 157, 159-161
 - six kinds of knowledge not shared by disciples 86
-- skill in means $17,19,20,21$, 26, 69
+- skill in means 17,19,20,21, 26, 69
 - Smith, Peter 53
 - Socrates 18
 - soteriology 40, 42, 49, 56, 58,132
-- soul $15,16,17,25,29,38$, $40,50,64$
+- soul 15,16,17,25,29,38, 40,50,64
 - see also doctrine of no soul; body
 - Spiro, Melford 49, 54
 - Srāvakayāna 96
@@ -2159,7 +2165,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Takasaki, Jikido 98
 - tanhā
 - see craving
-- tantra $155,156,157,163$
+- tantra 155,156,157,163
 - tapas
 - see asceticism
 - Tathāgata 25, 26
@@ -2174,9 +2180,9 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Theravāda/Theravādin
 - see Buddhism
 - three fires 65-69
-- passion/greed 21, 52, 53, $65-8,88,113,114,124$, 126,133
-- hatred $21,49,52,53$, $60,65-8,88,124$, 126,133
-- delusion $21,52,53,65-8$, 88,133
+- passion/greed 21, 52, 53, 65-8,88,113,114,124, 126,133
+- hatred 21,49,52,53, 60,65-8,88,124, 126,133
+- delusion 21,52,53,65-8, 88,133
 - three hallmarks of existence 33,118
 - three poisons
 - see three fires
@@ -2184,7 +2190,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - tilakkhaṇa
 - see three hallmarks of existence
 - Tikaṇna 30
-- time $87-9$
+- time 87-9
 - Tissa 103-4
 - tri-dosa
 - see three poisons
@@ -2192,7 +2198,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - ubhato-bhāga-vimutto, 'released on both sides' 97, 121-3, 129
 - udāna 135
 - ugghatita-ññu, 'a person who understands the teaching as soon as it is uttered' 22
-- understanding 77, 85, 111, $112,114,115,133,134$ see also insight
+- understanding 77, 85, 111, 112,114,115,133,134 see also insight
 - universe, Buddhist 34, 36, 37, 38, 81-95 passim
 - unintended consequences 30,31
 - see also Popper, Karl
@@ -2213,15 +2219,15 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Vedānta 40, 42, 43, 86
 - viewpoint, 14, 16, 28
 - right view 28,30
-- wrong view $28,38,47$
-- vijjā $29,160,161$
+- wrong view 28,38,47
+- vijjā 29,160,161
 - see also magic
 - vijjā
 - see magic
 - vijñāna
 - see consciousness
 - viññāna-thiti, 'stations of consciousness' 120
-- Vijñāna-vāda/v ${ }^{\circ} 44,95$
+- Vijñāna-vāda/v { }^{\circ} 44,95
 - vijñapti
 - see information
 - vimokkhā, 'releases'
@@ -2232,7 +2238,7 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - vipacita-ññu, a person who
 - understands the teaching on
 - mature reflection 22
-- vipassanā, 'intuition' 113, $114,115,120$
+- vipassanā, 'intuition' 113, 114,115,120
 - Vipassi 71, 75, 76
 - virāga, 'dispassion' 113, 119,133
 - Viṣnu/Vaiṣṇavism/Vaiṣnavas 14,15
@@ -2250,7 +2256,8 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Yogācāra school 4
 - see also Vijñāna-vāda
 - Zürcher, Erik 10
-# Index of Texts Cited 
+
+### Index of Texts Cited 
 
 - Abhidharma Piṭaka 54
 - Abhidhamma Piṭaka 97
@@ -2259,9 +2266,9 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - see Fire sermon
 - Aggañña Sutta 81, 82
 - Alagaddūpama Sutta 22, 38, 47, 107, 108, 110, 124
-- Anatta-lakkhaṇa Sutta 16, $118,125,126,127$
+- Anatta-lakkhaṇa Sutta 16, 118,125,126,127
 - Angulimāla Sutta 135-154 passim
-- Anguttara Nikāya 5, 22, 28, $29,39,42,52,54,66,72$, $98,99,103,104,105,110$, $113,114,118,119,122$, 130, 131, 134
+- Anguttara Nikāya 5, 22, 28, 29,39,42,52,54,66,72, 98,99,103,104,105,110, 113,114,118,119,122, 130, 131, 134
 - Anguttara Atthakathā 130
 - Ariya-pariyesana Sutta 71
 - Atṭhaka vagga, Sutta nipāta 16,28
@@ -2269,26 +2276,25 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Brahmajāla Sutta 5
 - Brāhmaṇas 3, 80
 - Brahma-nimantanika Sutta 91
-- Brhadāranyaka Upaniṣad 31, $58,59,61,62,63,80$
+- Brhadāranyaka Upaniṣad 31, 58,59,61,62,63,80
 - Catuṣ-pariṣat-sūtra 20
 - Chāndogya Upaniṣad 38, 59
 - Cūḷa Gopālaka Sutta 108
 - Dhammapada Atthakathā 68,159
 - Dīgha Atthakathā 85, 122, 161
-- Dīgha Nikāya 5, 17, 29, 46, $59,70,70,71,75,81,85$, $90,92,98,120,125,130$, $142,143,160,161$
+- Dīgha Nikāya 5, 17, 29, 46, 59,70,70,71,75,81,85, 90,92,98,120,125,130, 142,143,160,161
 - Fire Sermon 65
 - Jātaka 72
 - Kassapa-Sīhanāda Sutta 18
 - Kālāma Sutta 28
 - Kevaddha Sutta 44, 90, 91, 143
-- Kitāgiri Sutta 99-104, 109, $125,130,131,132$
-
+- Kitāgiri Sutta 99-104, 109, 125,130,131,132
 - Lotus Sūtra 69, 133
 - Māgandiya Sutta 119
 - Mahāsudassana Sutta 142
 - Majjhima Atthakathā
 - (Papañca-sūdanī) 24, 74, 79, 102, 137-41, 144, 147
-- Majjhima Nikāya 5, 16, 22, $28,38,42,46,47,71,74$, $78,79,91,95,98,99,107$, $108,113,114,116,124$, 131, 135, 137, 143, 144, 147, 162
+- Majjhima Nikāya 5, 16, 22, 28,38,42,46,47,71,74, 78,79,91,95,98,99,107, 108,113,114,116,124, 131, 135, 137, 143, 144, 147, 162
 - Mahābhārata 56, 161
 - Mahā-nidāna Sutta 46, 120, 123
 - Mahā Govinda Sutta 85, 142
@@ -2310,20 +2316,19 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Pauṣkara Samhitā 15
 - Puggala-paññatti 22, 97, 98, 99, 101, 107
 - Saddharmapuṇdarīka see Lotus Sutra
-- Sāmañña-phala Sutta 29, 117, $125,126,130$
+- Sāmañña-phala Sutta 29, 117, 125,126,130
 - Samyutta Atthakathā 41, 125,129
-- Saṃyutta Nikāya 16, 30, 41, $45,56,62,65,67,68,72$, $82,86,93,108,109,110$, $119,123,127,129,160,161$
+- Saṃyutta Nikāya 16, 30, 41, 45,56,62,65,67,68,72, 82,86,93,108,109,110, 119,123,127,129,160,161
 - Satya-siddhi-śāstra 96
 - Satipaṭthāna Sutta 35
-- Susīma Sutta 110, 111, 118, $123-9,131$
-- Sutta nipāta $28,31,74$, $76-80,119$
+- Susīma Sutta 110, 111, 118, 123-9,131
+- Sutta nipāta 28,31,74, 76-80,119
 - Sutta Pitaka 20, 71, 96, 97, 98, 99
 - Taittirīya Saṃhitā 40
-- Tevijja Sutta 29, 58, 59, 62, $64,85,161$
-- Thera-gāthā 135, 136, 137, $141,144,145,146,149$, $150,153,158-60$
+- Tevijja Sutta 29, 58, 59, 62, 64,85,161
+- Thera-gāthā 135, 136, 137, 141,144,145,146,149, 150,153,158-60
 - Udāna 42-6
-
-- Upaniṣads 3, 14, 15, 16, 33, $34,37,38,39,40,42,43$, $44,45,47,48,58,59,61$, 64,91
+- Upaniṣads 3, 14, 15, 16, 33, 34,37,38,39,40,42,43, 44,45,47,48,58,59,61, 64,91
 - Vajracchedikā Prajñāpāramitā 25
 - Vedas 29, 32
 - Rg: 29, 71, 157
@@ -2335,3 +2340,48 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Mahāvagga 20,43, 46, 69,118
 - Vinaya of Mahāsāṅghikas 93
 - Visuddhi-magga 51, 82, 85, 86,162
+
+### Keywords
+
+*   [[Richard F. Gombrich]]
+*   [[Buddhism]]
+*   [[Early Buddhist Teachings]]
+*   [[Historical Context]]
+*   [[Brahminism]]
+*   [[Vedic Thought]]
+*   [[Upaniṣads]]
+*   [[Buddha]]
+*   [[Non-Essentialism]]
+*   [[Pragmatism]]
+*   [[Kamma (Karma)]]
+*   [[Intention]]
+*   [[Ethicisation]]
+*   [[Metaphor]]
+*   [[Allegory]]
+*   [[Literalism]]
+*   [[Scholastic Literalism]]
+*   [[Pali Canon]]
+*   [[Textual Criticism]]
+*   [[Doctrinal Development]]
+*   [[Inconsistencies]]
+*   [[Skill in Means]]
+*   [[Insight (Paññā)]]
+*   [[Meditation (Samādhi)]]
+*   [[Concentration (Jhāna)]]
+*   [[Enlightenment]]
+*   [[Nirvana (Nibbāna)]]
+*   [[Release (Vimutti)]]
+*   [[Dependent Origination]]
+*   [[Anatta (No-Self)]]
+*   [[Three Hallmarks of Existence]]
+*   [[Angulimāla]]
+*   [[Śiva]]
+*   [[Kālī]]
+*   [[Tantra]]
+*   [[Oral Tradition]]
+*   [[Commentaries]]
+*   [[Theravada Buddhism]]
+*   [[Mahayana Buddhism]]
+*   [[Religious Debate]]
+*   [[Consciousness (Viññāna)]]
+*   [[Merit Transfer]]
