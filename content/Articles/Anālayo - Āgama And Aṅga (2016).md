@@ -1,3 +1,26 @@
+---
+title: Anālayo - Āgama And Aṅga In The Early Buddhist Oral Tradition
+description:
+  In the early Buddhist oral tradition, the term `āgama` initially referred to the entire, undifferentiated body of discourses, which was later systematically divided into four collections, known as the four `āgamas` or `nikāyas`, to facilitate memorization and transmission. The author argues that the separate list of nine (or twelve) `aṅgas` was not an earlier or intermediate system for organizing these collections, but rather a classification of different textual types or literary styles, such as prose with verse, stanzas, and birth stories. The paper dismisses theories that shorter lists of `aṅgas` represent an earlier stage, suggesting they are likely abbreviations or transmission errors. Ultimately, the function of the nine `aṅgas` in the discourses was to represent the variety of the Buddha's teachings and to emphasize that true, penetrative understanding of their meaning is superior to mere rote learning of these different compositional forms.
+tags:
+  - Āgama
+  - Aṅga
+  - Nikāya
+  - Early Buddhism
+  - Oral Tradition
+  - Oral Transmission
+  - Textual Classification
+  - Literary Styles
+  - Compositional Forms
+  - Buddhist Canon
+  - Memorization
+  - Rote Learning
+  - First Buddhist Council
+  - sangīti
+  - Comparative Study
+---
+
+
 # Āgama And Aṅga In The Early Buddhist Oral Tradition [^*]
 
 ANĀLAYO

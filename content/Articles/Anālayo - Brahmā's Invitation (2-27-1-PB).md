@@ -3,7 +3,21 @@ title: Anālayo - Brahmā's Invitation (2021)
 description:
   In early Buddhist texts, the god Brahmā is incorporated through "inclusivism," being either satirized as a deluded creator or depicted as a subordinate protector of the Dharma. The most prominent example of this protector role is the story from the Pāli Ariyapariyesanā-sutta where Brahmā persuades the hesitant, newly-awakened Buddha to teach. This article highlights that this famous episode is completely absent from a parallel version of the discourse in the Chinese Madhyama-āgama. By comparing these texts and noting a similar pattern of absence in other parallel accounts, the analysis concludes that the story of Brahmā's intervention is likely a later addition to the tradition, rather than an original element that was subsequently lost. Therefore, this pivotal narrative, widely found in later texts and art, may not have been part of the earliest autobiographical account of the Buddha's awakening.
 tags:
-
+  - Brahmā
+  - Buddha's awakening
+  - Ariyapariyesanā-sutta
+  - Madhyama-āgama
+  - Pāli canon
+  - Chinese Āgamas
+  - Comparative study
+  - Textual criticism
+  - Inclusivism
+  - Later addition
+  - Interpolation
+  - Sarvāstivāda
+  - Buddhist art
+  - Iconography
+  - Oral transmission
 ---
 
 

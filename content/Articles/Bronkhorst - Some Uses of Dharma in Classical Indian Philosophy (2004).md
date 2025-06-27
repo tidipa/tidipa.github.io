@@ -1,8 +1,38 @@
-# SOME USES OF *dharma* IN CLASSICAL INDIAN PHILOSOPHY 
+---
+title: Bronkhorst - Some Uses Of Dharma In Classical Indian Philosophy  (2004)
+description:
+  In classical Indian philosophy, the term *dharma* has two distinct primary uses, one Buddhist and one Brahmanical. In Buddhist Abhidharma, particularly the Sarvāstivāda school, *dharmas* (plural) are the ultimate, irreducible, and momentary constituents of all that exists; this atomistic view posits that only these fundamental elements are real, while complex entities like persons are non-existent composites. In contrast, the Brahmanical Vaiśeṣika school demonstrates a significant evolution in the concept of *dharma* (singular). Initially understood as 'merit' defined by Vedic injunctions, similar to the Mīmāṃsā school's view, *dharma* was later transformed by Vaiśeṣika's ontological concerns. In its classical formulation, *dharma* became a specific quality inherent in the soul (*ātman*), paired with its opposite *adharma* (demerit), absorbing the older, distinct concept of *adṛṣṭa* ('the unseen') to become a precise causal factor in a person's psychological functioning and path to liberation.
+tags:
+  - dharma
+  - classical Indian philosophy
+  - Buddhism
+  - Brahmanical philosophy
+  - Sarvāstivāda
+  - Vaiśeṣika
+  - Mīmāṃsā
+  - dharmas (constituents of existence)
+  - atomism
+  - momentariness
+  - dharmanairātmya
+  - adharma (demerit)
+  - merit
+  - quality (guṇa)
+  - soul (ātman)
+  - adṛṣṭa (the unseen)
+  - apūrva
+  - codanā (Vedic injunctions)
+  - liberation (mokṣa)
+  - ontology
+  - causality
+  - Praśastapāda
+  - Vaiśeṣika Sūtra
+---
+
+# Some Uses Of *Dharma* In Classical Indian Philosophy 
 
 Johannes Bronkhorst \
 Journal of Indian Philosophy 32: 733–750, 2004. \
-Ó 2004 Kluwer Academic Publishers. Printed in the Netherlands.
+© 2004 Kluwer Academic Publishers. Printed in the Netherlands.
 
 The word *dharma* is used in a variety of meanings. In philosophical parlance it is mainly used in two totally different ways, which one might call the Buddhist and the Brahmanical way. This article will briefly present the way in which the Buddhists came to use the term (usually in the plural), then sketch the development which the Brahmanical concept of *dharma* (singular) underwent in the hands of the adherents of the Vaiśeṣika philosophy.
 

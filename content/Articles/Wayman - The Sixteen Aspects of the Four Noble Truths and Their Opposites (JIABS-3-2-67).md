@@ -1,3 +1,40 @@
+---
+title: Wayman - The Sixteen Aspects of the Four Noble Truths and Their Opposites (2018)
+description:
+  The sixteen aspects of the Four Noble Truths are a non-canonical elaboration found in Northern Buddhist Abhidharma texts, such as those by Vasubandhu and Asanga, but absent from the Southern tradition. This system assigns four specific aspects to each of the Four Noble Truths—Suffering, Source, Cessation, and Path—which are treated as objects of insight (*prajñā*). A key element of this framework is a corresponding list of sixteen "adversaries" or "coverings," detailed by Tsong-kha-pa, which represent mistaken views that obscure each aspect. Analyzing these aspects and their opposites reveals significant doctrinal debates; for instance, the aspects of Suffering (*duhkha, anitya, śūnya, anātman*) raise challenges in distinguishing 'voidness' from 'non-self', while the aspects for the Source of Suffering are linked to Dependent Origination and their adversaries to non-Buddhist theories of causality. The author proposes a correlation where the aspects for the Path lead to the aspects of Cessation, mapping them onto the three core Buddhist instructions of morality, mental training, and insight, thereby showing how the study of this framework illuminates the diverse ways different traditions interpreted their foundational teachings.
+tags:
+  - Sixteen Aspects
+  - Four Noble Truths
+  - Adversaries
+  - Opposites
+  - Northern Buddhism
+  - Southern Buddhism
+  - Abhidharma
+  - Vasubandhu
+  - Asanga
+  - Tsong-kha-pa
+  - Dharmakīrti
+  - Prajñā
+  - Insight
+  - Duhkha
+  - Anitya
+  - Śūnya
+  - Anātman
+  - Dependent Origination
+  - Pratītyasamutpāda
+  - Causality
+  - Nirodha
+  - Mārga
+  - Doctrinal Debates
+  - Buddhist Logic
+  - Abhidharmakośa
+  - Śrāvakabhūmi
+  - Satyasiddhiśāstra
+  - Dharmacakra
+  - Nirvāṇa
+---
+
+
 # The Sixteen Aspects of the Four Noble Truths and Their Opposites 
 
 by Alex Wayman

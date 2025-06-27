@@ -1,3 +1,41 @@
+---
+title: Bucknell - The Buddhist Path to Liberation (1984)
+description:
+  In his analysis, Rod Bucknell argues that the Noble Eightfold Path is an incomplete representation of the Buddhist course to liberation, as it omits the crucial final stages of "right insight" (sammā-ñāṇa) and "right liberation" (sammā-vimutti). By comparing the Eightfold Path with four other, similar lists of stages found in the Tipiṭaka, including a more comprehensive "tenfold path," he demonstrates that they all describe a consistent, sequential practice where morality (sīla) and concentration (samādhi) are followed by the development of insight. Bucknell refutes the common interpretation that insight is covered by "right view" (the first stage), positing that this is merely a preliminary understanding, whereas true liberating insight is an advanced practice undertaken only after mastering concentration. He concludes that the Eightfold Path is not the definitive summary of Gotama's teaching but one of many versions, and possibly a simplified one that omits the most advanced meditative stages.
+tags:
+  - Noble Eightfold Path
+  - Tenfold path
+  - sammā-ñāṇa
+  - sammā-vimutti
+  - sammā-diṭṭhi
+  - Right view
+  - Right insight
+  - sīla
+  - samādhi
+  - paññā
+  - jhāna
+  - Three knowledges
+  - vijjā
+  - āsavakkhaya-ñāna
+  - vimutti
+  - Liberation
+  - Sequential path
+  - Buddhist path
+  - Meditation stages
+  - Pali Canon
+  - Tipiṭaka
+  - Sutta-piṭaka
+  - Comparative analysis
+  - Textual criticism
+  - Textual corruption
+  - Mahācattārīsaka-sutta
+  - Sāmaññaphala-sutta
+  - Arahant
+  - samatha
+  - vipassanā
+---
+
+
 # The Buddhist Path to Liberation: An Analysis of the Listing of Stages[^*] 
 
 by Rod Bucknell

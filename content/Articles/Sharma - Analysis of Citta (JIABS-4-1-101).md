@@ -1,3 +1,26 @@
+---
+title: Sharma - Rune E. A. Johansson's Analysis of Citta (2018)
+description:
+  In his critique of Rune E. A. Johansson's analysis, Arvind Sharma examines and refutes the theory that *citta* (mind) exists as a core personality factor separate from the five *skandhas* and survives death. Johansson argues that *citta* is an enduring element, distinct from *viññāna* (consciousness), which attains *nibbāna* and continues in a diluted, impersonal state after an *arahant's* death, citing as evidence the ability of *arahants* to recognize one another and scriptural accounts like the story of Vakkali. Sharma contends that this evidence is insufficient to challenge the standard Theravāda position that an *arahant's* post-mortem state is unpredictable. He counters that Johansson relies on a weak "argument from silence" and offers an alternative interpretation wherein an *arahant's* enlightenment is recognized precisely through the *non-recognizability* of their consciousness, rather than through an identifiable, surviving *citta*.
+tags:
+  - Arvind Sharma
+  - Rune E. A. Johansson
+  - Citta
+  - Anatta
+  - Skandhas
+  - Arahant
+  - Nibbāna
+  - Theravāda Buddhism
+  - Buddhist psychology
+  - Viññāna
+  - Post-mortem state
+  - Sāriputta
+  - Vakkali
+  - Pali Canon
+  - Apatitthita-viññāna
+---
+
+
 # Rune E. A. Johansson's Analysis of Citta: A Criticism 
 
 by Arvind Sharma

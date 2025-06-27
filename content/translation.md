@@ -2,7 +2,7 @@
 title: The Translation Process
 ---
 
-My translation approach is based on a hybrid of text processing, dictionary lookup, digital transformation and human oversight.
+My translation approach is based on a hybrid of text processing, dictionary lookup, digital transformation and human effort.
 
 ## Preparation
 
@@ -26,9 +26,9 @@ Where appropriate, the translation is compared to existing English translations 
 
 A summary of the translated text is also provided. This is generated using a Large Language Model ([Gemini 2.5 Pro](https://deepmind.google/models/gemini/pro/)).
 
-The translated text is also rendered as a [Mermaid](https://mermaid.js.org) diagram.
+The translated text is also rendered as one or more [Mermaid](https://mermaid.js.org) diagram(s).
 
-I also provide a commentary on the translation, which is my interpretation of the text using a rational perspective based on a phenomenological framework.
+I also provide a commentary on the translation, which is my interpretation of the text using a rational perspective based on a phenomenological framework. This represents my personal opinion of what the Buddha may have understood and taught, and is subject to change.
 
 Where possible, I have identified parallels to the text in other versions of the Buddhist canon. I also done a literature review of available articles of the text published in academic journals. Where possible, to the extent permissible by copyright law, I have converted open access articles or books (based on the fact that they are available for download on public Internet sites) into Markdown and included the full text of the articles or books in the website for easy reference.
 
@@ -36,8 +36,8 @@ The conversion of articles and books from PDF to Markdown is achieved by using a
 
 Copyrighted articles and books may be included in summarised rather than full text forms. These summaries are generated using a Large Language Model (Gemini 2.5 Pro).
 
-Finally, I often include an image to accompany the translated text by using a generative model ([Imagen 4](https://deepmind.google/models/imagen/)).
+Finally, I often include an image to accompany the translated text by using a generative model ([Imagen 4](https://deepmind.google/models/imagen/)). These images are generated using very specific prompts to convey a consistent artistic style and reflecting elements of the translated text.
 
 ## Thank you
 
-I like to acknowledge and thank Google (Alphabet) for providing me with credits (over A$2000) via their Gen App Builder program to enable me to use their generative and large language models (Gemini and Imagen), and also providing me with the training to use the models (as well as some free swag!). I would also like to thank Mistral.ai for providing free access to their OCR API. Finally I would like to thank [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org) for archiving the World Tipiṭaka Edition, without which this translation would not have been possible.
+I like to acknowledge and thank Google (Alphabet) for providing me with credits (over A$2000) via their Gen App Builder program to enable me to use their generative and large language models (Gemini and Imagen), and also providing me with the training to use the models (as well as some free swag!). I would also like to thank [Mistral.ai](https://mistral.ai) for providing free access to their OCR API. Finally I would like to thank [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org) for archiving the World Tipiṭaka Edition, without which this translation would not have been possible.

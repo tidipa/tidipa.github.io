@@ -3,7 +3,29 @@ title: Polak - The Pleasure of Not Experiencing Anything (2023)
 description:
   Grzegorz Polak's article reconstructs the philosophical basis for the early Buddhist claim that the pleasure (*sukha*) of nibbāna lies in the absence of experience (*vedayita*). The author argues that *vedayita* and the five aggregates (*khandhas*) do not represent all cognition but a specific type of introspectable, reportable "access consciousness" that is inherently fabricated (*saṅkhāra*) and tied to a mistaken sense of self. Drawing on modern cognitive science, the paper posits that this form of consciousness is not continuous and its very generation is correlated with a subtle tension and fundamental discomfort (*dukkha*). Consequently, states of deep absorption or "flow" are pleasurable due to a lower frequency of this self-conscious awareness. The ultimate psychological transformation, therefore, involves ceasing to identify with one's consciousness, which allows for its absence to be realized not as annihilation, but as a profound, non-introspectable comfort (*sukha*) while the organism remains intelligently and receptively engaged with the world.
 tags:
-
+  - Early Buddhism
+  - Nikāyas
+  - Nibbāna
+  - Sukha (pleasure)
+  - Dukkha
+  - Vedayita (experience)
+  - Khandhas (the five aggregates)
+  - Saṅkhāra
+  - Viññāna
+  - Saññāvedayitanirodha (cessation of experience)
+  - Anattā (not-self)
+  - Consciousness
+  - Access consciousness
+  - Self-consciousness
+  - Global availability
+  - Cognitive science
+  - Philosophy of mind
+  - Introspection
+  - Absorption
+  - Flow
+  - Psychological time
+  - Tension
+  - Identity
 ---
 
 # The Pleasure of Not Experiencing Anything: Some Reflections on Consciousness in the Context of the Early Buddhist Nikāyas 

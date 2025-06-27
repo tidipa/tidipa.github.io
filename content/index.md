@@ -24,7 +24,7 @@ What is meant by a **new, open source, independent, *rational* English translati
 
 It is also **rational** because it makes the presumption that the Buddha's teachings:
 
-* can be understood purely through reason and logic,
+* can be understood through reason and logic,
 * are as relevant today as they were over 2,600 years ago,
 * do not contradict modern science,
 * do not require faith or beliefs that cannot be personally substantiated,
@@ -35,11 +35,12 @@ Initially, this website features a translation of Sections 1-14 of the [Mahākha
 Features of the translation:
 
 * The original Pāli text (from [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)) is provided alongside the translated text.
-* Diagrams summarising each section of the text are provided. These are drawn as pseudo UML activity and sequence diagrams.
-* A commentary is provided to explain significant points of the text from a rational, phenomenological perspective.
+* Diagrams summarising each section of the text are provided. These are drawn as pseudo [UML](https://www.uml.org) and related diagrams.
+* A commentary (representing my personal opinion) is provided to explain significant points of the text from a rational, phenomenological perspective.
 * Where possible, parallels to the text are provided, as well as other opinions of the text by academic scholars. These opinions are included in this website where permissible by copyright (ie. the text is downloadable or open access)
 
 > [!NOTE]
+> 
 > This website will be progressively augmented over time to include additional translations from a selection of texts from the `Tipiṭaka`. Please remember, the translations will take time as I am not funded or supported by any academic institutions or organisations. If you would like to support my translation effort, please consider sponsoring me via:
 > 
 > [Sponsor Me on Github](https://github.com/sponsors/hellotham)
@@ -48,7 +49,7 @@ Features of the translation:
 
 ## Why Start at the Khandhaka?
 
-Apart from Sections 1-14 being eminently readable even by those not familiar with the Buddha's life or his teachings, the Khandhaka may represent the earliest of Buddha's teachings. Also, we possess the Vinaya of no less than six schools, and the text of the Khandhaka are quite similar across all 6 versions, indicating that it was compiled or composed before the division of Buddhism into various sects. Indeed, we can date the Khandhaka to no later than the 2nd century BCE, and possibly earlier.
+Apart from Sections 1-14 being eminently readable even by those not familiar with the Buddha's life or his teachings, the Khandhaka may represent the earliest of Buddha's teachings. Also, we possess the Vinaya of no less than six schools, and the text of the Khandhaka are quite similar across all 6 versions, indicating that it was compiled or composed before the division of Buddhism into various sects. Indeed, we can date the Khandhaka to no later than the 2nd century BCE, and it could conceivably have been written earlier.
 
 The Khandhaka is also important as it preserves what is generally regarded as the Buddha's first three discourses. All Buddhists agree that these early discourses summarises his teachings and it can be argued all his other teachings can be derived from the Khandhaka. Therefore, the Khandhaka is an excellent point to start a new translation of the `Tipiṭaka`.
 
@@ -126,6 +127,9 @@ It is derived from the Chaṭṭhasaṅgīti Council Edition, the Pāḷi-langua
 The [Roman Edition](https://www.sajjhaya.org/node/66) is the result of the work of [The World Tipiṭaka Project](https://www.worldtipitaka.net) B.E. 2542-2554 (1999-2011), by the M.L. Maniratana Bunnag Dhamma Society Fund under the Patronage of His Holiness Somdet Phra Ñāṇasaṁvara, the Supreme Patriarch of Thailand.
 
 In preparation of the Roman-script text, the Dhamma Society partly based its Pāḷi language manuscript on two different sources which were presented as gifts of Dhamma to the Dhamma Society. However, the Dhamma Society found that the data from both sources contained significant anomalies and primary printing mistakes. With great care and under rigorous computer-controlled procedures, the project committee decided to undertake anew the proof-reading, including special Pāḷi recitation by canonical Tipiṭaka experts, who recited the entire text 4 times between B.E. 2543-2545 (2000-2002) and B.E. 2549-2550 (2006-2007) to verify every Pāḷi sound and to correct the printing errors of the original 40-volume manuscript. This proof-reading totalled to 2,708,706 words in Pāḷi or 20,606,104 letters in Roman script.
+
+> [!NOTE]
+> There was initially a website version of the The World Tipiṭaka Edition that was sadly decommissioned, but fortunately an archive of the contents was preserved as a [Github repository](https://github.com/yuttadhammo/World-Tipitaka) by [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org). I have converted this archive into a modern website in 2025 and it can now be accessed [here](https://tipitaka2500.github.io).
 
 ## Change History
 

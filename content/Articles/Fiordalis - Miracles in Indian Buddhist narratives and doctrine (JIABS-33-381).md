@@ -3,7 +3,35 @@ title: Fiordalis - Miracles in Indian Buddhist narratives and doctrine (2010)
 description:
   The narrative of the Kāśyapa brothers' conversion, a cornerstone of early Buddhist texts like the Mahāvagga, illustrates a "thaumaturgical impasse" where the Buddha initially fails to convert rival ascetics through numerous displays of superhuman power, such as taming a fire-breathing serpent, but fails to convert the ascetic Kāśyapa, who remains convinced of his own spiritual superiority. The impasse is only broken when the Buddha employs telepathy to read Kāśyapa's prideful thoughts and confronts him directly, which finally leads to his conversion and is followed by the Buddha's "Fire Sermon." By comparing alternate versions of this story from different Buddhist schools, the author demonstrates that while some accounts suggest a hierarchy in which telepathy and teaching are superior to physical miracles, other versions blend these categories, indicating that early Buddhists did not hold a single, unified view on the relationship and effectiveness of the three types of miracles—superhuman power, mind-reading, and teaching the Dharma.
 tags:
-
+  - Buddhism
+  - Indian Buddhism
+  - Miracles
+  - Magic
+  - Superhuman powers
+  - ṛddhi
+  - iddhi
+  - prātihārya
+  - Telepathy
+  - Mind-reading
+  - Teaching the Dharma
+  - Conversion
+  - Threefold typology of miracles
+  - Kāśyapa brothers
+  - Thaumaturgical impasse
+  - Fire Sermon
+  - Kevaṭṭa-sutta
+  - Mahāvagga
+  - Catuṣpariṣat-sūtra
+  - Mahāvastu
+  - Vasubandhu
+  - Abhidharmakośabhāṣya
+  - Twin Miracle
+  - Śrāvastī
+  - Pindola Bhāradvāja
+  - Buddhist narrative
+  - Buddhist doctrine
+  - pasāda
+  - samvega
 ---
 
 # Miracles in Indian Buddhist narratives and doctrine [^1] 

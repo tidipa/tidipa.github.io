@@ -1,3 +1,39 @@
+---
+title: Krishan - Buddhism and Belief in Ātman (1984)
+description:
+  The central question in Buddhism regarding a permanent soul, or *ātman*, presents a significant dilemma - the doctrine of *anattā* (no-soul) appears to contradict the belief in karma and rebirth, as it leaves no entity to bear the consequences of actions. The Buddha himself rejected the extreme views of both an eternal, unchanging soul and complete annihilation after death, instead advocating a middle path. Various Buddhist schools attempted to resolve this by proposing concepts that function like a soul without being one, such as a "rebirth-linking consciousness" (*patisandhi viññāna*), an "intermediate existence" (*antarābhava*), or an inexpressible "person" (*pudgala*). The author argues that the doctrine of *anattā* is primarily a rejection of the ego and the notions of "I" and "mine," which are the root of suffering, rather than a denial of a conscious principle. This is supported by the development of concepts like the "store-consciousness" (*ālaya-vijñāna*) and post-mortem rituals in Buddhist cultures, which imply belief in a transmigrating entity. Ultimately, Buddhism seems to deny a static, eternal soul but affirms a dynamic, impermanent yet continuous empirical self that carries karma and memory, likened to a river's current, which is only extinguished upon attaining *nirvāṇa*.
+tags:
+  - Buddhism
+  - Ātman (Soul)
+  - Anattā (No-soul)
+  - Anātmavāda
+  - Karma
+  - Rebirth
+  - Transmigration
+  - Nirvāṇa
+  - Pudgala (Person)
+  - Consciousness (Viññāna)
+  - Ego
+  - Middle Path
+  - Eternalism
+  - Annihilationism
+  - Buddhist Schools
+  - Theravāda
+  - Sarvāstivāda
+  - Pudgalavāda
+  - Yogācāra
+  - Ālaya-vijñāna (Store-consciousness)
+  - Antarābhava (Intermediate existence)
+  - Patisandhi viññāna (Rebirth-linking consciousness)
+  - Skandhas (Aggregates)
+  - Memory of past lives
+  - Post-mortem rituals
+  - Vasubandhu
+  - Buddhaghoṣa
+  - Milindapañha
+---
+
+
 # Buddhism and Belief in Ātman
 
 by Y. Krishan

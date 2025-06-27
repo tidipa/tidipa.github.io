@@ -3,7 +3,21 @@ title: Anālayo - Awakening or Enlightenment (2021)
 description:
   In this article, Bhikkhu Anālayo argues that the Pāli term *bodhi* is more accurately translated as "awakening" than "enlightenment," refuting arguments made by Bhikkhu Bodhi. Anālayo contends that the experience of *bodhi* is a sudden realization of Nirvana, which is metaphorically a "quenching" of a flame rather than an illumination, making "awakening" a more fitting description than a term implying comprehensive knowledge. He points out that while the etymological root *budh* does mean "to know," its primary sense is "to wake up," a crucial nuance that "enlightenment" misses. Anālayo also asserts that scriptural imagery involving light and radiance typically relates to the Buddha's teaching activities or preliminary meditative states, not the core experience of *bodhi* itself, which is the destruction of defilements. Finally, he warns that "enlightenment" carries problematic historical connotations with the European Enlightenment, further supporting the preference for "awakening."
 tags:
-
+  - bodhi
+  - awakening
+  - enlightenment
+  - Pāli
+  - translation
+  - etymology
+  - budh
+  - Nirvana
+  - Bhikkhu Anālayo
+  - Bhikkhu Bodhi
+  - early Buddhism
+  - light imagery
+  - metaphor
+  - mindfulness
+  - European Enlightenment
 ---
 
 # Awakening or Enlightenment? On the Significance of bodhi 

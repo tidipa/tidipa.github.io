@@ -3,7 +3,26 @@ title: Polak - Language, Conscious Experience and the Self in Early Buddhism (20
 description:
   This article reconstructs early Buddhist thought to argue that ordinary conscious experience is fundamentally shaped by language and conceptualization, a process that creates an illusory Self which is the root of suffering. This cognitive distortion begins with *saññā* (apperception), a labeling function that, through its inherent link to language, imposes a discrete, manifold structure (*papañca*) onto reality. The mind's tendency to reify grammatical forms is then misapplied to personal pronouns, constructing a continuous "narrative self" that is mistakenly identified as a real agent—a "speaker and feeler" (*vado vedeyyo*). Drawing on parallels in Western philosophy and modern cognitive science, the text argues this delusion involves misinterpreting phenomenal consciousness (represented by the five *khandha-s*)—which is merely a limited, unified representation of vast, non-conscious bodily processes—as the actual source of agency and subjectivity. This fundamental error of identifying with a fictional, linguistically-generated entity is psychologically taxing, distorts the experience of time, and constitutes the core of human suffering.
 tags:
-
+  - Early Buddhism
+  - Language
+  - Conscious Experience
+  - Self
+  - attā
+  - saññā
+  - papañca
+  - Narrative self
+  - Cognitive science
+  - Wittgenstein
+  - Suffering
+  - Agency
+  - Subjectivity
+  - Embodiment
+  - khandha-s
+  - vado vedeyyo
+  - Reification
+  - Inner speech
+  - Psychological time
+  - Cross-cultural study
 ---
 
 # Language, Conscious Experience and the Self in Early Buddhism; A Cross-cultural Interdisciplinary Study 

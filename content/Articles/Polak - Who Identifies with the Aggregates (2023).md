@@ -1,3 +1,27 @@
+---
+title: Polak - Who Identifies with the Aggregates (2023)
+description:
+  This paper analyzes the Buddhist concept of identifying with the five aggregates (*khandhas*) as "I am this," challenging the traditional view that the aggregates are the objective constituents of a person by proposing they are instead passive, phenomenal representations of subjective experience. Drawing on Nikāya similes that imply a distinction between the individual and the aggregates, the author argues that key cognitive faculties like the mind (*citta*) operate separately from the *khandhas*, which are better understood as the end-results of cognitive processes rather than active agents themselves. Consequently, the fundamental error of identifying with the aggregates is interpreted as a mistaken projection of agency and identity onto one's own phenomenal self-representation, a process which, by attaching to something inherently distorted and unsatisfactory (*dukkha*), becomes a primary source of suffering.
+tags:
+  - Early Buddhism
+  - Khandhas (aggregates)
+  - Anattā (not-self)
+  - Self-identification
+  - Phenomenal representation
+  - Subjective experience
+  - Citta (mind)
+  - Viññāṇa (consciousness)
+  - Agency
+  - Cognitive processes
+  - Nikāyas
+  - Puggala (person)
+  - Dukkha (suffering)
+  - Philosophy of mind
+  - Sakkāya (personal identity)
+  - Khandha similes
+---
+
+
 # Who Identifies with the Aggregates? Philosophical Implications of the Selected *Khandha* Passages in the Nikāyas 
 
 Grzegorz Polak [^0]
@@ -8,6 +32,8 @@ Accepted: 8 August 2023 / Published online: 9 September 2023
 Grzegorz Polak
 grzegorz.m.polak@gmail.com;
 grzegorz.polak@mail.umcs.pl; https://www.umcs.pl/pl/addres-book-employee,2226,en.html
+
+Journal of Indian Philosophy (2023) 51:663–685 https://doi.org/10.1007/s10781-023-09550-8
 
 ### Abstract
 

@@ -1,6 +1,38 @@
+---
+title: Anālayo - The Chinese Parallels to the Dhammacakkappavattana-sutta (2) (2012)
+description:
+  This academic paper analyzes Chinese parallels to the Dhammacakkappavattana-sutta, the Buddha's first sermon, to understand the text's development. By comparing versions from the Ekottarika-āgama, Mahīśāsaka Vinaya, and Dharmaguptaka Vinaya, the author argues that variations point to a history of oral transmission and gradual elaboration. The existence of both a short version focusing on the two extremes and a longer one including the Four Noble Truths within the same collection suggests the former is an extract, not evidence that the truths were a later addition. The analysis notes that features like the qualifier "noble" for the truths, elaborate miracles like earthquakes, and the full exposition of the "three turnings and twelve modes" may be later developments, while core elements like the celestial acclamations are consistently present. The text also explores the sermon's internal logic, framing the Four Noble Truths as a pragmatic medical diagnosis (disease, cause, cure, treatment), clarifying *duhkha* as "unsatisfactory" rather than just "suffering," and emphasizing that the "turning of the wheel" is complete only when an audience member achieves realization.
+tags:
+  - Dhammacakkappavattana-sutta
+  - Chinese parallels
+  - Ekottarika-āgama
+  - Mahīśāsaka Vinaya
+  - Dharmaguptaka Vinaya
+  - Comparative study
+  - Textual criticism
+  - Oral transmission
+  - Four Noble Truths
+  - Middle Path
+  - Two Extremes
+  - Noble Eightfold Path
+  - Duhkha
+  - Craving
+  - Nirvāṇa
+  - Three turnings and twelve modes
+  - Gradual elaboration
+  - Medical diagnosis analogy
+  - Celestial acclamations
+  - Miracles
+  - Stream-entry
+  - Anālayo
+---
+
+
 # The Chinese Parallels to the Dhammacakkappavattana-sutta (2)* 
 
 Anālayo
+
+JOCBS. 2013 (5): 9-41. © 2013 Anālayo
 
 ### Abstract
 

@@ -1,6 +1,30 @@
+---
+title: Vetter - Explanations of dukkha (1984)
+description:
+  In a philological analysis of the First Noble Truth, Tilmann Vetter argues that the concluding statement on the five aggregates (*upādānakkhandhā*) is not a summary of suffering (*dukkha*), but rather another example of it. He bases this on the presence of the coordinating particle *pi* ("also") in this final statement in older Pāli manuscripts, such as those used in Hermann Oldenberg's edition of the Mahāvagga. Vetter contends that later editors and commentators, notably Buddhaghosa, worked from texts where this *pi* was missing, leading them to develop an anachronistic interpretation of the aggregates as a summary or foundation for all other forms of suffering. He asserts that the original reading with *pi* is more historically sound, presenting the five aggregates as a distinct, added item in the list of things that are *dukkha*, with the term *sankhittena* ("in brief") indicating it is a concise point requiring further explanation, not a summation of what precedes it.
+tags:
+  - Dukkha
+  - First Noble Truth
+  - Five aggregates
+  - Upādānakkhandhā
+  - Tilmann Vetter
+  - Philology
+  - Pāli canon
+  - Manuscript studies
+  - pi (particle)
+  - sankhittena
+  - Buddhaghosa
+  - Visuddhimagga
+  - Hermann Oldenberg
+  - Mahāvagga
+  - Textual criticism
+  - Early Buddhism
+---
+
+
 # Explanations of dukkha
 
-TILMANN VETTER 
+Tilmann Vetter 
 
 JIABS Vol 21 Issue 2 pp. 383-387
 

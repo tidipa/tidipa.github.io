@@ -1,3 +1,28 @@
+---
+title: Anālayo - The Chinese Parallels to the Dhammacakkappavattana-sutta (1) (2012)
+description:
+  This paper analyzes Chinese parallels to the Dhammacakkappavattana-sutta, focusing on Mūlasarvāstivāda and Sarvāstivāda versions, and reveals significant variations from the Pāli canon and among the parallels themselves. Some versions, such as the Saṃyukta-āgama discourse and the Sarvāstivāda Vinaya, omit the teaching on the two extremes and the explanation of the Four Noble Truths, focusing exclusively on the "three turnings" applied to each truth. Other versions present the teachings as separate components; for instance, the Mūlasarvāstivāda Vinaya includes the two extremes and the three turnings, but places the detailed explanation of the truths only after Kauṇḍinya's initial awakening. The author argues against the theory that the Four Noble Truths are a late addition, proposing instead that the shorter texts are intentional extracts from a longer, multi-part discourse, and that the Mūlasarvāstivāda and Sarvāstivāda traditions considered the teaching on the "three turnings" to be the central element that set the wheel of Dharma in motion.
+tags:
+  - Dhammacakkappavattana-sutta
+  - Chinese parallels
+  - Comparative study
+  - Mūlasarvāstivāda
+  - Sarvāstivāda
+  - Saṃyukta-āgama
+  - Madhyama-āgama
+  - Vinaya
+  - Four Noble Truths
+  - Three turnings
+  - Two extremes
+  - First Sermon
+  - Canon formation
+  - Textual analysis
+  - Late addition theory
+  - Textual extracts
+  - Kauṇḍinya
+---
+
+
 # The Chinese Parallels to the Dhammacakkappavattana-sutta (1) [^*]
 
 Anālayo 

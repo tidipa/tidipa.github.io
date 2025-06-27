@@ -3,7 +3,29 @@ title: Anālayo - The Buddha's Fire Miracles (2015)
 description:
   Through a comparative study of early Buddhist discourses and their parallel versions, the author argues that depictions of the Buddha performing fire miracles are likely later textual developments rather than original elements. By examining narratives such as Sakka's visit, a visit to Brahmā, and the Pāṭikaputta challenge, the text demonstrates a pattern where earlier versions lack fire displays, which are then added or amplified in other recensions, suggesting a gradual embellishment over time. The author posits that these miracles may have arisen from a literal interpretation of the fire motif, which was originally used metaphorically in both texts and art to symbolize the power of meditation or the Buddha's radiance. This conclusion is supported by the observation that the "fire element" in most early discourses refers to the physical experience of bodily heat as a meditative object, not an external manifestation of flames, with the latter usage appearing to be a later innovation.
 tags:
-
+  - Buddha
+  - Fire miracles
+  - Comparative study
+  - Textual criticism
+  - Early Buddhism
+  - Pāli Canon
+  - Chinese Āgamas
+  - Later textual developments
+  - Literal interpretation
+  - Metaphor
+  - Symbolism
+  - Fire element (tejodhātu)
+  - Fire meditation
+  - Kasina
+  - Sakkapañha-sutta
+  - Pātika-sutta
+  - Āditta-sutta
+  - Sakka
+  - Brahmā
+  - Twin miracle
+  - Buddhist art
+  - Iconography
+  - Supernormal powers (iddhi)
 ---
 
 
