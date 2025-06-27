@@ -2,6 +2,58 @@
 title: Anālayo - A Meditator's Life of the Buddha (2017)
 description:
   Bhikkhu Anālayo's "A Meditator's Life of the Buddha" presents a scholarly yet practical biography that traces the Buddha's inner journey, drawing exclusively from early Buddhist discourses in Pāli and their Chinese Āgama parallels to distinguish historical accounts from later legends. The book chronologically follows Siddhartha Gotama's quest from his initial motivation to go forth, through his struggles with asceticism and mastery of concentration, to the night of his awakening, his subsequent forty-five years of compassionate teaching, and his final meditation. Functioning as a guidebook for serious practitioners, each chapter concludes with a meditative exercise, enabling readers to engage with the Buddha's path and apply his insights—from developing moral conduct and overcoming fear to cultivating the four noble truths and dwelling in emptiness—to their own spiritual journey.
+tags:
+  - A Meditator's Life of the Buddha
+  - Bhikkhu Anālayo
+  - Early Buddhism
+  - Buddha Biography
+  - Meditation Practice
+  - Enlightenment
+  - Awakening
+  - Nirvāṇa
+  - Dharma Teaching
+  - Scholarly Portrait
+  - Meditative Exercises
+  - Pāli Discourses
+  - Chinese Āgamas
+  - Spiritual Journey
+  - Compassionate Teaching
+  - Parinirvāṇa
+  - Practical Guidebook
+  - Contemplation of the Buddha
+  - Explorations of the Mind
+  - Meditative States
+  - Motivation to Go Forth
+  - Moral Conduct
+  - Obstacles to Concentration
+  - Absorption States
+  - Immaterial Attainments
+  - Ascetic Practices
+  - Breath Control
+  - Fasting
+  - Finding the Path
+  - Determination
+  - Recollection of Past Lives
+  - Divine Eye
+  - Destruction of Influxes
+  - Four Noble Truths
+  - Three Turnings
+  - Honouring the Dharma
+  - Teaching Methods
+  - Views and Opinions
+  - Dwelling in Emptiness
+  - Daily Conduct
+  - Old Age, Disease, and Death
+  - Final Meditation
+  - Community of Noble Disciples
+  - Confidence
+  - Generosity
+  - Equanimity
+  - Karma
+  - Dependent Arising
+  - Five Aggregates of Clinging
+  - Wheel of Dharma
+  - Tathāgata
 ---
 
 ### Praise for A Meditator's Life of the Buddha 
@@ -3975,56 +4027,3 @@ Sydney Buddhist Centre \
 Sydney NSW 2042 \
 Australia
 
-### Keywords
-
-* [[A Meditator's Life of the Buddha]]
-* [[Bhikkhu Anālayo]]
-* [[Early Buddhism]]
-* [[Buddha Biography]]
-* [[Meditation Practice]]
-* [[Enlightenment]]
-* [[Awakening]]
-* [[Nirvāṇa]]
-* [[Dharma Teaching]]
-* [[Scholarly Portrait]]
-* [[Meditative Exercises]]
-* [[Pāli Discourses]]
-* [[Chinese Āgamas]]
-* [[Spiritual Journey]]
-* [[Compassionate Teaching]]
-* [[Parinirvāṇa]]
-* [[Practical Guidebook]]
-* [[Contemplation of the Buddha]]
-* [[Explorations of the Mind]]
-* [[Meditative States]]
-* [[Motivation to Go Forth]]
-* [[Moral Conduct]]
-* [[Obstacles to Concentration]]
-* [[Absorption States]]
-* [[Immaterial Attainments]]
-* [[Ascetic Practices]]
-* [[Breath Control]]
-* [[Fasting]]
-* [[Finding the Path]]
-* [[Determination]]
-* [[Recollection of Past Lives]]
-* [[Divine Eye]]
-* [[Destruction of Influxes]]
-* [[Four Noble Truths]]
-* [[Three Turnings]]
-* [[Honouring the Dharma]]
-* [[Teaching Methods]]
-* [[Views and Opinions]]
-* [[Dwelling in Emptiness]]
-* [[Daily Conduct]]
-* [[Old Age, Disease, and Death]]
-* [[Final Meditation]]
-* [[Community of Noble Disciples]]
-* [[Confidence]]
-* [[Generosity]]
-* [[Equanimity]]
-* [[Karma]]
-* [[Dependent Arising]]
-* [[Five Aggregates of Clinging]]
-* [[Wheel of Dharma]]
-* [[Tathāgata]]

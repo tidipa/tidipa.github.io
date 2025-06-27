@@ -2,6 +2,63 @@
 title: Gombrich, Richard F. - Theravāda Buddhism (2006)
 description:
   Richard Gombrich's *Theravāda Buddhism* provides a social history of this conservative branch of Buddhism, which originated with the Buddha's teachings in 5th-century BCE India on achieving salvation (*nibbāna*) from suffering through a "Middle Way" of morality, meditation, and wisdom. Central to this path was the redefinition of *kamma* as intention and the denial of an eternal soul (*anattā*), doctrines preserved and spread by a monastic Order (the Sangha) governed by a detailed disciplinary code (*vinaya*). With the patronage of Emperor Asoka, Theravāda was established in Sri Lanka around 250 BCE, where it became fused with Sinhalese national identity and developed a devotional culture of pilgrimage and relic worship, while the Sangha adapted to its role as a land-owning elite, undergoing cycles of decline and revival. The 19th century brought a major transformation with the rise of "Protestant Buddhism," a lay-led movement reacting to Christian missionaries and colonial rule, which reinterpreted Buddhism as a rational, scientific philosophy and promoted lay activism. In the contemporary era, this legacy has been shaped by civil war and globalization, fostering a more intense nationalism and new forms of lay religiosity, from ecstatic god-worship to the re-establishment of the nuns' order, presenting new challenges and adaptations for the ancient tradition.
+tags:
+  - Theravāda Buddhism
+  - Social history
+  - Richard F. Gombrich
+  - Buddha's teachings
+  - Sangha
+  - Vinaya
+  - Nibbāna
+  - Kamma
+  - Anattā
+  - Sri Lanka
+  - Emperor Asoka
+  - Sinhalese national identity
+  - Protestant Buddhism
+  - Lay religiosity
+  - Monasticism
+  - Pali language
+  - Three Jewels
+  - Middle Way
+  - Morality
+  - Meditation
+  - Wisdom
+  - Vedic civilization
+  - Karma theory
+  - Rebirth
+  - Renouncers
+  - Urbanization
+  - Trade
+  - Four Noble Truths
+  - Dependent Origination
+  - Greed, hatred, delusion
+  - Religious individualism
+  - Spiritual equality
+  - Religious self-scrutiny
+  - Lay activism
+  - Pilgrimage
+  - Relic worship
+  - Transfer of merit
+  - Sangha discipline
+  - Pātimokkha
+  - Higher ordination
+  - Nuns' order
+  - Nikāya
+  - Royal patronage
+  - Sangha as landlords
+  - Caste system
+  - British colonial rule
+  - Christian missionaries
+  - Theosophy
+  - Anagārika Dharmapāla
+  - Maha Bodhi Society
+  - Sinhalese Buddhist nationalism
+  - Civil war
+  - Globalization
+  - Hinduizing trends
+  - Altered states of consciousness
+  - Buddhicization
 ---
 
 ### Blurb
@@ -3038,62 +3095,3 @@ Foreign terms are explained where they first occur in the text.
 - yoga 44-5, 65
 - Young Men's Buddhist
 - Association (YMBA) 185, 195
-
-### Keywords
-
-* [[Theravāda Buddhism]]
-* [[Social history]]
-* [[Richard F. Gombrich]]
-* [[Buddha's teachings]]
-* [[Sangha]]
-* [[Vinaya]]
-* [[Nibbāna]]
-* [[Kamma]]
-* [[Anattā]]
-* [[Sri Lanka]]
-* [[Emperor Asoka]]
-* [[Sinhalese national identity]]
-* [[Protestant Buddhism]]
-* [[Lay religiosity]]
-* [[Monasticism]]
-* [[Pali language]]
-* [[Three Jewels]]
-* [[Middle Way]]
-* [[Morality]]
-* [[Meditation]]
-* [[Wisdom]]
-* [[Vedic civilization]]
-* [[Karma theory]]
-* [[Rebirth]]
-* [[Renouncers]]
-* [[Urbanization]]
-* [[Trade]]
-* [[Four Noble Truths]]
-* [[Dependent Origination]]
-* [[Greed, hatred, delusion]]
-* [[Religious individualism]]
-* [[Spiritual equality]]
-* [[Religious self-scrutiny]]
-* [[Lay activism]]
-* [[Pilgrimage]]
-* [[Relic worship]]
-* [[Transfer of merit]]
-* [[Sangha discipline]]
-* [[Pātimokkha]]
-* [[Higher ordination]]
-* [[Nuns' order]]
-* [[Nikāya]]
-* [[Royal patronage]]
-* [[Sangha as landlords]]
-* [[Caste system]]
-* [[British colonial rule]]
-* [[Christian missionaries]]
-* [[Theosophy]]
-* [[Anagārika Dharmapāla]]
-* [[Maha Bodhi Society]]
-* [[Sinhalese Buddhist nationalism]]
-* [[Civil war]]
-* [[Globalization]]
-* [[Hinduizing trends]]
-* [[Altered states of consciousness]]
-* [[Buddhicization]]

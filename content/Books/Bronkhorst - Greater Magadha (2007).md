@@ -2,6 +2,131 @@
 title: Bronkhorst, Johannes - Greater Magadha, Brill (2007)
 description:
   In *Greater Magadha*, Johannes Bronkhorst posits the existence of a distinct cultural sphere in early India, located east of the traditional Brahmanical heartland, which was the cradle of religious movements such as Buddhism, Jainism, and Ājīvikism. This culture was defined by a unique spiritual ideology centered on the belief in rebirth and karmic retribution, as well as by features like round funerary mounds (stūpas), a distinct medical tradition, and a cyclical conception of time. Bronkhorst argues that these concepts were foreign to the Vedic-Brahmanical culture to its west, which only gradually absorbed them over a long period of cultural interaction. This process is traced through Brahmanical texts that reveal varied reactions - hesitant acceptance and adaptation in the Upaniṣads and the Mahābhārata, long-term disregard by the Mīmāṃsā school, and outright rejection by the Cārvākas, whom he identifies as a Brahmanical school. A central part of the thesis involves a chronological re-evaluation of late-Vedic literature, which Bronkhorst, using evidence from grammarians like Pāṇini, argues is much later than traditionally held and was composed contemporaneously with this cultural amalgamation.
+tags:
+  - Greater Magadha
+  - Early India
+  - Johannes Bronkhorst
+  - Magadha Civilization
+  - Handbook of Oriental Studies
+  - Cultural Features
+  - Spiritual Ideology
+  - Jainism
+  - Knowledge of the Self
+  - Bhagavadgītā
+  - Ājīvikism
+  - Buddhism
+  - Funerary Practices
+  - Medicine
+  - Kapila
+  - Cyclic Time
+  - Brahmanism
+  - Rebirth
+  - Karmic Retribution
+  - Dharma Sūtra
+  - Vedic Asceticism
+  - Āpastamba Dharma Sūtra
+  - Mahābhārata
+  - Upaniṣads
+  - Cārvākas
+  - Urban Brahmins
+  - Chronology
+  - Linguistic Considerations
+  - Vedic Texts
+  - Sanskrit Grammarians
+  - Pāṇini
+  - Patañjali
+  - Late-Vedic Literature
+  - Urbanization
+  - Magical Thought
+  - Discworld
+  - Roundworld
+  - Vedānta Philosophy
+  - Pūrva-Mīmāṃsā
+  - Uttara-Mīmāṃsā
+  - Śābarabhāṣya
+  - Āryāvarta
+  - Mauryan Empire
+  - Śuṅgas
+  - Stūpas
+  - Śatapatha Brāhmaṇa
+  - Jaiminīya Brāhmaṇa
+  - Vedic Index of Names and Subjects
+  - Atharvaveda
+  - Yajurveda
+  - Śrauta Sūtras
+  - Kauṣītaki Āraṇyaka
+  - Painted Grey Ware
+  - Black and Red Ware
+  - Northern Black Polished Ware
+  - Pāli Tipitaka
+  - Āyurveda
+  - Śramanas
+  - Megasthenes
+  - Strabo
+  - Vānaprastha
+  - Tridoṣa
+  - Sāṃkhya
+  - Yoga Sūtra
+  - Prajāpati
+  - Prahlāda
+  - Āsuri
+  - Rājadharmaparvan
+  - Kalpa
+  - Yuga
+  - Śabara
+  - Prabhākara
+  - Kumārila
+  - Śīlānka
+  - Lokāyatas
+  - Bṛhaspati
+  - Nyāya
+  - Artha Śāstra
+  - Kāma Sūtra
+  - Purohita
+  - Trivarga
+  - Mokṣa
+  - Ṛgveda
+  - Brāhmaṇas
+  - Saṃhitās
+  - Kātyāyana
+  - Śākalya
+  - Ṛgveda Prātiśākhya
+  - Aṣṭādhyāyī
+  - Nirukta
+  - Aitareya Brāhmaṇa
+  - Bṛhadāraṇyaka Upaniṣad
+  - Chāndogya Upaniṣad
+  - Yājñavalkya-Kāṇḍa
+  - Uddālaka
+  - Maitreyī
+  - Anuvyākhyāna
+  - Vyākhyāna
+  - Vādhūla Śrauta Sūtra
+  - Oral Tradition
+  - Assalāyana Sutta
+  - Aggañña Sutta
+  - Ambaṭṭha Sutta
+  - Greeks
+  - Kambojas
+  - Puruṣa-sūkta
+  - Śāṇḍilya
+  - Brahmajāla Sutta
+  - Classical Indian Culture
+  - Dāsas
+  - Māgadhī
+  - Samnyāsins
+  - Relics
+  - Dharmakāya
+  - Tantrism
+  - Asita Devala
+  - Jaimini
+  - Śaṅkara
+  - Upavarṣa
+  - Sureśvara
+  - Rāmānuja
+  - Yāmuna
+  - Xuanzang
+  - Huili
 ---
 
 # Greater Magadha 
@@ -5587,130 +5712,3 @@ Most important is the passage which shows how the Cārvākas conceived of mental
 - yuga 5, 70, 71, 359, 360
 - Yuga Purāṇa 359
 - Yuktidīpikā 62
-
-### Keywords
-
-- [[Greater Magadha]]
-- [[Early India]]
-- [[Johannes Bronkhorst]]
-- [[Magadha Civilization]]
-- [[Handbook of Oriental Studies]]
-- [[Cultural Features]]
-- [[Spiritual Ideology]]
-- [[Jainism]]
-- [[Knowledge of the Self]]
-- [[Bhagavadgītā]]
-- [[Ājīvikism]]
-- [[Buddhism]]
-- [[Funerary Practices]]
-- [[Medicine]]
-- [[Kapila]]
-- [[Cyclic Time]]
-- [[Brahmanism]]
-- [[Rebirth]]
-- [[Karmic Retribution]]
-- [[Dharma Sūtra]]
-- [[Vedic Asceticism]]
-- [[Āpastamba Dharma Sūtra]]
-- [[Mahābhārata]]
-- [[Upaniṣads]]
-- [[Cārvākas]]
-- [[Urban Brahmins]]
-- [[Chronology]]
-- [[Linguistic Considerations]]
-- [[Vedic Texts]]
-- [[Sanskrit Grammarians]]
-- [[Pāṇini]]
-- [[Patañjali]]
-- [[Late-Vedic Literature]]
-- [[Urbanization]]
-- [[Magical Thought]]
-- [[Discworld]]
-- [[Roundworld]]
-- [[Vedānta Philosophy]]
-- [[Pūrva-Mīmāṃsā]]
-- [[Uttara-Mīmāṃsā]]
-- [[Śābarabhāṣya]]
-- [[Āryāvarta]]
-- [[Mauryan Empire]]
-- [[Śuṅgas]]
-- [[Stūpas]]
-- [[Śatapatha Brāhmaṇa]]
-- [[Jaiminīya Brāhmaṇa]]
-- [[Vedic Index of Names and Subjects]]
-- [[Atharvaveda]]
-- [[Yajurveda]]
-- [[Śrauta Sūtras]]
-- [[Kauṣītaki Āraṇyaka]]
-- [[Painted Grey Ware]]
-- [[Black and Red Ware]]
-- [[Northern Black Polished Ware]]
-- [[Pāli Tipitaka]]
-- [[Āyurveda]]
-- [[Śramanas]]
-- [[Megasthenes]]
-- [[Strabo]]
-- [[Vānaprastha]]
-- [[Tridoṣa]]
-- [[Sāṃkhya]]
-- [[Yoga Sūtra]]
-- [[Prajāpati]]
-- [[Prahlāda]]
-- [[Āsuri]]
-- [[Rājadharmaparvan]]
-- [[Kalpa]]
-- [[Yuga]]
-- [[Śabara]]
-- [[Prabhākara]]
-- [[Kumārila]]
-- [[Śīlānka]]
-- [[Lokāyatas]]
-- [[Bṛhaspati]]
-- [[Nyāya]]
-- [[Artha Śāstra]]
-- [[Kāma Sūtra]]
-- [[Purohita]]
-- [[Trivarga]]
-- [[Mokṣa]]
-- [[Ṛgveda]]
-- [[Brāhmaṇas]]
-- [[Saṃhitās]]
-- [[Kātyāyana]]
-- [[Śākalya]]
-- [[Ṛgveda Prātiśākhya]]
-- [[Aṣṭādhyāyī]]
-- [[Nirukta]]
-- [[Aitareya Brāhmaṇa]]
-- [[Bṛhadāraṇyaka Upaniṣad]]
-- [[Chāndogya Upaniṣad]]
-- [[Yājñavalkya-Kāṇḍa]]
-- [[Uddālaka]]
-- [[Maitreyī]]
-- [[Anuvyākhyāna]]
-- [[Vyākhyāna]]
-- [[Vādhūla Śrauta Sūtra]]
-- [[Oral Tradition]]
-- [[Assalāyana Sutta]]
-- [[Aggañña Sutta]]
-- [[Ambaṭṭha Sutta]]
-- [[Greeks]]
-- [[Kambojas]]
-- [[Puruṣa-sūkta]]
-- [[Śāṇḍilya]]
-- [[Brahmajāla Sutta]]
-- [[Classical Indian Culture]]
-- [[Dāsas]]
-- [[Māgadhī]]
-- [[Samnyāsins]]
-- [[Relics]]
-- [[Dharmakāya]]
-- [[Tantrism]]
-- [[Asita Devala]]
-- [[Jaimini]]
-- [[Śaṅkara]]
-- [[Upavarṣa]]
-- [[Sureśvara]]
-- [[Rāmānuja]]
-- [[Yāmuna]]
-- [[Xuanzang]]
-- [[Huili]]

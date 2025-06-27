@@ -1,3 +1,39 @@
+---
+title: Jurewicz- Playing with Fire (2000)
+description:
+  In her analysis, Joanna Jurewicz posits that the Buddhist law of dependent origination (pratītyasamutpāda) is a polemical reinterpretation of Vedic cosmogony, which shares a similar structure and even specific concepts but is stripped of its positive value by the Buddhist doctrine of no-self (anattā). The twelve links of the Buddhist chain are shown to parallel stages of Vedic creation, where concepts like *avidyā* (ignorance) and *saṃskāra* (volition) mirror the Creator's initial state and subsequent will, and later links like *nāmarūpa* (name-and-form) and the sense bases (*ṣaḍāyatana*) map onto the *ātman's* differentiation into the cognized world. The central Vedic metaphor of a creative, divine fire (Agni) is deliberately inverted, with its "thirst" to create becoming the destructive fire of craving (*tṛṣṇā*) and its need for fuel becoming clinging (*upādāna*). By systematically removing the *ātman* as the divine agent, the Buddha reframes the entire desirable Vedic creative process as a meaningless and absurd chain of events that inevitably culminates in suffering through becoming, birth, and death (*bhava, jāti, jarāmaraṇa*).
+tags:
+  - pratītyasamutpāda
+  - dependent origination
+  - Vedic cosmogony
+  - Vedic thought
+  - Buddhism
+  - polemic
+  - reinterpretation
+  - anattā
+  - ātman
+  - fire metaphor
+  - Agni
+  - Prajāpati
+  - cognition
+  - suffering
+  - avidyā (ignorance)
+  - saṃskāra (volition)
+  - vijñāna (consciousness)
+  - nāmarūpa (name-and-form)
+  - ṣaḍāyatana (sense bases)
+  - tṛṣṇā (craving)
+  - upādāna (clinging/fuel)
+  - bhava (becoming)
+  - jāti (birth)
+  - jarāmaraṇa (aging and death)
+  - nidāna
+  - Ṛgveda
+  - Upaniṣads
+  - Śatapatha Brāhmaṇa
+  - comparative philosophy
+---
+
 # Playing with Fire: The pratītyasamutpāda from the Perspective of Vedic Thought 
 
 Joanna Jurewicz

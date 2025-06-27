@@ -1,6 +1,39 @@
+---
+title: Bucknell - Conditioned Arising Evolves (1999)
+description:
+  Roderick S. Bucknell's article argues that the well-known twelve-link chain of Conditioned Arising (paṭicca-samuppāda) is a simplified and structurally distorted version of a more complex, branching ancestral doctrine that was altered during early oral transmission. He posits that different textual versions, such as the "looped," "branched," and "Sutta-nipāta" accounts, represent fragments or derivatives of this original form, in which consciousness (viññāṇa) arose from two distinct causal sources - one from ignorance and activities, and another from the interaction of sense organs (saḷāyatana) and sense objects, for which `nāma-rūpa` was the original collective term. The process of memorization and recitation, particularly in reverse, likely flattened this branching structure into a linear sequence, which in turn necessitated a scholastic reinterpretation of key terms like `nāma-rūpa` (as mind-body) and `viññāṇa` (as rebirth consciousness) to make the new, simplified chain coherent.
+tags:
+  - paṭicca-samuppāda
+  - Conditioned Arising
+  - doctrinal development
+  - textual variation
+  - oral transmission
+  - textual criticism
+  - comparative analysis
+  - standard version
+  - looped version
+  - branched version
+  - Sutta-nipāta version
+  - nāma-rūpa
+  - viññāṇa
+  - saḷāyatana
+  - sense objects
+  - mind-and-body
+  - reinterpretation
+  - branching structure
+  - linearization
+  - reverse recitation
+  - two causal sources of consciousness
+  - rebirth consciousness
+  - sense consciousness
+  - Mahānidāna-sutta
+  - Dharmaskandha
+  - Roderick S. Bucknell
+---
+
 # Conditioned Arising Evolves: Variation and Change in Textual Accounts of the Paṭicca-samuppāda Doctrine
 
-RODERICK S. BUCKNELL 
+Roderick S. Bucknell 
 
 JIABS Vol 22 Issue 2 pp. 311-342
 

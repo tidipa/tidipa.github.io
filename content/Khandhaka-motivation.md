@@ -6,7 +6,7 @@ title: My Motivation for Translating the Khandhaka
 
 The `Khandhaka` (or Collections) forms part of the `Vinaya Piṭaka`, one of the three "baskets" of the `Tipiṭaka`. The `Tipiṭaka` is a large collection of teachings attributed to the Buddha or his earliest disciples. In the Pāli Canon, the Khandhaka contains stories of the Buddha's life post enlightenment (excluding his death) framed around his establishment of various rules for ordaining and governing monastics in the `saṅgha` (community), and finishes with descriptions of the First and Second Councils, which were large formal gatherings intended to clarify or ratify the Buddha's teachings.
 
-Why study and translate the `Khandhaka`? Along with the other parts of the `Vinaya`, it may represent the earliest of Buddha's teachings. Also, unlike the other `piṭaka`s where we only have a complete preserved version from just one sect in Pāli, we possess the Vinaya of no less than six schools. According to Frauwallner, these schools are:
+Why study and translate the `Khandhaka`? Along with the other parts of the `Vinaya`, it may represent the earliest of Buddha's teachings. Also, unlike the other `piṭaka`s where we only have a complete preserved version from just one sect in Pāli, we possess the Vinaya of no less than six schools. According to [Frauwallner - The Earliest Vinaya And The Beginnings Of Buddhist Literature (1956)](./Books/Frauwallner%20-%20The%20Earliest%20Vinaya.md) [@Frauwallner1956], these schools are:
 
 * Sarvāstivādin (Chinese translation)
 * Dharmaguptaka (Chinese translation)
@@ -17,7 +17,7 @@ Why study and translate the `Khandhaka`? Along with the other parts of the `Vina
 
 ## The Origin of the Khandhaka
 
-As Frauwallner notes, the different versions of the Khandhaka are quite similar across all 6 versions, indicating that it was compiled or composed before the division of Buddhism into various sects. Frauwallner wrote:
+As [@Frauwallner1956] notes, the different versions of the Khandhaka are quite similar across all 6 versions, indicating that it was compiled or composed before the division of Buddhism into various sects. Frauwallner wrote:
 
 > The Skandhaka consist therefore of twenty sections, all of which occur with the four schools mentioned above. This agreement extends also to the contents of the sections. Many differences are indeed apparent in the arrangement and elaboration of the materials. But if we disregard all those differences which can be explained through corruption of the tradition or through re-elaboration in accordance with the bias of the several schools, no others are left but such as are characteristic of the free oral tradition of earlier times. The materials are the same, the inserted legends are the same, discrepancies are merely such as are bound to occur when several narrators tell the same story freely from memory.
 
@@ -55,13 +55,13 @@ Based on Frauwallner's hypothesis that the author fabricated the First Council b
 
 I am not entirely convinced by Frauwallner's hypothesis. I agree that the author was a prominent figure in the Buddhist community, and most likely was born a brahmin and studied the Vedic texts. However, there is no direct evidence he was present at the Second Council.
 
-In the Sri Lankan tradition, Moggaliputta-Tissa – who is patronised by Emperor Ashoka – sent out nine Buddhist missions to spread Buddhism in the "border areas" in c. 250 BCE. A part of this story is corroborated by archaeological evidence - three of the names of the monks mentioned in the _Vinaya Nidana_ have been found inscribed on relic caskets found at Bhilsa (near Vidisha). These caskets are dated to the early 2nd century BCE.
+In the Sri Lankan tradition (eg. from sources such as the Mahāvaṃsa), Moggaliputta-Tissa – who is patronised by Emperor Ashoka – sent out nine Buddhist missions to spread Buddhism in the "border areas" in c. 250 BCE. A part of this story is corroborated by archaeological evidence - three of the names of the monks mentioned in the _Vinaya Nidana_ have been found inscribed on relic caskets found at Bhilsa (near Vidisha). These caskets are dated to the early 2nd century BCE.
 
-I am inclined to place the work at roughly this time rather than earlier because as Bronkhorst points out according to Patanjali the brahmins did not widely settle in the area east of the Ganges even a millennium after the time of the Buddha so it would have been unlikely that Buddhism encountered a lot of opposition in terms of Brahmanism in the early days. However, it is likely the Vidiśā (Vidisha) community where the missions possibly originated from had encountered brahmins, and therefore the brahmanical references in the Khandhaka (and also in significant parts of Suttapiṭaka) could have been composed around this time.
+I am inclined to place the work at roughly this time rather than earlier because as Bronkhorst points out in [@GreaterMagadha] that according to Patanjali the brahmins did not widely settle in the area east of the Ganges even a millennium after the time of the Buddha, so it would have been unlikely that Buddhism encountered a lot of opposition in terms of Brahmanism in the early days. However, it is likely the Vidiśā (Vidisha) community where the missions possibly originated from had encountered brahmins, and therefore the brahmanical references in the Khandhaka (and also in significant parts of Suttapiṭaka) could have been composed around this time.
 
 Therefore, I think it's more likely Khandhaka was specially commissioned for the purposes of creating a consistent Vinaya to be promulgated via the missions, or at least was revised for the occasion at this time (based on earlier versions). The author was probably part of the Vidiśā community and may even have been a leader of one of the missions.
 
-Gavin Floor in "The Śaiva Traditions" (2003) states that the period of 200 BC to 100 AD  marks the beginning of the Shaiva tradition focused on the worship of Shiva as evidenced in other literature of this period. The Khandhaka contains at least two references to Shiva worship - the encounter with the fire worshipping Kassapa brothers and their dreadlocked ascetic followers, and Angulimala who Gombrich claims is a Shiva follower. This means it's unlikely the Khandhaka could be too much earlier than 200 BCE. This further strengthens the possibility that the Khandhaka was specially commissioned to accompany the missions.
+Gavin Flood in "The Śaiva Traditions" [@flood2007] states: "the formation of Śaiva traditions as we understand them begins to occur during the period from 200 BC to 100 AD." The Śaiva tradition focused on the worship of Shiva (Sanskrit: `śiva`) as the supreme being. The Khandhaka contains at least two references to Shiva worship - the encounter with the fire worshipping Kassapa brothers and their dreadlocked ascetic followers, and Angulimāla who Gombrich claims is a Shiva follower. This means it's unlikely the Khandhaka could have been written too much earlier than 200 BCE. This further strengthens the possibility that the Khandhaka was specially commissioned to accompany the missions.
 
 ## The character of the Buddha based on the Khandhaka
 
@@ -109,11 +109,12 @@ There are many accounts, such as the Mahavastu, Lalitavastra, etc. that provide 
 
 The problem is that all these accounts seem like elaborate fabrications, given the rather different portrayal we see in the Khandhaka and the discrepancies across the texts. Moreover, many of these accounts are sectarian. In other words, unlike the Khandhaka, there is no universally agreed understanding of the Buddha's early life and his lineage.
 
-This is understandable if we perceive the Buddha's nature to be quiet and reticient, as discussed above. He would have been unwilling to talk about his personal life prior to awakening, and is asked he would probably have answered that those details are irrelevant. However, this has not stopped many Buddhists from wishing they know the Buddha better, and therefore the temptation to create devotional texts extolling the Buddha was altogether too strong.
+This is understandable if we perceive the Buddha's nature to be quiet and reticient, as discussed above. He would probably have been unwilling to talk about his personal life prior to awakening, and if asked he may perhaps answer that those details are irrelevant. However, this has not stopped many Buddhists from wishing they know the Buddha better, and therefore the temptation to create devotional texts extolling the Buddha was altogether too strong.
 
 Therefore, I will not focus on the Buddha's birth and early life, as they are not as relevant or verifiable as the contents of the Khandhaka.
 
-## Translation roadmap
+## Postscript
 
-I hope I have articulated enough reasons to be interested in, or even obsessed about, the Buddha's biography and early discourses in the Khandhaka, which is why I have chosen to focus on translating Sections 1-14 initially. Later on, I may expand the translation to other sections of the Khandhaka, and perhaps some suttas from the Suttapiṭaka, such as the Ariyaparisesana Sutta and the Mahaparinibbana Sutta. After this, I plan to move on to translating excerpts from the Abhidhamma and in this way create a sampling of all sections of the Tipiṭaka.
+I hope I have articulated enough reasons to be interested in, or even obsessed about, the Buddha's biography and early discourses in the Khandhaka, which is why I have chosen to focus on translating Sections 1-14 initially.
 
+## References

@@ -2,6 +2,49 @@
 title: Gombrich, Richard F. - How Buddhism Began (2006)
 description:
   Richard F. Gombrich's *How Buddhism Began* argues that the Buddha's original teachings must be understood within their historical context, primarily as a debate with and reaction to contemporary religious ideas, especially those of Brahminism. Gombrich posits that the Buddha was not an essentialist philosopher concerned with 'what' things are, but a pragmatic teacher focused on 'how' they function, notably by reinterpreting concepts like *kamma* from ritual action to intention. The book's other central theme is that subsequent generations of disciples, by taking the Buddha's metaphors and allegories literally, created new doctrines and scholastic distinctions that went far beyond his original, often context-dependent, message. This process is illustrated through analyses of key texts and concepts, such as the development of 'release by insight' as an alternative to meditation and a reinterpretation of the Aṅgulimāla story, suggesting that many apparent inconsistencies in the Pali Canon arose from a failure to appreciate the Buddha's use of skillful means and the specific debates he was engaged in.
+tags:
+  - Richard F. Gombrich
+  - Buddhism
+  - Early Buddhist Teachings
+  - Historical Context
+  - Brahminism
+  - Vedic Thought
+  - Upaniṣads
+  - Buddha
+  - Non-Essentialism
+  - Pragmatism
+  - Kamma (Karma)
+  - Intention
+  - Ethicisation
+  - Metaphor
+  - Allegory
+  - Literalism
+  - Scholastic Literalism
+  - Pali Canon
+  - Textual Criticism
+  - Doctrinal Development
+  - Inconsistencies
+  - Skill in Means
+  - Insight (Paññā)
+  - Meditation (Samādhi)
+  - Concentration (Jhāna)
+  - Enlightenment
+  - Nirvana (Nibbāna)
+  - Release (Vimutti)
+  - Dependent Origination
+  - Anatta (No-Self)
+  - Three Hallmarks of Existence
+  - Angulimāla
+  - Śiva
+  - Kālī
+  - Tantra
+  - Oral Tradition
+  - Commentaries
+  - Theravada Buddhism
+  - Mahayana Buddhism
+  - Religious Debate
+  - Consciousness (Viññāna)
+  - Merit Transfer
 ---
 
 How Buddhism Began 
@@ -2340,48 +2383,3 @@ There is perhaps a certain irony in the fact that somewhere around the time when
 - Mahāvagga 20,43, 46, 69,118
 - Vinaya of Mahāsāṅghikas 93
 - Visuddhi-magga 51, 82, 85, 86,162
-
-### Keywords
-
-*   [[Richard F. Gombrich]]
-*   [[Buddhism]]
-*   [[Early Buddhist Teachings]]
-*   [[Historical Context]]
-*   [[Brahminism]]
-*   [[Vedic Thought]]
-*   [[Upaniṣads]]
-*   [[Buddha]]
-*   [[Non-Essentialism]]
-*   [[Pragmatism]]
-*   [[Kamma (Karma)]]
-*   [[Intention]]
-*   [[Ethicisation]]
-*   [[Metaphor]]
-*   [[Allegory]]
-*   [[Literalism]]
-*   [[Scholastic Literalism]]
-*   [[Pali Canon]]
-*   [[Textual Criticism]]
-*   [[Doctrinal Development]]
-*   [[Inconsistencies]]
-*   [[Skill in Means]]
-*   [[Insight (Paññā)]]
-*   [[Meditation (Samādhi)]]
-*   [[Concentration (Jhāna)]]
-*   [[Enlightenment]]
-*   [[Nirvana (Nibbāna)]]
-*   [[Release (Vimutti)]]
-*   [[Dependent Origination]]
-*   [[Anatta (No-Self)]]
-*   [[Three Hallmarks of Existence]]
-*   [[Angulimāla]]
-*   [[Śiva]]
-*   [[Kālī]]
-*   [[Tantra]]
-*   [[Oral Tradition]]
-*   [[Commentaries]]
-*   [[Theravada Buddhism]]
-*   [[Mahayana Buddhism]]
-*   [[Religious Debate]]
-*   [[Consciousness (Viññāna)]]
-*   [[Merit Transfer]]

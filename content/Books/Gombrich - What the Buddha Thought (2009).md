@@ -2,6 +2,56 @@
 title: Gombrich, Richard F. - What the Buddha Thought (2009)
 description:
   In *What the Buddha Thought*, Richard Gombrich argues that the Buddha was a brilliant and original thinker whose coherent system of thought can only be understood by placing it in its historical context as a pragmatic debate with and reaction to contemporary Brahminical and Jain ideas. Gombrich posits that the Buddha was not an essentialist philosopher but a practical teacher focused on how things function, redefining concepts like *kamma* from ritual action to ethical intention and clarifying "no-self" as the absence of an *unchanging* essence. A central thesis is that subsequent generations, failing to grasp the Buddha's use of metaphor, irony, and context-dependent arguments, took his teachings literally, thereby creating new scholastic doctrines—such as misinterpreting the *brahma-vihāras* as a path to heaven rather than nirvana. This process of misinterpretation, Gombrich contends, explains many apparent inconsistencies in the Pali Canon, which he establishes as the key evidence for understanding how the Buddha used fire as a central metaphor for non-random process and satirized Vedic cosmogony in the Chain of Dependent Origination.
+tags:
+  - Richard Gombrich
+  - Buddha
+  - Historical Context
+  - Brahminism
+  - Jainism
+  - Karma
+  - Rebirth
+  - Nirvana
+  - Pali Canon
+  - Metaphor
+  - Irony
+  - Abstraction
+  - Ethicization
+  - Individual Responsibility
+  - No-Self
+  - Dukkha
+  - Impermanence
+  - Process
+  - Dependent Origination
+  - Fire Metaphor
+  - Consciousness
+  - Intention
+  - Skill in Means
+  - Brahma-vihāras
+  - Sangha
+  - Vinaya
+  - Upanisads
+  - Rg Veda
+  - Jiva
+  - Ahimsa
+  - Academic Scepticism
+  - Conjecture and Refutation
+  - Oral Tradition
+  - Buddhist Commentaries
+  - Literalism
+  - Cognition
+  - Language (Buddha's View)
+  - Apophatic Theology
+  - Ineffability
+  - Pragmatism (Buddha's)
+  - Unanswered Questions
+  - Middle Way
+  - Satire
+  - Social Metaphors
+  - Walpola Rahula
+  - Joanna Jurewicz
+  - Sue Hamilton
+  - Karl Popper
+  - Mahayana
 ---
 
 
@@ -3071,55 +3121,3 @@ Full details of publications appear in the Bibliography.
 - Yājñavalkya 37-8, 63-5, 88, 153-4
 
 - Zen 3
-
-### Keywords
-
-* [[Richard Gombrich]]
-* [[Buddha]]
-* [[Historical Context]]
-* [[Brahminism]]
-* [[Jainism]]
-* [[Karma]]
-* [[Rebirth]]
-* [[Nirvana]]
-* [[Pali Canon]]
-* [[Metaphor]]
-* [[Irony]]
-* [[Abstraction]]
-* [[Ethicization]]
-* [[Individual Responsibility]]
-* [[No-Self]]
-* [[Dukkha]]
-* [[Impermanence]]
-* [[Process]]
-* [[Dependent Origination]]
-* [[Fire Metaphor]]
-* [[Consciousness]]
-* [[Intention]]
-* [[Skill in Means]]
-* [[Brahma-vihāras]]
-* [[Sangha]]
-* [[Vinaya]]
-* [[Upanisads]]
-* [[Rg Veda]]
-* [[Jiva]]
-* [[Ahimsa]]
-* [[Academic Scepticism]]
-* [[Conjecture and Refutation]]
-* [[Oral Tradition]]
-* [[Buddhist Commentaries]]
-* [[Literalism]]
-* [[Cognition]]
-* [[Language (Buddha's View)]]
-* [[Apophatic Theology]]
-* [[Ineffability]]
-* [[Pragmatism (Buddha's)]]
-* [[Unanswered Questions]]
-* [[Middle Way]]
-* [[Satire]]
-* [[Social Metaphors]]
-* [[Walpola Rahula]]
-* [[Joanna Jurewicz]]
-* [[Sue Hamilton]]
-* [[Karl Popper]]
-* [[Mahayana]]

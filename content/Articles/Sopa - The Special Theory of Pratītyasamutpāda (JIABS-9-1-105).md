@@ -1,3 +1,37 @@
+---
+title: Sopa - The Special Theory of Pratītyasamutpāda (1986)
+description:
+  The Buddhist concept of Nirvana is fundamentally a metaphysical experience, defined not as an abstract or rational conclusion but as a direct, immediate, and felt knowledge of ultimate reality or "Being." This experience, which transcends sensory perception, is the goal of Buddhism, aiming for a special wisdom (prajñā) or intuitive understanding of the Ultimate Truth that underlies all phenomena. Evidence from early texts like the *Buddha-carita*, which describes the Buddha's enlightenment as a perfect, intuitive knowledge of all things, and interpretations from scholars like D.T. Suzuki, who characterizes Satori as a profound, non-conceptual awakening, both support the view of Nirvana as an experiential encounter with the metaphysical foundation of existence itself.
+tags:
+  - Pratītyasamutpāda
+  - Dependent Origination
+  - Twelve Nidānas
+  - Cycle of Dependent Origination
+  - Buddhism
+  - Buddhist philosophy
+  - Samsāra
+  - Karma
+  - Causation
+  - Avidyā (ignorance)
+  - Saṃskāra (formatives)
+  - Vijñāna (consciousness)
+  - Nāmarūpa (name and form)
+  - Ṣaḍāyatana (six sense organs)
+  - Sparśa (contact)
+  - Vedanā (feeling)
+  - Tṛṣṇā (craving)
+  - Upādāna (appropriation)
+  - Bhava (existence)
+  - Jāti (birth)
+  - Jarāmaraṇa (ageing and death)
+  - Kleśa (afflictions)
+  - Nairātmya (no-self)
+  - Madhyamaka
+  - Yogācāra
+  - Abhidharma
+  - Geshe Lhundub Sopa
+---
+
 # The Special Theory of Pratītyasamutpāda: The Cycle of Dependent Origination [^1] 
 
 by Geshe Lhundub Sopa
