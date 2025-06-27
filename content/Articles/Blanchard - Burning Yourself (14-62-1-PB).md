@@ -1,3 +1,35 @@
+---
+title: Blanchard - Burning Yourself (2010)
+description:
+  This paper proposes that the Buddhist teaching of Dependent Arising (paṭicca samuppāda) is structured as a polemic modeled on the Vedic fire rituals of the Buddha's time, particularly the Agnicayana, which were intended to create and perfect an eternal self (ātman) by re-enacting creation myths like that of Prajāpati. The author argues that the Buddha co-opted this familiar ritualistic framework to demonstrate how individuals, through their own habitual psychological "rituals"—such as clinging to feelings (vedanā), craving (taṇhā), and forming views (upādāna)—construct a false and impermanent sense of self. This constructed self, born from ignorance (avijjā), is what undergoes the cycle of "birth" (jāti) and "aging and death" (jarāmaraṇa), which is presented as a metonym for suffering (dukkha). By using this model, the Buddha refutes the Vedic worldview, showing that its methods, when understood as psychological processes, lead not to an eternal, blissful self but to the creation of a transient, suffering identity, a context that, once lost, made the teaching's structure obscure to later generations.
+tags:
+  - Paṭicca samuppāda
+  - Dependent Arising
+  - Vedic rituals
+  - Agnicayana
+  - Fire ritual
+  - Prajāpati
+  - Creation myth
+  - Ātman
+  - Anatta
+  - False self
+  - Constructed self
+  - Dukkha
+  - Suffering
+  - Polemic
+  - Refutation
+  - Lost context
+  - Historical interpretation
+  - Joanna Jurewicz
+  - Saṃkhārā
+  - Upādāna
+  - Taṇhā
+  - Vedanā
+  - Jarāmaraṇa
+  - Psychological ritual
+  - Fire metaphor
+---
+
 # Burning Yourself: Paṭicca Samuppāda as a Description of the Arising of a False Sense of Self Modeled on Vedic Rituals 
 
 Linda Blanchard

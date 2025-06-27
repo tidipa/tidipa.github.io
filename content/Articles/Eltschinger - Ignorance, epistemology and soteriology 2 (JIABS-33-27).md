@@ -1,3 +1,47 @@
+---
+title: Eltschinger - Ignorance, epistemology and soteriology Part II (2010)
+description:
+  In the philosophy of Dharmakīrti, ignorance (avidyā) is defined as a "counter-knowledge" or conceptual construction that superimposes erroneous ideas onto reality, becoming soteriologically significant as the "personalistic false view" (satkāyadrṣṭi) — the mistaken belief in a "self" and "one's own." This specific form of ignorance is the root cause of all defilements like craving and aversion, thereby generating the cycle of rebirth and suffering (samsāra). Dharmakīrti's path to salvation is built upon two means of valid cognition - perception, which is true, direct, non-conceptual knowledge that grasps reality's selfless and momentary nature, and inference. Although inference is itself a conceptual process and thus part of ignorance, its crucial function is corrective. It does not aim to discover new truths, which perception has already accessed, but rather to eliminate the erroneous superimpositions that obscure perception. By systematically using inference to exclude false notions like permanence and selfhood, a practitioner achieves determinate cognition and purifies the mind, ultimately restoring perception to its inherently radiant and liberated state, free from the counteracting influence of ignorance.
+tags:
+  - Dharmakīrti
+  - Buddhist epistemology
+  - Buddhist philosophy
+  - Soteriology
+  - Ignorance (avidyā)
+  - Knowledge (vidyā)
+  - Epistemology
+  - Personalistic false view (satkāyadrṣṭi)
+  - Self (ātman)
+  - Selflessness (nairātmya)
+  - Dependent Origination (pratītyasamutpāda)
+  - Suffering (duhkha)
+  - Craving (tṛṣṇā)
+  - Attachment (sneha)
+  - Defilements (kleśa)
+  - Rebirth
+  - Transmigration (samsāra)
+  - Conceptual thought (vikalpa)
+  - Superimposition (samāropa)
+  - Concealment (samvrti)
+  - Error (bhrānti)
+  - Wrong notions (viparyāsa)
+  - Improper reflection (ayoniśomanaskāra)
+  - Latent tendency (vāsanā)
+  - Means of valid cognition (pramāna)
+  - Perception (pratyakṣa)
+  - Inference (anumāna)
+  - Determinate cognition (niścaya)
+  - Exclusion (vyavaccheda, apoha)
+  - Causal efficiency (vastubalapravrtta)
+  - Radiant mind (prabhāsvara citta)
+  - Revolution of the basis (āśrayaparivrtti)
+  - Two Truths
+  - Vasubandhu
+  - Devendrabuddhi
+  - Śākyabuddhi
+  - Kamalaśīla
+---
+
 # Ignorance, epistemology and soteriology [^1] Part II
 
 Vincent Eltschinger

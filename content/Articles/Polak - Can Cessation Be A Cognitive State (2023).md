@@ -1,3 +1,11 @@
+---
+title: Polak - Can Cessation Be a Cognitive State (2023)
+description:
+  In the early Buddhist Nikāyas, the concept of *nirodha* (cessation) describes a special meditative state, achievable in life, that should be understood not as insentience but as a unique form of cognition. This state involves the cessation of the psychophysical constituents (*khandha-s* and *salāyatana-s*), which the article interprets, using modern philosophy of mind, as the cessation of ordinary, constructed phenomenal consciousness (*viññāna*). While this reportable, self-referential experience is suspended, a deeper, functional mind (*citta*) continues to operate in a non-introspectable, globally unavailable way. The soteriological purpose of this is to bypass the distorting nature of phenomenal consciousness—which is a constructed representation rather than a direct perception of the present—thereby allowing for a tacit, ineffable insight into reality as it is. This cognitive state is thus apophatic, transcending the familiar categories of self, time, and space that structure phenomenal experience, and results in a profound but non-reportable transformation.
+tags:
+
+---
+
 # Can Cessation Be a Cognitive State? Philosophical Implications of the Apophatic Teachings of the Early Buddhist Nikāyas
 
 Grzegorz Polak

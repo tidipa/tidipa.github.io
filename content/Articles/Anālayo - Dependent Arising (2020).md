@@ -1,3 +1,28 @@
+---
+title: Anālayo - Dependent Arising (2020)
+description:
+  In the Buddhist concept of dependent arising, consciousness and name-and-form share a unique, reciprocal relationship, mutually conditioning each other like two bundles of reeds that can only stand by leaning together. This dynamic, where consciousness requires name-and-form for its content and name-and-form requires consciousness to be experienced, creates the continuous matrix of subjective experience. When this consciousness becomes "established" through desire, it perpetuates the cycle of rebirth, but the "unestablished consciousness" of an enlightened one (*arahant*) is no longer dependent on name-and-form, thereby ending future re-becoming. Ultimately, the text argues that consciousness is not a solution but a conditioned, impermanent, and potentially deluding part of the human predicament (*dukkha*), and its cessation is integral to achieving liberation.
+tags:
+  - Dependent Arising
+  - Paṭicca-samuppāda
+  - Specific Conditionality
+  - Idappaccayatā
+  - Twelve Links
+  - Cessation
+  - Dukkha
+  - Buddhism
+  - Bhikkhu Anālayo
+  - Vedic Creation Myth
+  - Consciousness
+  - Name-and-Form
+  - Five Aggregates
+  - Rebirth
+  - Emptiness
+  - No-self
+  - Conditionality
+  - Impermanence
+---
+
 # Dependent Arising 
 
 by Bhikkhu Anālayo

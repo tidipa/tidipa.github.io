@@ -1,3 +1,41 @@
+---
+title: Clough - The higher knowledges in the Pāli Nikāyas and Vinaya (2010)
+description:
+  In early Buddhist texts like the Pāli Nikāyas and Vinaya, the *abhiññās* or "higher knowledges" are an integral, though often overlooked, component of the path to liberation. These extraordinary abilities, attained in advanced states of meditation, typically include five mundane powers - supernormal feats (iddhi), divine ear, mind-reading, recollection of past lives, and the divine eye. A sixth, supermundane knowledge—the destruction of the mental defilements (āsavakkhayañāna) — is uniquely Buddhist and constitutes enlightenment itself. Although the Buddha expressed wariness about their pursuit and display, and they were not always considered essential for liberation, the abhiññās served crucial pedagogical, epistemological, and soteriological functions. They acted as signs of meditative progress, tools for teaching, and, most importantly, as a means to experientially verify core Buddhist doctrines like kamma, rebirth, and the Four Noble Truths, with the final three knowledges being central to the traditional account of the Buddha's own awakening.
+tags:
+  - abhiññā
+  - higher knowledges
+  - Pāli Nikāyas
+  - Vinaya
+  - early Buddhism
+  - Theravāda
+  - meditation
+  - jhāna
+  - soteriology
+  - epistemology
+  - iddhi
+  - supernormal powers
+  - dibbasotadhātu
+  - divine ear
+  - cetopariyañāna
+  - mind-reading
+  - pubbenivāsānussatiñāna
+  - recollection of past lives
+  - dibbacakkhu
+  - divine eye
+  - āsavakkhayañāna
+  - āsava
+  - defilements
+  - vijjā
+  - kamma
+  - rebirth
+  - saṃsāra
+  - nibbāna
+  - Buddha's awakening
+  - Sāmaññaphala Sutta
+  - arahant
+---
+
 # The higher knowledges in the Pāli Nikāyas and Vinaya 
 
 Journal of the International Association of Buddhist Studies

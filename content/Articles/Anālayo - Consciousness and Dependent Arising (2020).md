@@ -1,3 +1,26 @@
+---
+title: Anālayo - Consciousness and Dependent Arising (2020)
+description:
+  In the Buddhist concept of dependent arising, consciousness and name-and-form share a unique, reciprocal relationship, mutually conditioning each other like two bundles of reeds that can only stand by leaning together. This dynamic, where consciousness requires name-and-form for its content and name-and-form requires consciousness to be experienced, creates the continuous matrix of subjective experience. When this consciousness becomes "established" through desire, it perpetuates the cycle of rebirth, but the "unestablished consciousness" of an enlightened one (*arahant*) is no longer dependent on name-and-form, thereby ending future re-becoming. Ultimately, the text argues that consciousness is not a solution but a conditioned, impermanent, and potentially deluding part of the human predicament (*dukkha*), and its cessation is integral to achieving liberation.
+tags:
+  - Consciousness
+  - Dependent Arising
+  - Paṭiccasamuppāda
+  - Name-and-Form
+  - Nāmarūpa
+  - Reciprocal Conditioning
+  - Unestablished Consciousness
+  - Arahant
+  - Rebirth
+  - Liberation
+  - Dukkha
+  - Early Buddhism
+  - Five Aggregates
+  - Conditionality
+  - Two Bundles of Reeds
+  - Bhikkhu Anālayo
+---
+
 # Consciousness and Dependent Arising 
 
 by Bhikkhu Anālayo

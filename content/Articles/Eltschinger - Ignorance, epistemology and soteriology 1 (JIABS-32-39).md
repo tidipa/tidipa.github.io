@@ -1,3 +1,31 @@
+---
+title: Eltschinger - Ignorance, epistemology and soteriology Part I (2009)
+description:
+  In his analysis of the 7th-century Buddhist philosopher Dharmakīrti, Vincent Eltschinger argues that Dharmakīrti's epistemology is fundamentally intertwined with his soteriological project, centering on the concept of ignorance (avidyā). Dharmakīrti defines ignorance not as a mere lack of knowledge but as an active, erroneous cognition (mithyopalabdhi) that functions as a counter-knowledge, obstructing the perception of reality. This error is identified with conceptual thought (vikalpa) itself, which, through a process of 'concealment' (saṃvṛti), superimposes unifying constructs onto reality's diverse particulars. To explain how this cognitive error leads to suffering, Dharmakīrti specifies that the most crucial form of ignorance is the 'personalistic false view' (satkāyadrṣṭi)—the innate, conceptual belief in a self. He explicitly equates this false view with ignorance, arguing it is the root of all defilements and rebirth, and that its direct antidote — the perception of selflessness — is the key to liberation. While drawing on earlier scriptural traditions, Dharmakīrti was innovative in systematically equating the two and developing exegetical strategies to defend this unorthodox position.
+tags:
+  - Dharmakīrti
+  - Ignorance (avidyā / ajñāna)
+  - Epistemology
+  - Soteriology
+  - Erroneous cognition (mithyopalabdhi)
+  - Conceptual thought (vikalpa)
+  - Concealment (saṃvṛti)
+  - Personalistic false view (satkāyadrṣṭi)
+  - Selflessness (nairātmyadṛṣṭi)
+  - Liberation
+  - Suffering (duhkha)
+  - Buddhist epistemology
+  - Buddhist philosophy
+  - Vasubandhu
+  - Dignāga
+  - Apoha
+  - Two Truths
+  - Dependent Origination (pratītyasamutpāda)
+  - Pseudo-perception (pratyakṣābhāsa)
+  - Yogācāra
+---
+
+
 # Ignorance, epistemology and soteriology [^1] 
 
 Part I

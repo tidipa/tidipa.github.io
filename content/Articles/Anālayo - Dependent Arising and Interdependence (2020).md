@@ -1,3 +1,28 @@
+---
+title: Anālayo - Dependent Arising and Interdependence (2021)
+description:
+  The early Buddhist doctrine of "dependent arising" posits a specific conditionality, where particular phenomena arise due to identifiable causes, with the primary aim of understanding and eradicating the specific conditions, such as ignorance, that lead to human suffering. This principle is distinct from the concept of "interdependence" or "interconnectedness" — the idea that all phenomena are mutually related in a vast web — which is a later development from Mahāyāna traditions like Huayan philosophy. The text argues that modern interpretations often conflate these two divergent concepts, a confusion that diminishes the practical focus of the original teaching and is exemplified by contemporary research tools like the "Interconnectedness Scale," which incorrectly mixes items reflecting both specific conditionality and universal interdependence.
+tags:
+  - Dependent Arising
+  - Dependent Origination
+  - Interdependence
+  - Interconnectedness
+  - Specific Conditionality
+  - Causality
+  - Early Buddhism
+  - Mahāyāna
+  - Huayan Philosophy
+  - Mindfulness
+  - Dukkha
+  - 12 Links
+  - Paṭiccasamuppāda
+  - Pratītyasamutpāda
+  - Buddhist Studies
+  - Psychology
+  - Interconnectedness Scale
+  - Conflation
+---
+
 # Dependent Arising and Interdependence 
 
 Bhikkhu Anālayo [^1]
