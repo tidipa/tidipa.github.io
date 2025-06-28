@@ -21,21 +21,29 @@ tags:
 ---
 
 > [!NOTE]
-> The following is a concise overview of the Pāḷi language covering key features. It is an abridged version of the introductory chapter from my upcoming Pāḷi textbook.
+> The following is a concise overview of the Pāḷi language covering key features.
+> It is an abridged version of the introductory chapter from my upcoming Pāḷi textbook.
 
 > [!INFO]
-> In this book, references to Kaccāyana are denoted by eg. {8} (8th `sutta` or
-"grammatical rule"). Altogether there are 675 suttas, which shows how compact
-Kaccāyana is.
+> The information in this article is heavily based on "Kaccāyana" -
+> the earliest known Pāli Grammar, traditionally associated with the Buddha’s
+> disciple Mahā-Kaccāyana (6th-7th century C.E.). All references to Kaccāyana
+> are denoted as numbers in curly braces, eg. {8} (representing the 8th `sutta` or
+> "grammatical rule"). Altogether there are 675 suttas, which shows how compact
+> Kaccāyana is.
+
+The Buddha probably taught in a variety of languages common in the Indian subcontinent at the time (both Indo-Aryan and indigeneous). These languages may or may not have included Pāli.
 
 Pāḷi, like most other Indo-Aryan languages, is an oral language spoken as
 `vākya` (sentences) made up of `vacana` (words) which are a combination of
-`akkhara` ("sounds", or "letters from an "alphabet"). {1}
+`akkhara` ("sounds", or "units from a writing system"). {1}
 
 There are debates about the origin of Pāḷi, whether it was in fact a real language
-actually spoken by people, as opposed to an "invented" language specifically
+actually spoken by people, as opposed to an "invented" or "church" language specifically
 for the purposes of recording Buddhist doctrine. The term "Pāḷi" actually
 just means "text", and today "Pāḷi" is used primarily for Buddhist literature.
+
+Most likely, Pāḷi is an amalgamation or synthesis of various dialects and languages, and it is generally classified as a "Prakrit" (a language originally derived from Sanskrit).
 
 ## Pāḷi Writing System and pronunciation {2}-{9}
 
@@ -50,15 +58,16 @@ fairly faithfully in a number of scripts, including Roman letters (with the
 addition of a few diacritical marks or accented characters similar to other
 European languages).
 
-For this textbook, I will use Roman letters as the basis for the Pāḷi alphabet
-since I am used to that.
+In this website, the International Phonetic Alphabet for Pāḷi (IPA Pāḷi) 2008
+as proposed by Emeritus Professor Vichin Phanupong is used, which also
+used for the World Tipiṭaka Edition 2009.
 
-Of course, no one knows for sure how Pāḷi words would have been pronounced,
+No one knows for sure how Pāḷi words would have been pronounced,
 and how Pāḷi sentences would have been spoken, particularly with regards to
 tonality. Modern day Pāḷi pronunciation is based on how the Buddhist Pāḷi canon
 is chanted in various countries including Sri Lanka, Myanmar and Thailand.
 
-## The Pāḷi Abugida
+### The Pāḷi Abugida
 
 Strictly speaking, Pāḷi does not use an "alphabet", it uses an "abugida".
 
@@ -67,7 +76,7 @@ Strictly speaking, Pāḷi does not use an "alphabet", it uses an "abugida".
 > 
 > Pāḷi is generally written in various Brahmic scripts (also known as Indic scripts), which are abugida writing systems. Brahmic scripts are used throughout the Indian subcontinent, Southeast Asia and parts of East Asia. They are descended from the Brahmi script of ancient India. Brahmi is clearly attested from the 3rd century BCE during the reign of Áshoka, who used the script for imperial edicts.
 
-Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are unused in the dictionary):
+Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
 
 >sara: a, ā, i, ī, u, ū  \
 >kaṇṭhatāluja: e  \
@@ -85,7 +94,7 @@ Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in 
 
 [^1]: ṃ (niggahīta) can be written η, ṁ or ṃ
 
-## Abugida Groups
+### Abugida Groups
 
 |Articulation Place|rassa|dīgha|kaṇṭhatāluja kaṇṭhoṭṭhaja|anunāsika|aghosa sithila|aghosa dhanita|ghosa sithila|ghosa dhanita|nāsika|antaṭṭha|hakāra|sakāra|
 |---------|:---:|:--:|:-------:|:-------:|:---------:|:------:|:---------:|:------:|:---:|:-----:|:-----:|:------:|
@@ -95,7 +104,7 @@ Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in 
 |dantaja  |     |    |         |         |     t     |   th   |     d     |    dh  |  n  |  v l  |       |    s   |
 |oṭṭhaja  |  u  |  ū |         |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
 
-## How to form sounds
+### How to form sounds
 
 |vagga|Group|Sound|
 |-----|-----|-----|
@@ -115,7 +124,7 @@ Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in 
 |antaṭṭha|Liquids (Resonants, semi-vowels)|readily combine with other consonants: (except, perhaps, ḷ)|
 |-|Mutes (Nonsurds)|not being readily pronounced without the aid of a vowel|
 
-## Pronunciation
+### Pronunciation
 
 |Letter|Pronunciation|
 |:----:|:-----------:|
@@ -159,7 +168,7 @@ punctuation mark and upper/lower case conventions are typically not used,
 although modern editors have sometimes added these to aid reading.
 
 Words also do not need to be separated by spaces, although modern Pāḷi editions
-of text do add spaces, to aid reading. Later on, we will find out Pāḷi
+of text do add spaces, to aid reading. Pāḷi also
 has compound words, which consist of multiple words joined together to create a
 composite word.
 
@@ -175,7 +184,8 @@ typical sentence. Speakers can unconventionally reorder words, typically to
 give emphasis to certain words or to augment or add nuance to a sentence's
 emotional meaning.
 
-This is similar to our reaction when we hear "Yoda" speak in the "Star Wars"
+> [!NOTE]
+> This is similar to our reaction when we hear "Yoda" speak in the "Star Wars"
 series of films. We appreciate who Yoda is as a personality, and we pay more
 attention to his words simply because of the different order.
 
@@ -187,7 +197,7 @@ a simplified version of Sanskrit, however some of the roots may have different
 meanings, or nuances. There are some that say Sanskrit was a "sacred" or "divine" language
 reserved for priests and members of the holy caste, whereas Pāḷi, along with
 many other Indian languages, was spoken by the common people. Opinions vary whether
-Pāḷi was an actual language spokken by the Buddha, or whether it was an aggregation
+Pāḷi was an actual language spoken by the Buddha, or whether it was an aggregation
 of various dialects spoken in India. In any case, The Buddha may
 have spoken in a dialect common to the area that he lived and travelled in,
 because he wanted to convey his teachings to ordinary
@@ -265,7 +275,7 @@ actually means "gender", and traditionally each `nāma` is assigned a gender. Th
 The notion of a Pāḷi gender is similar to (but not quite the same as) genders
 in some European languages. However, there are differences that it's best to
 regard `liṅga` as a classification scheme or grammatical construct rather than
-what we may think of as "gender". I like to think of it this way:
+what we may think of as "gender":
 
 * `pulliṅga` - the "major" or "default" type. Most nouns fall into this category.
   Generally associated with masculinity or masculine persons (but not always)
@@ -275,7 +285,7 @@ what we may think of as "gender". I like to think of it this way:
 * `itthiliṅga` - the "minor" type, comparatively rare with respect to the
   other two types. Generally associated with feminity or feminine persons.
 
-Note that for the remainder of this book, we may refer to the above `liṅga`
+Note that for the remainder of this article, `liṅga` will be represented
 by the following symbols for brevity:
 
 * 🚹 = `pulliṅga`
@@ -319,15 +329,15 @@ conveniently numbered 1 to 7 {55}:
 | ⑥ | `sa` | `naṁ` | `chaṭṭhī` ("sixth") |
 | ⑦ | `smiṁ` | `su` | `sattamī` ("seventh") |
 
-You may note the 4th and 6th vibhatti endings are the same, which means in practice
-we can only tell which vibhatti is being used by context (more later). Notice also
+Note the 4th and 6th vibhatti endings are the same, which means in practice
+which vibhatti is being used can only be determined by context (more later). Notice also
 the plural endings for some of the vibhattis are the same. Again, which vibhatti is
-being used can only be determined by context.
+being used is determined by context.
 
-Let's start with an example. Suppose we have the lemma `purisa` ("man", in the masculine gender or 🚹) and we
-want to use it in a sentence in singular form, and we wish to transform it using
-the 1st vibhatti (`paṭhamāvibhatti`). If we look up the above table, we
-should add the `si` ending (using rule of {55}):
+Let's start with an example. Consider the lemma `purisa` ("man", in the masculine gender or 🚹)
+and it needs to be inserted in a sentence in singular form representing itself.
+The 1st vibhatti (`paṭhamāvibhatti`) is used to represent the underlying meaning of nouns.
+By looking up the above table, the `si` ending is added (using rule of {55}):
 
 > `purisa` + `si` → `puriso`
 
@@ -394,28 +404,27 @@ have chosen the version that sounded the most pleasing, depending on surrounding
 words.
 
 The rules can be quite complicated, so this introduction will not enumerate them.
-In practice, you can rely on looking up a relevant table to determine the
-appropriate transformation. If you are just reading Pāḷi, then with
-practice you will learn to recognise the various endings which will become
-familiar to you.
+In practice, one can rely on looking up a relevant table to determine the
+appropriate transformation. For reading Pāḷi, with practice the various endings will
+quickly become familiar.
 
 A much more important question to answer at this point is ...
 
-### Why do we need `vibhatti` (inflection forms) and what is their purpose?
+### What is the purpose of `vibhatti` (inflection forms)?
 
-In English, when we see a sentence like
+In English, consider the following sentence:
 
 > The quick brown fox jumped over the lazy dog.
 
-We know that words "quick" and "brown" refers to the "fox", which is the
+Words "quick" and "brown" refers to the "fox", which is the
 "subject" of the sentence, and "lazy" refers to the dog, which is the "object"
 of the sentence. The verb "jumped over" separates the subject and the object.
-Our brain automatically "collects" and "groups" the words, so we read the
-sentence as:
+The brain automatically "collects" and "groups" the words, so the
+sentence can be read as:
 
 > (The quick brown fox) jumped over (the lazy dog).
 
-In English, as we can see, word order is important. If we mixed the words up,
+In English, word order is important. If the words are "mixed",
 the sentence becomes far harder to read:
 
 > Over the quick lazy brown fox the dog jumped.
@@ -423,9 +432,9 @@ the sentence becomes far harder to read:
 This sentence would imply quite a different meaning.
 
 In Pāḷi, all words with the same gender and the same vibhatti should be
-grouped together, and that's how we distinguish which words belong to which
-entity. So the word order becomes far less important, we could mix the words
-up and the sentence would still have the same meaning!
+grouped together, and that's how words belonging to
+entities can be distinguished. So the word order becomes far less important - the words
+can be "mixed" and the sentence would still have the same meaning!
 
 In practice, the 1st vibhatti is usually reserved for the "most important" entity
 in a sentence, the 2nd for the "second most important" and so on.
@@ -473,8 +482,8 @@ sentence may choose to associate an unconventional vibhatti ending to a word to
 | ⑦ | ⨂ | while/when | two concurrent actions | `lakkhaṇa` | {313} |
 | ⑦ | ⨂ | despite/while | two concurrent actions | `anādara` | {305} |
 
-You may find in Pāḷi grammar books written in English the following nomenclature
-for the vibhatti forms (which these books will refer to as "cases"):
+In Pāḷi grammar books written in English the following nomenclature
+for the vibhatti types are often used (which these books will refer to as "cases"):
 
 * ① = "nominative"
 * ② = "accusative"
@@ -484,7 +493,8 @@ for the vibhatti forms (which these books will refer to as "cases"):
 * ⑥ = "genitive"
 * ⑦ = "locative"
 
-Note that these terms only partially reflect the possible meanings and roles
+> [!NOTE]
+> Note that these terms only partially reflect the possible meanings and roles
 associated with each vibhatti, so I would discourage using these terms. They can
 lead to confusion. However, these terms are common in Pāḷi-English dictionaries
 so I encourage you to substitute the vibhatti number when you see these terms.
@@ -684,11 +694,12 @@ The rules for constructing a `samāsa` can be complex:
 → `rājaputt`~~`a`~~ + `o` {83}  
 → `rājaputto`
 
-Fortunately, resources such as the
-[Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/) can
-deconstruct compound words into their individual words, which helps the
-beginner to understand such words encountered. So there is less of a need to
-learn the complex rules associated with them.
+> [!NOTE]
+> Fortunately, resources such as the
+> [Digital Pāḷi Dictionary](https://digitalpalidictionary.github.io/) can
+> deconstruct compound words into their individual words, which helps the
+> beginner to understand such words encountered. So there is less of a need to
+> learn the complex rules associated with them.
 
 ## ➡️ `taddhita` (affixes) {344}-{405}
 
@@ -860,13 +871,12 @@ depend on:
 
 \* collectively referred to as `sabbadhātuka vibhatti`
 
-{{< alert title="Note" color="secondary">}}
-Note that the above tense/mood categories have been labelled with the nearest
-linguistic term (eg. "present", "past perfect", "aorist" etc.) these
-categories do not align precisely to those terms. I discourage the use of
-these terms and rely on the Pāḷi terms instead and the usage of each category
-will be described later in this chapter.
-{{< /alert >}}
+> [!NOTE]
+> The above tense/mood categories have been labelled with the nearest
+> linguistic term (eg. "present", "past perfect", "aorist" etc.) these
+> categories do not align precisely to those terms. I discourage the use of
+> these terms and rely on the Pāḷi terms instead and the usage of each category
+> will be described later in this chapter.
 
 ### verb terminations {423}-{430}
 
@@ -1495,7 +1505,8 @@ Here is another example based on `budha` (to know):
 → `buddh`~~`a`~~ + `o` {83}  
 → `buddho` ("The one who knows truth, who awakened")
 
-Given the complexity of the above rules, it's probably better just to
+> [!NOTE]
+> Given the complexity of the above rules, it's probably better just to
 recognise the completed forms whenever you come across them, but try and
 recognise the affix and associated meaning if you can.
 
@@ -1531,7 +1542,7 @@ The process of attaching either `kita` or `uṇādi` affixes to create new words
 is called `sādhana`. Like `kāraka` (the syntax of case or `vibhatti` endings),
 `sādhana` affixed words can be associated with specific usage meanings.
 
-`sādhana`-affixed word can be associated with a voice (`kattu`, `kamma`,
+`sādhana`-affixed words can be associated with a voice (`kattu`, `kamma`,
 `bhāva`), in which case their usage can affect the "voice" of a sentence. This
 is especially true when `sādhana`-affixed word is used as a verb-noun, ie. it
 carries the "action" of a sentence.
@@ -1605,7 +1616,7 @@ As Pāḷi is a spoken language, when words are combined to form a sentence,
 changes may occur between words (or sometimes even within a word) to make
 the sentence "flow" or "sound" better.
 
-In English, we often shorten words like "can not" to "can't", or "I will" to
+In English, words are often shorted ie. "can not" to "can't", or "I will" to
 "I'll". This happens very frequently in Pāḷi, especially when two vowels become
 adjacent to each other from two words next to each other, and there are complex
 rules governing how such transformations occur.
@@ -1617,7 +1628,7 @@ As a example {10}:
 > = `tatrā’ya’mādi`  
 > = `tatrāyamādi`
 
-As you can see, when there are two adjacent vowels when we join two or more
+When there are two adjacent vowels from joining two or more
 words together, `sandhi` typically involves deleting one of the vowels, and
 then either retaining, lengthening or changing the remaining vowel. Sometimes
 the consonant next to the vowel may also be changed.
@@ -1636,27 +1647,19 @@ Another example {11}
 > = `tatrābhiratimiccheyya`  
 > "... should prefer enjoying at that ..."
 
-In this introduction, we are not going to go into detail on these rules but
+This introduction will not go into detail on these rules but the reader should
 be aware that endings and beginning letters in words may change in a sentence.
-Eventually, as you read more
-and more sentences in Pāḷi, these changes will become easier to recognise.
+Eventually, as reading proficiency increases, these changes will become easier to recognise.
 
 ## Conclusion
 
-Congratulations on finishing this article! It is compact and dense, and not
-every feature of Pāḷi explained here will sink in initially. It may be
-worthwhile rereading this from time to time to check your understanding
-as you progress in your journey in understanding Pāḷi.
+This article is compact and dense, and not
+every feature of Pāḷi is explained here. Here, there is enough information
+in here to start reading
+the `Tipiṭaka` with the aid of a good dictionary.
 
-The good news is you now know enough of the basics of Pāḷi to start reading
-the `Tipiṭaka` with the aid of a good dictionary, and looking up every word
-as you go along. You may encounter sentences that you can't interpret very
-well, but that's okay. Leave it for now, and you will gradually build confidence
-and skill in your ability to analyse sentences
-and deduce the correct meaning.
-
-Remember, the sentences in the `Tipiṭaka` are often repetitive and used in
+The sentences in the `Tipiṭaka` are often repetitive and used in
 similar forms again and again. They are intentionally structured this way
-to assist in memorisation and chanting. So, once you have learnt how to
-correctly interpret a complex sentence, you may encounter it again and again
+to assist in memorisation and chanting. So, once a complex sentence is parsed,
+it may be encountered again and again
 and reading will become easier and easier over time.
