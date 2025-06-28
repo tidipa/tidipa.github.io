@@ -25,7 +25,7 @@ tags:
 > It is an abridged version of the introductory chapter from my upcoming Pāḷi textbook.
 
 > [!INFO]
-> The information in this article is heavily based on "Kaccāyana" -
+> The information in this introduction is heavily based on "Kaccāyana" -
 > the earliest known Pāli Grammar, traditionally associated with the Buddha’s
 > disciple Mahā-Kaccāyana (6th-7th century C.E.). All references to Kaccāyana
 > are denoted as numbers in curly braces, eg. {8} (representing the 8th `sutta` or
@@ -275,7 +275,7 @@ actually means "gender", and traditionally each `nāma` is assigned a gender. Th
 The notion of a Pāḷi gender is similar to (but not quite the same as) genders
 in some European languages. However, there are differences that it's best to
 regard `liṅga` as a classification scheme or grammatical construct rather than
-what we may think of as "gender":
+what traditional definitions of "gender":
 
 * `pulliṅga` - the "major" or "default" type. Most nouns fall into this category.
   Generally associated with masculinity or masculine persons (but not always)
@@ -285,7 +285,7 @@ what we may think of as "gender":
 * `itthiliṅga` - the "minor" type, comparatively rare with respect to the
   other two types. Generally associated with feminity or feminine persons.
 
-Note that for the remainder of this article, `liṅga` will be represented
+Note that for the remainder of this introduction, `liṅga` will be represented
 by the following symbols for brevity:
 
 * 🚹 = `pulliṅga`
@@ -482,18 +482,19 @@ sentence may choose to associate an unconventional vibhatti ending to a word to
 | ⑦ | ⨂ | while/when | two concurrent actions | `lakkhaṇa` | {313} |
 | ⑦ | ⨂ | despite/while | two concurrent actions | `anādara` | {305} |
 
-In Pāḷi grammar books written in English the following nomenclature
-for the vibhatti types are often used (which these books will refer to as "cases"):
-
-* ① = "nominative"
-* ② = "accusative"
-* ③ = "instrumental"
-* ④ = "dative"
-* ⑤ = "ablative"
-* ⑥ = "genitive"
-* ⑦ = "locative"
-
 > [!NOTE]
+> 
+> In Pāḷi grammar books written in English the following nomenclature
+> for the vibhatti types are often used (which these books will refer to as "cases"):
+> 
+> * ① = "nominative"
+> * ② = "accusative"
+> * ③ = "instrumental"
+> * ④ = "dative"
+> * ⑤ = "ablative"
+> * ⑥ = "genitive"
+> * ⑦ = "locative"
+>
 > Note that these terms only partially reflect the possible meanings and roles
 associated with each vibhatti, so I would discourage using these terms. They can
 lead to confusion. However, these terms are common in Pāḷi-English dictionaries
@@ -618,9 +619,9 @@ However, there are quite a few `nipāta` that can be placed before some verbs or
 
 ## 🔼 `upasagga` (prefixes)
 
-There are 20 `upasagga` words which are usually applied as prefixes to
+There are 20 `upasagga` which are usually applied as prefixes to
 `ākhyāta` (verbs) and `kita`-affixed nouns (see below). Like `nipāta`,
-`upasagga` words also have their `vibhatti` endings elided, but in some cases
+`upasagga` also have their `vibhatti` endings elided, but in some cases
 where they are functioning as independent words (not attached to a verb or
 noun), they may retain their `vibhatti` endings.
 
@@ -772,17 +773,11 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 
 *`ka` is added sometimes. eg. `dayāluko`
 
-Words with `taddhita` affixes are sometimes not recognised by Pāḷi-English
+Lemmas with `taddhita` affixes are sometimes not recognised by Pāḷi-English
 dictionaries, since these dictionaries may not cover the full range of possible
 affixes and their meanings. So it is probably
-worthwhile learning how to recognise `taddhita` affixed words and the associated
+worthwhile learning how to recognise `taddhita` affixed lemmas and the associated
 meanings.
-
-{{< alert title="Reference" color="light">}}
-For a summary of the `taddhita` affixes and associated meanings, please refer to
-[**H: `taddhita` (affixes)**]({{< relref "taddhita" >}})
-{344}-{405}
-{{< /alert >}}
 
 ### Numbers
 
@@ -1243,10 +1238,9 @@ what I (`kiṁ` + `ahaṁ`) / shoud do
 
 #### 🔄 `parokkhā` {417}
 
-{{< alert title="Note" color="secondary">}}
-`paro’kkhā` = `para` + `akkha`  
-beyond (ie. past) / physical senses
-{{< /alert >}}
+> [!NOTE]
+> `paro’kkhā` = `para` + `akkha`  
+> beyond (ie. past) / physical senses
 
 (to be applied to express things happened in one’s absence, in a situation where
 the speaker is not a witness to) at a past time-frame mode (`atīta` - past).
@@ -1261,11 +1255,10 @@ in the dream / apparently / (he) said (`kila` + `āha`)
 thus / apparently / ancient sages / said (`porāṇā` + `āhu`)  
 *Ancient sages are supposed to have said thus.*
 
-{{< alert title="Note" color="secondary">}}
-`kila` is a `nipāta` (particle) used in indirect hearsay where the speaker is
+> [!NOTE]
+> `kila` is a `nipāta` (particle) used in indirect hearsay where the speaker is
 uncertain of the truthfulness of what he heard or not a witness to the actual
 event occurred. Sometimes it means an asseveration or an emphasis.
-{{< /alert >}}
 
 #### ↩️ `hiyyattanī` {418}
 
@@ -1282,21 +1275,20 @@ he / went / road
 they / went / road  
 *They went along the road.*
 
-{{< alert title="Note" color="secondary">}}
-`mā` is a `nipāta` (particle) used to indicate negation, and is typically
-associated with verbs with `hiyyattanī` endings, but the verb is not associated
-with the past (or any other) tense. {420}
-
-> mā gamā
-
-do not / gone  
-*Do not go.*
-
-> mā vacā
-
-do not / said  
-*Do not say.*
-{{< /alert >}}
+> [!NOTE]
+> `mā` is a `nipāta` (particle) used to indicate negation, and is typically
+> associated with verbs with `hiyyattanī` endings, but the verb is not associated
+> with the past (or any other) tense. {420}
+> 
+> > mā gamā
+> 
+> do not / gone  
+> *Do not go.*
+> 
+> > mā vacā
+> 
+> do not / said  
+> *Do not say.*
 
 #### ⏮ `ajjatanī` {419}
 
@@ -1653,7 +1645,7 @@ Eventually, as reading proficiency increases, these changes will become easier t
 
 ## Conclusion
 
-This article is compact and dense, and not
+This introduction is compact and dense, and not
 every feature of Pāḷi is explained here. Here, there is enough information
 in here to start reading
 the `Tipiṭaka` with the aid of a good dictionary.

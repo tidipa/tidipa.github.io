@@ -49,7 +49,7 @@ At the same time, I was also harbouring an ambition to make something that was m
 
 I was also making sure I was financially secure and able to live the rest of our lives without worrying about money or covering our living expenses. I had gradually stopped being interested in accumulating wealth or assets. In hindsight, I was slowly renouncing from worldly pleasures and cares without even realising it.
 
-It occurred to me recently that perhaps it was an opportune time to resume my journey in studying dhamma. To my surprise, recent years have made core Buddhist texts much more accessible and the resources for studying them are easily obtainable.
+It occurred to me at this time that perhaps I should resume my journey in studying dhamma. To my surprise, recent years have made core Buddhist texts much more accessible and the resources for studying them are easily obtainable.
 
 Both my parents died, within months of each other, in 2021. Both of them died at peace, calm, and accepting, and without any suffering. In the last few years of their lives, they certainly seem to have progressed in their own journeys towards nibbāna and realisation. They seem more contented, happy with each other, and ridding themselves of the craving and suffering of their younger days. I like to think that perhaps both of them became Arahants moments before they died, and that they have finally unbound themselves from the endless cycle of sāmsara and reached the ultimate destination.
 
