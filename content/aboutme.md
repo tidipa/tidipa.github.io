@@ -67,7 +67,6 @@ Little did I realise I was going to embark on a journey that eventually will lea
 
 * Learn how to code in [Python](https://www.python.org) and [Typescript](https://www.typescriptlang.org) - which has proven very useful for translation assist tools and creating this website.
 * Try to understand the intricacies of how to create websites based on [Jamstack](https://jamstack.org), a modern way of web development based on statically deployed assets and a serverless backend architecture.
-* Sign up for Google Cloud (and received over A$2000 in credits). Completed the Kaggle Gen AI Intensive Course Capstone – Q1 2025, Google Cloud ANZ Study Jam, and AICamp 9 day Challenge AI Agent.
 * Study Pāḷi, the language that the Tipitaka is written in.
 * Recreate the web version of the Tipitaka 2500 edition: [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)
 * Embark on my own translation of the suttas (this website).

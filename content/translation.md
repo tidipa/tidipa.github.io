@@ -2,8 +2,6 @@
 title: The Translation Process
 ---
 
-My translation approach is based on a hybrid of text processing, dictionary lookup, digital transformation and human effort.
-
 ## Preparation
 
 Firstly, an archived version of the original website for the [World Tipiṭaka Edition](https://github.com/yuttadhammo/World-Tipitaka) was accessed. A [Python script](https://github.com/tidipa/convert-scripts/blob/main/wt2html.py) was written to convert the XML enclosed HTML files in this archive into normal HTML for initial inspection.
@@ -40,4 +38,4 @@ Finally, I often include an image to accompany the translated text by using a ge
 
 ## Thank you
 
-I like to acknowledge and thank Google (Alphabet) for providing me with credits (over A$2000) via their Gen App Builder program to enable me to use their generative and large language models (Gemini and Imagen), and also providing me with the training to use the models (as well as some free swag!). I would also like to thank [Mistral.ai](https://mistral.ai) for providing free access to their OCR API. Finally I would like to thank [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org) for archiving the World Tipiṭaka Edition, without which this translation would not have been possible.
+I like to acknowledge and thank Google (Alphabet) for providing me with credits (over A$2000) via their Gen App Builder program to enable me to use their generative and large language models (Gemini and Imagen) for text summarisation and image generation, and also providing me with the training to use the models (as well as some free swag!). I would also like to thank [Mistral.ai](https://mistral.ai) for providing free access to their OCR API. Finally I would like to thank [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org) for archiving the World Tipiṭaka Edition, without which this translation would not have been possible.
