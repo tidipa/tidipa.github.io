@@ -31,6 +31,8 @@ tags:
 > are denoted as numbers in curly braces, eg. {8} (representing the 8th `sutta` or
 > "grammatical rule"). Altogether there are 675 suttas, which shows how compact
 > Kaccāyana is.
+>
+> For further information please view my [work in progress] translation of Kaccāyana into English at [kaccayana.github.io](https://kaccayana.github.io)
 
 The Buddha probably taught in a variety of languages common in the Indian subcontinent at the time (both Indo-Aryan and indigeneous). These languages may or may not have included Pāli.
 
@@ -58,15 +60,6 @@ fairly faithfully in a number of scripts, including Roman letters (with the
 addition of a few diacritical marks or accented characters similar to other
 European languages).
 
-In this website, the International Phonetic Alphabet for Pāḷi (IPA Pāḷi) 2008
-as proposed by Emeritus Professor Vichin Phanupong is used, which also
-used for the World Tipiṭaka Edition 2009.
-
-No one knows for sure how Pāḷi words would have been pronounced,
-and how Pāḷi sentences would have been spoken, particularly with regards to
-tonality. Modern day Pāḷi pronunciation is based on how the Buddhist Pāḷi canon
-is chanted in various countries including Sri Lanka, Myanmar and Thailand.
-
 ### The Pāḷi Abugida
 
 Strictly speaking, Pāḷi does not use an "alphabet", it uses an "abugida".
@@ -76,7 +69,7 @@ Strictly speaking, Pāḷi does not use an "alphabet", it uses an "abugida".
 > 
 > Pāḷi is generally written in various Brahmic scripts (also known as Indic scripts), which are abugida writing systems. Brahmic scripts are used throughout the Indian subcontinent, Southeast Asia and parts of East Asia. They are descended from the Brahmi script of ancient India. Brahmi is clearly attested from the 3rd century BCE during the reign of Áshoka, who used the script for imperial edicts.
 
-Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
+In Roman script, Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
 
 >sara: a, ā, i, ī, u, ū  \
 >kaṇṭhatāluja: e  \
@@ -94,7 +87,7 @@ Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in 
 
 [^1]: ṃ (niggahīta) can be written η, ṁ or ṃ
 
-### Abugida Groups
+### Groups
 
 |Articulation Place|rassa|dīgha|kaṇṭhatāluja kaṇṭhoṭṭhaja|anunāsika|aghosa sithila|aghosa dhanita|ghosa sithila|ghosa dhanita|nāsika|antaṭṭha|hakāra|sakāra|
 |---------|:---:|:--:|:-------:|:-------:|:---------:|:------:|:---------:|:------:|:---:|:-----:|:-----:|:------:|
@@ -125,6 +118,11 @@ Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in 
 |-|Mutes (Nonsurds)|not being readily pronounced without the aid of a vowel|
 
 ### Pronunciation
+
+No one knows for sure how Pāḷi words would have been pronounced,
+and how Pāḷi sentences would have been spoken, particularly with regards to
+tonality. Modern day Pāḷi pronunciation is based on how the Buddhist Pāḷi canon
+is chanted in various countries including Sri Lanka, Myanmar and Thailand.
 
 |Letter|Pronunciation|
 |:----:|:-----------:|
@@ -159,6 +157,26 @@ Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in 
 |h|<u>h</u>ot, <u>h</u>ut|
 |ḷ|fe<u>l</u>t, <u>l</u>ight|
 |ṃ|si<u>ng</u>|
+
+## Roman Script Transliteration vs IPA Transcription
+
+The International Phonetic Alphabet for Pāḷi (IPA Pāḷi) 2008
+has been proposed by Emeritus Professor Vichin Phanupong, which is
+used for audio versions of the World Tipiṭaka Edition 2009.
+
+| **Manner of Articulation** (Karaṇa) |  **Voiceless Stop** (Aghosa) **Unaspirated** (Sithila) |  **Voiceless Stop** (Aghosa)**Aspirated** (Dhanita) | **Voiced Stop** (Ghosa) **Unaspirated** (Sithila) | **Voiced Stop** (Ghosa) **Aspirated** (Dhanita) | **Nasal Stop** | **Approximant** **Non-lateral** | **Approximant** **Lateral** | **Fricative** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Place of Articulation** (Ṭhāna) | | | | | | | | |
+| **Glottal** (Kaṇṭhaja) | | | | | | | | h [h] |
+| **Velar** (Kaṇṭhaja) | k [k] | kh [kʰ] | g [g] | gh [gʰ] | ṅ [ŋ] | | | |
+| **Palatal** (Tāluja) | c [c] | ch [cʰ] | j [j] | jh [jʰ] | ñ [ɲ] | y [j] | | |
+| **Retroflex** (Muddhajā) | ṭ [ṭ] | ṭh [tʰ] | ḍ [ḍ] | ḍh [dʰ] | ṇ [ṇ] | r [r] | ḷ [ḷ] | |
+| **Dental** (Dantaja) | t [t] | th [tʰ] | d [d] | dh [dʰ] | n [n] | | l [l] | s [s] |
+| **Bilabial** (Oṭṭhaja) | p [p] | ph [pʰ] | b [b] | bh [bʰ] | m [m] | | | |
+| **Labio-dental** (Dantoṭṭhaja) | | | | | | | v  [v] | | |
+| **Nasal Cavity** (Nāsikā) | | | | | (a)ṃ [ā] | | | |
+| | | | | | (i)ṃ [ī] | | | |
+| | | | | | (u)ṃ  [ū] | | | |
 
 ## Pāḷi sentence structure
 

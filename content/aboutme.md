@@ -9,7 +9,7 @@ title: About Me
 
 ## Early Childhood
 
-My childhood is not important so I will mostly skip the details. Some have remarked to my parents (and to me later in life) that they sense an aura of spirituality in me even when I was young, that I had what some called "an old soul." I was not aware that I was different in any way, except I had a very strong sense of curiosity and loved learning new things and exploring places.
+My childhood is not important so I will mostly skip the details. Some have remarked to my parents (and to me when I was older) that they sense an aura of spirituality in me even when I was young, that I had what some called "an old soul." I was not aware that I was different in any way, except I had a very strong sense of curiosity and loved learning new things and exploring places.
 
 My parents were agnostic, so I was not brought up with a strong sense or awareness of religion. My mother said (many years later) she avoided taking me to visit places of worship or participate in religious ceremonies as she said someone (a monk? a soothsayer?) once told her I had a strong mind and may anger gods and deities with my presence.
 
@@ -29,17 +29,17 @@ So, the core concepts of Buddhism appealed greatly to me. They seemed to natural
 
 By the end of the book, I had convinced myself that I want to be a Buddhist. I remember having a long conversation with my father the day after sharing my joy and enthusiasm. I must have been quite evangelical, because I convinced him to read the book, and he also agreed with me that it made a lot of sense and we should both be Buddhists.
 
-Sometime later, I also convinced my best friend in school, so I had a core set of people around me that were interested in Buddhism, gaining wisdom, and following the Noble Eightfold Path. However, I had no desire to join the Saṅgha and devote the rest of my life towards attaining nibbāna. I was not ready to renounce a normal life, and from the perspective of a teenager still in school, it did not seem like a practical choice and certainly not one that I thought my parents would approve or support.
+Sometime later, I also convinced my best friend in school, so I had a core set of people around me that were interested in Buddhism, gaining wisdom, and following the Noble Eightfold Path. However, I had no desire to join the `Saṅgha` and devote the rest of my life towards attaining `nibbāna`. I was not ready to renounce a normal life, and from the perspective of a teenager still in school, it did not seem like a practical choice and certainly not one that I thought my parents would approve or support.
 
 ## Adulthood
 
 My interest in Buddhism faded as I continued my life journey, and other things took priority. Finishing school, then university, getting married, working, enjoying life and sensual pleasures, doing what people normally do and what society expects me to do just seemed like the path of least resistance.
 
-Although I still remembered my interest in Buddhism, and had a desire to one day study the dhamma, and perhaps even learning Pāḷi, I just did not have the time. Furthermore, it was difficult getting access to the Tipiṭaka, and many sections (including the Abhidhamma) have not been translated to English, and certainly not in book form.
+Although I still remembered my interest in Buddhism, and had a desire to one day study the `dhamma`, and perhaps even learning Pāḷi, I just did not have the time. Furthermore, it was difficult getting access to the `Tipiṭaka`, and many sections (including the `Abhidhamma`) have not been translated to English, and certainly not in book form.
 
 For years, I would pester anyone I know visiting India or Sri Lanka to purchase Buddhism books for me, so I ended up amassing a collection that I have never read (until recently).
 
-More recently, however, modern technology platforms and social media have reminded me that the Buddhist concepts of dukkha and tanhā are more relevant than ever. We are encouraged to become addicted to mindlessly consuming content that never truly satisfies, and develop wrong views about ourselves and others that result in more suffering. I became aware, with increasing dismay and horror, that technology panders to and amplifies our lowest desires and cravings. We have become obsessed with body image, what others think, giving ourselves to hedonistic pleasures, and not caring about anything other than instant gratification.
+More recently, however, modern technology platforms and social media have reminded me that the Buddhist concepts of `dukkha` (suffering) and `tanhā` (craving) are more relevant than ever. We are encouraged to become addicted to mindlessly consuming content that never truly satisfies, and develop wrong views about ourselves and others that result in more suffering. I became aware, with increasing dismay and horror, that technology panders to and amplifies our lowest desires and cravings. We have become obsessed with body image, what others think, giving ourselves to hedonistic pleasures, and not caring about anything other than instant gratification.
 
 ## Retirement
 
@@ -49,9 +49,9 @@ At the same time, I was also harbouring an ambition to make something that was m
 
 I was also making sure I was financially secure and able to live the rest of our lives without worrying about money or covering our living expenses. I had gradually stopped being interested in accumulating wealth or assets. In hindsight, I was slowly renouncing from worldly pleasures and cares without even realising it.
 
-It occurred to me at this time that perhaps I should resume my journey in studying dhamma. To my surprise, recent years have made core Buddhist texts much more accessible and the resources for studying them are easily obtainable.
+It occurred to me at this time that perhaps I should resume my journey in studying `dhamma`. To my surprise, recent years have made core Buddhist texts much more accessible and the resources for studying them are easily obtainable.
 
-Both my parents died, within months of each other, in 2021. Both of them died at peace, calm, and accepting, and without any suffering. In the last few years of their lives, they certainly seem to have progressed in their own journeys towards nibbāna and realisation. They seem more contented, happy with each other, and ridding themselves of the craving and suffering of their younger days. I like to think that perhaps both of them became Arahants moments before they died, and that they have finally unbound themselves from the endless cycle of sāmsara and reached the ultimate destination.
+Both my parents died, within months of each other, in 2021. Both of them died at peace, calm, and accepting, and without any suffering. In the last few years of their lives, they certainly seem to have progressed in their own journeys towards `nibbāna` and realisation. They seem more contented, happy with each other, and ridding themselves of the craving and suffering of their younger days. I like to think that perhaps both of them became `Arahant`s moments before they died, and that they have finally unbound themselves from the endless cycle of `sāmsara` and reached the ultimate destination.
 
 ## Buddhist Studies
 
@@ -65,24 +65,28 @@ I did not originally intend the website to be a lengthy one, I was simply going 
 
 Little did I realise I was going to embark on a journey that eventually will lead me to:
 
-* try to understand the intricacies of how to create websites based on jamstack, a modern way of web development based on statically deployed assets and a serverless backend architecture
-* study Pāḷi, the language that the Tipitaka is written in
-* recreate the web version of the Tipitaka 2500 edition: [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)
-* embark on my own translation of the suttas (this website)
-* translate early Pāḷi grammars: [Kaccayana](https://kaccayana.github.io)
-* write my own Pāḷi textbook: [Pāḷi Textbook](https://christham.net/buddhavacana/docs/Pāḷibook/)
-* create a notation scheme for grammatical analysis of Pāḷi sentences [Pāḷi grammar symbols](https://christham.net/buddhavacana/docs/Pāḷibook/symbols/)
-* adapt a well known Pāḷi dictionary to use my notation scheme: [Pāḷi grammar dictionary](https://github.com/ChristineTham/Pāḷi_grammar)
-* embark on a philosophical study of the Buddha's teachings, and evaluating from using critical analysis
-* and end up completely revising my understanding of those teachings.
+* Learn how to code in [Python](https://www.python.org) and [Typescript](https://www.typescriptlang.org) - which has proven very useful for translation assist tools and creating this website.
+* Try to understand the intricacies of how to create websites based on [Jamstack](https://jamstack.org), a modern way of web development based on statically deployed assets and a serverless backend architecture.
+* Sign up for Google Cloud (and received over A$2000 in credits). Completed the Kaggle Gen AI Intensive Course Capstone – Q1 2025, Google Cloud ANZ Study Jam, and AICamp 9 day Challenge AI Agent.
+* Study Pāḷi, the language that the Tipitaka is written in.
+* Recreate the web version of the Tipitaka 2500 edition: [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)
+* Embark on my own translation of the suttas (this website).
+* Translate early Pāḷi grammars: [Kaccayana](https://kaccayana.github.io).
+* Write my own Pāḷi textbook: [Pāḷi Textbook](https://christham.net/buddhavacana/docs/Pāḷibook/).
+* Create a notation scheme for grammatical analysis of Pāḷi sentences [Pāḷi grammar symbols](https://christham.net/buddhavacana/docs/Pāḷibook/symbols/).
+* Adapt a well known Pāḷi dictionary to use my notation scheme: [Pāḷi grammar dictionary](https://github.com/ChristineTham/Pāḷi_grammar).
+* Create a framework for a Second Brain based on `pañcupādānakkhandhā` (the Buddha’s classification of the five key components of our mental process and consciousness):[khandhaja.github.io](https://khandhaja.github.io).
+* Embark on a philosophical study of the Buddha's teachings, and evaluating from using critical analysis.
 
-Along the way, my understanding of the Buddha's teachings has transformed completely. I thought I understood the basics of what he taught, and simply needed to document and enhance that understanding. This website is the culmination of my studies, along with my other related websites.
+Along the way, my understanding of the Buddha's teachings has transformed completely. This website is the culmination of my studies, along with my other related websites.
 
 Based on my current understanding, I do not consider myself a "Buddhist". I have very little in common with those that call themselves Buddhists, and I do not believe what Buddhists typically believe, nor do I participate in typical Buddhist customs, rituals, ceremonies, observances, precepts, or have any connection with Buddhist religious institutions or practitioners.
+
+[Chris Tham](https://christham.net)
 
 ![Me](./media/me.jpeg)
 
 > [!INFO]
-> A photo of me taken at [Nan Tien Temple](https://www.nantien.org.au/en/). Please note, I am not associated with this organisation and only visiting as a tourist.
+> A photo of me taken in 7 January 2014 using a Sony ⍺7R camera at [Nan Tien Temple](https://www.nantien.org.au/en/). Please note, I am not associated with this organisation and only visiting as a tourist.
 
 ## References

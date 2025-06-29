@@ -131,6 +131,15 @@ In preparation of the Roman-script text, the Dhamma Society partly based its Pā
 > [!NOTE]
 > There was initially a website version of the The World Tipiṭaka Edition that was sadly decommissioned, but fortunately an archive of the contents was preserved as a [Github repository](https://github.com/yuttadhammo/World-Tipitaka) by [Yuttadhammo Bhikkhu](https://yuttadhammo.sirimangalo.org). I have converted this archive into a modern website in 2025 and it can now be accessed [here](https://tipitaka2500.github.io).
 
+## Other Articles
+
+* [About Me](./aboutme.md)
+* [About this Website](./website.md)
+* [An Introduction to Pāḷi](./pali.md)
+* [My Motivation for Translating the Khandhaka](./Khandhaka-motivation.md)
+* [The Buddha and Buddhism](./buddha.md)
+* [The Translation Process](./translation.md)
+
 ## Change History
 
 2025-06-30: Initial version
