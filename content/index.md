@@ -2,6 +2,7 @@
 title: Tidipa - What the Buddha Understood
 description:
   This site contains a new, open source, independent, rational English translation of selections from the Pāḷi Tipiṭaka, based on the The World Tipiṭaka Edition - “The Buddhist Era 2500 Great International Council Pāḷi Tipiṭaka, Roman Script 2005” (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500).
+socialImage: https://tidipa.github.io/media/tidipa.png
 ---
 
 This site contains a **new, open source, independent, *rational* English translation of selections from the Pāḷi Tipiṭaka**, based on the [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io) - “The Buddhist Era 2500 Great International Council Pāḷi Tipiṭaka, Roman Script 2005” (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500)
