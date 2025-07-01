@@ -1664,7 +1664,7 @@ Eventually, as reading proficiency increases, these changes will become easier t
 ## Conclusion
 
 This introduction is compact and dense, and not
-every feature of Pāḷi is explained here. Here, there is enough information
+every feature of Pāḷi is explained here. However, there is enough information
 in here to start reading
 the `Tipiṭaka` with the aid of a good dictionary.
 
