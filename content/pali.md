@@ -47,6 +47,10 @@ just means "text", and today "Pāḷi" is used primarily for Buddhist literature
 
 Most likely, Pāḷi is an amalgamation or synthesis of various dialects and languages, and it is generally classified as a "Prakrit" (a language originally derived from Sanskrit).
 
+As [@Norman1997] points out:
+
+> ... if we set out to understand what the earliest texts say, i.e. those ascribed to the Buddha himself, or his followers during his lifetime, we have to consider the fact that the language which we find in such texts is not necessarily, and almost certainly is not, the language of the Buddha himself, i.e. the language has been changed both synchronically - it has been translated or transformed into other languages as the need arose, perhaps as Buddhism spread into neighbouring areas - and also diachronically, i.e. as the language of the readers or recensionists developed in the course of time, this had an effect upon the language of the texts.
+
 ## Pāḷi Writing System and pronunciation {2}-{9}
 
 The Buddha may have spoken a language similar to Pāḷi, and when he died his
@@ -422,7 +426,9 @@ have chosen the version that sounded the most pleasing, depending on surrounding
 words.
 
 The multiple different variants of inflection forms can also be due to Pāḷi being an
-amalgamation of different Middle Indo Aryan dialects.
+amalgamation of different Middle Indo Aryan dialects. As [@Norman1997] explains:
+
+> It is, for example, not always understood by non-specialists that an early Pāli canonical sutta is itself a translation, and forms which were left untranslated when the Pāli recension was made from some earlier version can sometimes be identified.
 
 The rules can be quite complicated, so this introduction will not enumerate them.
 In practice, one can rely on looking up a relevant table to determine the
