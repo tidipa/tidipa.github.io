@@ -96,7 +96,7 @@ Whilst some of these rules seem reasonable, I see no reason why they should be i
 
 Not satisfied with Gotamī accepting the above rules, the Buddha had a parting shot:
 
-> “If, Ānanda, women had not obtained the pabbajjā (going forth) from home to homelessness in the Dhamma-Vinaya (Doctrine and Discipline) proclaimed by the Tathāgata, the brahmacariya (optimal life), Ānanda, would have lasted long; the saddhamma (true Dhamma) would have endured for a thousand years. But since, Ānanda, women have gone forth from home to homelessness in the Dhamma-Vinaya (Doctrine and Discipline) proclaimed by the Tathāgata, now, Ānanda, the brahmacariya (holy life) will not last long. Now, Ānanda, the saddhamma (true Dhamma) will endure for only five hundred years."
+> “If, Ānanda, women had not obtained the pabbajjā (going forth) from home to homelessness in the Dhamma-Vinaya (Doctrine and Discipline) proclaimed by the Tathāgata, the brahmacariya (optimal life), Ānanda, would have lasted long; the saddhamma (true Dhamma) would have endured for a thousand years. But since, Ānanda, women have gone forth from home to homelessness in the Dhamma-Vinaya (Doctrine and Discipline) proclaimed by the Tathāgata, now, Ānanda, the brahmacariya (optimal life) will not last long. Now, Ānanda, the saddhamma (true Dhamma) will endure for only five hundred years."
 
 So essentially women are the reason why the teachings will be corrupted earlier. Just in case we were not entirely clear of the Buddha's low opinion of women, he further explains that the ordaining of women is a weakening force analogous to:
 

@@ -421,6 +421,9 @@ use for a given sentence? It depends on the "sound" - a "native" Pāḷi speaker
 have chosen the version that sounded the most pleasing, depending on surrounding
 words.
 
+The multiple different variants of inflection forms can also be due to Pāḷi being an
+amalgamation of different Middle Indo Aryan dialects.
+
 The rules can be quite complicated, so this introduction will not enumerate them.
 In practice, one can rely on looking up a relevant table to determine the
 appropriate transformation. For reading Pāḷi, with practice the various endings will
@@ -466,9 +469,15 @@ In many sentences, the 1st vibhatti would usually refer to the entity or actor
 "performing" or "doing" the action (or, the "subject" of the sentence), and
 the 2nd vibhatti refers to the entity being impacted by the action  (the "object")
 of the sentence. Although this is a very common pattern, it is by no means
-rigid, and in theory any vibhatti ending can be used for any purpose. There are
+rigid, and in theory (almopst) any vibhatti ending can be used for any purpose. There are
 many examples in the Pāḷi canon where the vibhatti are used in unconventional
 ways.
+
+It is also possible that a word in an inflection form from a different
+Middle Indo Aryan dialect can be mistaken as a different inflection form in
+Pāḷi. For example, in what Norman calls the "Eastern" dialect the first vibhatti form
+for nouns often end in `-e` whereas in the "Western" dialect they end with `-o`.
+The use of the vocative `bhikkhave` should really be `bhikkhavo`.
 
 ### Vibhatti usage typical meanings {271}-{315}
 
