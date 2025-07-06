@@ -139,6 +139,7 @@ In preparation of the Roman-script text, the Dhamma Society partly based its Pā
 * [An Introduction to Pāḷi](./pali.md)
 * [My Motivation for Translating the Khandhaka](./Khandhaka-motivation.md)
 * [The Buddha and Buddhism](./buddha.md)
+* [The Buddha's Ethics?'](./ethics.md)
 * [The Translation Process](./translation.md)
 
 ## Change History

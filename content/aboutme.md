@@ -79,7 +79,7 @@ Little did I realise I was going to embark on a journey that eventually will lea
 
 Along the way, my understanding of the Buddha's teachings has transformed completely. This website is the culmination of my studies, along with my other related websites.
 
-Based on my current understanding, I do not consider myself a "Buddhist". I have very little in common with those that call themselves Buddhists, and I do not believe what Buddhists typically believe, nor do I participate in typical Buddhist customs, rituals, ceremonies, observances, precepts, or have any connection with Buddhist religious institutions or practitioners.
+Based on my current understanding, I do not consider myself a "Buddhist". I have very little in common with those that call themselves Buddhists, and I do not believe what Buddhists typically believe, nor do I participate in typical Buddhist customs, rituals, ceremonies, observances, precepts, or have any connection with Buddhist religious institutions or practitioners. If you are perhaps wondering why I do not wish to consider myself a Buddhist, perhaps reading the following may help: [The Buddha's Ethics?](./ethics.md).
 
 [Chris Tham](https://christham.net)
 
