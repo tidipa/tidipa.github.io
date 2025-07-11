@@ -180,3 +180,5 @@ Buddhists sometimes suggest that the Buddha has an ethical framework, such as th
 But these appear to be a more or less an arbitrary set of abstinences rather than a true ethical framework. Although some of these rules would appear to make sense, others seem puritanical, and perhaps reflect the Buddha's personal opinion regarding what may be non optimal behaviour rather than a structured basis for making ethical decisions. They can perhaps be best interpreted as a minimum guide for acceptable behaviour for novices so that they appear seemly before the public, to avoid criticism. In other words, the Buddha's primary concern seem to be to uphold the reputation of the community and not discourage his target market, rather than imposing moral values.
 
 Later on some these abstinences were adopted by the monastic community and lay disciples in general and today many Buddhists try to practice some of them regularly.
+
+## References
