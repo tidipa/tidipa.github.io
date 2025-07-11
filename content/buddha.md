@@ -2,7 +2,7 @@
 title: The Buddha and Buddhism
 ---
 
-I believe the Buddha was a real person (even though his social background and life details are hard to prove). He was born in [Lumbini](https://whc.unesco.org/en/list/666/) sometime in the 5th century BCE from the Gotama clan of the Shakya tribe, in present-day Nepal, and spent his life living and travelling around the Ganges Plain, near the modern Nepal–India border.
+I like to consider the Buddha as a real person (even though his social background and life details are hard to prove). He was born in [Lumbini](https://whc.unesco.org/en/list/666/) sometime in the 5th century BCE from the Gotama clan of the Shakya tribe, in present-day Nepal, and spent his life living and travelling around the Ganges Plain, near the modern Nepal–India border.
 
 ## A Minimum Viable Biography of the Buddha
 
@@ -72,11 +72,11 @@ Buddhism is a rapidly growing religion in Australia since the 1980s and now repr
 > 
 > ### Kinds of Buddhism 
 > 
-> There are two main Buddhist traditions in the world today: Theravada and Mahayana. Theravada is a Pali word (Theravāda) meaning 'Doctrine of the Elders'. Mahayana is a Sanskrit word (Mahāyāna) and means either 'Great Path' or 'Great Vehicle' - it is ambiguous. The Theravada regards only the Pali Canon as authoritative, the Mahayana arose around the beginning of the Christian era and venerates many other texts. Theravada is dominant in most (not all) of South and Southeast Asia, Mahayana in East and Central Asia. Further details are not relevant to this book.
+> There are two main Buddhist traditions in the world today: Theravada and Mahayana. Theravada is a Pali word (Theravāda) meaning 'Doctrine of the Elders'. Mahayana is a Sanskrit word (Mahāyāna) and means either 'Great Path' or 'Great Vehicle' - it is ambiguous. The Theravada regards only the Pali Canon as authoritative, the Mahayana arose around the beginning of the Christian era and venerates many other texts. Theravada is dominant in most (not all) of South and Southeast Asia, Mahayana in East and Central Asia.
 
 ## Did the Buddha actually existed in history?
 
-Although many Buddhists would assume the Buddha was a historical person, there is no direct evidence of his existence apart from his teachings, or at least those that have survived.
+Although many Buddhists would assume the Buddha was a historical person, there is no direct evidence of his existence apart from his teachings, or at least none that have survived.
 
 Some scholars, notably Schopen, question the authenticity of Buddhist texts and believe a more historical picture of Buddhism comes from archaeological and epigraphic evidence, and none of these attest the existence of an actual person placed in "historical time". More recently [@Drewes2017] argued that the Buddha may have been a legendary or mystical figure, created as a founder persona and imbued with a simple, authoritative origin story, and that in many teachings he is simply a a generic, supernatural being and lack key biographical details. The names commonly associated with him are problematic: "Siddhārtha" is not found in the earliest texts, the "Śākya" clan is unverified in non-Buddhist sources, and "Gautama" is a broad clan name used by many figures, not a personal surname. Drewes suggests that the concept of the Buddha as a historical person may be the result of fallacious assumptions and weak arguments by European scholars.
 
@@ -94,7 +94,7 @@ In conclusion, I do agree with Drewes that there is no proof of the Buddha's his
 
 ### Other Opinions
 
-- [Norman - A Philological Approach To Buddhism (1997)](<../Books/Norman - A philological approach to Buddhism (1997).md>) [Norman1997] \
+- [Norman - A Philological Approach To Buddhism (1997)](<../Books/Norman - A philological approach to Buddhism (1997).md>) [@Norman1997] \
   In Chapter II (Buddhism and Its Origins) Norman examines the origins of Buddhism through a philological lens, situating it within the socio-political and religious environment of ancient India around 400 BCE. It argues that Buddhism emerged as a challenge to Brahmanical orthodoxy, finding support among the rising merchant and warrior castes by reinterpreting existing concepts and rejecting the Upanishadic universal self (*ātman*) with the core doctrine of *anattā* (not-self). The analysis highlights that Buddhism shared significant terminology, ascetic practices, and even titles like 'Buddha' and 'Jina' with other contemporary *śramaṇa* movements, particularly Jainism, indicating a common religious background. The path to release (*nibbāna*) is shown to involve meditative states (*jhānas*) and an understanding of dependent causation, which was adapted into two systems: a direct path for monastics and a gradual, merit-based path for lay followers, creating a unique synthesis of pre-existing ideas from the broader *śramaṇa* culture.
 - [Gombrich - What the Buddha Thought (2009)](<../Books/Gombrich - What the Buddha Thought (2009).md>) [@WhatTheBuddhaThought] \
   In *What the Buddha Thought*, Richard Gombrich argues that the Buddha was a brilliant and original thinker whose coherent system of thought can only be understood by placing it in its historical context as a pragmatic debate with and reaction to contemporary Brahminical and Jain ideas. Gombrich posits that the Buddha was not an essentialist philosopher but a practical teacher focused on how things function, redefining concepts like *kamma* from ritual action to ethical intention and clarifying "no-self" as the absence of an *unchanging* essence. A central thesis is that subsequent generations, failing to grasp the Buddha's use of metaphor, irony, and context-dependent arguments, took his teachings literally, thereby creating new scholastic doctrines—such as misinterpreting the *brahma-vihāras* as a path to heaven rather than nirvana. This process of misinterpretation, Gombrich contends, explains many apparent inconsistencies in the Pali Canon, which he establishes as the key evidence for understanding how the Buddha used fire as a central metaphor for non-random process and satirized Vedic cosmogony in the Chain of Dependent Origination.
