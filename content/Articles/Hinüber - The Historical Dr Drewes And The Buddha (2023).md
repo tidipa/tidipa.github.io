@@ -1,3 +1,24 @@
+---
+title: Hinüber - The Historical Dr. Drewes And The Buddha (2023)
+description:
+  In a rebuttal to Dr. Drewes's critique, Oskar von Hinüber defends his argument for the Buddha as a historical person by asserting that Drewes focuses on the opinions of other scholars rather than engaging with primary sources. Hinüber reiterates his own method, which involves analyzing the earliest possible texts for linguistic clues and for details that were later suppressed by the tradition, as these are likely to contain fragments of historical memory. He refutes Drewes's specific counterarguments concerning the Upaka episode and the Jambu tree meditation, defending his philological analysis and dismissing Drewes's claims of textual corruption and flawed mythological parallels. Ultimately, Hinüber argues that while a full biography is impossible, a vivid historical memory existed in ancient India, distinct from formal historiography, and that traces of this memory of a real person can be found in the oldest Buddhist texts through careful scholarly application rather than abstract debate.
+tags:
+  - Historical Buddha
+  - Historicity
+  - David Drewes
+  - Oskar von Hinüber
+  - Buddhist studies
+  - Textual criticism
+  - Primary sources
+  - Historical memory
+  - Historiography
+  - Pāli
+  - Upaka episode
+  - Jambu tree meditation
+  - Śuddhodana
+  - Kammanta
+---
+
 # The Historical Dr. Drewes And The Buddha[^1]
 
 Oskar Von Hinüber

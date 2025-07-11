@@ -1,3 +1,21 @@
+---
+title: Hinüber - The Buddha As A Historical Person (2019)
+description:
+  In response to claims that the Buddha was not a historical person, Oskar von Hinüber argues for his historicity by analyzing early Pāli texts for archaic elements and genuine memories. He posits that details contradicting later, more mythological biographies are unlikely to be inventions and may represent a historical core. Evidence includes the Aśokan inscription confirming Lumbinī as the Buddha's birthplace; textual accounts of his father as a working farmer rather than a king; and a description of his parents weeping as he left home, which conflicts with later narratives. A key example is the Buddha's failure to impress the Ājīvika Upaka, an embarrassing episode for the tradition, whose antiquity is supported by archaic linguistic forms and its subsequent alteration or omission in later texts. Further evidence from the *Mahāparinibbānasuttanta*, such as the obscure name of the Buddha's last meal (*sūkaramaddava*) and moments of human frailty, also suggest the preservation of authentic details from the life of a real person.
+tags:
+  - Buddha
+  - Historicity
+  - Pāli Canon
+  - Textual Criticism
+  - Linguistic Analysis
+  - Hagiography
+  - Mythology
+  - Mahāparinibbānasuttanta
+  - Aśokan Inscriptions
+  - Upaka
+  - sūkaramaddava
+  - Theravāda
+---
 # The Buddha As A Historical Person[^*] 
 
 Oskar Von Hinüber

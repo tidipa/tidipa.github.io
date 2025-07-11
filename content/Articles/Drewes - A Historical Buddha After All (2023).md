@@ -1,3 +1,20 @@
+---
+title: Drewes - A Historical Buddha After All? (2023)
+description:
+  In this paper, David Drewes refutes Oskar von Hinüber's arguments for the historicity of the Buddha, reaffirming his position that there is no reliable evidence to establish the Buddha as a historical figure. Drewes systematically dismantles von Hinüber's reasoning, arguing that the earliness of a text does not guarantee its historicity, as the early Buddhist texts are fundamentally concerned with supernatural events rather than historical records. He deconstructs specific claims, such as the interpretation of the Upaka story through the "criterion of embarrassment" and the early dating of the *Mahāparinibbānasutta*, by providing alternative explanations rooted in literary tropes, polemics, or philological analysis. Drewes concludes that scholarship on the historical Buddha has relied on fallacious arguments from authority and subjective interpretations rather than scientific evidence, and that without such evidence, the Buddha's existence remains a matter of faith rather than a demonstrable historical fact.
+tags:
+  - Buddha's historicity
+  - David Drewes
+  - Oskar von Hinüber
+  - Textual criticism
+  - Historical method
+  - Early Buddhist texts
+  - Criterion of embarrassment
+  - Supernaturalism
+  - Mahāparinibbānasutta
+  - Étienne Lamotte
+---
+
 # A Historical Buddha After All?[^*] 
 
 David Drewes

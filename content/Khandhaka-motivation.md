@@ -6,7 +6,7 @@ title: My Motivation for Translating the Khandhaka
 
 The `Khandhaka` (or Collections) forms part of the `Vinaya Piṭaka`, one of the three "baskets" of the `Tipiṭaka`. The `Tipiṭaka` is a large collection of teachings attributed to the Buddha or his earliest disciples. In the Pāli Canon, the Khandhaka contains stories of the Buddha's life post enlightenment (excluding his death) framed around his establishment of various rules for ordaining and governing monastics in the `saṅgha` (community), and finishes with descriptions of the First and Second Councils, which were large formal gatherings intended to clarify or ratify the Buddha's teachings.
 
-Why study and translate the `Khandhaka`? Along with the other parts of the `Vinaya`, it may represent the earliest of Buddha's teachings. Also, unlike the other `piṭaka`s where we only have a complete preserved version from just one sect in Pāli, we possess the Vinaya of no less than six schools. According to [Frauwallner - The Earliest Vinaya And The Beginnings Of Buddhist Literature (1956)](./Books/Frauwallner%20-%20The%20Earliest%20Vinaya.md) [@Frauwallner1956], these schools are:
+Why study and translate the `Khandhaka`? Along with the other parts of the `Vinaya`, it may represent the earliest of Buddha's teachings. Also, unlike the other `piṭaka`s where we only have a complete preserved version from just one sect in Pāli, we possess the Vinaya of no less than six schools. According to [Frauwallner - The Earliest Vinaya And The Beginnings Of Buddhist Literature (1956)](<./Books/Frauwallner - The Earliest Vinaya (1956).md>) [@Frauwallner1956], these schools are:
 
 * Sarvāstivādin (Chinese translation)
 * Dharmaguptaka (Chinese translation)

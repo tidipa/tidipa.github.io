@@ -1,3 +1,34 @@
+---
+title: Wynne - Did the Buddha exist? (2019)
+description:
+  In his article, Alexander Wynne argues against extreme skepticism regarding the Buddha's existence, presenting evidence that early Buddhist discourses are largely authentic historical records. He refutes claims that the Buddha is a myth by citing the high fidelity of the texts' oral transmission, archaeological and inscriptional evidence from the Aśokan era that corroborates details about the Buddha's clan and disciples, and the texts' consistent depiction of a pre-imperial India before the rise of large cities, coinage, and brick architecture. Wynne's central thesis is that the teachings reveal a singular and idiosyncratic personality—a quiet, pragmatic, and sometimes reticent teacher—whose unique and coherent philosophical system, characterized by concepts like 'not-self' and the dialectic of silence, is too distinctive and complex to have been invented by a committee, pointing instead to a single, historical founder.
+tags:
+  - Buddha's historicity
+  - Skepticism
+  - Authenticity of Early Buddhist Texts
+  - Oral transmission
+  - Textual criticism
+  - Archaeological evidence
+  - Epigraphy
+  - Aśokan inscriptions
+  - Piprahwa reliquary
+  - Sanchi relics
+  - Pre-imperial India
+  - Idiosyncratic personality
+  - Coherence of teachings
+  - Realism
+  - Myth vs. history
+  - Dialectic of silence
+  - Metaphysical reticence
+  - Unanswered questions
+  - Not-self (anattā)
+  - Simile of the extinguished flame
+  - Upaniṣadic context
+  - Alexander Wynne
+  - David Drewes
+  - Richard Gombrich
+---
+
 # Did the Buddha exist? 
 
 Alexander Wynne

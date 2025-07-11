@@ -1,3 +1,36 @@
+---
+title: Drewes - The Idea Of The Historical Buddha (2017)
+description:
+  In a reevaluation of the Buddha's historicity, David Drewes argues that scholarship has never actually established that the Buddha was a real person and that he cannot be properly considered a historical figure. The author traces the development of the idea from the early nineteenth century, when the Buddha's existence was an open question, through the pivotal work of scholars like Eugène Burnouf, who separated the final Buddha, Śākyamuni, from his mythical predecessors based on Nepalese tradition rather than new evidence. Drewes contends that subsequent influential scholars, such as T.W. Rhys Davids and Hermann Oldenberg, cemented the Buddha's historicity not through factual discovery but by presupposing it and defending it with fallacious arguments, such as the logical necessity of a founder or appeals to a scholarly consensus that was not yet established. Even major twentieth-century proponents like E.J. Thomas, Étienne Lamotte, and André Bareau admitted that no reliable historical data could be extracted from the legends. Drewes concludes that since early texts depict a generic, supernatural being rather than a specific individual—with names like "Siddhārtha" being late additions and clan names like "Śākya" being potentially mythical—the Buddha belongs in the same category as other ahistorical founders like Vyāsa or Laozi, whose existence is a matter of belief rather than empirical fact.
+tags:
+  - Historical Buddha
+  - Buddha's historicity
+  - Ahistoricity
+  - Historiography
+  - Buddhist studies
+  - 19th-century scholarship
+  - 20th-century scholarship
+  - Eugène Burnouf
+  - T.W. Rhys Davids
+  - Hermann Oldenberg
+  - Horace Hayman Wilson
+  - Étienne Lamotte
+  - André Bareau
+  - Brian Houghton Hodgson
+  - Previous Buddhas
+  - Śākyamuni
+  - Mythical founders
+  - Lack of evidence
+  - Fallacious arguments
+  - Ad populum argument
+  - Great Man theory
+  - Pali texts
+  - Sanskrit manuscripts
+  - Gautama
+  - Siddhārtha
+  - Śākya clan
+---
+
 # The Idea Of The Historical Buddha[^*] 
 
 David Drewes

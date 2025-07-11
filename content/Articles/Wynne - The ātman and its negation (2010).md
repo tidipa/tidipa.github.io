@@ -1,5 +1,5 @@
 ---
-title: Wynne - The ātman and its negation (1984)
+title: Wynne - The ātman and its negation (2010)
 description:
   The famous Buddhist "No Self" (anātman) doctrine is largely absent from the earliest texts because the original teachings were founded on a different and more subtle philosophy than the later, standard interpretation. Early critiques, such as the "Not-Self" (anattā) teaching, are grounded in a principle of "epistemological conditioning," where fundamental concepts including "self," "existence," and even space-time are not ultimate realities but are dependently originated through cognitive processes. This is why the early texts pragmatically avoid direct ontological statements like "the self does not exist," instead guiding practitioners to see that identifying with conditioned phenomena is "unsuitable" and thereby transcend the very conceptual framework that creates a sense of self. The explicit "No Self" doctrine developed later, as seen in texts like the *Vajirā Sutta* and the Abhidharma, when this subtle philosophy gave way to a "reductionistic realism" that analyzes the person as a collection of essenceless components within an objectively real world, thus shifting the focus from a radical critique of conceptuality to the denial of a specific entity.
 tags:

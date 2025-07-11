@@ -32,7 +32,7 @@ Ordination (admission and full membership in the monastic community) is not open
 
 - slaves [3V/1.34 Dāsavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.34.html)
 
-- shaven headed metalworkers [3V/1.35 Kammārabhaṇḍuvatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.35.html)
+- shaven headed metalworker living undetected as a monk (in other words, impostor) [3V/1.35 Kammārabhaṇḍuvatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.35.html)
 
 - those under 20 years of age [3V/1.36 Upālidārakavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.36.html), unless they are orphans and can scare away crows [3V/1.37 Ahivātakarogavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.37.html)
 
@@ -76,7 +76,7 @@ A community of thousands would need accommodation, basic necessities and a regul
 
 There is perhaps also an unspoken assumption that individuals who are not "normal" (ie. suffering from abnormalities or defects) must be in that condition due to non-optimal behaviour in past lives, and therefore they are not eligible to join the community because they are not likely to be able to achieve the soteriology goals. "Better luck next life, pal." Even if the Buddha did not personally believe this to be the case, it was the perception of society that mattered.
 
-Therefore, it was necessary that the community rejected misfits and others that would be shunned by society. Regardless of what the Buddha's personal attitudes may have been, it was important that the community was perceived to have a good reputation, and that potential benefactors are not discouraged. Indeed, it could be argued the early sections of the Khandhaka could be interpreted as the Buddha specifically targeting wealthy and influential supporters: the conversion of [Yasa, his family and friends](./Khandhaka/1.7.md), the [Bhaddavaggiya group](./Khandhaka/1.11.md) and ultimately [King Seniya Bimbisāra](./Khandhaka/1.13.md). At one stage, the Buddha even received [criticism](./Khandhaka/1.14.1.md) that he was breaking apart families and drawing the best resources from the town into his community.
+Therefore, it was necessary that the community rejected misfits and others that would be shunned by society. Regardless of what the Buddha's personal attitudes may have been, it was important that the community was perceived to have a good reputation, and that potential benefactors are not discouraged. Indeed, it could be argued the early sections of the Khandhaka could be interpreted as the Buddha specifically targeting wealthy and influential supporters: the conversion of [Yasa, his family and friends](./Khandhaka/1.7.md), the [Bhaddavaggiya group](./Khandhaka/1.11.md) and ultimately [King Seniya Bimbisāra](./Khandhaka/1.13.md). It is perhaps not a coincidence that the Buddha's discourse to these individuals always started with emphasising the virtue of generosity. At one stage, the Buddha even received [criticism](./Khandhaka/1.14.1.md) that he was breaking apart families and drawing the best resources from the town into his community.
 
 The exclusion of non-normative individuals is a pity, since it would seem it is precisely the misfits and rejects of society that has the most to gain from the Buddha's soteriology. The Buddha's compassion for them apparently does not extend to allowing them to follow the path.
 

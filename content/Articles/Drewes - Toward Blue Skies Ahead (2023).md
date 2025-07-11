@@ -1,3 +1,23 @@
+---
+title: Drewes - Toward Blue Skies Ahead - Reply To Von Hinüber's Second Response (2023)
+description:
+  In this reply, David Drewes defends his thesis on the lack of evidence for the historical Buddha against critiques from Prof. Dr. von Hinüber, clarifying that his original paper targeted the scholarly inconsistency of affirming historicity without proof. Drewes explains that his focus on secondary sources is due to the absence of any primary texts being presented as evidence, and he posits that the origins of Buddhism before the mid-third century BCE are unknowable, cautioning against projecting modern concepts like "mystical experience" onto its prehistory. He systematically refutes von Hinüber's specific counterarguments by employing detailed linguistic and manuscript evidence to defend his textual emendations in the Dīrghāgama and Sañghabhedavastu, and he substantiates his mythological analysis by showing that numerous Indian myths, including the Sītā story, feature a ritualistic golden plow, thereby connecting a Pali story about the Buddha's youth to this broader narrative tradition.
+tags:
+  - Buddha's historicity
+  - Historical evidence
+  - Buddhist Studies
+  - Textual criticism
+  - Manuscript evidence
+  - David Drewes
+  - Oskar von Hinüber
+  - Sītā myth
+  - Golden plow
+  - Sañghabhedavastu
+  - Rāmāyaṇa
+  - Pali
+  - Sanskrit
+---
+
 # Toward Blue Skies Ahead: Reply To Von Hinüber's Second Response 
 
 David Drewes
