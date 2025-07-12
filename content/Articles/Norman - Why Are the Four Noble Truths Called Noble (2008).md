@@ -1,3 +1,20 @@
+---
+title: Norman - Why Are the Four Noble Truths Called "Noble"? (2008)
+description:
+  The common English translation "Four Noble Truths" represents only one of several possible interpretations of the Pāli compound *ariyasaccāni* and is likely the least significant one according to early Buddhist traditions. The 5th-century commentator Buddhaghosa, analyzing the term's grammar, offered multiple simultaneous meanings, including "the truths of the Noble One (the Buddha)," "the truths penetrated by noble ones," and "the truths which cause nobleness" or "the ennobling truths." Buddhaghosa and other commentators like Dhammapāla prioritized these interpretations over the simple descriptive meaning of "noble truths," which can be seen as a tautology. The original Pāli term was likely intended to encompass all these meanings at once, highlighting a fundamental difficulty in translation where a single, multifaceted concept in one language must be reduced to a more limited one in another.
+tags:
+  - Four Noble Truths
+  - ariyasaccāni
+  - Pāli
+  - Buddhaghosa
+  - Dhammapāla
+  - Translation
+  - Etymology
+  - Commentary
+  - tatpurusa
+  - karmadhāraya
+---
+
 # Why Are the Four Noble Truths Called "Noble"?
 
 K.R. Norman

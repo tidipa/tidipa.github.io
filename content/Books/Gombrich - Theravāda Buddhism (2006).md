@@ -897,8 +897,7 @@ In its affinity with trade I see Buddhism (and Protestantism) as an ideological 
 
 I find a remarkable instance of this kind of demystification in a postcanonical Pali text, The Questions of Milinda. As background I must explain the pan-Indian belief in the 'act of truth'. An 'act of truth' is a statement which enables one to cause something normally impossible a miracle - to happen. The statement is of a very particular kind: it is a true assertion that one has always excelled in one's social role - in Hindu terms, that one is a paragon in performing one's particularistic duties (sva-dharma), the duties of one's station. Thus for example Sītā's true statement that she is a paragon of conjugal chastity and has remained faithful to Rāma through every trial enables her to walk through fire unscathed.
 
-In The Questions of Milinda a courtesan called Bindumatī is able to make the Ganges flow backwards by an act of truth. She can truly say
-that she has always given service for cash, regardless of who is paying, whether he be noble or slave, high caste or low. [^55]
+In The Questions of Milinda a courtesan called Bindumatī is able to make the Ganges flow backwards by an act of truth. She can truly say that she has always given service for cash, regardless of who is paying, whether he be noble or slave, high caste or low. [^55]
 
 This is the rational ethic of the tradesman: 'You're as good as the colour of your money.' In economic life, cash is the common denominator, the great universalizer. The Buddha's concept of kamma is the precise equivalent in the ethical sphere: no matter who you say you are, you're as good as the quality of your kamma.
 

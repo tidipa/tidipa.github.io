@@ -1,3 +1,22 @@
+---
+title: Norman - The Four Noble Truths (1983)
+description:
+  K.R. Norman's paper investigates the long-standing grammatical and syntactical problems within the standard Pāli formulation of the Four Noble Truths, specifically the use of neuter/accusative endings for masculine nouns (`samudayaṃ`, `nirodhaṃ`) and the uniform use of the neuter pronoun `idaṃ`. By comparing various textual versions in Pāli and Buddhist Hybrid Sanskrit, Norman argues that the original statements were grammatically straightforward and did not include the term `ariya-saccaṃ` (noble truth). He proposes that the inconsistencies arose historically when `ariya-saccaṃ` was added, forming syntactical compounds where a sandhi `-m-` was inserted to prevent hiatus (e.g., `*dukkha-samudaya-m-ariya-saccaṃ`). Subsequent scribal tradition misinterpreted this structure, leading to a faulty word division that created the anomalous forms, while the pronoun `idaṃ` was generalized from the first truth to the other three by analogy.
+tags:
+  - Four Noble Truths
+  - Pāli
+  - Grammar
+  - Syntax
+  - Linguistic analysis
+  - K.R. Norman
+  - Syntactical compounds
+  - Sandhi
+  - Textual criticism
+  - Buddhist Hybrid Sanskrit
+  - ariya-saccaṃ
+  - Dhammacakka-ppavattana-sutta
+---
+
 # The Four Noble Truths
 
 K.R. Norman
