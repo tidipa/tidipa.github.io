@@ -169,6 +169,28 @@ Regardless of whether the narrative was accurately depicting the Buddha's opinio
 
 Clearly, LGBTQIA+ individuals need not apply, as men or women. In this matter, the Buddha (or an unknown author) clearly expresses his disgust and revulsion for all aspects of "the female condition" and non-binary individuals.
 
+One could perhaps argue that the Buddha was simply a creature of his times, and his opinion of women reflect social norms of his time, and if anything he should be valorised for even allowing women to be ordained. For example, [@WhatBuddhistsBelieve] wrote:
+
+> WOMEN'S position in Buddhism is unique. The Buddha gave women full freedom to participate in a religious life. The Buddha was the first religious Teacher who gave this religious freedom to women. Before the Buddha, women's duties had been restricted to the kitchen; women were not even allowed to enter any place of worship or to recite any religious scripture. During the Buddha's time in India, women's position in society was very low. The Buddha was criticized by the prevailing establishment when He gave this freedom to women. His move to allow women to enter the Holy Order was extremely radical for the times. Yet the Buddha allowed women to prove themselves and to show that they too had the capacity like men to attain the highest position in the religious way of life by attaining Arahantahood. Every woman in the world must be grateful to the Buddha for showing them the real religious way of living and for giving such freedom to them for the first time in world history.
+
+Whilst the above may be (at least partially) true, it skilfully avoids mention of all the restrictions (ie. `garudhamme`) related to female participation in monastic life as well as the Buddha's opinion regarding women.
+
+Perhaps modern Buddhists will disregard these historical prejudices and treat female and male members of the monastic community equally? In an ideal world, that would be nice, but unfortunately this is not the case in some South East Asian Buddhist countries.
+
+As [Wikipedia](https://en.wikipedia.org/wiki/Bhikkhunī) reports:
+
+> The tradition [of bhikkhunīs] flourished for centuries throughout South and Southeast Asia, but appears to have lapsed in the Theravada tradition of Sri Lanka in the 11th century C.E.  It apparently survived in Burma to about the 13th century, but died out there too. Although the bhikkhunī order is commonly said to have never been introduced to Thailand, Laos, Cambodia or Tibet, there is substantial historical evidence to the contrary, especially in Thailand. With the bhikkhunī lineage extinct, no new bhikkhunīs could be ordained since there were no bhikkhunīs left to give ordination.
+> 
+> For this reason, the leadership of the Theravada bhikkhu Sangha in Burma and Thailand deem fully ordained bhikkhunīs as impossible. "Equal rights for men and women are denied by the Ecclesiastical Council. No woman can be ordained as a Theravada Buddhist nun or bhikkhunī in Thailand. The Council has issued a national warning that any monk who ordains female monks will be punished." Based on the spread of the bhikkhunī lineage to countries like China, Taiwan, Korea, Vietnam, Japan and Sri Lanka, other scholars support ordination of Theravada bhikkhunīs.
+>
+> Without ordination available to them, women traditionally voluntarily take limited vows to live as renunciants. These women attempt to lead a life following the teachings of the Buddha. They observe 8–10 precepts, but do not follow exactly the same codes as bhikkhunīs. They receive popular recognition for their role. But they are not granted official endorsement or the educational support offered to monks. Some cook while others practise and teach meditation.
+
+There has been several attempts to reestablish bhikkhunī ordination in various countries, with only partial success. For example, female ordination is now practised in Sri Lanka but it is unclear whether this is legally recognised by the government, and it is still opposed by some monastic leaders (the main Nikayas - Malwathu, Asgiri, Amarapura, Ramanna). For example, the Buddhist Temporalities Ordinance does not recognize Bhikkhunis. However, at least bhikkhunī can now be issued identity cards affirming their religious status:
+
+> The Supreme Court of Sri Lanka in SC FR 218/2013 addressed a landmark Fundamental Rights application concerning religious identity and gender equality, specifically the recognition of Bhikkhunis (female Buddhist monks) in State-issued identity documentation. [LankaLaw](https://lankalaw.net/2025/06/17/fundamental-rights-application-concerning-religious-identity-and-gender-equality/)
+
+Thailand still does not recognise female ordination and in fact punishes not only aspirant female nuns but punish and expel the male monks who assist them. For a summary of the situation refer to [Seeger - The Bhikkhunī-ordination controversy in Thailand (2006)](<../Articles/Seeger - The Bhikkhunī-ordination controversy in Thailand (2006).md>) [@Seeger2006].
+
 ## The ten abstinences
 
 Buddhists sometimes suggest that the Buddha has an ethical framework, such as the 10 training rules for novices (`sikkhāpadāni`) in [3V/1.42 Sikkhāpadakathā](https://tipitaka2500.github.io/tipitaka/3V/1/1.42.html):
