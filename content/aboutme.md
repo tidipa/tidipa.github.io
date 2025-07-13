@@ -57,7 +57,7 @@ Both my parents died, within months of each other, in 2021. Both of them died at
 
 I discovered [SuttaCentral](https://suttacentral.net) in 2023 and started studying Pāḷi by attending a course taught by Bhante Sujato and John Kelly. I also started devouring Buddhists texts and any material I can find.
 
-I am also fortunate in that currently I am teaching several masters subjects at Torrens University which means I have access to an academic research library.
+I am also fortunate in that currently I am teaching several masters subjects at Torrens University (including Advanced Professional Practice, and I have been told that the students find my ethics class fascinating) which means I have access to an academic research library.
 
 I created a website documenting my studies called [Buddhavacana](https://christham.net/buddhavacana/).
 
