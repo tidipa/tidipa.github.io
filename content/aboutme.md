@@ -68,6 +68,7 @@ Little did I realise I was going to embark on a journey that eventually will lea
 * Learn how to code in [Python](https://www.python.org) and [Typescript](https://www.typescriptlang.org) - which has proven very useful for translation assist tools and creating this website.
 * Try to understand the intricacies of how to create websites based on [Jamstack](https://jamstack.org), a modern way of web development based on statically deployed assets and a serverless backend architecture.
 * Study Pāḷi, the language that the Tipitaka is written in.
+* Resuscitated the [Sakyadhita website](https://sakyadhita.org), for the International Association of Buddhist Women
 * Recreate the web version of the Tipitaka 2500 edition: [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)
 * Embark on my own translation of the suttas (this website).
 * Translate early Pāḷi grammars: [Kaccayana](https://kaccayana.github.io).

@@ -81,7 +81,7 @@ In [7D/3.35 Tathāgatapacchimavācā](https://tipitaka2500.github.io/tipitaka/7D
 
 More importantly, the Buddha was prone to illness, frustration (at perceived misbehaviours in the community), and he needed food, rest and sleep like all of us. Again, unlike suttas where the Buddha is depicted as a Perfect, Omniscient Being with 32 great marks or features, here he is simply an ordinary man, with imperfections. This is a strong indication that the Buddha's liberation was a mundane realisation, from a rational thought process, and was not a spiritual or mystical attainment.
 
-## Focus - the Buddha's biography from awakening until his death
+## Focus - the Buddha's biography from awakening
 
 Given the above, I would like to initially focus on Sections 1-14 of the Khandhaka in the Pāli canon, where as I mentioned previously contains a "biography" of the Buddha from the moment he achieved liberation under the Bodhi tree at Uruvella, up to the conversion of Sariputta and Moggallana, two of the Buddha's greatest disciples.
 
