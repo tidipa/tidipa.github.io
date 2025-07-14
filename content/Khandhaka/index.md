@@ -8,7 +8,7 @@ description:
 
 ### 1. [**Bodhikathā** (The Account of the Bodhi Tree)](./1.1.md)
 
-Immediately after attaining full enlightenment at Uruvelā under the Bodhi tree, the Buddha (`Bhagavā`) spent a night contemplating `paṭiccasamuppādaṃ` (dependent origination) in three watches. He systematically understood how ignorance (`avijjā`) initiates a chain of conditioned phenomena (`saṅkhārā`, `viññāṇaṃ`, etc.) culminating in the entire mass of suffering (`dukkha`), and conversely, how the cessation of ignorance leads to the cessation of this chain and thus the end of suffering. This profound realisation, led him to utter inspired verses affirming that understanding the conditioned nature of phenomena and the destruction of these conditions dispels all doubts.
+Immediately after attaining full awakening at Uruvelā under the Bodhi tree, the Buddha (`Bhagavā`) spent a night contemplating `paṭiccasamuppādaṃ` (dependent origination) in three watches. He systematically understood that the phenomenological basis of subjective experiences - resulting in `dukkha` (suffering) - can be traced through a linked set of causes ultimately back to ignorance (`avijjā`). The cessation of ignorance then leads to the cessation of this chain of causes and thus the end of experienced `dukkha`. This profound realisation led him to utter inspired verses affirming this understanding of the phenomenological framework has enabled him to dispel all doubts and deconstruct the framework, resulting in awakening.
 
 ### 2. [**Ajapālakathā** (The Account of the Goatherd's Banyan Tree)](./1.2.md)
 
