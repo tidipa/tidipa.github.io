@@ -34,22 +34,41 @@ tags:
 >
 > For further information please view my [work in progress] translation of Kaccāyana into English at [kaccayana.github.io](https://kaccayana.github.io)
 
-The Buddha probably taught in a variety of languages common in the Indian subcontinent at the time (both Indo-Aryan and indigeneous). These languages may or may not have included Pāli.
+## Introduction
 
-Pāḷi, like most other Indo-Aryan languages, is an oral language spoken as
-`vākya` (sentences) made up of `vacana` (words) which are a combination of
-`akkhara` ("sounds", or "units from a writing system"). {1}
+According to [@Norman1988]:
+
+> Pāli is a dialect of Middle Indo-Aryan (MIA), i.e. one of the dialects which lie chronologically between Old Indo-Aryan (=Sanskrit) and New Indo-Aryan (=the modern languages of North India and Sinhalese). The Indo-Aryan languages of India belong to the Indo-European family of languages, and the name Indo-Aryan stands for "the Indo-European languages of India".
+
+Norman further explains that the multiple dialects of MIA are due to successive migrations of Indo-Aryans into India. This occurred over several waves and multiple generations. They met with the indigenous inhabitants of North India, and in particular the inhabitants of the Indus Valley, and over time assimilated part of their culture and languages, such as Dravidian and other languages. Each migration wave would have resulted in a different MIA dialect resulting from different amounts of Dravidian loanwords mixed in with them and also a different mix of cultural and religious backgrounds between the invaders and the indigenous inhabitants. Over time these MIA dialects also evolved away from Sanskrit, developed unique morphological and phonological characteristics and became referred to as "Prakrit" languages.
+
+By the time of the Buddha, there were at least three MIA dialects in use in the Greater Magadha region and beyond: a "Western" dialect, an "Eastern" dialect and Gāndhārī. The Buddha may have known all three dialects, and they were very similar to each other. [@Karpik2019] regards them as "mutually intelligible" by native speakers of any of the dialects, although this is contested by [@Levman2019b].
+
+According to [@Levman2014], the Shakya tribe which the Buddha belonged in had a separate socio-political organisation, religious
+and cultural values from the Indo-Aryans, so it is unclear what language the Buddha would have spoken or taught in. It is also unclear to what extent the Buddha was exposed to Brahmanism and therefore his knowledge of Sanskrit would have been questionable. He may have used a mixture of MIA dialects and indigeneous languages, depending on his audience.
+
+However, given the Khandhaka shows the Buddha interacting with future royal and wealthy benefactors, the Buddha may probably have spoken in the Western MIA dialect, which is regarded as more prestigious. In any case, what we know of as `pāli` today would seem to be closest to the Western dialect, but mixed in with words and inflection forms from the other dialects.
 
 There are debates about the origin of Pāḷi, whether it was in fact a real language
-actually spoken by people, as opposed to an "invented" or "church" language specifically
-for the purposes of recording Buddhist doctrine. The term "Pāḷi" actually
-just means "text", and today "Pāḷi" is used primarily for Buddhist literature.
-
-Most likely, Pāḷi is an amalgamation or synthesis of various dialects and languages, and it is generally classified as a "Prakrit" (a language originally derived from Sanskrit).
+actually spoken by people, as opposed to an "invented" or "ecclesiastical" language specifically
+for the purposes of recording Buddhist doctrine. Although Pāḷi is most similar to the "Western" MIA dialect, there are signs that it has been transformed and "Sanskritised" over the years (by well meaning Sanskrit-trained editors and scribes no doubt trying to "correct" what they perceive to be spelling and grammatical "mistakes") so it is no longer a pure version of the dialect that the Buddha would have spoken, so it is at least partially an "artificial" language. The morphology and grammar of Pāḷi was formalised by various grammarians in the 6th-12th centuries (with Kaccāyana being the first such work) and it is likely the texts were altered to conform to the "normative" grammar as described by grammarians.
 
 As [@Norman1997] points out:
 
 > ... if we set out to understand what the earliest texts say, i.e. those ascribed to the Buddha himself, or his followers during his lifetime, we have to consider the fact that the language which we find in such texts is not necessarily, and almost certainly is not, the language of the Buddha himself, i.e. the language has been changed both synchronically - it has been translated or transformed into other languages as the need arose, perhaps as Buddhism spread into neighbouring areas - and also diachronically, i.e. as the language of the readers or recensionists developed in the course of time, this had an effect upon the language of the texts.
+
+[@Norman1988] adds:
+
+> The early works of Buddhism had been written in various Prakrits, but the growing prestige of Sanskrit led to an attempt to re-write these texts in Sanskrit. The success of such a translation process varied from sect to sect, and we find a variety of Sanskritised Prakrits which are generally referred to as Buddhist Hybrid Sanskrit, although it must be made clear that there is no one form of that language. The writing down of the Pāli canon in the first century B.C. probably put an end to the wholesale restoration of Sanskrit forms into the language of the Theravādin canon.
+
+More recently, [@Karpik2019] has disagreed with the above view, and advances a hypothesis that Pāḷi, or something very close to it, was actually spoken by the Buddha. [@Levman2019b] disagrees, and argues what the Buddha spoke may have been a "koine", or inter-dialect lingua franca that was commonly used for administration, trade and commerce. Regardless, Pāḷi texts probably represent the closest we will get to what might have been the Buddha's original words.
+
+The term "Pāḷi" actually
+just means "text", and today "Pāḷi" is used primarily for Buddhist literature.
+
+Pāḷi, like most other Indo-Aryan languages, is an oral language spoken as
+`vākya` (sentences) made up of `vacana` (words) which are a combination of
+`akkhara` ("sounds", or "units from a writing system"). {1}
 
 ## Pāḷi Writing System and pronunciation {2}-{9}
 
@@ -483,7 +502,7 @@ It is also possible that a word in an inflection form from a different
 Middle Indo Aryan dialect can be mistaken as a different inflection form in
 Pāḷi. For example, in what Norman calls the "Eastern" dialect the first vibhatti form
 for nouns often end in `-e` whereas in the "Western" dialect they end with `-o`.
-The use of the vocative `bhikkhave` should really be `bhikkhavo`.
+As an example,. The vocative `bhikkhave` typically encountered in Pāḷi texts should probably be `bhikkhavo`, although [@Pind2021] disputes this and argues `bhikkhavo` represents an emphatic usage compared to `bhikkhave`.
 
 ### Vibhatti usage typical meanings {271}-{315}
 
@@ -1688,3 +1707,16 @@ similar forms again and again. They are intentionally structured this way
 to assist in memorisation and chanting. So, once a complex sentence is parsed,
 it may be encountered again and again
 and reading will become easier and easier over time.
+
+## Other Opinions
+
+- [Norman - The origin of Pāli and its position among the Indo-European languages (1988)](<./Articles/Norman - The Origin of Pali and its Position among the Indo-European Languages (1988).md>) [@Norman1988] \
+  Pāli is a Middle Indo-Aryan language that originated not as a specific regional tongue but as a composite literary dialect used for the Buddhist canon. Descending from the Indo-European language family, it developed from the various Prakrits spoken in North India following the migration of Indo-Aryan peoples and their interaction with indigenous Dravidian and Munda populations. The Buddha and his followers preached in these local vernaculars, and Pāli emerged from the subsequent effort to standardize these diverse teachings into a single language for the Theravādin tradition. While primarily based on a Western Prakrit, Pāli retains features from other dialects, such as Māgadhī, reflecting its mixed origins and the process of translation and compilation. The language was largely fixed when the canon was committed to writing in the first century B.C., after which it underwent further editorial standardization, including significant Sanskritization and, in later periods, minor influences from Sinhalese and the work of medieval Pāli grammarians.
+- [Karpik - The Buddha taught in Pali - A working hypothesis (2019)](<./Articles/Karpik - The Buddha taught in Pali (2019).md>) [@Karpik2019] \
+  This paper challenges the scholarly consensus that the Buddha taught in multiple dialects like Māgadhī, a theory known as the Multiple Oral Transmission Theory (MOTT). Instead, it argues for a Single Oral Transmission Theory (SOTT), proposing that the Buddha used a single standard language, which is the language we now call Pali. The author contends that oral translation of the vast canon was impractical, unnecessary due to the mutual intelligibility of Indo-Aryan dialects, and explicitly discouraged by the suttas' emphasis on word-for-word transmission. The traditional identification of the Buddha's language as Māgadhī is based on a misreading of the term *Māgadhabhāsā* in the commentaries, which actually defined it as *Ariyaka* (Indo-Aryan), a pan-regional term. The paper posits that Pali was a natural, pre-existing standard language based on a western dialect, a precursor to the widespread Epigraphic Prakrit, and that the Buddha adopted this sociolect of the educated to ensure a fixed, albeit phonetically fluid, transmission of his teachings across different regions. This working hypothesis refutes the MOTT by explaining dialectal variants in Pali as natural artifacts of a single transmission rather than remnants of a translation, thereby aligning with the Theravada tradition's claim.
+- [Levman - The language the Buddha spoke (2019)](<./Articles/Levman - The language the Buddha spoke (2019).md>) [@Levman2019b] \
+  Bryan Levman argues that the Buddha spoke not Pāli as we know it, but an earlier, related vernacular or *koine* that differed in word form, morphology, and sometimes meaning. Evidence for this earlier linguistic layer is uncovered by applying comparative historical linguistics to the various Pāli recensions and parallel transmissions in other Prakrits, such as Gāndhārī. This method reveals that many variant readings and semantic ambiguities in the canon can be traced back to a common ancestral form in the *koine* which had undergone significant phonetic simplification, such as the weakening of intervocalic consonants into glides or the reduction of various aspirated stops to a simple aspirate. Later redactors, transmitting the teachings into their own dialects, reinterpreted these simplified sounds, resulting in the multiple cognate forms found today, a process further complicated by influences from prestigious northwestern dialects and the assimilation of non-Aryan words. Levman concludes that this linguistic evolution is consistent with the Buddhist doctrine of impermanence and supports the Buddha's historicity.
+- [Karpik - A Reply to Bryan Levman’s The Language the Buddha Spoke (2019)](<./Articles/Karpik - A Reply to Bryan Levman's The Language the Buddha Spoke (2019).md>) [@Karpik2019b] \
+  In a comprehensive rebuttal to Bryan Levman's theory, Stefan Karpik rejects the proposition of an early "pre-Pali" *lingua franca* that evolved into a later, mutually unintelligible Pali. Karpik argues that Levman's reconstructions are undateable, do not prove a *lingua franca* over other possibilities like bilingualism, and fail to explain why an original transmission would be discarded. The core of Karpik's critique focuses on Levman's flawed linguistic methodology, particularly the incorrect assumption of directionality in sound changes, which leads to proposing numerous implausible and unattested "fortitions" (sound strengthening) where lenition, orthographic errors, or dialectical variations are more likely explanations. Karpik further dismisses the claim of rapid linguistic change and mutual unintelligibility due to a lack of syntactical evidence, accusing Levman of circular reasoning and misrepresenting other scholars, ultimately advocating for a simpler model of steady linguistic development where Pali itself is the pre-Aśokan language of the Buddha.
+- [Pind - Did the Buddha address the monks in Māgadhī? (2021)](<./Articles/Pind - Did the Buddha address the monks in Māgadhī (2021).md>) [@Pind2021] \
+  This paper argues that the distribution of the Pāli vocatives *bhikkhave* and *bhikkhavo* in the canon is determined by prosody and syntax, not by historical or dialectal origins as is commonly assumed. Refuting the theory that *bhikkhave* is a preserved "Māgadhism" reflecting the Buddha's speech, the author demonstrates a structural and complementary distribution between the two forms. *Bhikkhavo* functions as an emphatic vocative, used at the beginning of prose sentences—notably in stock introductory formulas—and exclusively in verse, a pattern that parallels the use of the emphatic vocative *bhaddante*. Conversely, *bhikkhave* is the non-emphatic, or clitic, form which never occurs initially and is always attached to a preceding word within a sentence, mirroring the usage of the clitic *bhante*. This distinction is therefore intrinsic to the syntactical and recitational structure of the canonical language itself, making explanations based on regional dialects or later scribal interpolations unnecessary.
