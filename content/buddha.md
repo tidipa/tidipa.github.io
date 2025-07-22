@@ -2,11 +2,17 @@
 title: The Buddha and Buddhism
 ---
 
-I like to consider the Buddha as a real person (even though his social background and life details are hard to prove). He was born in [Lumbini](https://whc.unesco.org/en/list/666/) sometime in the 5th century BCE from the Gotama clan of the [Shakya](https://en.wikipedia.org/wiki/Shakya) tribe, in present-day Nepal, and spent his life living and travelling around the Ganges Plain (in what has been termed the "Greater Magadha" cultural region in [@GreaterMagadha]), near the modern Nepal–India border.
+## The `Buddha`
+
+`Buddha` is a verbally-derived noun in Pāli meaning "understood; known" (Cone's Dictionary of Pali), and it can also be used to refer to someone who has understood. Therefore, it is an epithet to refer to the person we call the "Buddha" today. In his teachings he seldom or perhaps never referred to himself as such, so this may be a term that later generations of Buddhists have adopted (particularly modern Buddhists).
+
+These days, some scholars eg. [@Schopen1997], [@Drewes2017] argue that the Buddha is "ahistorical"("lacking historical perspective or context"). By this, they mean we cannot validate any aspect of his life or his teachings, or even whether he existed as a person. Everything we know about the Buddha comes from Buddhist texts, where he is often portrayed as a legendary or mystical figure. Some Buddhists admit a lot of the details around his life seem fanciful and made up, constructed possibly centuries after his death. There are no accounts of him or his life from non-Buddhist sources. Even if he existed, we don't know precisely where he was born, what his lineage was, his real name, or even what language he spoke. For more details, refer to the section entitled "Did the Buddha actually existed in history?" at the end of this article.
+
+For the purposes of this website, I would like to assume the Buddha was a real person and accept a "minimum viable biography". He was allegedly born in [Lumbini](https://whc.unesco.org/en/list/666/) sometime in the 5th century BCE from the Gotama clan of the [Shakya](https://en.wikipedia.org/wiki/Shakya) tribe, in present-day Nepal, and spent his life living and travelling around the Ganges Plain (in what has been termed the "Greater Magadha" cultural region in [@GreaterMagadha]), near the modern Nepal–India border.
 
 The origin of the Shakya tribe is unclear, and they have possibly mixed Aryan and indigenous lineage. They were an eastern sub-Himalayan ethnic group living on the periphery, both geographically and culturally, of Greater Magadha. The Buddha's father (Suddhodana) was supposedly a member of the ruling oligarchy but this may have been an invention and he may have had humble beginnings. In any case, the Shakyans, who were organised into a `gaṇasaṅgha` (an aristocratic oligarchic republic) had become a vassal state in the Kingdom of Kosala by the time of the Buddha, so the Buddha was hardly a prince as portrayed in some accounts. The Shakyans were not well regarded by the brahmins, as narrated in [6D/3 Ambaṭṭhasutta](https://tipitaka2500.github.io/tipitaka/6D/3.html).
 
-Although the Buddha was sometimes regarded as a `khattiya` (a member of the royal or aristocratic caste), in reality the Shakyas were probably outside the [S]`caturvarṇa` caste system. It is unclear whether he has had much exposure to Vedism or brahmins growing up. Accounts of the Buddha conversing and debating with brahmins, and apparently exhibiting an advanced knowledge of Brahmanism, are probably invented by disciples who are former brahmins, eager to portray the Buddha's superiority over their former beliefs. It is also likely these accounts are invented for the purpose of winning debates at the royal court, as Buddhism - particularly after the Buddha's death - was highly dependent on royal patronage. As [@GreaterMagadha] wrote, the Greater Magadha region was not settled by brahmins until nearly a millennium after the Buddha's death, so it is unlikely the Buddha would have encountered many brahmins in his lifetime.
+Although the Buddha was sometimes regarded as a `khattiya` (a member of the royal or aristocratic caste), in reality the Shakyas were probably outside the [S]`caturvarṇa` caste system. It is unclear whether he has had much exposure to Vedic texts or brahmins growing up. Accounts of the Buddha conversing and debating with brahmins, and apparently exhibiting an advanced knowledge of Brahmanism, are probably invented by disciples who are former brahmins, eager to portray the Buddha's superiority over their former beliefs. It is also likely these accounts are invented for the purpose of winning debates at the royal court, as Buddhism - particularly after the Buddha's death - was highly dependent on royal patronage. As [@GreaterMagadha] wrote, the Greater Magadha region was not settled by brahmins until nearly a millennium after the Buddha's death, so it is unlikely the Buddha would have encountered many brahmins in his lifetime.
 
 ## A Minimum Viable Biography of the Buddha
 
@@ -16,13 +22,47 @@ According to [7D/1.17 **Devatārocana**](https://tipitaka2500.github.io/tipitaka
 
 According to [9M/3.6 **Pāsarāsisutta**](https://tipitaka2500.github.io/tipitaka/9M/3/3.6.html), as a young man he started to question the nature of existence, of being born and subject to the negative consequences of life such as growing old, falling sick, dying, sorrow. He started to search for a path out of these consequences. He renounced and became a "wandering ascetic" (`samaṇa`) and followed the practices of various teachers. He eventually concluded these teachings did not lead to satisfactory answers.
 
-He ultimately discovered the answers himself and attained awakening or Perfect Understanding (`sammāsambodhi`). The story of his life post awakening is told in the [Khandhaka](./Khandhaka)
+He ultimately discovered the answers himself and attained "awakening" or "Perfect Understanding" (`sammāsambodhi`). The story of his life post awakening is told in the [Khandhaka](./Khandhaka).
 
-Out of compassion for other living beings, he taught a way for others to achieve enlightenment. This is classified as a soteriology, or a "doctrine of salvation" so that others can follow in his footsteps and free themselves from the burden of "suffering" and "rebirth."
+Out of compassion for other living beings, he taught a way for others to achieve "awakening" too.
 
 It would appear the Buddha's teachings were successful - thousands of people became enlightened as a result of his teachings and became `arahant` (enlightened beings) in his lifetime.
 
+## What did the Buddha teach?
+
+The Buddha can be described as advocating a "soteriology" that prescribes a way of eradicating `dukkha`, which is often translated as "suffering" in English. However, `dukkha` has a broader meaning than "suffering", with nuances ranging from vague discomfort, unease, and lack of satisfaction all the way to pain, loss, illness, old age and eventually death. `Dukkha` is everything that is "unsatisfactory" with life and encompasses everything "bad" that has ever happened to you, might happen, or will happen.
+
+What does "soteriology" mean? The Oxford Dictionary of English defines it as "the doctrine of salvation", from the Greek `sōtēria` ("salvation") + `-logy` ("study" or "discourse").
+
+So the Buddha's soteriology is the Buddha's understanding, and description of his "salvation", which is the release, liberation, cessation and extinguishment from `dukkha`.
+
+The answer turns out to be both profound and simple, but perhaps not easy to implement.
+
+It is "profound" because the Buddha started by trying to answer the question: "What causes `dukkha`, and who experiences `dukkha`?" or more colloquially "Who suffers?"
+
+For there to be `dukkha`, there must be "someone" who is affected by, and experiences `dukkha`. So the Buddha started to investigate the nature of "the self", or our notion of personal identity and "selfhood."
+
+The Buddha came to the (logical) conclusion that our sense of "self" is generated from our subjective experiences (phenomena) and our accumulated thoughts. This was a radical and original idea formulated by the Buddha, different from other beliefs common during his time. It predates many modern philosophical theories. The Buddha was quite possibly the world's first "phenomenologist".
+
+According to the Buddha, what we regard as a "self" is nothing more than the sum total of all our accumulated memories of perceptual phenomena, sensory stimuli, feelings, emotions, apperceptions, thoughts, beliefs, attitudes, and other mental constructs.
+
+The Buddha's viewpoint can be described as "phenomenalism" -  everything we experience is through our senses and our imagination. Because of that. we are unable to determine whether the real world or physical universe actually exists. Our "world" is effectively a mental construct, formed from previous experiences, apperceptions, influenced and shaped by language (we "name" things that we can perceive). Therefore our "self" also is named and constructed.
+
+The Buddha points out that this "self" and all the mental constructs are impermanent. They have no existence outside of our minds, and disappear when we die. Therefore the "world" that we perceive is also impermanent, because it is nothing more than a mental construction.
+
+It is important to clarify that the Buddha did not deny the existence of the physical universe (contrary to what some Buddhists believe - that the "world" is an illusion), nor did he deny the possible existence of a metaphysical self which is greater than, and possibly separate from, the constructed self. He simply points out that it is impossible for us to verify or refute these abstract or metaphysical concepts. Nor did he deny the possibility of a Creator of the universe, or the existence of other universes and realms, or the existence of beings superior or inferior to ourselves, such as gods and demons. However, I suggest these concepts are ultimately irrelevant in the soteriology - they have no impact on whether we can eliminate or avoid `dukkha`.
+
+The Buddha's solution turned out to be surprisingly "simple". If our sense of self is constructed, then `dukkha` is also a mental construction. In other words, the "sufferer" self-generates suffering. Therefore, to avoid `dukkha`, the "sufferer" simply has to stop generating thoughts or performing actions that will inevitably lead to suffering.
+
+This sounds straightforward, but does it really work? Potentially one can imagine this would work with a sense of unease or dissatisfaction. One also could argue that grief or loss is an emotion that can be dealt with, and even physical pain can be ignored. Can we truly avoid or eliminate sickness, old age and death?
+
+Crucially, this is where the Buddha's concept of phenomenalism comes in. Given we cannot verify or substantiate the physical universe, illness, old age and death are just concepts in our minds, and we suffer because we find these concepts distasteful. If we can treat them as mere phenomena and not react to them, we avoid `dukkha` altogether. We accept that whatever happens happens, and at the end of the day everything is just a construction.
+
+In other words, the Buddha's teaching can be summarised as "It's all in the mind, just let it go." By doing so, one is relieved from the burden of `dukkha`, one is no longer concerned by `dukkha`, one is therefore liberated from `dukkha` and it is extinguished.
+
 ## Buddhism
+
+The Buddha embarked on a career of teaching upon his "awakening" (or realisation of the soteriology). He travelled around significant parts of today's India and eventually formed a community of followers which evolved into Buddhism today.
 
 The Buddha's teachings spread throughout much of Asia along trading routes. Even today the Buddha's teachings is highly appealing to many people, and there has been a surge of interest in the last century or so from industrialised and developed countries.
 

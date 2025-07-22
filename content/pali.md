@@ -34,7 +34,7 @@ tags:
 >
 > For further information please view my [work in progress] translation of Kaccāyana into English at [kaccayana.github.io](https://kaccayana.github.io)
 
-## Introduction
+## Background
 
 According to [@Norman1988]:
 

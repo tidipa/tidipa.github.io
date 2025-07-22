@@ -26,7 +26,7 @@ What is meant by a **new, open source, independent, *rational* English translati
 It is also **rational** because it makes the presumption that the Buddha's teachings:
 
 * can be understood through reason and logic,
-* are as relevant today as they were over 2,600 years ago,
+* are as relevant today as they were over 2,500 years ago,
 * do not contradict modern science,
 * do not require faith or beliefs that cannot be personally substantiated,
 * and in particular do not rely on supernatural or spiritual explanations.
@@ -37,7 +37,7 @@ Features of the translation:
 
 * The original Pāli text (from [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)) is provided alongside the translated text.
 * Diagrams summarising each section of the text are provided. These are drawn as pseudo [UML](https://www.uml.org) and related diagrams.
-* A commentary (representing my personal opinion) is provided to explain significant points of the text from a rational, phenomenological perspective.
+* A commentary (representing my personal opinion) is provided to explain significant points of the text from a rational perspective.
 * Where possible, parallels to the text are provided, as well as other opinions of the text by academic scholars. These opinions are included in this website where permissible by copyright (ie. the text is downloadable or open access)
 
 > [!NOTE]
