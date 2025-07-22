@@ -1,5 +1,5 @@
 ---
-title: Karpik - Light on Epigraphic Pali: More on the Buddha Teaching in Pali (2023)
+title: Karpik - Light on Epigraphic Pali - More on the Buddha Teaching in Pali (2023)
 description:
   Stefan Karpik argues that the 20th-century scholarly consensus that the Buddha spoke Māgadhī, as reflected in Eastern Aśokan inscriptions, is a myth. He contends, based on computer searches and a re-examination of Pali commentaries, that the term 'Māgadhī' was deliberately avoided and that the Buddha, a Kosalan, most likely spoke Pali. Karpik introduces the concept of 'Epigraphic Pali' to reclassify what others have called 'central-western epigraphic Prakrit', demonstrating through analysis of nine inscriptions from various contexts that this widespread inscriptional language is a later, naturally evolved form of canonical Pali. This evidence suggests Pali was not an artificial, ecclesiastical language but a standard, non-sectarian vernacular used across India for centuries. Consequently, he proposes that all early Buddhist canons were originally composed in Pali, the language of the Buddha, before being transmitted and adapted into other dialects and languages, a hypothesis that resolves questions of linguistic authenticity without privileging any single canon.
 tags:
