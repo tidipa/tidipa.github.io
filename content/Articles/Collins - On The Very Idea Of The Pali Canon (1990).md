@@ -1,3 +1,22 @@
+---
+title: Collins - On The Very Idea Of The Pali Canon (1990)
+description:
+  Steven Collins argues that the Pali Canon should not be seen as the pre-existing foundation of Theravāda Buddhism, but rather as a product created by the Mahāvihāra monastic lineage in Ceylon during the first millennium A.D. as a strategy for legitimation. This development was driven by a rivalry with the competing Abhayagiri monastery, which accepted a wider range of scriptures. The Mahāvihāra monks established their authority by creating a closed, exclusive list of texts defined as the historical "Buddha's Word" (`buddhavacana`), committing these texts and their commentaries to writing, standardizing their interpretation through figures like Buddhaghosa, and authoring historical chronicles (`vamsa`) to construct a singular, legitimate line of succession. Collins concludes that while the *idea* of a fixed canon was ideologically crucial for establishing this orthodoxy, in practice, the religious life of Theravāda cultures has always drawn from a much broader selection of canonical and non-canonical works, making the concept of the canon more significant than its specific textual contents.
+tags:
+  - Pali Canon
+  - Canon formation
+  - Theravāda Buddhism
+  - Mahāvihāra
+  - Abhayagiri
+  - Legitimation
+  - Monastic rivalry
+  - buddhavacana
+  - vamsa
+  - Historiography
+  - Commentaries
+  - Scripturalism
+---
+
 # On The Very Idea Of The Pali Canon 
 
 Steven Collins

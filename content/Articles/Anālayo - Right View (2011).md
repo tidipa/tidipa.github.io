@@ -1,4 +1,21 @@
-# Right View and the Scheme of the Four Truths in Early Buddhism - <br> The Saṃyukta-āgama Parallel to the Sammāditthi-sutta and the Simile of the Four Skills of a Physician 
+---
+title: Anālayo - Right View and the Scheme of the Four Truths in Early Buddhism - The Saṃyukta-āgama Parallel to the Sammāditthi-sutta and the Simile of the Four Skills of a Physician (2011)
+description:
+  This article explores the attainment of right view at stream-entry by analyzing the *Saṃyukta-āgama* parallel to the *Sammāditthi-sutta*. This discourse demonstrates that right view involves understanding various phenomena, such as the links of dependent arising, through the structural pattern of the four truths - identifying an item, its cause, its cessation, and the path to its cessation. The author then introduces another *Saṃyukta-āgama* discourse that explicitly compares the four truths to a four-part medical diagnosis - disease (dukkha), pathogen (craving), health (cessation), and cure (the path). The author argues that this parallel, likely adopted from a known medical practice, was used to frame the Buddha's teachings as pragmatic, therapeutic, and psychological, distinguishing them from abstract philosophical speculation. The slight difference in the sequence of the third and fourth items between the medical and Buddhist schemes suggests that medicine was the source of the analogy.
+tags:
+  - Right View
+  - Four Noble Truths
+  - Stream-entry
+  - Saṃyukta-āgama
+  - Sammāditthi-sutta
+  - Medical Analogy
+  - Physician Simile
+  - Dependent Arising
+  - Comparative Textual Study
+  - Dukkha
+---
+
+# Right View and the Scheme of the Four Truths in Early Buddhism - The Saṃyukta-āgama Parallel to the Sammāditthi-sutta and the Simile of the Four Skills of a Physician 
 
 Bhikkhu Anālayo
 

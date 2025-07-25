@@ -1,3 +1,19 @@
+---
+title: Tillemans - Remarks on Philology (2018)
+description:
+  In a reflection on the practice of philology within Buddhist Studies, Tom Tillemans argues against rigid methodological positions, instead defending the practical goal of understanding an author's thought through deep engagement with their language, history, and context. He counters the critique that philologists naively seek to eliminate all personal bias by suggesting that prejudices can be progressively challenged and refined, allowing for genuine progress in understanding. Tillemans addresses the central tension between interpreting a text "on its own terms" and using modern, author-alien concepts by introducing the logical distinction between *de re* and *de dicto* attributions of thought, which validates interpretations that are true to an author's thinking even if phrased in unfamiliar terms. He concludes by championing the necessity of rigorous, text-based philological work, warning that postmodern pragmatism should not be misused as a license to bypass the demanding but essential task of mastering the linguistic and historical foundations of the texts being studied.
+tags:
+  - Philology
+  - Buddhist Studies
+  - Hermeneutics
+  - Authorial intent
+  - Interpretation
+  - Historical context
+  - De re / de dicto
+  - Pragmatism
+  - Postmodernism
+---
+
 # Remarks on Philology
 
 Tom J. F. Tillemans 

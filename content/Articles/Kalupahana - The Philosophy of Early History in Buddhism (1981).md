@@ -1,3 +1,22 @@
+---
+title: Kalupahana - The Philosophy of Early History in Buddhism (1981)
+description:
+  The text explores why early Buddhism, despite accepting the reality of the empirical world, lacked historical writings in the Western sense. It contrasts the Western speculative philosophy of history, which posits an unfolding Absolute, with the critical philosophy that views history as a value-laden discipline. Early Buddhism rejects the speculative approach, categorizing such grand theories as dispositionally constructed "views" (diṭṭhi) based on incomplete evidence and metaphysical assumptions. While aligning with the critical view in recognizing the evaluative nature of historical interpretation, Buddhism values "knowledge of the past" (pubbante ñāṇa) for its pragmatic role in understanding suffering. This understanding is grounded not in an absolute framework or first cause, but in the principle of dependent arising (paticcasamuppāda), a causal process knowable through experience. The ultimate goal is not to construct historical narratives but to use knowledge of causation to pacify dispositions and achieve nirvāṇa, thereby focusing on the present without being bound by speculative reconstructions of the past.
+tags:
+  - Buddhist historiography
+  - Philosophy of history
+  - Early Buddhism
+  - Speculative history
+  - Critical history
+  - Causation
+  - Paticcasamuppāda
+  - Diṭṭhi (views)
+  - Pubbante ñāṇa (knowledge of the past)
+  - Yathābhūtañāṇa
+  - Nirvāṇa
+  - Anattā
+---
+
 # The Philosophy of Early History in Buddhism
 
 David J Kalupahana

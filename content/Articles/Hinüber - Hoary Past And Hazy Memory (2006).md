@@ -1,27 +1,46 @@
+---
+title: Hinūber - Hoary Past And Hazy Memory - On The History Of Early Buddhist Texts (2006)
+description:
+  Oskar V. Hinūber argues that early Buddhist texts contain "historical memory" which can be used for dating and cautious historical analysis, challenging the notion that ancient India lacked a sense of history. By examining the evolution of sutta opening formulas, he identifies an archaic syntactical structure, traceable to Indo-Iranian, that refers to obscure market towns (*nigamas*) and Brahmin villages (*brāhmaṇagāmas*), representing an older textual layer than the more common references to major cities and monasteries. Applying this critical method to the *Mahāparinibbānasuttanta*, he posits a pre-Mauryan composition date (c. 350-320 BC) based on its description of Pātaliputta as a future commercial hub rather than a political capital and its downplaying of the Moriyas, which contrasts with later Buddhist texts that actively incorporated contemporary rulers like Aśoka and Kaniṣka. This early dating suggests that while the text is primarily hagiography replete with mythology, it may preserve genuine historical details from the decades immediately following the Buddha's death.
+tags:
+  - Early Buddhist texts
+  - Historical memory
+  - Textual criticism
+  - Dating texts
+  - Mahāparinibbānasuttanta
+  - Pāli Canon
+  - Sutta formulas
+  - Place names
+  - Pātaliputta
+  - Mauryan dynasty
+  - Oral tradition
+  - Indo-Iranian syntax
+---
+
 # Hoary Past And Hazy Memory - On The History Of Early Buddhist Texts[^*]
 
-Oskar V. Hinüber
+Oskar V. Hinūber
 
 Journal of the International Association of Buddhist Studies 
 Volume 29 • Number 2 • 2006 (2008) pp. 193–210
 
 On the occasion of the 215<sup>th</sup> meeting of the American Oriental Society in Philadelphia in 2005, the Hittitist Gary Beckman from the University of Michigan read his presidential address, "The limits of credulity," in which he sketched modern approaches to the art of writing history, presented a most useful overview or rather an extract of the flood of theoretical literature on this topic and, above all, discussed how far it is advisable and possible to trust sources and how to evaluate them. [^1] All this is exemplified by ancient Middle Eastern, first of all of course Hittite material. Although based on a culture with a strong written tradition, much can be learned from this article also for the thoroughly oral tradition of ancient India and early Buddhism in spite of some marked differences.
 
-In contrast to Beckman's after-dinner speech, the following deliberations do not concentrate on historiography, neither on modern historiography of the early Buddhist period, nor, and much less so, on an early Buddhist historiography, which is deplorably absent despite a remark made by Georg Bühler (1837-1898) to his friend, the renowned Arabist at the University of Strasbourg, Theodor Nöldeke (1836-1930), as early as 1877:
+In contrast to Beckman's after-dinner speech, the following deliberations do not concentrate on historiography, neither on modern historiography of the early Buddhist period, nor, and much less so, on an early Buddhist historiography, which is deplorably absent despite a remark made by Georg Būhler (1837-1898) to his friend, the renowned Arabist at the University of Strasbourg, Theodor Nöldeke (1836-1930), as early as 1877:
 
 > Mit Deiner Idee, dass die Inder keine historische Literatur haben, stehst Du auf einem veralteten Standpunkte. [^2]
 
-[^*]: This text was read as the Presidential Address on 23 June 2008 during the XV<sup>th</sup> IABS conference held at Atlanta (Georgia) from 23 to 28 June 2008. The oral form of the presentation has been largely preserved. An enlarged and more detailed version dealing with the early history of Theraväda texts is under preparation.
+[^*]: This text was read as the Presidential Address on 23 June 2008 during the XV<sup>th</sup> IABS conference held at Atlanta (Georgia) from 23 to 28 June 2008. The oral form of the presentation has been largely preserved. An enlarged and more detailed version dealing with the early history of Theravāda texts is under preparation.
 [^1]: JAOS 125. 2005, 343-352.
-[^2]: "Your idea that Indians do not possess literature on history is an outdated point of view," quoted from Julius Jolly: Georg Bühler. Grundriss der Indo-Arischen Philologie und Altertumskunde. 1. Band, 1. Heft A. Strassburg 1899, p. 13.
+[^2]: "Your idea that Indians do not possess literature on history is an outdated point of view," quoted from Julius Jolly: Georg Būhler. Grundriss der Indo-Arischen Philologie und Altertumskunde. 1. Band, 1. Heft A. Strassburg 1899, p. 13.
 
 This is certainly true, if we remember Kalhaṇa's Rājataraṅgị̄̄ and the Nepalese Vaṃśāvalīs, or almost a millennium earlier in the area of Buddhism, the Dīpavaṃsa and the Mahāvaṃsa. Important as both vamsas are as sources, as underlined by the research of Wilhelm Geiger (1856-1943) and Erich Frauwallner (1898-1974), [^3] their value for the history of texts of the very early period of Buddhism is quite limited.
 
 However, even if historiography begins too late for the period on which the following considerations are focussed, and if this Buddhist historiography contains little information on texts, we cannot conclude that this is due to a total lack of interest in history in general or in the history of texts in particular in ancient India. Early evidence proving the contrary is found in inscriptions. Already Aśoka vaguely, and it is true in a very general way, refers to the kings of yore at the beginning of his seventh pillar edict, and compares the successful propagation of his dhamma to the failure of those ancient kings to educate their peoples. In the well-known res gestae of his own reign, Khāravela looks back not only upon his own time. Khāravela also records a King Nanda, ruling either three hundred or, more likely, one hundred and three years before him, as having taken away a Jina image, which he, Khāravela, brought back to his capital.[^4] A similar memory is found in the Rudradāman inscription, where the Kṣatrapa Rudradāman commemorates in the year AD 150 that he repaired and embellished the Sudarśana tank after it was badly damaged by floods. This Sudarśana tank was originally built, as Rudradāman reminds the readers of his inscription, by Candragupta Maurya and was subsequently enlarged by Aśoka. [^5] This is indeed a rather long historical memory stretching over almost half a millennium. Interestingly, no traces of this memory are found in the text of the inscription of the Hindu ruler Skandagupta, where he records his repairs of the same tank three centuries later. [^6]
 
-[^3] The relevant articles are quoted in O. v. Hinüber: A Handbook of Pāli Literature. Berlin 1996 (HPL), § 182, 183.
-[^4] Shashi Kant: The Hāthīgumphā Inscription of Khāravela and the Bhabru Edict of Aśoka. Delhi <sup>2</sup>2000, p. 11, line 6 and p. 17, line 12 of the inscription. For tivasasata "103(?)" cf. terasavasasata "113", line 11.
-[^5] Idaṃ tadākaṃ Sudarśanaṃ ... mauryasya rājñah Candraguptasya rāstriyena Vaiśyena Puṣyaguptena kāritaṃ Aśokasya Mauryasya [kr]te Yavanarājena Tuṣāsphenādhiṣtāya pranālibhir alamkrtaṃ, F. Kielhorn: Junagadh rock inscription of Rudradāman; the year 72. EI 8. 1905-06, p. 36-49, esp. p. 43, 8.
+[^3]: The relevant articles are quoted in O. v. Hinūber: A Handbook of Pāli Literature. Berlin 1996 (HPL), § 182, 183.
+[^4]: Shashi Kant: The Hāthīgumphā Inscription of Khāravela and the Bhabru Edict of Aśoka. Delhi <sup>2</sup>2000, p. 11, line 6 and p. 17, line 12 of the inscription. For tivasasata "103(?)" cf. terasavasasata "113", line 11.
+[^5]: Idaṃ tadākaṃ Sudarśanaṃ ... mauryasya rājñah Candraguptasya rāstriyena Vaiśyena Puṣyaguptena kāritaṃ Aśokasya Mauryasya [kr]te Yavanarājena Tuṣāsphenādhiṣtāya pranālibhir alamkrtaṃ, F. Kielhorn: Junagadh rock inscription of Rudradāman; the year 72. EI 8. 1905-06, p. 36-49, esp. p. 43, 8.
 
 With the notable exception of the Bhairāt edict by Aśoka, references to Buddhist texts are almost totally absent from early inscriptions. [^7]
 
@@ -29,7 +48,7 @@ However, historical memory is not only preserved in inscriptions, but in Buddhis
 
 The intention why the collection later called Tipitaka was brought together is very clearly stated in the report on the first council held at Rājagaha. For we are explicitly told why the texts were assembled and formalized:
 
-[^6]: This inscription is published in Corpus Inscriptionum Indicarum III: Inscriptions of the early Gupta kings revised by Devadatta Ramakrishna Bhandarkar. Delhi 1981, no. 28, 296-305, cf. also O. v. Hinüber: Les documents épigraphiques indiens: Difficultés de leur interprétation - Examples concernant l'irrigation. Académie des Inscriptions et BellesLettres. Comptes Rendus des Séances de l'Année 2004. Avril-Juin. Paris 2004 [2006], p. 989-1011, esp. p. 989 foll.
+[^6]: This inscription is published in Corpus Inscriptionum Indicarum III: Inscriptions of the early Gupta kings revised by Devadatta Ramakrishna Bhandarkar. Delhi 1981, no. 28, 296-305, cf. also O. v. Hinūber: Les documents épigraphiques indiens: Difficultés de leur interprétation - Examples concernant l'irrigation. Académie des Inscriptions et BellesLettres. Comptes Rendus des Séances de l'Année 2004. Avril-Juin. Paris 2004 [2006], p. 989-1011, esp. p. 989 foll.
 [^7]: Only very general references such as trepitaka or vinayadhara are found occasionally in Mathurā or Amarāvatī.
 
 > dhammañ ca vinayañ ca saṃgāyāma pure adhammo dippati dhammo paṭibāhīyati avinayo dippati, vinayo paṭibāhīyati pure adhammavādino balavanto honti, dhammavādino dubbalā honti ..., Vin II 285,4-8
@@ -56,7 +75,7 @@ The opening formula of a sūtra is almost too well known to be repeated here in 
 > 
 > Thus I have heard. At one time the Lord stayed at Sāvatthi in the Jetavana, the park of Anāthapiṇ̣̣ika.
 
-This very wording continues after ārāme either by ... tatra kho bhagavā bhikkhū āmantesi, MN I 6,27foll. (No. 2., Sabbāsavasuttanta) with the local adverb tatra, by the developed wording ... atha kho bhagavā pubbaṇhasamayaṃ ..., MN I 160,27foll. (No. 26., Ariyapariyesanasuttanta) or, finally, by ... tena kho pana samayena $\bar{a} y a s m a \bar{A} A$ nando ..., MN III 189,27 (No. 132., Ānanda-Bhaddekaratta suttanta 2). Whereas the very beginning evaṃ me sutaṃ ekaṃ samayaṃ has been discussed perhaps much more often than it really deserves ever since John Brough's (1917-1984) article published almost sixty years ago, [^12] little if any attention has been paid to the much more interesting place names and to the way in which they are introduced.
+This very wording continues after ārāme either by ... tatra kho bhagavā bhikkhū āmantesi, MN I 6,27foll. (No. 2., Sabbāsavasuttanta) with the local adverb tatra, by the developed wording ... atha kho bhagavā pubbaṇhasamayaṃ ..., MN I 160,27foll. (No. 26., Ariyapariyesanasuttanta) or, finally, by ... tena kho pana samayena āyasma Ānando ..., MN III 189,27 (No. 132., Ānanda-Bhaddekaratta suttanta 2). Whereas the very beginning evaṃ me sutaṃ ekaṃ samayaṃ has been discussed perhaps much more often than it really deserves ever since John Brough's (1917-1984) article published almost sixty years ago, [^12] little if any attention has been paid to the much more interesting place names and to the way in which they are introduced.
 
 Besides this well-known introduction there are others, used much more rarely and phrased in a slightly different way, such as:
 
@@ -104,12 +123,12 @@ In the immediate predecessor of the later formula, which mentions a place name s
 
 Interestingly, there were no vihāras in Brahmin villages, but, much more importantly, also not in the nigamas.
 
-Taking together the very old place name parenthesis with the Brahmin villages and market places (nigamas), the missing nagaras and, above all, the missing vihāras, it is more than evident that these formulas belong to a very ancient layer of the formulation of Buddhist texts as preserved within the Theravāda-Tipitaka. Moreover, going back to the old parenthesis of place names, it is possible to trace the reason for the word order - the town preceding and the monastery following the verb viharati: Sāvatthiyaṃ viharati Jetavane ... - in the sentence opening sütras, which is clearly conditioned by the stylistic prehistory of this formula.
+Taking together the very old place name parenthesis with the Brahmin villages and market places (nigamas), the missing nagaras and, above all, the missing vihāras, it is more than evident that these formulas belong to a very ancient layer of the formulation of Buddhist texts as preserved within the Theravāda-Tipitaka. Moreover, going back to the old parenthesis of place names, it is possible to trace the reason for the word order - the town preceding and the monastery following the verb viharati: Sāvatthiyaṃ viharati Jetavane ... - in the sentence opening sūtras, which is clearly conditioned by the stylistic prehistory of this formula.
 
 Furthermore, the preponderance of Kosala as a location of Brahmin villages matches Vedic evidence. Consequently, we can be fairly confident of finding here really ancient village names preserved in the memory of the early Buddhists. This is confirmed by the simple fact that these early locations of the beginnings of Buddhism very soon faded into the background and were superseded by the five prominent cities enumerated at the beginning of the Mahāsudassanasuttanta, No. 17. in the Dīghanikāya: Campā, Rājagaha, Sāvatthi, Sāketa, Kosambi, Bārāṇasi, D II 169,11. First of all, Sāvatthi emerged as the prominent town, figuring at the beginning of 5 of 34 suttantas in the Dīghanikāya, but already in 67 of 152 in the Majjhimanikāya and in innumerable texts of the Saṃyutta- and Añguttaranikāyas. Still later texts were almost flooded by references to Sāvatthi, to such a degree that the Mūlasarvāstivinaya, as G. Schopen
 has shown, suggested inserting Śrāvastī whenever a monk forgot the place name when reciting a sūtra. [^17]
 
-In the list of the five towns prominent in the Buddhist tradition, one place name is conspicuous by its absence, namely Pātaliputta, the later Maurya capital. The reason is obvious. Pātaliputta did not exist during the time of early Buddhism. Its foundation is described in a well-known paragraph at the beginning of the Mahāparinibb $\bar{a}$ nasuttanta, where the Buddha makes the following prediction during the reign of Ajātasattu: "As far as there are settlements of the Āryas, as far as there are trading routes, this will be the first city (agganagaram) Pātaliputta, a place where customs are collected (puṭabhedana)," D II 87,33-88,1. At the same time, the Buddha changes the name of the place from Pātaligāma to Pātaliputta and calls the new city a puta-bhedana, most likely in a word play with Pāṭali-putta. No mention is made of Pātaliputta as the capital (rājadhān̄̄, e.g., D II 7,29 ) of the Maurya empire, in spite of the fact that Mauryas are indeed referred to at the very end of the same text, when the relics are distributed.
+In the list of the five towns prominent in the Buddhist tradition, one place name is conspicuous by its absence, namely Pātaliputta, the later Maurya capital. The reason is obvious. Pātaliputta did not exist during the time of early Buddhism. Its foundation is described in a well-known paragraph at the beginning of the Mahāparinibbānasuttanta, where the Buddha makes the following prediction during the reign of Ajātasattu: "As far as there are settlements of the Āryas, as far as there are trading routes, this will be the first city (agganagaram) Pātaliputta, a place where customs are collected (puṭabhedana)," D II 87,33-88,1. At the same time, the Buddha changes the name of the place from Pātaligāma to Pātaliputta and calls the new city a puta-bhedana, most likely in a word play with Pāṭali-putta. No mention is made of Pātaliputta as the capital (rājadhān̄̄, e.g., D II 7,29 ) of the Maurya empire, in spite of the fact that Mauryas are indeed referred to at the very end of the same text, when the relics are distributed.
 
 The Moriyas of Pipphalivana [^18] learn very late of the death of the Buddha, and when their envoy arrived at the site of the nibbbāna, all relics had been distributed and only charcoal was left, over which the Moriyas of Pipphalivana erected a stūpa. [^19] This rather meagre result of the efforts made by the Moriyas to secure a share of the relics also points to a time long before the ascent of the Maurya-dynasty. Later this episode was obviously considered embarrassing and consequently cancelled by the redactors of the Sanskrit version of the Mahāparinirvāṇasūtra. [^20]
 
@@ -134,7 +153,7 @@ For this purpose it is necessary to look, at least very briefly, for references 
 
 Even a superficial inquiry limited only to those Buddhist texts preserved in Sanskrit yields some examples. A parallel story also concerning Pātaliputta and found in the Divyāvadāna, which is derived from the Mūlasārvāstivādavinaya, is particularly illuminating. When the Buddha makes a prediction referring to Pātaliputra in the Aśoka legend he says: [^25] varṣaśataparinirvrtasya tathāgatasya Pātaliputre nagare Aśoko nāmnā rājā bhavisyati caturbhāgacakravartī dhārmiko dharmarājā yo me śarīradhātūn vaistārikān kariṣyati, Divy 368,25foll.:
 
-[^24]: This can be seen by comparing the place name Nādikā, which is preserved in its original eastern form only in the Dīghanikāya (D II 91,15), but changed to Nātikā in the Vinayapitaka (Vin I 232,31); the old historical gen. pl. rañhaṃ (D II 87,2 etc.) is regularly modernized as rājūnaṃ (Vin I 228,30 etc.), cf. O. v. Hinüber: Der Beginn der Schrift und frühe Schriftlichkeit in Indien. Akademie der Wissenschaften und der Literatur, Mainz. Abhandlungen der geistes- und sozialwissenschaftlichen Klasse, Jg 1989, Nr. 11, chapter X, p. 46foll.
+[^24]: This can be seen by comparing the place name Nādikā, which is preserved in its original eastern form only in the Dīghanikāya (D II 91,15), but changed to Nātikā in the Vinayapitaka (Vin I 232,31); the old historical gen. pl. rañhaṃ (D II 87,2 etc.) is regularly modernized as rājūnaṃ (Vin I 228,30 etc.), cf. O. v. Hinūber: Der Beginn der Schrift und frūhe Schriftlichkeit in Indien. Akademie der Wissenschaften und der Literatur, Mainz. Abhandlungen der geistes- und sozialwissenschaftlichen Klasse, Jg 1989, Nr. 11, chapter X, p. 46foll.
 [^25]: Cf. J. Strong: The Legend of King Aśoka. A Study and Translation of the Aśokāvadāna. Princeton 1983, p. 61.
 
 A century after the Tathāgata entered the Nirvāṇa there will be a king named Aśoka in the city of Pātaliputra, a conqueror of the four quarters of the world, a righteous king, who will spread my relics.
@@ -186,13 +205,13 @@ Now, monks, I address you: Decay is inherent in all component things. Work out y
 [^32]: JAOS 125, 2005, p. 349.
 [^33]: D II 91,26-92,11.
 [^34]: so bhagavato pacchimo sakkhisāvako ahosi, D II 153,11.
-[^35]: O. v. Hinüber: The Foundation of the Bhikkhunīsaṃgha. A contribution to the earliest history of Buddhism. Annual Report of the International Research Institute for Advanced Buddhology at Soka University for the Academic Year 2007 (ARIRIAB 11). Tokyo 2008, p. 2-29, esp. p. 22. - One of the most likely candidates for historical memory is perhaps the famous name of the last meal of the Buddha. In all likeliness the obscure sūkaramaddava (D II 127,5) is the name of a local dish, which was piously preserved, while the true meaning was soon forgotten: O. v. Hinüber: The Cause of the Buddha's Death: The last Meal of the Buddha. A Note on sūkaramaddava. JPTS 26. 2000, p. 105-117.
+[^35]: O. v. Hinūber: The Foundation of the Bhikkhunīsaṃgha. A contribution to the earliest history of Buddhism. Annual Report of the International Research Institute for Advanced Buddhology at Soka University for the Academic Year 2007 (ARIRIAB 11). Tokyo 2008, p. 2-29, esp. p. 22. - One of the most likely candidates for historical memory is perhaps the famous name of the last meal of the Buddha. In all likeliness the obscure sūkaramaddava (D II 127,5) is the name of a local dish, which was piously preserved, while the true meaning was soon forgotten: O. v. Hinūber: The Cause of the Buddha's Death: The last Meal of the Buddha. A Note on sūkaramaddava. JPTS 26. 2000, p. 105-117.
 
 We can be sure that this is not exact historical memory, correct in spirit and content at best, but certainly not in wording, because the Buddha did not speak Pāli.
 
 How ever this may have been in detail remains, to a considerable extent, a matter of conjecture, because our sources never allow us to go beyond more or less likely or probable conclusions about the roots of the texts that reach far back into the period of early Buddhism. On the other hand, determining the date of the closure of a text remains a still thornier problem. However, we can be sure to find quite a lot of very old material in the Theravāda tradition and we can, therefore, hope with a little confidence that the wonderfully solemn and unique conclusion of the Mahāparinibbānasuttanta may not be altogether wrong: [^36]
 
-> evam etam bhütapubbam
+> evam etam bhūtapubbam
 > 
 > "Thus it was in the days of yore."
 
@@ -208,11 +227,11 @@ How ever this may have been in detail remains, to a considerable extent, a matte
 | Divy | Divyāvadāna |
 | EI | Epigraphia Indica |
 | GM | Gilgit Manuscripts. Ed. by N. Dutt. Srinagar, 1939-1959. |
-| HPL | O. v. Hinüber: A Handbook of Pāli Literature. Berlin <br> 1996. |
+| HPL | O. v. Hinūber: A Handbook of Pāli Literature. Berlin <br> 1996. |
 | IIJ | Indo-Iranian Journal |
 | JAOS | Journal of the American Oriental Society |
 | JPTS | Journal of the Pali Text Society |
-| MSS | Münchener Studien zur Sprachwissenschaft |
+| MSS | Mūnchener Studien zur Sprachwissenschaft |
 | S | Saṃyuttanikāya |
 | SASt | South Asian Studies |
 | Ud | Udāna |

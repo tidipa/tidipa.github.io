@@ -1,3 +1,22 @@
+---
+title: Skilling - The Advent of Theravāda Buddhism to Mainland South-east Asia (1997)
+description:
+  Based on Pāli inscriptions from the 5th to 8th centuries CE found in the Pyu kingdom of Śrikṣetra (Burma) and the Mon kingdom of Dvāravatī (Siam), this paper argues for the predominance of Theravāda Buddhism in mainland Southeast Asia during the first millennium. The evidence lies in both the Pāli language of the epigraphs—a strong indicator of the Theravādin school—and their content, which includes specifically Theravādin recensions of canonical texts, Abhidhamma fragments, and non-canonical works like the Visuddhimagga. While establishing a Theravādin presence, the author finds it futile to trace its origins directly to either the Mahāvihāra or Abhayagiri schools of Ceylon due to a lack of conclusive evidence. Instead, the paper posits that this Buddhism evolved independently, influenced by various regions of India and developing a unique "local genius" seen in distinctive art and architecture. This flourishing Buddhist culture was not replicated in early Cambodia, where Brahmanism remained dominant and similar epigraphic and archaeological evidence is absent.
+tags:
+  - Theravāda Buddhism
+  - Pāli inscriptions
+  - Southeast Asia
+  - Pyu kingdom
+  - Dvāravatī
+  - Śrikṣetra
+  - Mon
+  - Epigraphy
+  - Mahāvihāra
+  - Abhayagiri
+  - First millennium CE
+  - Local development
+---
+
 # The Advent of Theravāda Buddhism to Mainland South-east Asia[^*]
 
 Peter Skilling 

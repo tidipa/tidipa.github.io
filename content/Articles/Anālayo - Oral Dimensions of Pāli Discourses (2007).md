@@ -1,3 +1,21 @@
+---
+title: Anālayo - Oral Dimensions of Pāli Discourses - Pericopes, other Mnemonic Techniques and the Oral Performance Context (2007)
+description:
+  Pāli discourses were shaped by a prolonged period of oral transmission, evident in formal mnemonic techniques designed for accurate verbatim preservation. These techniques include sound similarities in formulaic phrases, the "principle of waxing syllables" where words in a series increase in length, and the extensive use of repetition and pericopes—standardized descriptions for recurring events. While this emphasis on accuracy contrasts with improvisational oral traditions, variations and errors still arose, visible in differing pericopes within the Pāli canon and when compared to parallel texts in Chinese Āgamas. Functionally, recitation served purposes beyond mere preservation and teaching; it fostered communal harmony through group performance, acted as a contemplative tool for meditation that could lead to awakening, and was even used for its salutary effects on the sick. The transmission was primarily undertaken by specialized monks and nuns, but notable laypeople like Khujjuttarā also played a crucial role, with her preservation of the uniquely structured Itivuttaka collection suggesting that the formalization of texts occurred at a very early stage.
+tags:
+  - Oral transmission
+  - Pāli discourses
+  - Mnemonic techniques
+  - Pericopes
+  - Repetition
+  - Waxing syllables
+  - Verbatim transmission
+  - Recitation
+  - Communal harmony
+  - Meditation
+  - Reciters
+---
+
 # Oral Dimensions of Pāli Discourses: Pericopes, other Mnemonic Techniques and the Oral Performance Context 
 
 Bhikkhu Anālayo

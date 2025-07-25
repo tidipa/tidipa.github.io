@@ -1,3 +1,22 @@
+---
+title: Bronkhorst - Did the Buddha Believe in Karma and Rebirth (2021)
+description:
+  Johannes Bronkhorst argues that the historical Buddha did believe in karma and rebirth, but that his crucial innovation was to redefine karma not as physical or mental activity, but as the psychological element of intention and desire (*tṛṣṇā*). This unique understanding explains why the Buddhist path to liberation is fundamentally psychological, focusing on mindfulness and insight, rather than relying on the physical asceticism or doctrines of an inactive Self found in contemporary traditions like Jainism. Bronkhorst critiques scholarly attempts to locate the "original" teaching in passages that resemble Vedic or Jaina ideas, suggesting these are more likely later borrowings or misunderstandings by followers who struggled to grasp the Buddha's distinct psychological focus.
+tags:
+  - Karma
+  - Rebirth
+  - Historical Buddha
+  - Intention
+  - Early Buddhism
+  - Jainism
+  - Vedic tradition
+  - Philology
+  - Textual criticism
+  - Psychological interpretation
+  - Asceticism
+  - Tṛṣṇā (desire)
+---
+
 # Did the Buddha Believe in Karma and Rebirth?[^*]
 
 Johannes Bronkhorst 
@@ -20,9 +39,9 @@ This bold decision should not, however, make us reckless. The claim that the ear
 [^4]: HARRISON 1995.
 [^5]: I am aware that some scholars will consider this "sociologically naïve" (cp. PYYSIÄINEN, 1996: 108).
 
-Yet certain scholars claim to have information about earlier views of the Buddha, which he then supposedly modified later. FRAUWALLNER's attempts to distinguish phases in the life and teachings of the Buddha are particularly well known. [^6] Some other scholars, too, think that it is possible to reach conclusions about the Buddha's early views, even about karma and rebirth. Tilmann VETTER, in his article "Das Erwachen des Buddha", argues that the Buddha at first sought, and realized, the 'deathless' (amata/amrta), which is concerned with the here and now. Only after this realization, when he had already started preaching this discovery, did he supposedly become intimately acquainted with the doctrine of rebirth held in certain ascetic circles. [^7] This position contrasts strongly with the one VETTER expressed in an earlier publication. There we read: 8 "The Buddhist doctrine of salvation ... seems firmly bound to the concept that one must continuously be reborn and die. If there is no rebirth, then one needs no path to salvation, because an end to suffering comes at death." Why did VETTER change his mind?
+Yet certain scholars claim to have information about earlier views of the Buddha, which he then supposedly modified later. FRAUWALLNER's attempts to distinguish phases in the life and teachings of the Buddha are particularly well known. [^6] Some other scholars, too, think that it is possible to reach conclusions about the Buddha's early views, even about karma and rebirth. Tilmann VETTER, in his article "Das Erwachen des Buddha", argues that the Buddha at first sought, and realized, the 'deathless' (amata/amrta), which is concerned with the here and now. Only after this realization, when he had already started preaching this discovery, did he supposedly become intimately acquainted with the doctrine of rebirth held in certain ascetic circles. [^7] This position contrasts strongly with the one VETTER expressed in an earlier publication. There we read: [^8] "The Buddhist doctrine of salvation ... seems firmly bound to the concept that one must continuously be reborn and die. If there is no rebirth, then one needs no path to salvation, because an end to suffering comes at death." Why did VETTER change his mind?
 
-VETTER has come to attach particular importance to the text which is traditionally considered to contain the first sermon of the Buddha. In this first sermon initially the eightfold path is taught, and only subsequently - and in some versions of the text not at all - the Four Noble Truths. In an earlier publication I drew from this the following conclusion: 9 "This seems to indicate that initially those Four Noble Truths were not part of the sermon in Benares, and consequently probably not as central to Buddhism as they came to be. We may surmise that the concise formulation of the teaching of the Buddha in the shape of the Four Noble Truths had not yet come into being, not necessarily that the contents of this teaching deviated from what they were meant to express." In other words, the particularities of the text can be explained with the help of some simple assumptions about the constitution and preservation of the tradition, most probably after the death of the Buddha. VETTER, as we have seen, prefers to explain these same particularities with the help of some altogether different assumptions pertaining to developments in the life of the historical Buddha.
+VETTER has come to attach particular importance to the text which is traditionally considered to contain the first sermon of the Buddha. In this first sermon initially the eightfold path is taught, and only subsequently - and in some versions of the text not at all - the Four Noble Truths. In an earlier publication I drew from this the following conclusion: [^9] "This seems to indicate that initially those Four Noble Truths were not part of the sermon in Benares, and consequently probably not as central to Buddhism as they came to be. We may surmise that the concise formulation of the teaching of the Buddha in the shape of the Four Noble Truths had not yet come into being, not necessarily that the contents of this teaching deviated from what they were meant to express." In other words, the particularities of the text can be explained with the help of some simple assumptions about the constitution and preservation of the tradition, most probably after the death of the Buddha. VETTER, as we have seen, prefers to explain these same particularities with the help of some altogether different assumptions pertaining to developments in the life of the historical Buddha.
 
 [^6]: FrauWALLNER 1953: esp. pp. 178, 186, 197, 213.
 [^7]: VETTER (1996: 54) supposes, "dass der Buddha erst nach der Realisierung und Verkündigung des schon hier und jetzt ... zu erreichenden 'Todlosen' (amata / amrta) mit der in bestimmten Asketenkreisen lebenden Wiedergeburtslehre bekannt wurde oder sich mit ihr erst dann wirklich auseinandersetzte, nachdem er sie früher, wann immer er von ihr hörte, nie ernst genommen hatte"; so VETTER 1996a: 7; 1997: 42.
@@ -39,7 +58,7 @@ There is a tendency among some scholars to expect that the views of the Buddha o
 
 [^10]: HIRAKAWA 1990: 6.
 
-In this connection we must first deal with Tilmann VETTER's The Ideas and Meditative Practices of Early Buddhism, published in 1988.11 The author tries to reconstruct the Buddha's views on rebirth in the light of beliefs found in Vedic texts. Referring to a paper by Michael WITZEL, [^12] VETTER points out: "The most ancient places found in the Vedas where rebirth is mentioned show only a belief in the other world ... After a stay in heaven a person is reborn as a human being, preferably in his own family" (p. 78). By contrasting ancient Buddhism with these Vedic sources, VETTER believes that he can establish "that according to ancient Buddhism good deeds lead to heaven and bad deeds to the underworld" (p. 77). How does he establish this?
+In this connection we must first deal with Tilmann VETTER's The Ideas and Meditative Practices of Early Buddhism, published in 1988.[^11] The author tries to reconstruct the Buddha's views on rebirth in the light of beliefs found in Vedic texts. Referring to a paper by Michael WITZEL, [^12] VETTER points out: "The most ancient places found in the Vedas where rebirth is mentioned show only a belief in the other world ... After a stay in heaven a person is reborn as a human being, preferably in his own family" (p. 78). By contrasting ancient Buddhism with these Vedic sources, VETTER believes that he can establish "that according to ancient Buddhism good deeds lead to heaven and bad deeds to the underworld" (p. 77). How does he establish this?
 
 On p. 79 VETTER refers to SN 3.21 , which he calls "the sutta on light and darkness". It still reflects, according to VETTER, "the old structure that good or bad conduct in the world of mankind leads either to heaven or to the underworld". A brief summary of the contents of the sutta is meant to show this. It reads: [^13]
 

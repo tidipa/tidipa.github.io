@@ -1,3 +1,20 @@
+---
+title: Shults - A Note on Śramaṇa in Vedic Texts (2016)
+description:
+  This article refutes Christopher Beckwith's claim that the term *śramaṇa* exclusively meant "Buddhist practitioner" in antiquity by demonstrating its pre-Buddhist origins and broader semantic range within the Vedic tradition. Citing evidence from texts such as the *Taittirīya Āraṇyaka*, *Jaiminīya Brāhmaṇa*, and the *Rgveda Saṃhitā*, the author shows that *śramaṇa* was used to mean "one who toils," "weary," or "unwearying" in contexts describing Vedic seers, sacrificial rituals, cattle, and even stones, all unrelated to Buddhism. The author supports and expands upon Patrick Olivelle's "development model," which traces the word's etymology to the Vedic root *√śram* (to toil, become weary), arguing that its various meanings developed organically within Brahmanical circles, thus providing the pre-existing conceptual framework for the term to be later applied to the Buddha and other ascetics.
+tags:
+  - śramaṇa
+  - Vedic texts
+  - Christopher Beckwith
+  - Patrick Olivelle
+  - Etymology
+  - √śram
+  - Development model
+  - Brahmanism
+  - Asceticism
+  - śrāmanaka
+---
+
 # A Note on Śramaṇa in Vedic Texts 
 
 ## Brett Shults

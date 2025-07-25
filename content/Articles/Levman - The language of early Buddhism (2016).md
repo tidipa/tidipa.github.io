@@ -1,3 +1,20 @@
+---
+title: Levman - The language of early Buddhism (2016)
+description:
+  The earliest recoverable language of Buddhism was not a specific regional dialect but a Middle Indo-Aryan (MIA) *koine*, an inter-dialectal common language created through simplification and the leveling of distinct features to facilitate communication. Evidence for this underlying language is found by comparing parallel Buddhist transmissions in Pāli, Gāndhārī, and other Prakrits, where translation errors and ambiguities (hyperforms) point to a shared, phonologically reduced source. Key characteristics of this *koine* include the weakening or elimination of intervocalic stops, the reduction of aspirated stops to simple aspirates, the assimilation of consonant clusters, and the merging of sibilants. The formation of this simplified language was driven not only by the need to harmonize different MIA dialects but was also significantly catalyzed by contact with other languages in the ancient Indian "Sprachbund," such as Dravidian, Munda, and Tocharian, whose speakers lacked features like phonemic voicing or aspirated stops, thereby accelerating the development of a more universally intelligible form of MIA.
+tags:
+  - early Language of Buddhism
+  - koine
+  - lingua franca
+  - linguistic diffusion
+  - language contact
+  - Sprachbund
+  - Middle Indo-Aryan
+  - dialect levelling
+  - hyperforms
+  - phonology
+---
+
 # The language of early Buddhism
 
 [The language of early Buddhism](https://www.researchgate.net/publication/296633207_The_language_of_early_Buddhism?enrichId=rgreq-82dca91d5b3cbbb3854bc16cd12cf4f7-XXX&enrichSource=Y292ZXJQYWdlOzI5NjYzMzIwNztBUzo4NzMzODIwMTkwNzIwMDJAMTU4NTI0MTkwODMzMw%3D%3D&el=1_x_3&_esc=publicationCoverPdf)

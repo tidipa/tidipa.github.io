@@ -1,3 +1,24 @@
+---
+title: Norman - Aspects of Early Buddhism (1990)
+description:
+  In early Buddhism, the denial of a permanent self (attā) raises the question of what transmigrates through saṃsāra, with the Buddha refuting the idea of a permanent consciousness (viññāṇa) and instead proposing the doctrine of dependent origination (paṭicca-samuppāda). This causal chain explains how suffering arises from conditions like ignorance (avijjā) and craving (taṇhā), and liberation (nibbāna) is achieved by breaking this chain. The Pāli canon presents multiple, sometimes conflicting, paths to this goal, including the Buddha's own attainment of bodhi through meditative states (jhānas) and the destruction of the āsavas ("afflictions"), and the more widely taught Eight-Fold Path which leads to the cessation of suffering (dukkha-nirodha). Ultimately, nibbāna is not a state of being for a soul but is described as the uncompounded (asaṅkhata) and indescribable reality that remains when the conditioned elements (khandhas) that constitute an individual cease, thus ending the cycle of rebirth.
+tags:
+  - anattā
+  - āsava
+  - bodhi
+  - dependent origination
+  - dukkha
+  - Eight-Fold Path
+  - jhāna
+  - nibbāna
+  - paṭicca-samuppāda
+  - Pāli canon
+  - saṃsāra
+  - saṅkhāra
+  - Theravāda Buddhism
+  - viññāṇa
+---
+
 # Aspects of Early Buddhism
 
 K.R. Norman

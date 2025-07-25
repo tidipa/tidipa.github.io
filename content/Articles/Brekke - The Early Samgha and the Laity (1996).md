@@ -1,3 +1,22 @@
+---
+title: Brekke - The Early Saṃgha and the Laity (2019)
+description:
+  The early Buddhist Saṃgha transformed from an open, conversionist movement that actively competed for followers into a more withdrawn, introversionist community due to the influx of members with extrinsic, or worldly, motivations. Citing the Vinayapitaka, the author shows that many people joined the order not for spiritual reasons but to escape poverty, debt, punishment, or simply to secure a comfortable life, which threatened the Saṃgha's purity and reputation among the laity. In response, the Saṃgha developed introversionist measures to protect its integrity, including stricter admission procedures, detailed rules for appearance and conduct to ensure monks appeared dignified and aloof, an emphasis on internal unity to prevent schisms, and the establishment of fixed monastic dwellings that physically separated the community from the world. This created a self-enforcing cycle where the Saṃgha's cultivated purity attracted greater lay support, which in turn made it a more appealing refuge for extrinsically motivated individuals, necessitating a continuous process of purification to maintain its stability.
+tags:
+  - Early Buddhism
+  - Saṃgha
+  - Laity
+  - Vinayapitaka
+  - Sociology of religion
+  - Conversionism
+  - Introversionism
+  - Extrinsic motivation
+  - Monasticism
+  - Purity
+  - Admission rules
+  - Lay support
+---
+
 # The Early Saṃgha and the Laity [^1]
 
 Torkel Brekke 

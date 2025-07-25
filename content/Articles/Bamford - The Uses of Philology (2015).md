@@ -1,3 +1,21 @@
+---
+title: Bamford - The Uses of Philology - A Case Study in Popularising Buddhism (2015)
+description:
+  This paper critiques the use of a philologically unsound translation of a Buddhist text within UK public policy discourse, specifically by the Royal Society of Arts (RSA) in its "Spiritualise" report. The author, Geoffrey Bamford, traces a popularised quote about "ground" and "place" to Stephen Batchelor's idiosyncratic translation of the Ariyapariyesanāsutta, which misinterprets the Pali word *ālaya* (clinging/attachment) as "place" and the common word *ṭhāna* (state/fact) as "ground." This error creates an existentialist concept of a "groundless ground" that is alien to the apophatic nature of the Pali canon. Bamford argues that while the popularisation is inaccurate, its influence demonstrates a significant Western appetite for Buddhist ideas, suggesting that the very aspects of Buddhism that challenge ingrained cultural habits of thought are precisely what make it appealing, even when misunderstood.
+tags:
+  - Philology
+  - Buddhism in the West
+  - Translation
+  - Public policy
+  - Spirituality
+  - Stephen Batchelor
+  - Royal Society of Arts (RSA)
+  - Ālaya
+  - Ṭhāna
+  - Ariyapariyesanā sutta
+  - Existentialism
+---
+
 # The Uses of Philology: A Case Study in Popularising Buddhism 
 
 Geoffrey Bamford

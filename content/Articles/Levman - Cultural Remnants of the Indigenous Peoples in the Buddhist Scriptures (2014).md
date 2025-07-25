@@ -1,3 +1,27 @@
+---
+title: Levman - Cultural Remnants of the Indigenous Peoples in the Buddhist Scriptures (2014)
+description:
+  Bryan Levman's article argues that Buddhist scriptures contain significant cultural remnants from India's indigenous Munda, Dravidian, and Tibeto-Burman peoples, which have been obscured by a later "brahmanization" that historicized the Buddha within the dominant Indo-Aryan (IA) tradition. The author identifies this indigenous influence by examining the hostility between IA immigrants and eastern ethnic groups like the Buddha's Sakya clan, whose distinct socio-political organization (*gaṇasaṅgha*), rejection of the Brahmanical class system, and non-Aryan marriage customs are evident in the texts. Furthermore, key Buddhist concepts and practices are traced to autochthonous roots, including the idea of the *Mahāpuruṣa* (Great Man), the veneration of trees and serpents (*nāgas*), the culture of sacred groves, and the unique funeral rites described for the Buddha's *parinibbāna*, all of which differ significantly from Vedic norms.
+tags:
+  - Cultural diffusion
+  - Linguistic diffusion
+  - Indigenous peoples
+  - Autochthonous culture
+  - Brahmanization
+  - Historicization
+  - Indo-Aryan
+  - Munda
+  - Dravidian
+  - Sakya clan
+  - Mahāpuruṣa
+  - Tree worship
+  - Serpent worship
+  - nāga
+  - Funeral rites
+  - parinibbāna
+  - South Asian Linguistic Area
+---
+
 # Cultural Remnants of the Indigenous Peoples in the Buddhist Scriptures
 
 [Cultural Remnants of the Indigenous Peoples in the Buddhist Scriptures](https://www.researchgate.net/publication/276914202_Cultural_Remnants_of_the_Indigenous_Peoples_in_the_Buddhist_Scriptures?enrichId=rgreq-c9d7b37a80491a2a5f2ddeb75997983c-XXX&enrichSource=Y292ZXJQYWdlOzI3NjkxNDIwMjtBUzo0NjA5OTQwMzMwMDA0NDhAMTQ4NjkyMDk1MDg4OA%3D%3D&el=1_x_3&_esc=publicationCoverPdf)

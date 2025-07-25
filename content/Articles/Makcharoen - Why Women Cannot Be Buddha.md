@@ -1,3 +1,20 @@
+---
+title: Makcharoen - Why Women Cannot Be Buddha? (2018)
+description:
+  According to the text, the assertion that only men can be enlightened as a Buddha is not based on spiritual inferiority but on practical and contextual factors. The path to Buddhahood requires fulfilling the eight qualifications of Dhammasamothan, one of which is masculinity. This requirement stems from four main considerations - the physically demanding duties and missions of a Buddha, which involve constant travel and teaching; the natural sufferings and physical nature of women, such as menstruation and pregnancy, which are seen as obstacles; the social and cultural conditions of ancient India, where a female leader would not have been accepted, thus hindering the religion's propagation; and the need to support male followers by avoiding the potential for infatuation. Therefore, while women and men have equal potential to perform meritorious acts, the specific role of a Buddha is considered suitable only for a man, and a woman aspiring to this path must first be reborn in a male form.
+tags:
+  - Buddha
+  - Women
+  - Theravada Buddhism
+  - Dhammasamothan
+  - Masculinity
+  - Tripitaka
+  - Gender
+  - Buddhahood
+  - Social conditions
+  - Bodhisattva
+---
+
 # Why Women Cannot Be Buddha?[^1]
 
 Pairor Makcharoen,[^a] Klairung Iso[^a]

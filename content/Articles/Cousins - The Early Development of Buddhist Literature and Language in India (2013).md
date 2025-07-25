@@ -1,3 +1,22 @@
+---
+title: Cousins - The Early Development of Buddhist Literature and Language in India (2013)
+description:
+  L.S. Cousins re-examines the early development of Buddhist literature, arguing that the Pali Canon was first systematically written down not in Ceylon, but on the Indian mainland around the first century B.C. before being imported to the island. This written canon was based on a largely non-sectarian oral tradition of chanted texts (*bhāṇaka* tradition) that had been developing since the Buddha's time (c. 400 BCE), and its initial contents included the four main Nikāyas, Vinaya, Abhidhamma, and several Khuddakanikāya texts. The language used was not a spoken dialect but an evolving written lingua franca, which Cousins terms 'Old Pali,' derived from a post-Asokan epigraphic Prakrit. This written language subsequently underwent a process of Sanskritization, becoming 'Hybrid Pali,' before being standardized into the classical Pali we know today by commentators around the fourth or fifth century A.D., who consistently referred to it as Māgadhī.
+tags:
+  - Pali Canon
+  - Oral tradition
+  - Bhāṇaka
+  - Brāhmī script
+  - Dīpavaṃsa
+  - Vaṭṭagāmani
+  - Māgadhī
+  - Epigraphic Prakrit
+  - Sanskritization
+  - Asoka
+  - Khuddakanikāya
+  - Textual transmission
+---
+
 # The Early Development of Buddhist Literature and Language in India [^1] 
 
 L.S. Cousins

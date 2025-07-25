@@ -191,6 +191,8 @@ There has been several attempts to reestablish bhikkhunī ordination in various 
 
 Thailand still does not recognise female ordination and in fact punishes not only aspirant female nuns but punish and expel the male monks who assist them. For a summary of the situation refer to [Seeger - The Bhikkhunī-ordination controversy in Thailand (2006)](<../Articles/Seeger - The Bhikkhunī-ordination controversy in Thailand (2006).md>) [@Seeger2006].
 
+It is certainly disappointing to see recent articles such as [Makcharoen - Why Women Cannot Be Buddha? (2018)](<../Articles/Makcharoen - Why Women Cannot Be Buddha.md>) trying to justify historic Buddhist opinion of women, even to the point of claiming women cannot be Buddhas (a statement that as far as know the Buddha never made).
+
 ## The ten abstinences
 
 Buddhists sometimes suggest that the Buddha has an ethical framework, such as the 10 training rules for novices (`sikkhāpadāni`) in [3V/1.42 Sikkhāpadakathā](https://tipitaka2500.github.io/tipitaka/3V/1/1.42.html):

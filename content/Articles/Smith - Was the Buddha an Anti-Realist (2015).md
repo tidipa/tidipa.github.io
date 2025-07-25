@@ -1,3 +1,24 @@
+---
+title: Smith - Was the Buddha an Anti-Realist (2015)
+description:
+  This article argues against the view that the Buddha was an anti-realist, a position supported by scholars like Alex Wynne and Noa Ronkin who interpret apophatic passages in early texts, particularly the *Atthakavagga*, as a rejection of a mind-independent reality. The author contends that such interpretations take verses out of their broader, more cataphatic context, and that enigmatic statements about perception (*saññā*), views (*diṭṭhi*), and consciousness are better understood as psychological critiques of clinging and descriptions of jhānic meditation states rather than as metaphysical claims about an ineffable or constructed reality. In contrast, the author suggests the Buddha propounded an incomplete or "inchoate" metaphysics with realist leanings, pointing to the concept of contact (*phassa*) which implies distinct mental and physical entities, the assertion of the body's greater stability than the mind, and the objective truth-status of core doctrines like the Four Noble Truths. Ultimately, the Buddha's philosophy is presented as primarily ethical and soteriological, employing a pragmatic, non-foundationalist approach with a realist framework sufficient to ground his teachings on compassion and the path to ending suffering.
+tags:
+  - Realism
+  - Anti-realism
+  - Apophatic
+  - Pāli Nikāyas
+  - Atthakavagga
+  - Metaphysics
+  - Ontology
+  - Phassa (contact)
+  - Saññā (perception)
+  - Jhāna
+  - Soteriology
+  - Process Philosophy
+  - Diṭṭhi (views)
+  - Semantic Realism
+---
+
 # Was the Buddha an Anti-Realist? [^1]
 
 Douglass Smith
