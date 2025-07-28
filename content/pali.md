@@ -45,9 +45,9 @@ Norman further explains that the multiple dialects of MIA are due to successive 
 By the time of the Buddha, there were at least three MIA dialects in use in the Greater Magadha region and beyond: a "Western" dialect, an "Eastern" dialect and a "North Western" dialect (Gāndhārī). The Buddha may have known all three dialects, and they were very similar to each other. [@Karpik2019] regards them as "mutually intelligible" by native speakers of any of the dialects, although this is contested by [@Levman2019b].
 
 According to [@Levman2014], the Shakya tribe which the Buddha belonged in had a separate socio-political organisation, religious
-and cultural values from the Indo-Aryans, so it is unclear what language the Buddha would have spoken or taught in. It is also unclear to what extent the Buddha was exposed to Brahmanism and therefore his knowledge of Sanskrit would have been questionable. He may have used a mixture of MIA dialects and indigeneous languages, depending on his audience.
+and cultural values from the Indo-Aryans, so it is unclear what language the Buddha would have spoken or taught in. It is also unclear to what extent the Buddha was exposed to Brahmanism and therefore his knowledge of Sanskrit would have been questionable. He may have used a mixture of MIA dialects and indigenous languages, depending on his audience.
 
-However, given the Khandhaka shows the Buddha interacting with future royal and wealthy benefactors, the Buddha may probably have spoken in the Western MIA dialect, which is regarded as more prestigious. In any case, what we know of as `pāli` today would seem to be closest to the Western dialect, but mixed in with words and inflection forms from the other dialects.
+However, given the Khandhaka shows the Buddha interacting with royal and wealthy converts and benefactors, the Buddha may probably have spoken in the Western MIA dialect, which is regarded as more prestigious. [@Karpik2019] In any case, what we know of as `Pāḷi` today would seem to be closest to the Western dialect, but mixed in with words and inflection forms from the other dialects.
 
 There are debates about the origin of Pāḷi, whether it was in fact a real language
 actually spoken by people, as opposed to an "invented" or "ecclesiastical" language specifically
@@ -55,7 +55,13 @@ for the purposes of recording Buddhist doctrine. [@Levman2016] wrote:
 
 > As is well known, Buddhaghosa equated Pāli (P) with Māgadhī but we know that Pāli is a composite dialect, and although it contains elements of what is probably an eastern dialect that the Buddha may have spoken, it is nevertheless not an “original language of Buddhism” but a translation of something earlier. It is usually characterized as a western dialect, but in fact, if closely analysed, it contains elements of both eastern, western, and northwestern dialects – it is a mixed language created by monks, normalized for religious purposes.
 
-Although Pāḷi is most similar to the "Western" MIA dialect, there are signs that it has been transformed and "Sanskritised" over the years (by well meaning Sanskrit-trained editors and scribes no doubt trying to "correct" what they perceive to be spelling and grammatical "mistakes") so it is no longer a pure version of the dialect that the Buddha would have spoken, so it is at least partially an "artificial" language. The morphology and grammar of Pāḷi was formalised by various grammarians in the 6th-12th centuries (with Kaccāyana being the first such work) and it is likely the texts were altered to conform to the "normative" grammar as described by grammarians.
+Pāḷi also contains a broad spectrum of loanwords from autochthonous languages such as Dravidian and Munda. This is especially evident with respect to plants, animals, customs and practices, slang words, and proper names which were foreign to the IA immigrants. Even some inflection forms (such as the absolutive or `-tvā` suffix) have been considered to be Dravidian in origin and imported into Sanskrit and MIA dialects. [@Levman2014]
+
+[@Levman2014] adds that many grammatical features of Pāḷi and MIA dialects reflect conventions from autochthonous languages:
+
+> The above is only a sampling of some of the more conspicuous features of the Indic linguistic area; there are many others: causative verb structure, basic subject-object-verb word order; postpositions; goals of verb of motion, adverbial and infinitive complements which go in the object position; adjectives, genitive phrases, demonstratives and numerals which precede the noun they modify; qualifiers which precede adjectives; use of genitive for the verb ‘to have’; use of dative to express internal states of mind; caste system terminology similarities, and more.
+
+Although Pāḷi is most similar to the "Western" MIA dialect, there are signs that it has been transformed and "Sanskritised" over the years (by well meaning Sanskrit-trained editors and scribes no doubt trying to "correct" what they perceived to be spelling and grammatical "mistakes") so it is no longer a pure version of the dialect that the Buddha would have spoken, and it is at least partially an "artificial" language. The morphology and grammar of Pāḷi was formalised by various grammarians in the 6th-12th centuries (with Kaccāyana being the first such work) and it is likely the texts were altered to conform to the "normative" grammar as described by grammarians.
 
 As [@Norman1997] points out:
 
@@ -65,10 +71,9 @@ As [@Norman1997] points out:
 
 > The early works of Buddhism had been written in various Prakrits, but the growing prestige of Sanskrit led to an attempt to re-write these texts in Sanskrit. The success of such a translation process varied from sect to sect, and we find a variety of Sanskritised Prakrits which are generally referred to as Buddhist Hybrid Sanskrit, although it must be made clear that there is no one form of that language. The writing down of the Pāli canon in the first century B.C. probably put an end to the wholesale restoration of Sanskrit forms into the language of the Theravādin canon.
 
-More recently, [@Karpik2019] has disagreed with the above view, and advances a hypothesis that Pāḷi, or something very close to it, was actually spoken by the Buddha. [@Levman2019b] disagrees, and argues what the Buddha spoke may have been a "koine", or an inter-dialect lingua franca that was commonly used for administration, trade and commerce. [@Levman2016] This view has also been previously articulated by [@Cousins2013]. Regardless, Pāḷi texts probably represent the closest we will get to what might have been the Buddha's original words.
+More recently, [@Gombrich2018] suggests "Pāli reflects the idiosyncratic language used by the Buddha as he toured northeast India". [@Karpik2019] offers a similar hypothesis that Pāḷi was in fact originally the Western MIA dialect, which was actually spoken by the Buddha. [@Levman2019b] disagrees, and argues what the Buddha spoke may have been a "koine", or an inter-dialect "lingua franca" that was commonly used for administration, trade and commerce. [@Levman2016] This view has also been previously articulated by [@Cousins2013]. [Hinüber1996] raises the interesting possibility that the "lingua franca" may have been created after the Buddha died, by compilers of his teachings in order to standardise the texts. Regardless, Pāḷi texts probably represent the closest we will get to what might have been the Buddha's original words.
 
-The term "Pāḷi" actually
-just means "text", and today "Pāḷi" is used primarily for Buddhist literature.
+The term "Pāḷi" actually just means "text", and today "Pāḷi" is used primarily for Buddhist literature.
 
 Pāḷi, like most other Indo-Aryan languages, is an oral language spoken as
 `vākya` (sentences) made up of `vacana` (words) which are a combination of
@@ -236,17 +241,14 @@ attention to his words simply because of the different order.
 
 ## `dhātu` (roots)
 
-Fundamentally, all lemmas in Pāḷi are said to be derived from one or more `dhātu`
+Fundamentally, most lemmas in Pāḷi are said to be derived from one or more `dhātu`
 (roots). These roots are similar to Sanskrit roots. Pāḷi can be regarded as
 a simplified version of Sanskrit, however some of the roots may have different
 meanings, or nuances. There are some that say Sanskrit was a "sacred" or "divine" language
 reserved for priests and members of the holy caste, whereas Pāḷi, along with
-many other Indian languages, was spoken by the common people. Opinions vary whether
-Pāḷi was an actual language spoken by the Buddha, or whether it was an aggregation
-of various dialects spoken in India. In any case, The Buddha may
-have spoken in a dialect common to the area that he lived and travelled in,
-because he wanted to convey his teachings to ordinary
-people, not just privileged members of a particular caste.
+many other Indian languages, was spoken by the common people.
+
+Some lemmas, however, are words borrowed from other languages, possibly indigenous to the region the Buddha grew up or taught in. These lemmas are obviously not derived from Sanskrit roots. Examples include names of villages, people names, animal names, farming words and slang words, etc. [@Levman2014]
 
 `dhātu` can have 1-3 syllables:
 

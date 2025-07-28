@@ -37,6 +37,10 @@ This makes the Khandhaka a fascinating window into possibly the earliest of Budd
 
 Frauwallner theorises that the Khandhaka may have written by a single individual. The highly organised and structured framework of the collection, as well as consistent literary style, all points to a single author. The author may have gathered various sources and weaved them into a single long narrative, and perhaps may have inserted original material to pad between the various sections to create a coherent whole. Frauwallner speculates that the author may have been formerly a brahmin, as the structure of the collection somewhat mirrors Vedic texts and the story of Buddha's life is peppered with various brahmanical references and characters.
 
+[@Hinüber1996] adds:
+
+> The existence of a structure comprising the whole Khandhaka at the same time means that this is the first successful attempt to compose a really long text in the history of old Indian literature, longer still than the Mahāparinibbānasuttanta.
+
 Frauwallner concludes:
 
 > We have to imagine the rise of the old Skandhaka work about on the following lines. In the 4 th century B. C. some outstanding specialist of the Vinaya undertook to collect in a definitive form the Buddhist monastic rules. He did not limit himself to collecting the material and giving it a clear arrangement, but tried also to put it in a form which would make his work the equal of the great Vedic texts. He placed the single precepts in the mouth of the Buddha, enlivened the exposition in the manner of the Brāhmaṇa texts through inserted legends and knitted the whole into a solid unity, by embedding it into the framework of a biography of the Buddha. Moreover, in order to bestow on his work the same sanctity as was attached to the Vedic texts which were attributed to the great seers of yore, he invented the legend of the first council, in which the foremost disciples of the Buddha were said to have collected in an authoritative form the words of the Master immediately after his death, and he led his work back to this collection through a list of teachers. In this way he created a work planned and executed on a large scale, which had no rivals in the Buddhist literature of the time and well deserved to be placed to the side of the Vedic texts, and even surpassed them by the logicity of its structure and by its striking framework.
@@ -46,6 +50,10 @@ Note from the above that Frauwallner believes the First Council is a fabrication
 In terms of the actual content of the Khandhaka, Frauwallner summarises:
 
 > The author had a rich and varied material available for his work. Firstly, collections of the monastic rules were already extant. This is no wonder, because a gigantic work like this is not created suddenly out of nothing. This material was already shaped into form and was, at least partly, enclosed into the frame of an instruction by the Buddha to his earliest disciples. He had also available narratives elucidating the Prātimokṣa, like those in the extant Vibhanga. Moreover, he could also draw from a rich Sutra tradition; he utilized Sutra which can be found in the extant canonical collections.
+
+[@Hinüber1996] agrees that both accounts of the First and Second Councils are probably later additions:
+
+> Finally, the accounts of the councils may have been added as an appendix. Particularly the account of the second council may have belonged originally to a non-Theravāda tradition, as Lamotte stresses, although no actual split of the Theravāda tradition is mentioned here. The terminology also differs from what is common in Theravāda: Formulations such as kappati ... singilonakappo, Vin II 306,13 are otherwise alien to the language of the Vinaya, but astonishingly near to the Jaina Kappasutta. Further, the monks obviously do not understand all the key words, which are unknown or at least unfamiliar to them, with the exception of the last two: the Theraväda Vinaya experts have to ask for an explanation for eight out of ten items as stressed by Lamotte.
 
 Can we then identify the sources that the author has drawn from, and in doing so identify the earliest suttas in the canon? Unfortunately, this is not so simple:
 
@@ -63,6 +71,8 @@ Based on Frauwallner's hypothesis that the author fabricated the First Council b
 
 I am not entirely convinced by Frauwallner's hypothesis. I agree that the author was a prominent figure in the Buddhist community, and most likely was born a brahmin and studied the Vedic texts. However, there is no direct evidence he was present at the Second Council.
 
+Furthermore [@Hinüber1996] points out that "... the monks obviously do not understand all the key words, which are unknown or at least unfamiliar to them" which would imply the account was written much later than the events of the Second Council.
+
 In the Sri Lankan tradition (eg. from sources such as the Mahāvaṃsa), Moggaliputta-Tissa – who is patronised by Emperor Ashoka – sent out nine Buddhist missions to spread Buddhism in the "border areas" in c. 250 BCE. A part of this story is corroborated by archaeological evidence - three of the names of the monks mentioned in the _Vinaya Nidana_ have been found inscribed on relic caskets found at Bhilsa (near Vidisha). These caskets are dated to the early 2nd century BCE.
 
 I am inclined to place the work at roughly this time rather than earlier because as Bronkhorst points out in [@GreaterMagadha] that according to Patanjali the brahmins did not widely settle in the area east of the Ganges even a millennium after the time of the Buddha, so it would have been unlikely that Buddhism encountered a lot of opposition in terms of Brahmanism in the early days. However, it is likely the Vidiśā (Vidisha) community where the missions possibly originated from had encountered brahmins, and therefore the brahmanical references in the Khandhaka (and also in significant parts of Suttapiṭaka) could have been composed around this time.
@@ -70,6 +80,12 @@ I am inclined to place the work at roughly this time rather than earlier because
 Therefore, I think it's more likely Khandhaka was specially commissioned for the purposes of creating a consistent Vinaya to be promulgated via the missions, or at least was revised for the occasion at this time (based on earlier versions). The author was probably part of the Vidiśā community and may even have been a leader of one of the missions.
 
 [@flood2007] states: "the formation of Śaiva traditions as we understand them begins to occur during the period from 200 BC to 100 AD." The Śaiva tradition focused on the worship of Shiva (Sanskrit: `śiva`) as the supreme being. The Khandhaka contains at least two references to Shiva worship - the encounter with the fire worshipping Kassapa brothers and their dreadlocked ascetic followers, and Angulimāla who Gombrich claims is a Shiva follower in [@HowBuddhismBegan]. This means it's unlikely the Khandhaka could have been written too much earlier than 200 BCE. This further strengthens the possibility that the Khandhaka was specially commissioned to accompany the missions.
+
+### The Evolution of the Khandhaka
+
+[@Hinüber1996] writes:
+
+> A preliminary model of the development of Suttavibhanga and Khandhaka may be sketched as follows: First the Pātimokkhasutta is created by incorporating older pre-Buddhist material, mostly by reformulating the rules, and by providing the framework necessary for recitation that is the introduction to the individual rules and the connecting texts between the groups of rules. Then a commentary on this text develops, of which a part survives in the Mahāvagga. Perhaps roughly contemporary is a first draft of the Khandhaka, possibly having only ten chapters, by which the growing Suttavibhanga is influenced. The introductory stories are developed, which do not always understand the rules correctly. This points to a certain distance in time between these two parts of the Suttavibhanga. Here it is important to note that there are no such misunderstandings in the Khandhaka, because the author(s) could drop rules no longer understood, which is not possible in the fixed Pātimokkhasutta: suttam hi appativattiyam, Sp 231,26 "for it is impossible to revoke the (Patimokkha-)sutta." At this point there may have been a revision of the Khandhaka, to which the highly technical and later (?) legal chapters are added and thus the number of twenty chapters is reached. The original introduction to the Suttavibhanga is replaced and brought into the Mahāvagga.
 
 ## The character of the Buddha based on the Khandhaka
 
@@ -79,7 +95,11 @@ The Buddha is also clearly a human being, and not omniscient, in the Khandhaka. 
 
 In [7D/3.35 Tathāgatapacchimavācā](https://tipitaka2500.github.io/tipitaka/7D/3/3.35.html), we learn that the Buddha wished for some of the "minor" rules espoused in the Khandhaka to be abolished after his death, but in the First Council the participants could not agree which were the minor rules the Buddha was thinking about, so they ended up keeping all the rules. This is an indication that none of the 500 arahants present at the First Council were omniscient either.
 
-More importantly, the Buddha was prone to illness, frustration (at perceived misbehaviours in the community), and he needed food, rest and sleep like all of us. Again, unlike suttas where the Buddha is depicted as a Perfect, Omniscient Being with 32 great marks or features, here he is simply an ordinary man, with imperfections. This is a strong indication that the Buddha's liberation was a mundane realisation, from a rational thought process, and was not a spiritual or mystical attainment.
+More importantly, the Buddha was prone to illness, frustration (at perceived misbehaviours in the community), and he needed food, rest and sleep like all of us. Again, unlike the parallels to the Khandhaka where the Buddha is depicted as a Perfect, Omniscient Being with 32 great marks or features, here he is simply an ordinary man, with imperfections. This is a strong indication that the Buddha's liberation was a mundane realisation, from a rational thought process, and was not a spiritual or mystical attainment.
+
+[@Levman2014] describes that the close parallels of the Khandhaka bear significant alterations:
+
+> In Aśvaghosa’s Buddhacarita, the Lalitavistara, the Mahāvastu, and the Nidānakathā, the Buddha’s biography is thoroughly ‘brahmanized’ — inter alia, his father is portrayed as a kṣatriya king with his own retinue of brahman priests; the young Buddha is represented as the fulfillment of a long line of famous brahmanical and Vedic ancestors; he is given a brahmanical gotta (family or clan name), Gotama; recognized as a Mahāpuruṣa (P. Mahāpurisa) by the court purohitas (priests) with all the marks of a great man, ‘handed down in our Vedic mantras’ (āgatāni … amhākam mantesu); likened to the Vedic gods; and administered the saṃskāras (sacred Vedic rites) starting with the naming ceremony (Rhys Davids, 1878, 160; Cowell 1895, 8–9 Olivelle 2008, 15–17, 23).
 
 ## Focus - the Buddha's biography from awakening
 

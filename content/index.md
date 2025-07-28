@@ -21,7 +21,7 @@ What is meant by a **new, open source, independent, *rational* English translati
 * It is **new** because it is a fresh (2025) translation based on [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io) which I have resurrected as a website in 2025.
 * It is **open source** as the license for the translations have no copyright, ie. they are dedicated to the public domain via [CC0](https://creativecommons.org/publicdomain/zero/1.0/). CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions. Please note that only the translations are CC0, the included articles and books from other sources are copyright by their respective authors, and the source code of the website itself is under the MIT license.
 * It is **independent** of academic institutions, organisations or religious affiliations.
-* It is **rational** because it is provides a literal interpretation of the texts, based on the [Digital Pali Dictionary](https://digitalpalidictionary.github.io), and it is intended to be as faithful as possible, retaining Buddhist technical terms in Pāḷi (rather than opting for the nearest equivalent English words).
+* It is **rational** because it is provides a literal interpretation of the texts, based on the [Digital Pali Dictionary](https://digitalpalidictionary.github.io), using a philological approach. It is intended to be as faithful as possible, retaining Buddhist technical terms in Pāḷi (rather than opting for the nearest equivalent English words).
 
 It is also **rational** because it makes the presumption that the Buddha's teachings:
 
@@ -37,7 +37,7 @@ Features of the translation:
 
 * The original Pāli text (from [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)) is provided alongside the translated text.
 * Diagrams summarising each section of the text are provided. These are drawn as pseudo [UML](https://www.uml.org) and related diagrams.
-* A commentary (representing my personal opinion) is provided to explain significant points of the text from a rational perspective.
+* A commentary (representing my personal opinion and a survey of published opinions) is provided to explain significant points of the text from a rational perspective. Note that the commentary sometimes present multiple, competing views and may not provide a settled answer to some issues, and there are still significant points of contention in the interpretations of some texts.
 * Where possible, parallels to the text are provided, as well as other opinions of the text by academic scholars. These opinions are included in this website where permissible by copyright (ie. the text is downloadable or open access)
 
 > [!NOTE]
