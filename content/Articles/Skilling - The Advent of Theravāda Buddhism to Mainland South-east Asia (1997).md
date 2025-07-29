@@ -19,7 +19,7 @@ tags:
 
 # The Advent of Theravāda Buddhism to Mainland South-east Asia[^*]
 
-Peter Skilling 
+Peter Skilling
 
 JIABS Vol 20 Issue 1 pp. 93-107
 
@@ -36,7 +36,7 @@ For the South-east Asia of the early period we do not have any historical record
 [^2]: See Skilling 1987, 1993a and b, and 1994 for some examples from Tibetan sources.
 whether in Pāli, Sanskrit, or in vernaculars survive. The few extant historical inscriptions do not give us any continuous history, and Chinese reports tell us little about the type of Buddhism practised on the mainland.
 
-## Pāli Inscriptions from Burma and Siam 
+## Pāli Inscriptions from Burma and Siam
 
 The main evidence for the school-affiliation of early Buddhism in Southeast Asia comes from Pāli inscriptions. These are known from two main areas: the Pyu kingdom of Śrikṣetra in the vicinity of Prome in the lower Irrawaddy valley of Burma, and the Mon kingdom of Dvāravatī in the Chao Phraya basin of Siam. [^3] The inscriptions from Burma are engraved on gold plates (fashioned in imitation of palm-leaf manuscripts), a silver reliquary (stūpa), terracotta tablets, and stone slabs. The inscriptions from Siam are engraved on stone dhammacakkas, octagonal pillars, stone slabs, and clay tablets and reliquaries. The script used in both cases is similar, and may be described as a variety of the South Indian Pallava script. [^4] The Śrikṣetra inscriptions are dated to the 5th to 7th centuries CE, the Siamese inscriptions to the 6th to 8th centuries: that is, they are broadly contemporary. [^5]
 
@@ -102,9 +102,9 @@ From the point of view of both language and contents, I conclude that the Pāli 
 [^21]: Stargardt (p. 200) remarks of the relic chamber of the "Khin Ba mound," the source of a 20 -leaf golden Pāli text: "although many other relic chambers were discovered at Śrī Kṣetra, this was the only one to survive intact, and its contents exceeded-in number, quality of workmanship, and concentration of precious metals and stones-even the relic chamber of the Bhattiprolu stūpa in Andhra."
 [^22]: The practice of Mahāyāna is compatible with any of the Vinaya schools, including the Theravāda, and brahmans played (and continue to play) an active role in South-east Asian "Buddhist" societies, both court and common. The schools or religious groups should be regarded as interactive and complementary rather than mutually exclusive. For Avalokiteśvara in South-east Asia see Chutiwongs 1984 (especially ch. 3 on Burma and ch. 4 on Central Thailand) and Chutiwongs and Leidy 1994; for brahmanism in the region see Dawee 1982.
 
-## The Question of Origins 
+## The Question of Origins
 
-The Theravādin samgha of Ceylon was divided into two main rival branches, the Mahāvihāravāsins and Abhayagirivāsins. After more than a thousand years of contention for legitimacy and patronage, the former won out, and absorbed the monks and monasteries of the latter. Most regrettably for our purposes, the literature of the Abhayagiri, which included a chronicle of the school, was allowed (or perhaps encouraged) to disappear, with the result that no undisputed Pāli text of the school survives. [^23] The Theravāda that we know today is the Mahāvihāra tradition, as settled by the time of the prolific commentator Buddhaghosa in the 5th century. The later Pāli literature of the sub-commentaries ( $t \bar{i} k \bar{a} s$ ) and manuals, although subject to further development and a variety of influences, also belongs to the Mahāvihāravāsin lineage.
+The Theravādin samgha of Ceylon was divided into two main rival branches, the Mahāvihāravāsins and Abhayagirivāsins. After more than a thousand years of contention for legitimacy and patronage, the former won out, and absorbed the monks and monasteries of the latter. Most regrettably for our purposes, the literature of the Abhayagiri, which included a chronicle of the school, was allowed (or perhaps encouraged) to disappear, with the result that no undisputed Pāli text of the school survives. [^23] The Theravāda that we know today is the Mahāvihāra tradition, as settled by the time of the prolific commentator Buddhaghosa in the 5th century. The later Pāli literature of the sub-commentaries (tīkās) and manuals, although subject to further development and a variety of influences, also belongs to the Mahāvihāravāsin lineage.
 
 Both schools maintained contacts with India: with Kāñcīpuram, Andhradeśa, and Magadha. Is there any evidence for the presence of either school in early South-east Asia? The canonical inscriptionsincluding the Abhidhamma "extracts"-could belong to either the Abhayagirivāsins or the Mahāvihāravāsins, since both are believed to have transmitted a similar canon in Pāli, and both held broadly similar tenets and used a similar technical vocabulary. [^24] It seems that the Abhayagiri also transmitted the Patisambhidämagga, or at least a similar text, since passages cited in the Vimuttimagga (for which see below) have parallels in that work. The näbädhakam yato dukkham verses, known at present only from Mahāvihāra texts such as the Visuddhimagga, are given in citation, and are not original to the works in question: that is, they originate from an earlier text that may have been accepted by both schools.
 
@@ -163,7 +163,7 @@ There is certainly evidence of the presence of Buddhism in the early period: sto
 [^48]: Boisselier 1966, 97.
 [^49]: Boisselier 1966, 300. For "Saintes Empreintes" in Cambodia, see Boisselier's §§ 219, 256-57, 303, and Fig. 70.
 
-## BIBLIOGRAPHY 
+## BIBLIOGRAPHY
 
 References to Pāli texts are to the editions of the Pali Text Society, by page and line or by verse. BSR = Buddhist Studies Review (London); IIJ = Indo-Iranian Journal; JPTS = Journal of the Pali Text Society (Oxford); JSS = Journal of the Siam Society (Bangkok).
 

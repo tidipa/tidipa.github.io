@@ -15,11 +15,11 @@ tags:
   - Étienne Lamotte
 ---
 
-# A Historical Buddha After All?[^*] 
+# A Historical Buddha After All?[^*]
 
 David Drewes
 
-Journal of the International Association of Buddhist Studies 
+Journal of the International Association of Buddhist Studies
 Volume 46 • 2023 • 401–416 • doi: 10.2143/JIABS.46.0.3293167
 
 In a previous paper for this journal, I argued that scholars have not yet identified any good reason to think the Buddha was a historical figure and that we should no longer treat him as such. To get from the goldskinned, blue-haired, forty-toothed, teleporting, omniscient, and nearly omnipotent being of the early texts to a figure we can situate in history requires a long leap, and we lack the evidence to cover it. While the early tradition may perhaps have coalesced around a single teacher, its initial formation could just as well have followed any number of other patterns, with the Buddha adopted as its mythical founder and supernatural authority. Oskar von Hinüber published a response, also in this journal, defending the Buddha's historicity. [^1] While we must be grateful to him for taking up the issue and providing a sense of the case that can be made, his reasoning is somewhat flawed, and he himself seems more than once to admit that his arguments do not provide much support for his view.
@@ -101,10 +101,10 @@ Before closing, it may be helpful to consider a final argument that can perhaps 
 
 It is often supposed that scholars long ago discovered factual bases for identifying the Buddha as a historical figure, as they have done, say, for Jesus. Surely if we were to comb through the dusty old tomes we would find something? The main importance of von Hinüber's contribution may lie in confirming that they did not. Apart from the ad populum argument he opens with, all his arguments are new. Though he makes a commendable attempt, lacking evidence, he is not able to say anything persuasive, which is surely why such scholars as Lamotte and de Jong cautioned against the effort in the first place. If one would maintain that the Buddha is historical, one must either admit, like Lamotte and de Jong, that one does not have any basis for doing so, or pretend, like von Hinüber, that one does. Although some may find it reassuring that other scholars share their faith in the Buddha's historicity, that no basis for this faith has yet been identified is a plain fact. Prior to the Buddhism of the early texts and inscriptions, there lies only the darkness of prehistory. As historians, we find no path there.
 
-[^22]: Von Hinüber 2019b: 251, referencing Harrison 1995: 13. For the passage, see D $2.138-140$.
+[^22]: Von Hinüber 2019b: 251, referencing Harrison 1995: 13. For the passage, see D 2.138-140.
 [^23]: Von Hinüber 2019b: 251-252. For the passage, see Waldschmidt 1950-1951: 3.392-395. For versions in other texts, Anālayo 2014: 1-8, Allon 2021: 59-62.
 
-## Abbreviations 
+## Abbreviations
 
 All references to Pali texts are to the PTS editions.
 

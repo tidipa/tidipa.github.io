@@ -17,7 +17,7 @@ tags:
   - Textual transmission
 ---
 
-# The Early Development of Buddhist Literature and Language in India [^1] 
+# The Early Development of Buddhist Literature and Language in India [^1]
 
 L.S. Cousins
 selwyn@ntlworld.com
@@ -75,7 +75,7 @@ As regards the second fundamental question, that of the introduction of writing 
 
 The relevance of this, for present purposes, concerns the question as to whether writing was known in India at the time of the Buddha. So I turn now to that issue.
 
-### Writing in India 
+### Writing in India
 
 As with the date of the Buddha, the views of many scholars have changed significantly in recent decades. [^6] Previously, among Indologists at least, it had been widely accepted that the Brāhmī alphabet, first attested in the inscriptions of Asoka in the third century B.C., had been in use for some centuries before that. This near consensus, never complete, was largely based upon the ideas of Georg Bühler, first published as long ago as 1895.[^7] That consensus is now under serious challenge. It is clear that the work of Harry Falk, in particular, has shown that there is no need to connect the origin of the Brāhmī alphabet with any particularly early Near Eastern form of writing. This leaves us with a more diverse range of opinions and in fact there seem now to be four main viewpoints.
 
@@ -92,7 +92,7 @@ This does not, in itself, completely rule out a possible connexion, but new work
 
 It seems clear that their analysis shows beyond reasonable doubt that the script used in the extant inscriptions cannot be either alphabetic or syllabic. The situation is less certain with some kind of logographic writing, but as it stands there are far too few known signs for this and we must suppose that the so-called Indus script cannot be the source of later Indian writing. Nothing of course rules out the possibility that a few of the Indus symbols may have been still in use or known from artefacts to those who created or revised the Brāhmī alphabet, but any substantive connexion now seems very improbable.
 
-#### ii. Invention under the aegis of the Emperor Asoka 
+#### ii. Invention under the aegis of the Emperor Asoka
 
 The theory that writing in the Brāhmī letters was introduced during the reign of Asoka in fact dates back to the nineteenth century. Its great attraction lies in the evident fact that the earliest known, reliably dated, examples of the script are found precisely in the edicts of Asoka. The fact that this position has now been adopted in such important studies by v. Hinüber and by Falk can only mean that it is likely to be a widely accepted position henceforward.
 
@@ -108,7 +108,7 @@ I therefore exclude the possibility of the creation of the Brāhmī alphabet dur
 
 Returning to the date of the introduction of writing, we can group the remaining possibilities into two: early Mauryan or pre-Mauryan.
 
-#### iii. Invention under Candragupta Maurya or under his successor 
+#### iii. Invention under Candragupta Maurya or under his successor
 
 A limited amount of archaeological evidence for the early use of writing has been found on potsherds in the excavations at Anurādhapura, the ancient capital of Ceylon. [^10] The initial discoveries were made by Deraniyagala, who at first favoured rather early dates B.C., partly based upon his previously published view that a type of bone point found in archaeological contexts both in India and in Sri Lanka is a writing implement. In his more substantial subsequent publication he proposed on the specific evidence from his Anurādhapura investigations to date the use of Brāhmī to approximately the sixth century B.C. [^11] Further investigations were carried out by British archaeologists and F.R. Allchin initially suggested, more cautiously, that these potsherds are dated "by a large number of radiocarbon samples at least to the 4 th -5 th centuries B.C., if not earlier". [^12]
 
@@ -125,7 +125,7 @@ A different, historical argument also suggests to me that the Brāhmī alphabet 
 [^12]: Allchin 1995, p. 211.
 [^13]: Coningham et al. 1996, p. 86; cf. also: Coningham and Allchin 1999.
 
-#### iv. A pre-Mauryan origin for Brāhmī 
+#### iv. A pre-Mauryan origin for Brāhmī
 
 A number of attempts have been made to argue that evidence from the Pali Canon establishes the use of writing at the time of the Buddha. [^14] The most detailed study of this has been made by Oskar von Hinüber, who concludes that evidence for writing is found only in parts of the Canon which are likely to be relatively late in date. [^15]
 
@@ -150,7 +150,7 @@ In his *Indian Epigraphy* Richard Salomon suggests that the final form of the Br
 [^21]: e.g. Norman 1992, p. 247 f.
 [^22]: Salomon 1998, p. 14.
 
-### Oral literature in India 
+### Oral literature in India
 
 It should not cause any surprise that India is so late in adopting writing for literary or religious purposes. It was far from alone in that. Nor in having a very highly developed tradition of oral literature. The examples of Iran and the Celtic world spring immediately to mind. However, there is no evidence that Buddhists ever adopted the kind of thorough and systematic methods for the exact memorizing and preserving of complex and even incomprehensible texts which were developed in the brahmanical tradition to preserve the Vedic literature.
 
@@ -163,7 +163,7 @@ It is clear that this theory was first developed in the context of epic poetry a
 [^23]: Cousins 1983 .
 [^24]: Allon 1997; Wynne 2004.
 
-### Some preliminary considerations 
+### Some preliminary considerations
 
 Sources which we have from the middle of the first millennium A.D. onwards suggest that each Buddhist school had its own version of the Canon. It is not quite clear how far this was actually true. Nor is it clear how many early Buddhist schools there actually were. Tradition often gives a figure of 18 , but it is clear both from textual sources and from inscriptional evidence that later on there were more. In the oral period the number was probably considerably less. It seems likely that there would have been many schools (or rather groups of related schools) with only slightly divergent Canons, while on the other hand the number with radically different versions may have been much less than eighteen.
 
@@ -179,7 +179,7 @@ I don't think this is actually possible for any likely population of South Asia.
 
 I assume then that the *bhāṇaka* tradition was not wholly sectarian in nature, although it is also possible to conceive of e.g. separate Theriya and Mahāsaṃghika *bhāṇaka* traditions. I would also doubt whether we can assume a fixed content for each *Nikāya* during the oral period. It is equally possible that a *Dīghabhāṇaka* learnt a basic repertoire from his teachers and subsequently added appropriate long discourses as they became available.
 
-### What was written down? 
+### What was written down?
 
 So at last I can turn to the first of my three fundamental questions: what was written down? The first thing to note is that Asoka already knows Buddhist texts; he lists seven of them in the Bhābrā edict. It is usually assumed that they can only have been handed down by word of mouth, although it is just possible that at some stage he saw them, or some of them, already in a written form. Unfortunately, there is no agreement as to how far they correspond to texts with similar names in the extant canonical literature and it does seem clear that there can be no certainty as to that, either way. Both earlier and later, there is considerable variation as to the names of texts in Buddhist literature. So the text which he refers to as the *Questions of Upatissa* may well correspond to the discourse in the *Suttanipāta* which Pali tradition calls the *Sāriputtasutta* and also the *Therapañhasutta*, since Upatissa is the personal name of Sāriputta. But equally, it may not and, more importantly, it tells us nothing about how it relates to the various recensions of this discourse which probably existed at a later date.
 
@@ -204,7 +204,7 @@ tadaññaṃ Buddhavacanaṃ, Nikāyo Khuddako mato ti ||
 
 The main mechanism then for the transmission of the discourses was the existence of four groups of specialists within the Buddhist monastic order: two ordered by size of discourse and two handling discourses, often smaller, arranged logically - the Saṃyuttabhāṇakas utilizing thematic principles and the *Añguttarabhāṇaka*s employing a numeric method.
 
-### Proposed earlier divisions of the canonical material 
+### Proposed earlier divisions of the canonical material
 
 My own belief is that this system of transmission is ancient and that we have no record or reasonable indication of any older method. The attempt is sometimes made to argue that there was an earlier recension of the texts based upon the list of the nine or later twelve *Aṇga*s. This view was rejected by Étienne Lamotte among others, [^28] but has recently been revived in a rather modified form by Oscar von Hinüber. [^29] He states that there were originally "perhaps three, then four, later nine, and in the Sanskrit tradition, even twelves (*sic*) items." He appears to envisage an early period when the texts were organized not into *Nikāya*s or even into the three parts of the Tradition (Piṭaka), but into three or four *Aṇga*s. I am not at all convinced that this was the case.
 
@@ -255,7 +255,7 @@ In sum, I accept neither the special antiquity of the verse texts nor the model 
 [^37]: Sakkapañha: S III 13; Brahmajāla: S IV 286f.; cp. Vibh 349=340. It is surely not coincidence that these are the two discourses with the names of the two leading deities. For citations of the Saṃyutta-nikāya in the Añguttara-nikāya, see CPD s.v. Añguttaranikāya.
 [^38]: We may note also the way in which verses in standard Sanskrit sometimes occur in a prose inscription in a more hybrid Sanskrit: Salomon 1998 p. 88.
 
-### Where and when were the texts written down? 
+### Where and when were the texts written down?
 
 What is striking about this issue is the lack of information on the topic. Although there are plenty of indications both in the Pali commentaries and in Chinese sources [^39] that tell us about the strength of the oral tradition, there is little or nothing said about the introduction of written versions of the texts in most sources. So we are particularly reliant upon the evidence of the Pali *Dīpavaṃsa*. I turn now to that.
 
@@ -288,7 +288,7 @@ ciratṭhitātthaṃ dhammassa potthakesu likhāpayuṃ. (21)
 [^43]: e.g. Collins 1990.
 [^44]: See now: Cousins 2012.
 
-#### ii. Evidence from the Pali commentaries 
+#### ii. Evidence from the Pali commentaries
 
 That the initial writing of the Canon was in mainland India gets support from some passages in the Pali commentaries. It is unclear from the stanzas in the *Dīpavaṃsa* which we are discussing whether the author intends to refer to the period after Vaṭṭagāmani's return to power or to the period of his exile. That exile is associated in the commentaries and in subsequent Sinhalese legend with a time of troubles (*bhaya*) linked with the name of the 'brigand' known variously as the brahmin Tissa (or Tīya) and the *caṇḍāla* Tissa. [^45] What is significant here is the story that during this period of famine many or most of the monks on the island went to the mainland. [^46] This is quite plausible. By way of comparison, the biography of the Chinese pilgrim Hsüan-tsang records that he met in Kāñcīpura a party of over three hundred monks from Ceylon who had left the island because of famine after the death of the king. [^47]
 
@@ -309,7 +309,7 @@ My hypothesis, then, is that the place from which written texts were introduced 
 [^50]: Schalk 1994, Schalk, Vēluppillai, and Nākacāmi 2002; Mahadevan 2003.
 [^51]: And perhaps a southern Mahiṃsa(ka) ?
 
-#### By whom were the texts written down? 
+#### By whom were the texts written down?
 
 Literary evidence for the history of Buddhism in India between the death of the founder and the immediate post-Mauryan period is remarkably scant. Apart from the account of the first two Communal or Collective Recitations (*saṅgīti*), the so-called Councils, and a certain amount of information relating to the reign of the Emperor Asoka, we are largely dependent upon two sources: traditional Buddhist accounts of the origin of the eighteen schools and whatever can be inferred from surviving works of this period. As regards the doxological works, Frauwallner has commented: "These accounts are late, uncertain and contradictory, and cannot be relied upon blindly." [^52] That perhaps overstates the case. It is clear that there is a generally accepted tradition that in the course of the second and third centuries after the Buddha's Mahāparinibbāna the Samgha divided into a number of teachers' lineages (*ācariyakula*) [^53] or doctrines (*vāda*;[^54] *ācariyavāda* [^55]) or fraternities (*nikāya*). [^56] At a later date these terms became in effect synonymous, but that may well not have been the case earlier.
 
@@ -332,7 +332,7 @@ For now, however, I will simply assume that written texts of the four *Nikāya*s
 
 The question obviously arises as to what was in written form at that time.
 
-### Contents of the earliest Canon in Ceylon 
+### Contents of the earliest Canon in Ceylon
 
 To determine the list of works in the Canon in Ceylon when they were first put in writing we must turn to another passage in the *Dīpavaṃsa*.
 
@@ -421,7 +421,7 @@ What we have here is the list of the texts included in the *Khuddakagantha* by t
 
 I conclude provisionally that the *Khuddakanikāya* texts brought to Ceylon in the first century B.C. and thereafter available in written form were the ten works contained in the *Dīghabhāṇaka* list. The *Vinayapitaka* and the first four *Nikāya*s were certainly included as well, and no doubt the *Abhidhammapitaka*. It is of course possible that they existed in recensions different to that known to Buddhaghosa.
 
-### Summary of the discussion of the writing down of the texts 
+### Summary of the discussion of the writing down of the texts
 
 To summarize what has been said so far, I understand that in the second century B.C. many texts were orally transmitted, but others already existed in a less authoritative written form. I take the oral literature to have been largely common to all monks in a given neighbourhood, although there may already have been some sectarian differences. The written literature certainly varied. In or around the first century B.C. there was a move to written texts which I assume (in the absence of any definite evidence) to have occurred around the same time in all or most areas and traditions. This led to different monasteries and schools forming their own written collections, leading to rapid diversification. Such collections included both works of the earlier oral transmission and works which had already been written down at an earlier stage. As far as the Theriya tradition is concerned (and probably other non-Mahāsaṃghikas south of the Vindhyā) this would have included most of the works of the present Pali Canon. The disputed texts, notably *bodhisatta*-orientated works such as the *Buddhavaṃsa*, will have been incorporated later, probably in the first century A.D.
 
@@ -449,7 +449,7 @@ No Pali manuscript survives which is earlier than Buddhaghosa in date and, as fa
 
 The only early direct evidence which is at least relatively near to Buddhaghosa in time consists of a few inscriptions from India which are considered by some to be in a continental variety of the Pali language. [^77] While there is no doubt that these inscriptions are relatively close to Pali as compared to other forms of written Middle Indian, it can be argued that they differ in certain respects from standard Pali as we usually understand it. So others would prefer to reserve the name Pali for the language of the texts, the *pāḷi* proper.
 
-#### ii. The development of a common epigraphic Prakrit 
+#### ii. The development of a common epigraphic Prakrit
 
 Turning now to the evolution of the written language in India from the time of Asoka, let me begin by restricting myself to India in a narrow sense of the term, i.e., one which corresponds not to the subcontinent as a whole but to the geographical area encompassed by the present-day Republic of India. More exactly, what I am referring to is that portion of the territories known to have been ruled by the Mauryans which lies within the territory of the modern Indian state, possibly excluding a few locations on the fringes of this area.
 
@@ -475,7 +475,7 @@ Salomon does not address the question as to what this language was called. It se
 [^79]: Salomon 1998, p. 76.
 [^80]: Ibid. p. 77.
 
-#### iii. The language used for the early Canonical recensions 
+#### iii. The language used for the early Canonical recensions
 
 At this point I want to address the question as to what language was used to write down the recension of the Canon brought to Ceylon in the first century B.C. Here, I think we have to start with two assumptions. The first is that Pali in the restricted sense (as used by K.R. Norman, for example) does not exist much prior to the time of the fourth or fifth century commentaries. This explains why we don't find it in inscriptions. My second assumption is that **writing** of Buddhist works begins already in the Mauryan period. I do not mean by this that the first four *Nikāya*s were written down at this point, although individual Suttas may have been. I mean that other works of various kinds were written down at this time and some of them will have subsequently been incorporated into the Canonical literature of various Buddhist schools.
 
@@ -508,7 +508,7 @@ It is also important to appreciate that both Old Ardhamāgadhī and Old Pali evi
 
 I turn now to epigraphic developments in the North and North-west.
 
-#### iv. Epigraphic developments 
+#### iv. Epigraphic developments
 
 Beginning around the first century A.D., inscriptions occur written in a form sometimes referred to as 'mixed dialect' or as 'Prakrit influenced by Sanskrit' (or the reverse). The name used most often now is probably the term coined by Damsteegt: 'Epigraphical Hybrid Sanskrit', conveniently abbreviated as EHS. [^82] Closely related is the language of some Buddhist texts originating or revised in this period, commonly known as Buddhist Hybrid Sanskrit (BHS). We should probably assume that both EHS and BHS are specific applications and perhaps specific dialects of a form of language which came to be in wide use among educated people in this period, for writing purposes at least and perhaps also in spoken form.
 
@@ -525,7 +525,7 @@ What we do see develop around the third and fourth centuries, or perhaps a littl
 [^82]: Damsteegt 1978.
 [^83]: Salomon, op. cit., p. 82.
 
-#### v. The language which immediately underlies Pali 
+#### v. The language which immediately underlies Pali
 
 I have suggested that the language in which the canonical texts of some or all the Theriya traditions in India were written down was the language which I am calling Old Pali, with some features inherited from Old Ardhamāgadhī. We should of course recall that any kind of standard orthography is unlikely to have been present; indeed, variation of spelling might have been considered a stylistic feature at this time.
 
@@ -573,7 +573,7 @@ I have spoken so far of Old Ardhamāgadhī, Old Pali, Hybrid Pali and Standard P
 
 For myself, I am happy to state that some Buddhist texts were first written down in a language they called Māgadhī in the Mauryan period. This was a type of κοινή with vocabulary and syntax deriving from various dialects and without a standardized spelling. More were written or rewritten in a language still called Māgadhī but possibly with some changes to orthography in the second and first centuries B.C., culminating in the first systematic written recensions of works previously preserved orally. [^88] During the first centuries A.D. the orthography of the manuscripts evolved further in the direction of Sanskritization, or Palicization, if you prefer. Finally the standard Pali, largely as we know it today, was created around the third or fourth century A.D. The language was still called Māgadhī at that time and remains so called to this day. But it is convenient to continue to use the familiar name of Pali, since it does avoid confusion with the spoken dialect of Eastern India as described by Indian grammarians and its subsequent literary use in drama and perhaps elsewhere.
 
-### APPENDIX 
+### APPENDIX
 
 Dīp V 32-38 ; 49-51 = Kv-a 3 ff.:
 
@@ -595,7 +595,7 @@ Dīp V 32-38 ; 49-51 = Kv-a 3 ff.:
 
 [^88]: I assume that such works were rendered into Gāndhārī during the same period, but I have for the most part not tried in this article to take account of recent discoveries from Greater Gandhāra.
 
-#### Textual notes: 
+#### Textual notes:
 
 35b: read aññattha; eds and Mss vary between aññatthaṃ and aññaṃ atthaṃ. 35d: E<sup>e</sup> : bahu.
 36c: so Kv-a (E<sup>e</sup> 1979); E<sup>e</sup> : Suttavinayaṃ.
@@ -612,7 +612,7 @@ See: http://pali.hum.ku.dk/cpd/intro/vol1_epileg_abbrev_texts.html
 
 Page references for Pali texts are to the Pali Text Society (PTS) edition (E<sup>e</sup>), where available, otherwise to the Burmese edition (B<sup>e</sup>) as given on the Vipassanā Research Institute (VRI) CD, unless otherwise indicated.
 
-### BIBLIOGRAPHY 
+### BIBLIOGRAPHY
 
 * Allchin, F.R (1995), The Archaeology of Early Historic South Asia. The Emergence of Cities and States (Cambridge: Cambridge University Press).
 * Allon, Mark (1997), Style and Function: a Study of the dominant stylistic features of the prose portions of Pāli canonical sutta texts and their mnemonic function (Studia Philologica Buddhica. Monograph series 12; Tokyo: The International Institute for Buddhist Studies of the International College for Advanced Buddhist Studies).
@@ -632,17 +632,17 @@ Page references for Pali texts are to the Pali Text Society (PTS) edition (E<sup
 * Coningham, Robin and Allchin, F. Raymond (1999), Anuradhapura: the British-Sri Lankan excavations at Anuradhapura Salagha Watta 2 (BAR international series 824; Oxford: Archaeopress).
 * Cousins, L.S. (1983), 'Pali Oral Literature', in P. Denwood and T. Piatigorsky (eds.), Buddhist Studies - Ancient and Modern (London), 1-11.
 * - (1991), 'The 'Five Points' and the Origins of the Buddhist Schools', in T. Skorupski (ed.), The Buddhist Forum (II vols.; London: SOAS), 27-60.
-* - (1996), 'The dating of the historical Buddha', Journal of the Royal Asiatic Society, $6(1), 57-63$.
+* - (1996), 'The dating of the historical Buddha', Journal of the Royal Asiatic Society, 6(1), 57-63.
 * - (2001), 'On the Vibhajjavādins. The Mahiṃsāsaka, Dhammaguttaka, Kassapiya and Tambapaṇniya branches of the ancient Theriyas', Buddhist Studies Review, 18 (2), 131-82.
 * - (2012), 'The Teachings of the Abhayagiri School', in Peter Skilling, et al. (eds.), How Theravāda is Theravāda ? Exploring Buddhist Identities (Chiang Mai: Silkworm Books), 67-127.
 * Crosby, Kate (2004), 'The Origin of Pāli as a Language Name in Medieval Theravāda Literature', Journal of the Centre for Buddhist Studies, Sri Lanka, II (January), 70116 .
 * Damsteegt, Th (1978), Epigraphical Hybrid Sanskrit: its rise, spread, characteristics and relationship to Buddhist Hybrid Sanskrit (Orientalia Rheno-traiectina 23; Leiden: Brill).
 * de Jong, J. W. (1968), Buddha's word in China (George Ernest Morrison lecture in ethnology 28; Canberra: Australian National University).
 * de Jong, J. W. (1979), Buddhist studies (Berkeley, Calif: Asian Humanities Press).
-* de Jong, J.W. (1991), 'Buddhist Studies 1984-1990', Chūo gakujutsu kenkyūjo kiyo, 20, $1-60$.
+* de Jong, J.W. (1991), 'Buddhist Studies 1984-1990', Chūo gakujutsu kenkyūjo kiyo, 20, 1-60.
 * Deraniyagala, S. U. (1992), The prehistory of Sri Lanka: an ecological perspective, 2 vols. (Memoir / Department of Archaeological Survey, Government of Sri Lanka 8; Colombo: Departmnt of the Archaeological Survey, Government of Sri Lanka).
 * Deraniyagala, S.U. (1990a), 'The proto- and early historic radiocarbon chronology of Sri Lanka', Ancient Ceylon, 12, 251-92.
-* _ (1990b), 'Radiocarbon dating of early Brahmi script in Sri Lanka', Ancient Ceylon, $11,149-68$.
+* _ (1990b), 'Radiocarbon dating of early Brahmi script in Sri Lanka', Ancient Ceylon, 11,149-68.
 * Falk, Harry (1993), Schrift im alten Indien: ein Forschungsbericht mit Anmerkungen (Script- Oralia 56; Tübingen: Narr).
 * _ (1997), 'Die Goldblätter aus Śrī Kṣetra', Wiener Zeitschrift für die Kunde Südasiens, 41, 53-92.
 * Farmer, Steve, Sproat, Richard, and Witzel, Michael (2004), 'The Collapse of the Indus-Script Thesis: The Myth of a Literate Harappan Civilization', Electronic Journal of Vedic Studies, 11 (2), 19-57.

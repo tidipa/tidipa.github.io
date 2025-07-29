@@ -29,7 +29,7 @@ tags:
   - Richard Gombrich
 ---
 
-# Did the Buddha exist? 
+# Did the Buddha exist?
 
 Alexander Wynne
 
@@ -53,7 +53,7 @@ The Buddha as a creation of nineteenth century Orientalist imagination is a feat
 
 Although Drewes claims that no 'relevant facts' or 'significant argument' have ever been produced in favour of the Buddha's existence, he says neither what the facts might be, nor what kind of historical argument might be acceptable. And he does not explain himself when calling for 'the standards of scientific, empirical inquiry' to be upheld (2017: 19). We will here try to rectify this problem by adopting an approach that is empirical and inductive: by adducing the relevant facts and making significant arguments, we will build up a general picture which proves, beyond reasonable doubt, that the Buddha did indeed exist and that we have a good record of his teachings. We must begin by considering the problem of 'proof'.
 
-## 1. What is proof? 
+## 1. What is proof?
 
 Good evidence for the Buddha would perhaps be his mention in a non-Buddhist document from the fifth century BC. Although no such document exists, at least one Indian religious figure from the fifth century BC is mentioned in an objective source: Mahāvīra, founder of the Jains and a contemporary of the Buddha, is mentioned in the early Buddhist texts. Were we to believe this non-Jain evidence for Mahāvīra, it would leave us in a quite curious situation. For it would mean accepting Mahāvīra's existence based on the very same sources deemed inadequate as proof for the Buddha. This should surely make us pause for thought. Might not the early Buddhist texts be more reliable than the sceptics claim?
 
@@ -90,9 +90,9 @@ Sceptics such as Drewes fail to understand that such a claim as 'we do not know 
 With regard to the view of the Buddha as mere myth, it is also true that T. W. Rhys Davids claimed that 'no one ... would now support this view'. [^3] But once again this is not an ad populum deference to a popular position. Rhys Davids' point is rather that the general lack of support for an entirely mythic view of the Buddha is due to its inadequacies. He instead believed that the historical value of the canonical discourses is proved by their careful study. In this regard, we can consider Rhys Davids' comments on the Mahā/Kassapa-sīhanāda Sutta (DN 8):
 
 > When speaking on sacrifice to a sacrificial priest, on union with God to an adherent of the current theology, on Brahman claims to superior social rank to a proud Brahman, on mystic insight to a man who trusts in it, on the soul to one who believes in the soul theory, the method followed is always the same. Gotama puts himself as far as possible in the mental position of the questioner. He attacks none of his cherished convictions. He accepts as the starting-point of his own exposition the desirability of the act or condition prized by his opponent - of the union with God (as in the Tevijja), or of sacrifice (as in the Kūṭadanta), or of social rank (as in the Ambatṭha), or of seeing heavenly sights, etc. (as in the Mahāli), or of the soul theory (as in the Potthapada). He even adopts the very phraseology of his questioner. And then, partly by putting a new and (from the Buddhist point of view) a higher meaning into the words; partly by an appeal to such ethical conceptions as are common ground between them; he gradually leads his opponent up to his conclusion. This is, of course, always Arahatship ...
-> 
+>
 > There is both courtesy and dignity in the method employed. But no little dialectic skill, and an easy mastery of the ethical points involved, are required to bring about the result ... On the hypothesis that he was an historical person, of that training and character he is represented in the Pitakas to have had, the method is precisely that which it is most probable he would have actually followed.
-> 
+>
 > Whoever put the Dialogues together may have had a sufficiently clear memory of the way he conversed, may well have even remembered particular occasions and persons... However this may be, the method followed in all these dialogues has one disadvantage. In accepting the position of the adversary, and adopting his language, the authors compel us, in order to follow what they give us as Gotama's view, to read a good deal between the lines. The argumentum ad hominem can never be the same as a statement of opinion given without reference to any particular person. [^4]
 
 [^3]: Drewes (2017: 10).
@@ -114,7 +114,7 @@ Gombrich's argument against scepticism implies that the wide variety of teaching
 
 Drewes shows no inclination to take such claims seriously: he asks for 'facts' and 'proofs' without saying what they are; he fails to understand that text-critical history is an empirical discipline; he ignores E. J. Thomas' point that sceptics are also required to present arguments; he accuses Thomas, Rhys Davids et al. of making ad populum arguments, as opposed to credible interpretations; and he dismisses Gombrich as having no clear argument, against Gombrich's own claim that his reading of the texts is a provisional hypothesis. All this suggests not just a profound epistemic confusion about what knowledge is and how it is created, but also a nihilistic tendency to take previous generations of Buddhist scholars in bad faith. And yet, as we will see, the approach to the Buddha pioneered by scholars such as T. W. Rhys Davids is not only valid, but is the only way to study early Buddhism.
 
-## 2. Buddhist texts, Buddhist myth 
+## 2. Buddhist texts, Buddhist myth
 
 What is the sceptical approach to the text-critical study of Buddhism? What are the sceptical arguments about the Buddha, and what do sceptics make of the canonical literature? Gregory Schopen has provided a succinct overview of the sceptical reading of canonical Buddhist literature:
 
@@ -141,14 +141,14 @@ It follows that even the Buddha's family were an invention:
 Such invention was not unprecedented. Drewes points out that in the late Vedic or early Buddhist period, a realistic religious world was invented by the authors of the early Upaniṣads:
 
 > The early Upaniṣads, like Buddhist sūtras, take the form of realistic dialogues with great teachers, and in fact provide significantly more biographical information for several of them than the vastly larger corpus of Buddhist sūtras provides for the Buddha ...
-> 
+>
 > Brian Black suggests that the main figures, such as Uddālaka Āruṇi and Yājñavalkya, first appeared in the Brāhmaṇas "merely as names that add authority to particular teachings," and were later developed in the Upaniṣads into complex figures with distinct backgrounds, families, ideas, and personalities ... (2017: 18)
 
 Drewes concludes that early Buddhist texts give no reasonable grounds to conclude that we know anything about the Buddha, or even if such a person existed:
 
 > Though there has long been an industry devoted to the production of sensational claims about the Buddha, nothing about him has ever been established as fact, and the standard position in scholarship has long been that he is a figure about whom we know nothing. My only real suggestion is that we make the small shift from speaking of an unknown, contentless Buddha to accepting that we do not have grounds for speaking of a historical Buddha at all. Of course, it is possible that there was some single, actual person behind the nebulous "śramaṇa Gautama" of the early texts, but this is very far from necessarily the case, and even if such a person did exist, we have no idea who he was. There may similarly have been an actual person behind the mythical Agamemnon, Homer, or King Arthur; Vyāsa, Vālmīki, Kṛ̣̣na, or Rāma, but this does not make it possible to identify them as historical. If we wish to present early Buddhism in a manner that accords with the standards of scientific, empirical inquiry, it is necessary to acknowledge that the Buddha belongs to this group. (2017: 19)
 
-## 3. The formation of the Tipiṭaka 
+## 3. The formation of the Tipiṭaka
 
 The sceptical estimation of the antiquity of canonical Buddhist literature is not remotely credible. Canonical fragments are included in the Golden Pāli Text, found in a reliquary from Śrī Kṣetra dating to the late 3<sup>rd</sup> or early 4<sup>th</sup> century AD ; they agree almost exactly with extant Pāli manuscripts. [^7] This means that the Pāli Tipiṭaka has been transmitted with a high degree of accuracy for well over 1,500 years. There is no reason why such an accurate transmission should not be projected back a number of centuries, at the least to the period when it was written down in the first century BC, and probably further. A few key facts suggest this: [^8]
 
@@ -183,7 +183,7 @@ If there was no effort to check the canonical texts' social and political detail
 
 [^14]: Wynne (2004: 100ff).
 
-## 4. Stones and bones 
+## 4. Stones and bones
 
 Apart from Lumbinī, which has layers going back to the 5<sup>th</sup> century BC and earlier, [^15] remains attesting the existence of the Buddhism exist from the Mauryan period (mid 3<sup>rd</sup> century BC ) onwards. Some of these early sites confirm what is contained in the canonical and post-canonical texts. A deep influence from Buddhist teachings on Aśoka's inscriptions has already been noted; we will now focus on more precise correspondences.
 
@@ -203,7 +203,7 @@ A further correspondence between the epigraphic and literary sources of the Aśo
 
 The wording of the edict suggests that Aśoka's 'Dharma victory' was achieved by envoys (dūtas), and not other Aśokan officials such as 'Dhamma ministers', as has sometimes been assumed (Norman, 2004: 70, 79). This agrees with the account in the Pāli chronicles, for example the Mahāvaṃsa (XI: 33-35), which states that Aśokan envoys (dūtas) carried 'palm-leaf messages with the true doctrine' (saddhamma-paṇnākāraṃ). [^20] The Dīpavaṃsa (XII.59) makes exactly the same point, and mentions that Mahinda arrived in Lańkā soon after the activity of Aśoka's envoys. [^21] The coincidence of epigraphic and literary evidence is uncanny: the Sanchi relics agree with what the Pali sources say about Buddhist missions, and RE XIII agrees with later Pāli sources by indicating that Aśoka's 'Dhamma victory' was aided or enabled by imperial envoys.
 
-### b) The Piprahwa relics 
+### b) The Piprahwa relics
 
 The agreement between Aśokan and post-canonical Pali literature is not an isolated occurrence. A few other inscriptions go further than this by confirming a few details in the Pali Tipiṭaka. Although Drewes claims (2017: 17) that 'the Śākyas are not mentioned in any early non-Buddhist source', this ignores the Piprahwa reliquary, which dates to the late 3<sup>rd</sup> century BC or not long afterwards (Falk, 2017: 60) and refers to the Sakyas:
 
@@ -226,7 +226,7 @@ Falk argues that the inscription refers to the rehousing (nidhane) of a portion 
 
 The Piprahwa inscription thus offers material support for the historical reality of the Sakyas, situated more or less exactly where the canonical texts place them. Even if the exact site of Kapilavatthu has yet not been definitely fixed, [^22] Guptaera seals from Piprahwa, recording the 'Kapilavastu monastic community' (kapilavastu-bhikhu-samgha), [^23] show that Kapilavatthu was nearby, indicated in the canonical texts. [^24]
 
-### c) The Deorkothar inscription 
+### c) The Deorkothar inscription
 
 Recent papers by Salomon and Marino (2014) and before them Skilling and von Hinüber (2013) have drawn attention to two recently discovered, early second century BC inscriptions from Deorkothar. [^25] The inscriptions record lineages associated with Anuruddha, a prominent disciple of the Buddha.
 
@@ -245,13 +245,13 @@ Salomon and Marino (2014: 37) thus warn against 'the danger of letting skepticis
 
 A pattern emerges whenever ancient remains from Buddhist India are found: they tend to agree with the texts, which they thus confirm. The Piprahwa inscription might not exactly say 'the Sakyas woz here', just as the Deorkothar inscriptions and the Sanchi reliquaries do not literally say 'Anuruddha woz here' and 'the Aśokan missionaries woz here', respectively. But by any reasonable estimation of the evidence, all those persons probably were there.
 
-## 5. A pre-imperial world 
+## 5. A pre-imperial world
 
 So far we have established that canonical Buddhist texts existed during the Aśokan period, already composed under exacting standards of mnemonic accuracy, and in arrangements as we still have them. We have now seen that some of their contents is verified in material evidence going back as far as Aśoka. But how much of their content had come into existence then? Were multiple additions made after Aśoka? According to Sujāto and Brahmali (SB, 2015), early Buddhist Texts (EBTs) are consistent in depicting a particular time and place:
 
 > The EBTs depict the emergence of several moderate sized urban centres, a state of development which falls between the purely agrarian culture of the earlier Upaniṣads and the massive cities of the Mauryan empire. (2015: 21).
 
-The canonical texts are set in a 'small scale and low level of urbanisation' and 'do not contain descriptions of large cities' (2015: 109). To pick but one minor example, although Mathurā is a major cultural centre from the $2^{\text {nd }}$ century BC onwards, in the EBTs it is an insignifcant place 'mentioned only once' (2015: 105). There is also a general agreement with the archaeological record, 'where large scale urban development comes later, in the $4^{\text {th }}$ century' (2015: 18). The canonical texts thus pre-date the emergence of Indian empires from Magadha, beginning with the Nandas and followed by the Mauryas:
+The canonical texts are set in a 'small scale and low level of urbanisation' and 'do not contain descriptions of large cities' (2015: 109). To pick but one minor example, although Mathurā is a major cultural centre from the 2nd century BC onwards, in the EBTs it is an insignifcant place 'mentioned only once' (2015: 105). There is also a general agreement with the archaeological record, 'where large scale urban development comes later, in the 4th century' (2015: 18). The canonical texts thus pre-date the emergence of Indian empires from Magadha, beginning with the Nandas and followed by the Mauryas:
 
 > This is a citation, and so needs to be indented, and it also needs line gaps between the text surround it.
 
@@ -290,7 +290,7 @@ As with coins, more references to bricks occur in later strata of the Tipitaka. 
 
 The Pāli Vinaya thus records the development of more complex forms of communal life after the Buddha's death, including the building of Buddhist monasteries with bricks, a development which occurred in the same period in which money began to be used. But the vast majority of canonical discourses set the Buddha's life in a pre-imperial period before long-distance trade, money and buildings of brick and stone.
 
-## 6. Early Buddhist realism, or what committees do not invent 
+## 6. Early Buddhist realism, or what committees do not invent
 
 According to Sujato and Brahmali, the EBTs 'convey a picture of India and Indian society at the time that is vivid and realistic; it could not easily have been made up at a later time or in a different society' (2015: 71). We read of kings, queens, princes, children, farmers, merchants, mendicants, wanderers, Brahmins, grizzled ascetics, faithful (and not so faithful) lay-disciples, parks, meeting-halls, roads, villages, market-towns, cities, kingdoms, seasons, flora, fauna, customs, habits, politics, economics, culture, musicians, courtesans, drunks, gamblers, and on and on. The canvas is vast and portrayed in close and realistic detail, allowing one to enter the world of North India in the 5<sup>th</sup> century BC. S. Dhammika's study of flora and fauna in canonical Buddhist texts has shown the extent to which early Buddhist authors went in their depictions of the natural world; nothing quite like this exists outside of canonical Buddhist texts, in either Buddhist or non-Buddhist literature from classical or even medieval India. [^39]
 
@@ -318,7 +318,7 @@ Canonical Buddhist texts mostly locate the Buddha in the kingdom of Kosala, part
 [^44]: See DN II.164-65 on the clanships/kingdoms which claim a share of the Buddha's relics.
 [^45]: The account of the battle and the events leading to it are told in the commentary on the Bhaddasāla Jātaka (Ja 465).
 
-## 7. Mythic elaboration: the first sermon and the five disciples 
+## 7. Mythic elaboration: the first sermon and the five disciples
 
 We have seen that early Buddhist texts are pre-imperial, realistic and contain numerous peculiarities in their depiction of places and persons associated with the Buddha. None of this looks like a mythic creation. At best, the canonical discourses make a number of excursions into myth, but these are always easy to identify. A simple example is the Mahāpadāna Sutta, which besides elaborating the myth of seven Buddhas, also refers to Kapilavatthu as a 'royal city' (rājadhānī). This term is only applied to mythic places in the Pāli canon, whereas Kapilavatthu is a small town in the early texts; Ānanda even fails to mention it among the great cities in which the Buddha could have died, despite it being not far from Kusināra, and certainly closer than four cities he mentions (D II.146: Sāvatthī, Sāketa, Kosambī and Bārāṇasī).
 
@@ -350,7 +350,7 @@ In other words, the early texts are especially trustworthy when they contain det
 [^51]: See e.g. DN II.291, MN I.56: passambhayaṃ kāya-sañkhāraṃ assasissāmī ti ...
 [^52]: Rhys Davids (1923: x), on which see Sujato and Brahmali (2015: 75).
 
-## 8. The idiosyncratic Buddha 
+## 8. The idiosyncratic Buddha
 
 We have seen that the canonical discourses are full of unexpected and nonmythic details about persons and places related to the Buddha. It is hardly surprising that the Buddha is described in similar terms. We can first of all note a few details about his relatives:
 
@@ -388,7 +388,7 @@ If the founder had an original and vital message to transmit, it explains much a
 
 Impersonalism is prominent throughout the canonical teachings. It can be seen in the Buddha asking King Pasenadi why he offers 'such elevated respect to this body'; [^54] more importantly, the same impersonalism can be seen in the Buddha's refusal to appoint a leader after his death, and his admonition that others be 'lights unto yourselves, with the Dhamma as your lamp'. [^55] Early Buddhist doctrine is of course defined by impersonalism at the metaphysical level, for example in the Buddha's negation of an individual self or soul (attan). Impersonalism, as an idiosyncratic feature of the Buddha's personality, agrees with impersonalism at the metaphysical level, a fundamental coherence which can be extended into other areas.
 
-## 9. The silent Buddha 
+## 9. The silent Buddha
 
 Reading between the lines of the canonical discourses, a slightly peculiar story begins to unfold, of a movement with humble beginnings, emerging from Magadha but not based there, whose main events occur in the backwaters of a small-scale urban society. The Buddha's place in this world and movement is depicted in quite fine detail, with no shortage of idiosyncracy and yet without much mythic elaboration. Idiosyncracy is notable in one peculiar feature of the Buddha's personality: his strangely silent nature. We have seen that MN 67 and AN 5.30 attest to the Buddha's quietistic nature. In fact, the canonical record is full of instances of the Buddha's preference for silence:
 
@@ -408,20 +408,20 @@ Reading between the lines of the canonical discourses, a slightly peculiar story
 In agreement with the Buddha's quietism, the texts mention his self-effacing nature, for example being congenial and polite, and not frowning but speaking first. [^56] These details paint a picture of a quiet and sensitive individual inclined towards retreat and even escapism. This point is elaborated in fascinating detail in the Attadanda Sutta (SN IV.15), 'The discourse on taking up the stick (of violence)', in which the Buddha explains his former anxiety at social conflict:
 
 > Observe people engaged in quarrels: fear arises from those who take up the stick; I will explain anxiety, just as I experienced it. (935)
-> 
+>
 > Seeing creatures floundering, like fish in (a pond with) little water, and people hostile to each other, I became fearful. (936)
-> 
+>
 > A world utterly devoid of essence, all its quarters trembling, wanting (to find) a home for myself, I did not see any unoccupied. (937)
-> 
+>
 > But in the end, seeing (people) hostile (to each other), I became dissatisfied, and then saw the dart here, so difficult to see, nestling in my heart. (938)
-> 
+>
 > Pierced by this arrow, one runs around in all directions, but when that very arrow is removed, one neither moves nor sinks. (939)
 
 These verses read as a quietist's reaction to a troubled world; experiencing hostility and the threat of violence, the speaker focuses on his own fear and dissatisfaction with the world, an inward gaze which leads to a spiritual solution. Such verses add a more personal note to formulaic accounts of the Bodhisatta's renunciation (e.g. MN 26), and of course the mythic version of witnessing four sights in the Mahāpadāna Sutta (DN 14).
 
 [^56]: DN I.116: samaṇo  khalu  bho  gotamo  ehisvāgatavādī  sakhilo  sammodako  abbhākuṭiko uttānamukho pubbabhāsī ...
 
-## 10. Pragmatism and metaphysical reticence 
+## 10. Pragmatism and metaphysical reticence
 
 The Buddha's silence finds expression in the early teachings in a number of fascinating ways. This is quite literally the case when the Buddha uses silence as a didactic tool to steer others away from misconceived notions. In a less literal sense, the Buddha's silence is expressed as a via negativa form of teaching, in which words are used sparingly, their main purpose being to negate misconceptions rather than affirm metaphysical truths. As a self-professed 'analyst' (vibhajjavādī), the Buddha's interest does not lie in abstraction or abstruse debate; his purpose is the psychological transformation of others, achieved mostly by a dialectic of silence.
 
@@ -447,22 +447,22 @@ The reason for leaving certain 'unanswered' (avyākata) questions is therefore c
 
 As an unusual choice in response to certain didactic contexts, silence is a highly peculiar, deeply ambiguous and potentially misleading style of teaching. The argument that a committee imagined an eccentrically silent or noncommittal character is implausible. If committees generally do not make jokes, they certainly do not invent religious founders who appear lost for words.
 
-### b) The not-self teaching 
+### b) The not-self teaching
 
 The simile of the raft is employed in the Alagaddūpama Sutta (MN 22) alongside the simile of the water snake (alagadda). The latter simile also warns of the dangers of attachment to words rather than understanding their meaning and purpose. Appropriating the Dhamma wrongly, by grasping onto the words rather than their meaning, is like taking hold of a snake badly, by the tail, which allows the snake to wrap itself around a person's wrist and bite. Like the simile of the man shot by an arrow, the obsession with words is said to be like poison. The simile thus combines the pragmatic and analytic perspectives of the Buddha: words are a means to end, rather than an end in themselves. In the same discourse, another peculiar teaching expresses the same dual orientation:
 
 [^61]: Mil 145 (IV.2.2): na tassa dīpanāya hetu vā kāraṇaṃ vā atthi, tasmā so pañho ṭhapanīyo. n' atthi buddhānaṃ bhagavantānaṃ akāraṇam ahetukaṃ giram udīraṇan ti.
 
 > What do you think, mendicants, is form permanent or impermanent?
-> 
+>
 > 'Impermanent, sir.'
-> 
+>
 > Is that which is impermanent satisfactory or unsatisfactory?
-> 
+>
 > 'Unsatisfactory, sir.'
-> 
+>
 > And is it suitable to regard that which is impermanent, unsatisfactory and subject to change as 'This is mine, I am this, this is my self'?
-> 
+>
 > 'Certainly not, sir.'
 
 The same questions are applied to the different aspects of conditioned experience: sensation, apperception, volitions and consciousness. This 'notself' teaching (MN I.138) thus employs a curious method. First, its approach is fundamentally pragmatic: the Buddha's questions require empirical reflection, so that the bhikkhus effectively take part in a thought experiment and hence discover important truths by themselves; the teaching is framed to trigger reflection and hopefully transformation. Second, the analysis negates rather than affirms, so that the Buddha once again assumes a position of metaphysical reticence. Through a via negativa examination of experience, the Buddha indicates that a self cannot be found in conditioned experience, but ultimately bypasses statements of ontological truth - what exists or does not. Thus the Buddha avoids stating whether the 'self' exists or not, an ambiguity which emerges from the teaching's formal method, and which was to become a source of speculation and puzzlement for every subsequent generation of Buddhist thinkers.
@@ -471,7 +471,7 @@ In the not-self teaching, pragmatism and metaphysical reticence are deeply inter
 
 [^62]: MN I.139: evaṃ passaṃ bhikkhave sutavā ariyasāvako rūpasmim pi nibbindati ... nibbindaṃ virajjati, virāgā vimuccati ...
 
-## 11. Like a flame gone out 
+## 11. Like a flame gone out
 
 In the Buddha's teachings, the dialectic of silence and metaphysical reticence are combined in another tantalising and ambiguous idea: the present moment ineffability of the person who attains Nirvana. This idea finds highly unusual expressions, for example in the word tathāgata, which as Richard Gombrich has pointed out, means 'being in the state thus', [^63] and not 'thus gone (or come)'. As such, the compound does not denote a person who has simply 'gone to' (gata) the state of Nirvana, in the sense of attaining it, but indicates that the attainer of Nirvana is actually in the state 'thus'. 'Being thus' is, of course, a way of denying that the liberated person can be described, and is consistent with the Buddha's critique of language.
 
@@ -528,7 +528,7 @@ The few aspects of the Buddha's teachings studied here suggest that the 'great m
 [^73]: Norman (1981: 20ff), Gombrich (1990: 15), Wynne (2010: 201ff).
 content would reach into the imperial age; even if great care was taken to depict an earlier period, unintended features of the imperial age would have leaked into the texts.
 
-## 12. The big picture 
+## 12. The big picture
 
 The main points which prove the Buddha's existence can be summarised as follows:
 
@@ -562,7 +562,7 @@ With the final point we come full circle, for the dialogue with Upasīva belongs
 
 This is not to say that every single detail of the early texts is reliable; realism and coherence do not necessarily amount to homogeneity. Mythic elaboration already occurred in the pre-imperial period, and if new claims were made about the Buddha, we should not be surprised to find new interpretations of his teachings. There are, indeed, many reasons to think that numerous calm-insight teachings were added after the Buddha. [^75] But the likelihood of diverse strata need not push us towards extreme scepticism, and the conclusion that nothing can be known for sure. Rather, it is sensible to approach the canonical texts with cautious optimism about identifying authentic teachings of the Buddha, based on the undeniable point that he really existed. According to this approach, certain teachings will probably be shown to have a later origin than the Buddha himself; but this is a subject for future research and debate.
 
-## 13. Fear and loathing in Buddhist Studies 
+## 13. Fear and loathing in Buddhist Studies
 
 This study has hopefully shown that extreme scepticism about the Buddha is unfounded. Beyond any reasonable doubt, we can conclude that early Buddhist texts are ancient and sufficiently objective for us to 'know' the Buddha. Details can be doubted - whether this or that text was really spoken by the Buddha. But this does not detract from the overall coherence of the texts, in terms of both their socio-political and doctrinal particulars. As Sujato \& Brahmali have put it (2015: 143-44), we need not be concerned with the sort of sceptic who says, after all this, that 'we can't know for certain whether any specific phrase was spoken by the Buddha'. About this sceptical objection, Sujato and Brahmali are surely right to conclude that '[w]hile the sceptical assertion is true, it is trivially so' (2015: 144).
 
@@ -584,7 +584,7 @@ Lacking all academic merit, extreme scepticism should perhaps be viewed as the p
 
 [^76]: Burke (1951:31).
 
-## Abbreviations 
+## Abbreviations
 
 The numbering of individual Pāli Suttas (e.g. AN 8.86) follows the method of Sutta Cental (https://suttacentral.net/). Citations or indications of the volume and page of individual Pali texts (e.g AN IV.344) refer to the volume and page number of PTS (Ee) editions.
 
@@ -605,7 +605,7 @@ The numbering of individual Pāli Suttas (e.g. AN 8.86) follows the method of Su
 | Sn | Sutta Nipāta |
 | Vin | Vinaya |
 
-## References 
+## References
 
 * Almond, Philip C. 1988. The British Discovery of Buddhism. Cambridge: Cambridge University Press.
 * Anālayo, Bhikkhu. 2007. 'Oral Dimensions of Pāli Discourses: Pericopes, Other Mnemonic Techniques, And the Oral Performance Context'. Canadian Journal of Buddhist Studies 3: 5-33.

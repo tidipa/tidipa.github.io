@@ -19,7 +19,7 @@ tags:
 
 # Did the Buddha Believe in Karma and Rebirth?[^*]
 
-Johannes Bronkhorst 
+Johannes Bronkhorst
 
 JIABS Vol 21 Issue 1 pp. 1-19
 
@@ -80,7 +80,7 @@ VETTER continues on the same page 80 with the words: "Passages in the canon whic
 [^15]: VETTER 1988: 82-83.
 
 > The theoreticians of the dhyāna path thought that also a remembrance of one's former existences belonged to the enlightenment and release of the Buddha and his better disciples. But the formula of the remembrance of former existences, which is perhaps also very old but comes from a different source, does not mention a heaven and an underworld, nor karmic retribution, it is only concerned with rebirth in the world of man. It states (e.g. in MN I p. 22, abridged):
-> 
+>
 >> "I remember one former existence, two, three, ... ten, twenty, thirty, ... a hundred, a thousand, a hundred thousand, numerous aeons in which the world approaches destruction, numerous aeons in which the world expands ... There I had this name, belonged to this family, this caste, had this livelihood, experienced this happiness and sorrow, lived so long; having disappeared from there I reappeared here, had this name ..."
 
 What conclusions should one draw from this situation? Of two supposedly very old passages one only mentions the underworld and the heavenly world, the other one "is only concerned with rebirth in the world of man". VETTER's own comment is (p. 83): "The juxtaposition of the two formulas allowed persons to mentally combine them and read in them what they expected to find there, namely that the quality of human existence is also the effect of karma." But this avoids the issue. If we assume, with VETTER, that the two passages are in contradiction, the preference for one of the two as representing the position of ancient Buddhism, or even of the Buddha, is purely subjective. But there is no reason to see a contradiction between the two. The fact that one concentrates on heaven and the underworld, and the other on human existences, may indicate that the doctrine of rebirth was given interpretations that fitted the situation, or the mood of the speaker. But both passages fit in with a general concept of karma and rebirth which concerns existences both among human beings and in heaven and the underworld. [^16]
@@ -103,9 +103,9 @@ This question determines the subsequent development of the paper and, I dare say
 [^18]:  ENOMOTO 1989: 43-44.
 
 > Making an exhaustive investigation on the occur[r]ence of the word karman (kamma) in early Buddhist literature, we find some descriptions which show the elimination of karman. One of them is found in the Udāna ... 3.1, where a mendicant who eliminates hitherto made karman is described in verse.
-> 
+>
 > ...
-> 
+>
 > The idea of shaking off karman or the like is expressed in the literatures of the early Upaniṣads and Jainism. ... Thus this verse of the Udāna includes the ideas which are common with the early Upaniṣads and Jainism.
 
 I do not know whether ENOMOTO has any further evidence than only this verse from the Udāna; he certainly does not refer to it in this section. He only adds a footnote which shows that the reading of the crucial word kamma in the verse is not guaranteed: other versions evidently had käma. This, of course, weakens his position even further.
@@ -120,7 +120,7 @@ He translates:
 
 > He makes no new karman and annihilates former karman, experiencing (its retribution) successively. Such is (the way of) wearing out (karman) which is visible in this life, takes no time, is what one is to come and see, leads onwards (to the Goal) and is to be known by the intelligent each for himself.
 
-ENOMOTO then comments: 
+ENOMOTO then comments:
 
 > The word nijjarā (nirjarā) is a technical term of Jaina practice and indicates the annihilation of karman, which also appears in the preceding passage of the introduction of Jaina practice. This word appearing here in Buddhist practice would also indicate the same. The practice "He makes no new karman and annihilates former karman" also is almost the same as the Jaina practice ... introduced in the preceding passage. However, the way of the annihilation is different. This is enabled by shaking of karman itself in early Jaina practice, but by the successive experience of the retribution of karman with the three fundamental stages (i.e., sita, samādhi and prajñā, JB) in this Buddhist practice as the expression "experiencing (its retribution) successively" shows.
 
@@ -198,13 +198,13 @@ One last question: How do we explain that the Buddha's concept of karma, i.e. of
 * PYYSIĀINEN, Ilkka 1996: Belief and Beyond. Ābo: Ābo Akademi. (Religionsvetenkapliga skrifter nr 33).
 * SChMITHAUSEN, Lambert 1986: "Critical response", Karma and Rebirth: Postclassical developments, ed. Ronald W. Neufeldt. State University of New York Press, pp. 203-230.
 * - 1992: "An attempt to estimate the distance in time between Aśoka and the Buddha in terms of doctrinal history", The Dating of the Historical Buddha / Die Datierung des historischen Buddha, Part 2, ed. Heinz Bechert, Göttingen: Vandenhoeck \& Ruprecht, pp. 110-147.
-* - 1995: "Mensch, Tier und Pflanze und der Tod in den älteren Upaniṣaden", Im Tod gewinnt der Mensch sein Selbst: Das Phänomen des Todes in asiatischer und abendländischer Religionstradition, ed. Gerhard Oberhammer. Wien: Verlag der Österreichischen Akademie der Wissenschaften (ÖAW, phil.-hist. Kl., $\mathrm{Sb}, 624$. Bd.), pp. 43-74.
+* - 1995: "Mensch, Tier und Pflanze und der Tod in den älteren Upaniṣaden", Im Tod gewinnt der Mensch sein Selbst: Das Phänomen des Todes in asiatischer und abendländischer Religionstradition, ed. Gerhard Oberhammer. Wien: Verlag der Österreichischen Akademie der Wissenschaften (ÖAW, phil.-hist. Kl., Sb, 624. Bd.), pp. 43-74.
 * Vetter, Tilmann 1988: The Ideas and Meditative Practices of Early Buddhism, Leiden etc.: E.J. Brill.
 * - 1995: "Bei Lebzeiten das Todlose erreichen: Zum Begriff amata im alten Buddhismus." Im Tod gewinnt der Mensch sein Selbst: Das Phänomen des Todes in asiatischer und abendländischer Religionstradition, ed. Gerhard Oberhammer. Wien: Verlag der ÖAW (SAWW 624), pp. 211-230.
 * - 1996: "Das Erwachen des Buddha", WZKS 40: 45-85.
 * - 1996a: "Tod im Buddhismus." Der Tod in den Weltkulturen und Weltreligionen, Ed. Constantin von Barloewen. München: Diederichs, pp. 296-328 (The version used by me is the original unpublished text, which has been distributed by the author because it is in various respects better than the published version; page numbering 1-26).
 * - 1997: "Der Buddhismus und die Frage nach einer weltbildindifferenten Erfahrung." Das Evangelium und die Weltreligionen. Theologische und philosophische Herausforderungen, Hrsg. HansPeter Müller. Stuttgart - Berlin - Köln: W. Kohlhammer, pp. 37-46.
-* WITZEL, Michael 1984: "The earliest form of the idea of rebirth in India", Proceedings of the 31st Intern. Congr. of Human Sciences in Asia and North Africa, ed. Yamamoto Tatsuo. Tokyo: The Tōhō Gakkai. Vol I., pp. $145-46$
+* WITZEL, Michael 1984: "The earliest form of the idea of rebirth in India", Proceedings of the 31st Intern. Congr. of Human Sciences in Asia and North Africa, ed. Yamamoto Tatsuo. Tokyo: The Tōhō Gakkai. Vol I., pp. 145-46
 
 ## Abbreviations:
 

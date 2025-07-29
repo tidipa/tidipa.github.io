@@ -1,4 +1,4 @@
-# The Buddhist Canon And The Canon Of Buddhist Studies 
+# The Buddhist Canon And The Canon Of Buddhist Studies
 
 Oliver Freiberger
 
@@ -11,7 +11,7 @@ In this paper, I will reconsider those demands by reflecting upon the Buddhist c
 [^1]: Earlier versions of this paper were presented at the University of Bayreuth and at the University of Texas at Austin in spring, 2004. I thank the participants of the subsequent discussions for their responses and, in particular, Janice Leoshko for her comments and valuable suggestions.
 [^2]: The word 'canon' is derived from Greek kanōn, "cane", "ruler", figurative: "rule", "norm", "model". See for the etymology and historical development of the term Gerald T. Sheppard, "Canon," The Encyclopedia of Religion, ed. Mircea Eliade, vol. 3 (New York: Macmillan, 1987), pp. 62-69.
 
-## 1. The Buddhist Canon in Research and in Teaching 
+## 1. The Buddhist Canon in Research and in Teaching
 
 When scholars of religion apply the term 'canon' to a certain corpus of texts, they usually wish to emphasize two aspects: its normative, authoritative character on the one hand, and its fixed and standardized form on the other [^3]. The latter feature is the result of a process of canonization. Generally speaking, this process begins when within a tradition certain institutions select a limited number of texts and define them as authoritative, that is, 'canonical.' Subsequently, those or other institutions will need to protect and defend this canon [^4].
 
@@ -19,7 +19,7 @@ When scholars of religion apply the term 'canon' to a certain corpus of texts, t
 
 Following this definition, scholars of Buddhism are used to labeling certain Buddhist text collections 'canonical.' I focus in this paper on the so-called Pāli canon of the Theravāda school. Although little is known about the formation of the texts after the death of the Buddha, scholarship holds that for a couple of centuries, Buddhists transmitted the constantly increasing text collection orally, until, according to the Theravāda tradition, it was written down for the first time in Sri Lanka, in the 1<sup>st</sup> century before the Common Era [^5]. From the 5<sup>th</sup> century commentaries onwards, at the latest, both canonical features are observable: the Pāli canon is regarded as normative and authoritative, and its textual contents are defined and fixed.
 
-### 1.1. Leaving the Canon Behind: Alternative Sources for Research 
+### 1.1. Leaving the Canon Behind: Alternative Sources for Research
 
 From its very beginning, Western scholarship has focused on the Pāli canonical texts, assuming that historically they were the most reliable source for reconstructing the life of the Buddha, his original teachings, and the new religion's early development. In recent decades, scholars have raised new questions and brought up a number of critical methodological issues: the problem of the alleged objectivity of the scholar; the need for scholarly interpretation and creativity; the issue of evaluative assessment and normativity; the disputed quest for the original intention of a text's author; the significance of politics and power; and, in particular, the role of the written text in general [^6]. A considerable number of scholars have become critical of the traditional, historical-philological paradigm. Emphasizing the obvious multifaceted character of Buddhism and the need for adequate ways to deal with its diversity, they suggest methods other than philological (for example, anthropological, sociological, and art historical methods), and approaches other than historical (such as cross-cultural analysis, feminist criticism, deconstruction, and literary criticism)[^7]. The critique of the traditional historical-philological approach concerns, of course, particularly its focus on canonical texts; scholars tend to look for other meaning-producing forms of sources. In the words of José Cabezón: "There is today a call for the increased investigation of alternative semiotic forms - oral and vernacular traditions, epigraphy, ritual, patterns of social and institutional evolution, gender, lay and folk traditions, art, archeology and architecture." [^8]
 
@@ -33,7 +33,7 @@ In the course of this trend, the role of the Pāli canon in Buddhist Studies has
 [^8]: Cf. Cabezón, "Buddhist Studies as a Discipline...," pp. 262f.
 [^9]: Charles Hallisey, "Roads Taken and Not Taken in the Study of Theravāda Buddhism," Curators of the Buddha: The Study of Buddhism under Colonialism, ed. Donald S. Lopez, Jr. (Chicago/London: University of Chicago Press, 1995), pp. 31-61, here: pp. 3438. Trying to apply a one-sided concept of Orientalism to this issue, however, would be too simple. As Hallisey observes, "there was something like a productive 'elective affinity' between the positivist historiography of European Orientalism and Buddhist styles of self-representation" (p. 43); see also pp. 47-49. This is true also for the common usage of the commentaries of the Pāli canon; emulating Buddhist tradition, scholars of Buddhism have used them merely as a tool for understanding the canonical text but not as a religious expression of its own right that was composed centuries after the canon itself. In addition to that, several other ways of emulating the Buddhist tradition are observable. Luis Gómez examines similarities in the philological and the scholastic approaches, in the doctrinal commitment, and in the notion of history (decay or culmination). Luis Gómez, "Unspoken Paradigms: Meandering through the Metaphors of a Field," JIABS 18 (1995), pp. 183-230. For the dialectics of orientalism, occidentalism, 'auto-occidentalism,' and 'auto-orientalism' in (the study of) Asian religions cf. also the recent volume, Religion im Spiegelkabinett: Asiatische Religionsgeschichte im Spannungsfeld zwischen Orientalismus und Okzidentalismus, ed. Peter Schalk, Max Deeg, Oliver Freiberger, Christoph Kleine, Acta Universitatis Upsaliensis: Historia Religionum 22 (Uppsala: University of Uppsala, 2003); for an outline of this volume see my note, "Religion in mirrors: Orientalism, Occidentalism, and Asian Religions," Journal of Global Buddhism 4 (2003), pp. 9-17 (online: http://www. globalbuddhism.org).
 
-### 1.2. Teaching Buddhism without a Canon: The Affection for Contemporary Practice 
+### 1.2. Teaching Buddhism without a Canon: The Affection for Contemporary Practice
 
 It comes as no surprise that the focus on the Pāli canon in research caused an identical focus in teaching. Charles Hallisey remarks that "the study of the Theravāda became equated with the study of the Pāli canon, and it is still common for a student to finish a graduate program in Buddhist Studies without ever having read a Theravādin commentarial text." [^11]
 
@@ -53,12 +53,12 @@ In recent times, the textual focus in teaching has shifted. One example of a new
 
 A recent collection of essays on "Teaching Buddhism in the West" places strong emphasis on practice, as well [^18]. In its first chapter, Frank Reynolds criticizes the usual 'Introduction to Buddhism' course. He describes it as "the kind of survey course that begins with (...) the historical life and teachings of Gautama Buddha, (...) moves through a rapid-fire treatment of some 2500 years of Buddhist intellectual and social history (...), and finally concludes with an equally rapid-fire survey of contemporary Buddhism in various countries around the world." [^19] As examples of an "alternative approach that will be appropriate and effective within a postmodern liberal arts curriculum," he suggests three types of courses on Buddhism, two of which are significant for our considerations [^20]. First, he proposes a concept for an introductory undergraduate course that deals not with the foundations of Buddhism and its historical development but with practices of contemporary Buddhists in Asia and North America. The goal of such a course is "to introduce students to a broadly representative variety of the real worlds of real Buddhists who are involved in real Buddhist practices that generate real Buddhist experiences. [^21] Reynolds' second concept of an advanced course comprises a canonical text, but focuses on the "ways in which the text has been received and put to use in the tradition." [^22] It is obvious that in this article, Reynolds does not attach great importance to the Pāli canon for teaching purposes. His introductory course contains no canonical text whatsoever, and his advanced course focuses not on the content of the selected canonical text, but on its role in practice.
 
-[^16]: Buddhism in Practice, ed. Donald S. Lopez, Jr. (Princeton, N.J.: Princeton University Press, 1995). Cf. also John S. Strong, The Experience of Buddhism: Sources and Interpretations, $2^{\text {nd }}$ ed. (Belmont, CA: Wadsworth, 2002).
+[^16]: Buddhism in Practice, ed. Donald S. Lopez, Jr. (Princeton, N.J.: Princeton University Press, 1995). Cf. also John S. Strong, The Experience of Buddhism: Sources and Interpretations, 2nd ed. (Belmont, CA: Wadsworth, 2002).
 [^17]: The only canonical text in the book, the Gotamī-apadāna, is little known and has been translated into a Western language here for the first time. Buddhism in Practice..., pp. 113-138.
 [^18]: Teaching Buddhism in the West: From the Wheel to the Web, ed. Victor Sōgen Hori, Richard P. Hayes, James Mark Shields (London/New York: RoutledgeCurzon, 2002).
 [^19]: Frank E. Reynolds, "Teaching Buddhism in the Postmodern University: Understanding, Critique, Evaluation," Teaching Buddhism in the West..., pp. 3-16, here: p. 8.
 
-The approach underlying Reynolds' concepts seems to represent a general trend. In the volume on Teaching Buddhism in the West, the authors suggest a number of teaching methods, all of which focus not on canonical texts but on other religious expressions, particularly on religious practice. For their class readings, they select either Buddhist texts that deal with - or are used in - practice, or scholarly articles describing contemporary forms of $\mathrm{it}^{23}$. Canonical texts are of interest only as far as they have a role in practice.
+The approach underlying Reynolds' concepts seems to represent a general trend. In the volume on Teaching Buddhism in the West, the authors suggest a number of teaching methods, all of which focus not on canonical texts but on other religious expressions, particularly on religious practice. For their class readings, they select either Buddhist texts that deal with - or are used in - practice, or scholarly articles describing contemporary forms of it.[^23] Canonical texts are of interest only as far as they have a role in practice.
 
 [^20]: The third course deals with the establishment and development of Buddhism in the West and the development of Buddhist Studies. Reynolds, "Teaching Buddhism...," pp. 9-11. Reynolds describes his vision of postmodern liberal education in detail in his article "Reconstructing Liberal Education: A Religious Studies Perspective," Beyond the Classics? Essays in Religious Studies and Liberal Education, ed. Frank E. Reynolds, Sheryl L. Burkhalter (Atlanta: Scholars Press, 1990), pp. 3-18.
 [^21]: Reynolds, "Teaching Buddhism...," pp. 7-9, here: p. 9. One decade ago, Reynolds' brief description of an introductory course had included contemporary practice as merely one among several elements. See his chapter on "Introducing Buddhism" in Teaching the Introductory Course in Religious Studies: A Sourcebook, ed. Mark Juergensmeyer (Atlanta: Scholars Press, 1991), pp. 71-77.
@@ -84,7 +84,7 @@ It is obvious that this is not an academic or historical, but a religious criter
 
 O'Hyun Park's approach, however, can hardly be considered an example of Buddhist Theology in the sense of critical, academic reflection. He uses postmodern and postorientalist arguments as a justification for propagating what he considers the "essence" of Buddhism, which is based upon his own translation of a sixteenth-century Zen text from Korea.
 
-## 2. Reconsidering the Value of Canonical Texts 
+## 2. Reconsidering the Value of Canonical Texts
 
 Given this trend of dissociating from the idea of a canon, what is the future perspective of Buddhist Studies? Should researchers abandon the primary canon of ancient, normative, and standardized texts, and focus on the local/present productions of meaning instead? Should instructors abandon the secondary canon, and focus on the contemporary practice or the 'central thrust' of Buddhism? Or is working with canonical texts and using a secondary canon for teaching still justifiable? I think it is. In the following sections of the paper, I intend to illustrate what I consider the significance of canonical texts for research and teaching. I start off by presenting one example: the image of the laity in early Buddhism.
 
@@ -118,7 +118,7 @@ The example shows that canonical texts are heterogeneous and diverse, that they 
 [^40]: Gregory Schopen, who is otherwise well-known for challenging the traditional view of Buddhologists by referring to other sources, such as inscriptions and archaeological accounts, has also convincingly shown how we can come to new conclusions by reading the Pāli canonical texts with a fresh and critical question. Cf. Gregory Schopen, "Monks and the Relic Cult in the Mahāparinibbānasutta: An Old Misunderstanding in Regard to Monastic Buddhism", From Beijing to Benares: Essays on Buddhism and Chinese Religion in Honour of Prof. Jan Yün-Hua, ed. Koichi Shinohara and Gregory Schopen (Oakville: Mosaic Press, 1991), pp. 187-201.
 [^41]: Cf. also the considerations in Jonathan S. Walters, "Suttas as History: Four Approaches to the Sermon on the Noble Quest (Ariyapariyesanasutta)", History of Religions 38 (1998), pp. 247-284.
 
-## 3. Implications for Research and Teaching 
+## 3. Implications for Research and Teaching
 
 ### 3.1. The Fundamental Equality of Sources for Research
 
@@ -131,7 +131,7 @@ In the "alternative historical paradigm" Charles Hallisey envisages, Buddhist sc
 
 Beside the fundamental insight that a scholarly canonization which excludes the Buddhist canon is methodologically unacceptable, it seems that the Buddhist canon remains, as I hope to have shown by the example of the early Buddhist laity, a rich source for the study of religion [^46]. Today, Buddhist Studies has not only expanded its scope in terms of topics for research, it also approaches its sources (including canonical texts) with questions different from those of the past. Such questions, and nothing else, should determine the criteria for selecting appropriate sources and methods [^47].
 
-### 3.2. The Significance of Canonization for Teaching Buddhism 
+### 3.2. The Significance of Canonization for Teaching Buddhism
 
 Is this fundamental freedom to select sources equally applicable in the realm of teaching? To begin with, it seems helpful to view introductory and advanced courses separately. The advanced course deals with specific texts and contexts the instructor is familiar with; in these courses, students begin to specialize in certain areas of Buddhism. For the introductory course, I will consider two concepts: the new one suggested by Frank Reynolds, which deals exclusively with contemporary practice in Asia and North America; and the conventional survey course with its outline of Buddhist history.
 
@@ -168,7 +168,7 @@ For demonstrating vertical complexity, it is also important to examine how histo
 [^56]: This Western interest in Buddhism has, of course, its own historical background, namely a critical stance towards the Christian churches and their alleged authoritarian and dogmatic claims, and the longing for a rational and individualistic religion that does not require blind faith, an attitude connected with both Romanticism and Enlightenment.
 [^57]: Cf. Southwold, Buddhism in Life..., pp. 202-212.
 
-## Conclusion 
+## Conclusion
 
 This paper has addressed four issues: the role of the Buddhist canon and the canonization taking place within Buddhist Studies, both for research and in teaching. Some scholars tend to discourage from studying the Buddhist canon and aim at eliminating its role in teaching. I hope to have shown that studying the Buddhist canon remains worthwhile in itself and even more, helps understand better our own presuppositions in the field. In addition, I have argued that although integrating contemporary practice in the introductory course is necessary, the historical survey course, which includes readings from the canonical texts, remains the best option for providing a basis for further studies as well as for liberal education in general.
 

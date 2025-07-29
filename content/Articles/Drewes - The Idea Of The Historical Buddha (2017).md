@@ -31,13 +31,13 @@ tags:
   - Śākya clan
 ---
 
-# The Idea Of The Historical Buddha[^*] 
+# The Idea Of The Historical Buddha[^*]
 
 David Drewes
 
 *Journal of the International Association of Buddhist Studies*  Volume 40 • 2017 • 1–25 • doi: 10.2143/JIABS.40.0.3269003
 
-## Abstract 
+## Abstract
 
 This paper discusses and reevaluates the idea of the historical Buddha. Focusing on a survey of nineteenth and twentieth-century scholarship, it argues that the Buddha's historicity was never actually established and that he cannot properly be regarded as a historical figure.
 
@@ -155,7 +155,7 @@ Contributing to the overall effect, the early Upanisads also seem clearly to be 
 
 Although the idea that the Buddha cannot be considered a historical figure may seem radical, my argument is really a minor one. Though there has long been an industry devoted to the production of sensational claims about the Buddha, nothing about him has ever been established as fact, and the standard position in scholarship has long been that he is a figure about whom we know nothing. My only real suggestion is that we make the small shift from speaking of an unknown, contentless Buddha to accepting that we do not have grounds for speaking of a historical Buddha at all. Of course, it is possible that there was some single, actual person behind the nebulous "śramaṇa Gautama" of the early texts, but this is very far from necessarily the case, and even if such a person did exist, we have no idea who he was. There may similarly have been an actual person behind the mythical Agamemnon, Homer, or King Arthur; Vyāsa, Vālmīki, Kṛṣna, or Rāma, but this does not make it possible to identify them as historical. If we wish to present early Buddhism in a manner that accords with the standards of scientific, empirical inquiry, it is necessary to acknowledge that the Buddha belongs to this group.
 
-## References 
+## References
 
 * App, Urs. 2009. William Jones's Ancient Theology. Sino-Platonic Papers, No. 191. Philadelphia: Department of East Asian Languages and Civilizations, University of Pennsylvania.
 * App, Urs. 2010. The Birth of Orientalism. Philadelphia: University of Pennsylvania Press.
@@ -222,7 +222,7 @@ Although the idea that the Buddha cannot be considered a historical figure may s
 * Obeyesekere, Gananath. 1997. "Taking the Myth Seriously: The Buddha and the Enlightenment." In Petra Kieffer-Pülz and Jens-Uwe Hartmann, eds., Bauddhavidyāsudhākarah: Studies in Honour of Heinz Bechert on the Occasion of His 65th Birthday. Swisttal-Odendorf: Indica et Tibetica: 473-482.
 * Oldenberg, Hermann. 1881. Buddha: Sein Leben, seine Lehre, seine Gemeinde. Berlin.
 * Oldenberg, Hermann. 1890. Buddha: Sein Leben, seine Lehre, seine Gemeinde. 2nd ed., Berlin.
-* Oldenberg, Hermann. 1897. Buddha: Sein Leben, seine Lehre, seine Gemeinde. 3rd$ enlarged ed., Berlin.
+* Oldenberg, Hermann. 1897. Buddha: Sein Leben, seine Lehre, seine Gemeinde. 3rd enlarged ed., Berlin.
 * Oldenberg, Hermann. 1903. Buddha: Sein Leben, seine Lehre, seine Gemeinde. 4th ed., Stuttgart/Berlin: J.G. Cotta.
 * Oldenberg, Hermann. 1906. Buddha: Sein Leben, seine Lehre, seine Gemeinde. 5th ed., Stuttgart/Berlin: J.G. Cotta.
 * Oldenberg, Hermann. 1914. Buddha: Sein Leben, seine Lehre, seine Gemeinde. 6th ed., Stuttgart: J.G. Cotta.

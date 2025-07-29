@@ -16,13 +16,13 @@ tags:
   - sūkaramaddava
   - Theravāda
 ---
-# The Buddha As A Historical Person[^*] 
+# The Buddha As A Historical Person[^*]
 
 Oskar Von Hinüber
 
 *Journal of the International Association of Buddhist Studies*  Volume 42 • 2019 • 231–264 • doi: 10.2143/JIABS.42.0.3287480
 
-## Abstract 
+## Abstract
 
 In an article published in this journal (40.2017 [2018]), entitled "The Idea of the Historical Buddha," David Drewes reviewed the opinions of a number of western Buddhologists on whether or not the Buddha was a historical person and in conclusion claimed that the Buddha never existed. As D. Drewes exclusively draws on secondary literature to demonstrate his point, it seems worthwhile to go back to the sources in order to evaluate their age and to trace possibly early texts containing information on the biography of the Buddha. In doing so, the literary form of early Buddhist texts is taken into consideration and linguistic arguments are used to determine their relative chronology. If texts show traces pointing to an early date fairly near to the assumed life time of the Buddha, this might either indicate the historical existence or at least the date of the creation of the person called the Buddha. Moreover, details preserved in ancient texts which contradict later Buddha biographies are pointed out in order to trace possible memories of a genuine person.
 
@@ -55,7 +55,7 @@ Any attempt to establish the historicity of the Buddha requires an early date of
 To begin with, the doubts about the historicity of the Buddha are much older than evident from the material assembled by D. Drewes. For, already King Milinda asks the Thera Nāgasena twice, once in the older and once in the younger part of the Milindapañha, [^6] whether the Buddha existed or not. The older paragraph reads:
 
 > Rājā āha bhante nāgasena, buddho tayā diṭtho ti? - na hi, mahārājā ti. atha te ācariyehi buddho diṭtho ti? - na hi, mahārājā ti. - tena hi, bhante nāgasena, natthi buddho ti. - kiṃ pana, mahārāja, Himavati Ūhā nadī tayā diṭthā ti? - na hi, bhante ti. - atha te pitarā Ūhā nadī diṭthā ti? - na hi, bhante ti. - tena hi, mahārāja, natthi Ūhā nadīti. - atthi, bhante, kiñcāpi mayā Ūhā nadī na diṭthā, pitarā pi me Ūhā nadī na diṭthā, api ca atthi Ūhā nadī ti. - evam eva kho, mahārāja, kiñcāpi mayā bhagavā na diṭtho, ācariyehi pi me bhagavā na diṭtho, api ca atthi bhagavā ti. - kallo si, bhante nāgasenā' 'ti, Mil 70,5-16.
-> 
+>
 > The King said: Revered Nāgasena, have you seen the Buddha? - No, sire. - Then have your teachers seen the Buddha? - No, sire. - Well then, revered Nāgasena, there is no Buddha. - But have you seen the river Ūhā in the Himalayas? - No, revered sir. - Then has your father seen it? - No, revered sir. - Then there is no river Ūhā. - There is, revered sir. Although neither my father nor I have seen the river Ūhā, nevertheless there is a river Ūhā. - In the same way, though neither my teachers nor I have seen the Lord, nevertheless there is a Lord. - You are dexterous, revered Nāgasena. (I. B. Horner)
 
 [^5]: Thus Nattier 2003: 72: "A Distant Mirror: Studying Indian Buddhism through Chinese and Tibetan Texts."
@@ -276,7 +276,7 @@ Keeping the sound advice by J. W. de Jong and E. Frauwallner in mind while readi
 
 [^60]: Frauwallner [1957] 1982. Why this ironic statement is called "exasperate" by Drewes (2017: 16), whose abbreviated quote slightly distorts Frauwallner's words, is a bit puzzling.
 
-## Primary Sources and Abbreviations 
+## Primary Sources and Abbreviations
 
 Note: All references to Pāli texts are to the PTS editions.
 
@@ -306,9 +306,9 @@ Note: All references to Pāli texts are to the PTS editions.
 | Spk | Sāratthappakāsinī |
 | Sv | Sumaṅgalavilāsinī |
 | Vin | Vinayapitaka |
-| Vin-trsl. | Vinayapitaka; translation by Horner $(1938,1951)$. |
+| Vin-trsl. | Vinayapitaka; translation by Horner (1938,1951). |
 
-## References 
+## References
 
 * Alsdorf, L. 1968. Die Āryā-Strophen des Pāli-Kanons metrisch hergestellt und textgeschichtlich untersucht. Akademie der Wissenschaften und der Literatur, Mainz, Geistes- und sozialwissenschaftliche Klasse, Jahrgang 1967, Nr. 4. Wiesbaden.
 * Anālayo. 2011. A Comparative Study of the Majjhima-nikāya. Dharma Drum Buddhist College Research Series 3. Taipei.

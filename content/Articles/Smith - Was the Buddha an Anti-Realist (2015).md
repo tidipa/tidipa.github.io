@@ -60,7 +60,7 @@ so we will not deal with that here.
 
 The contemporary reconstructions we will be dealing with are apophatic in nature, in which reality is claimed to be ineffable or beyond all positive description. [^4] Taken as such, these theories do not explicitly constitute forms of anti-realism since they support the existence of a reality, albeit a reality which cannot be positively described. For the purposes of this paper therefore we will stipulate "anti-realism" to mean a theory that denies the objective existence of separate, sensible objects that admit of correct, positive (cataphatic) description: material and mental things.
 
-## A note about process philosophy 
+## A note about process philosophy
 
 As regards "things", Ronkin (2005) has ably argued for the position that the Buddha's metaphysics should be described as a form of "process philosophy", that is one involving "processes" rather than "things" or "substances". [^5] She defines "substance"following Aristotle as "that which exists independently of any other thing, ontologically, epistemologically and linguistically." [^6] Her antirealist claim above is directed against a substantival form of realism, and this is no doubt correct in spirit. The Buddha taught that all compound things were in continual, interdependent flux, so insofar as we define substances as entirely independent and changeless, they would not belong within the Buddha's metaphysical picture of the world. That said, this transcendental understanding of substance is at odds with a view attributed to W.V.O. Quine and others under the rubric of the "indispensability argument", whereby we ought to have ontological commitment to all and only the entities that are indispensable to our best empirical theories. [^7] The argument against the Buddha having been a substantival realist does not touch the view that he may have been a different kind of realist.
 
@@ -82,12 +82,12 @@ The difference, indeed, between processes and more traditional, substantial thin
 
 As a result in this paper I will persist with talk about things and objects, trusting that it can be translated into process talk if that is so desired.
 
-## Anti-realism in the Nikāyas 
+## Anti-realism in the Nikāyas
 
 Luis Gomez locates an apophatic strand within the Atthakavagga of the Sutta Nipāta (Sn), perhaps one of the earliest books in the Nikāyas. He describes it in mystical terms, and as a form of "proto-Mādhyamika":
 
 > These passages strike the reader as some of the most explicit and representative statements of an extreme apophatic tendency found elsewhere in Buddhist literature. ...
-> 
+>
 > This tendency could be characterized in the theoretical realm as the doctrine of no-views, and in the practical realm as the practice of practicing no dharmas. ... [I]t stands on an ascetic discipline of silence which corresponds and leads to the higher goal of silencing the mind's imaginative-discursive faculties, whereupon the mystic reaches the ultimate state of inner silence, considered to be itself beyond all possible theoretical description. [^12]
 
 The Atthakavagga contains critiques against "views" (diṭthi, e.g., Sn 889), "arguments and disputes" (kalahā vivādā, Sn 862-3), "truth and falsity" (saccammusā, Sn 886), and what Gomez translates as "apperception" (sañ̃̃ā, e.g., Sn 874); it is the word used for one of the five khandhas, often translated "perception". [^13] On this theory, our apperceptions produce views and opinions in us by dividing up the world into illusory conceptual categories. These views incite disputes, which themselves only produce further suffering. Our proper response should be to abandon all views as inherently tainted and misleading, in order to directly experience reality for itself, which is beyond all views and concepts. Since this theory denies the separate existence of material and mental things, it qualifies as a form of anti-realism for purposes of this paper.
@@ -108,7 +108,7 @@ Wynne takes this apophatic approach to the entirety of the Buddha's dhamma. [^16
 Wynne also takes a look at two other stanzas:
 
 > 'Devoid of thirst even before death,' said the Blessed One, 'not dependent upon the past, immeasurable in the middle, for him nothing is fashioned with regard to the future. (Sn 849).
-> 
+>
 > He is without attachment for the future and does not grieve over the past. Perceiving detachment, he is not led into sense- contacts and views. (Sn 851).
 
 [^14]: Ronkin 2005: 246-7
@@ -126,13 +126,13 @@ The drawback about using poetic verse to ground our philosophical understanding 
 Wynne finds corroborating evidence for a generalized anti-realism in the Kevatta Sutta, in the famous passage where, as Wynne puts it, "the 'end of the world' is to be found in consciousness":
 
 > Consciousness, which is intransitive, infinite and luminous all round,
-> 
+>
 > Here water, earth, fire and wind do not stand firm.
-> 
+>
 > Here the great and small, the minute and gross, the attractive and unattractive,
-> 
+>
 > Here name and form cease without remainder.
-> 
+>
 > With the cessation of consciousness, this [i.e. name and form] ceases. [^17]
 
 This implies that the five khandas of name and form are directly dependent upon our conceptual apparatus for their existence as separate, identifiable entities.
@@ -143,7 +143,7 @@ Wynne finds further evidence for this view in the Alagaddūpama Sutta, where the
 
 The problem may be that for the Buddha all consciousness was necessarily transitive. [^19] Hence one might say that any sort of consciousness that were not transitive would ipso facto be ineffable.
 
-## Another look at the suttas 
+## Another look at the suttas
 
 Wynne's take on the dhamma is perhaps an extreme version of Buddhist antirealism, however as we have seen it has support from interpretations of the early suttas. Most prominently these involve the Atṭhakavagga, however the anti-realism found there becomes more plausible when interpreted in the light of similar anti-realist passages in the Kevatṭa and Alagaddūpama Suttas, and given a particular understanding of the Brahmajāla. While there are a few other, similar passages elsewhere in the Nikāyas, these should suffice as a good base for investigation.
 
@@ -167,9 +167,9 @@ It is important however not to take such verses out of context, even out of the 
 As for the stanza from above in both Ronkin and Wynne (Sn 874), citing it in context illuminates the meaning. It appears at the culmination of the Kalahavivāda Sutta, which is a discussion about how to end disputes. The Buddha proposes an analytic formula similar to that of dependent origination:
 
 > disputes stem from our desire for this and that (chanda). Desire for this and that stems from the distinction between pleasant (sāta) and unpleasant (asāta). Pleasant and unpleasant arise from contact (phassa). And it proceeds:
-> 
+>
 > 'Contact exists because the compound of mind and matter exists. The habit of grasping is based on wanting things. If there were no wanting, there would be no possessiveness. Similarly, without the element of form, of matter, there would be no contact.' (Sn 872)
-> 
+>
 > 'What pursuit leads a person to get rid of form? And how can suffering and pleasure cease to exist? That is what I want to know about. [^25] (Sn 873)
 
 Now we come to the crux of the passage, which as we have seen Ronkin (and Wynne as well) translates in terms of "conceptualizing". [^26] The word at issue is "saññā", which is one of the five aggregates often translated "perception". Saddhatissa (1985: 102) translates the stanza with that term:
@@ -179,7 +179,7 @@ Now we come to the crux of the passage, which as we have seen Ronkin (and Wynne 
 [^26]: Wynne 2010: 162
 
 > 'There is a state where form ceases to exist. ... It is a state without ordinary perception and without disordered perception and without no perception and without any annihilation of perception.
-> 
+>
 > It is perception, consciousness, that is the source of all the basic obstacles.' (Sn 874).
 
 Gomez (1976: 144) translates it in terms of "apperception", which may be the more accurate if obscure concept. The point of the stanza is that our problem lies in how we perceive things in the light of previous experience, and in particular in the light of ignorance. This is a more conceptually mediated process than the bare, English word "perception" might suggest, and one that has connotations of naming or labeling, which is no doubt why Ronkin and Wynne chose to translate it in terms of "conceptualizing" rather than "perceiving". But in reading it that way one may lose sight of the fact that this discussion echoes others within the Canon on the same topic of ending desire for sense objects.
@@ -195,7 +195,7 @@ not so philosophically distant from his old guru Uddaka Rāmaputta as might othe
 
 Stanzas such as the two at the beginning of the Purābheda Sutta (Sn 849-851) are in a similar fashion more simply viewed as arguments against attachment to ideas of future and past rather than claims about the dependence of time upon our cognitive conditioning. [^29] The above assertion in Sn 849 that the arahant is "immeasurable" (nūpasaṃkheyyo) in the present is one we will return to below.
 
-### II. The Alagaddūpama Sutta 
+### II. The Alagaddūpama Sutta
 
 This, one of the deepest and most rewarding suttas in the entire Canon, is also according to Gombrich (1996: 107) "one of the oldest". As we saw with the Atṭhakavagga, it contains a complex blend of apparently apophatic and cataphatic teachings. The sutta begins with the Buddha's scolding of the wayward monk, Aritṭha for his wrong view about sensual pleasures, and contains one of the Buddha's best known parables, that of the raft, teaching us not to cling to the dhamma beyond its usefulness in crossing the stream of samsāra. [^30]
 
@@ -212,10 +212,10 @@ Much like the earlier passages we saw in the Sutta Nipāta, this passage is obsc
 
 It may also be amenable to a different interpretation. Typically it is said that one escapes Māra through jhānic meditation. [^32] For example,
 
-> So too, bhikkhus, when, secluded from sensual pleasures ... a bhikkhu enters and dwells in the first jhāna $\ldots$ on that occasion it occurs to the bhikkhu: 'Now I am secure from danger and Māra cannot do anything to me.' ...
-> 
+> So too, bhikkhus, when, secluded from sensual pleasures ... a bhikkhu enters and dwells in the first jhāna ... on that occasion it occurs to the bhikkhu: 'Now I am secure from danger and Māra cannot do anything to me.' ...
+>
 > When, with the complete surmounting of perceptions of forms, with the passing away of perceptions of sensory impingement, with nonattention to perceptions of diversity, [perceiving] 'space is infinite,' a bhikkhu enters and dwells in the infinity of space, on that occasion he is called a bhikkhu who has blinded Māra, put out Māra's eyes without a trace, and gone beyond sight of the Evil One. [^33]
-> 
+>
 > And where is it that Māra and his following cannot go? Here, quite secluded from sensual pleasures ... a bhikkhu enters upon and abides in the first [second, etc.] jhāna ... This bhikkhu is said to have blindfolded Māra, to have become invisible to the evil one by depriving Māra's eye of its opportunity. [^34]
 
 The distinction between one in deep jhāna and one who has attained nibbāna is that the former is said to have blinded or blindfolded Māra, etc., and the latter is said to have blinded or blindfolded Māra, etc., and also to be "beyond attachment to the world". But note that it is the same basic concept at work in both cases: one "blindfolds Māra" by being "secluded from sensual pleasures". In that seclusion, one is also at least temporarily unattached to sense pleasures. The unbinding of nibbāna involves making this temporary state permanent. So the arahant is not merely temporarily devoid of sensual desire, but is permanently so. Thus to be visible to or discoverable by Māra is a metaphor for having an underlying tendency to sense attachment. This may be what the Buddha means with his obscure claim about being "untraceable" by the gods: he is beyond being located and tempted by their wiles.
@@ -241,7 +241,7 @@ The Alagaddāpama's cataphatic background may at times be lost in the glare of i
 
 In this paragraph we have the merging of a cataphatic teaching with the fruits of non-clinging to views. If we do not cling to views, we are not swayed by the worldly winds of debate, disagreement, and dispute. This demonstrates that we can hold views as truthful without thereby clinging to them; indeed, that is the very point of the teaching. [^40]
 
-### III. The Brahmajāla Sutta 
+### III. The Brahmajāla Sutta
 
 At the end of the Brahmajāla, the sixty two wrong views listed are all said to be "the agitation and vacillation of those who are immersed in craving" (taṇhāgatānaṃ paritasitavipphanditaṃ). They are also labeled kinds of "feeling" (vedayita) with the formula, "that is only the feeling of those who do not know and do not see". [^41] They are wrong view both in terms of their content and in terms of how they are held: due to craving. This sutta follows the same form as the Kalahavivāda Sutta that we saw before: it locates the key problem at contact (phassa). Contact conditions the feeling which constitutes each wrong view.
 
@@ -257,7 +257,7 @@ As regards space and time, the Brahmajāla makes no positive claims outside of t
 
 This raises the question as to a missing sixty third position, one that would not amount to another kind of "speculative view" but that would accurately describe the Buddha's own metaphysical position. It is perhaps uncontroversial that a view which best describes the Buddha's own does not appear among the sixty two: namely, a position based upon the three marks of existence, following the formula of dependent origination. I do not think that can have been an oversight. If the Buddha had wished to claim in the Brahmajāla that reality were ineffable, one would have expected him to include among the sixty two speculative views the very cataphatic position he appears to hold.
 
-### IV. The Kevatṭa (Kevadḍha) Sutta 
+### IV. The Kevatṭa (Kevadḍha) Sutta
 
 The relevant portion of this sutta revolves around an unnamed monk who wants to know "where the four great elements cease without remainder." [^43] When the Buddha eventually answers this question, he does so in a particularly cryptic fashion, as we have seen above. The main thrust of his message to this monk appears to be that the cessation of the elements is achieved when we can achieve (as Ñānananda puts it) [^44] "non-manifesting" or (as Wynne puts it) "non-transitive" consciousness. However consciousness for the Buddha was necessarily "manifesting" or "transitive"; it was always consciousness "of" something, due to contact with sense objects and sense bases. For there to be "non-transitive" consciousness is for consciousness to be stopped. And indeed that is what the Buddha says at the end of his cryptic utterance: "With the cessation of consciousness, this [i.e. name and form] ceases." That is where the elements cease without remainder.
 
@@ -272,7 +272,7 @@ That works for the experience itself, but what of the claim that this cessation 
 [^45]: AN 1.51-60/I.10-11
 [^46]: Cf., Madhupingika Sutta, MN 18.8/I.109-10
 
-## Realism in the Nikāyas 
+## Realism in the Nikāyas
 
 We have touched on the role of contact (phassa) within the exposition of suttas in the Atthakavagga and elsewhere. Metaphysically, the concept of contact must be regarded as particularly interesting, since it involves three elements, only one of which is strictly mental. Contact is the meeting of sense object, sense base, and consciousness. In this formula, sense object and sense base appear to be external to, and hence distinct from, consciousness. If they were not, there could be no contact between them.
 
@@ -288,7 +288,7 @@ Contact is like the friction of fire sticks. The analogy is not perfect, in that
 
 The notion that objects may exist separately even when we are not in perceptual conjunction with them may also be related to the contemplations of internal (ajjhatta) and external (bahiddhā) body, element, and charnel ground contemplations in the Satipatṭhāna and Mahāsatipaṭthāna Suttas. [^48] It is key to the awareness of non-self that one contemplate the various ways in which material form both internal and external to one's body are identical in nature. While such contemplations could be restricted to those objects with which one was in direct sensory contact, there is no reason for believing such contact is necessary, nor that those objects were understood as mere aspects of one's own phenomenal awareness. Indeed it is hard to see how one could contemplate one's body as a mass of scattered bones in any way other than as an object separate from one's perceptual apparatus.
 
-This is not to say that such contemplations could not be modeled as (e.g.) examples of the perception of mental objects and nothing more; as simple exercises in imaginative construction. However insofar as they are supposed to be revelatory of the truth that "This body too is of the same nature, it will be like that, ${ }^{, 49}$ etc., they must be more than simply daydreams.
+This is not to say that such contemplations could not be modeled as (e.g.) examples of the perception of mental objects and nothing more; as simple exercises in imaginative construction. However insofar as they are supposed to be revelatory of the truth that "This body too is of the same nature, it will be like that,[^49]etc., they must be more than simply daydreams.
 
 There is a sense in which the Buddha's world was a "world of experience" in Sue Hamilton's (2000: 109) phrase: our world exists and has its origin and cessation within "this fathom-long body", focus of the Buddha's ethical program. [^50] One might say that the body is our domain, bait, and hunting ground. But note that the metaphor puts primacy on form: it is the body "endowed with perception and mind" that contains the world, rather than the mind "endowed with body" that does. While this claim echoes the Vedic notion of a correspondence between micro- and macrocosm, its oddity argues that perhaps it should not to be taken too literally.
 
@@ -305,7 +305,7 @@ While it is possible to understand these elements merely as qualitative aspects 
 In the Assutavā Sutta, the Buddha makes an odd argument for taking the body rather than the mind as "self":
 
 > It would be better, bhikkhus, for the uninstructed worldling to take as self this body composed of the four great elements rather than the mind. For what reason? Because this body composed of the four great elements is seen standing for one year, for two years,
-> 
+>
 > ... for a hundred years, or even longer. But that which is called 'mind' and 'mentality' and 'consciousness' arises as one thing and ceases as another by day and by night. [^53]
 
 [^51]: He suggests that this is particularly true of the analysis of form into the four elements, saying that the Mahā-hatthipadopama Sutta "considers the first aggregate of 'form' not as an aspect of experience, but rather in terms of the ontological factors of which it consists (the four material elements of earth, water, fire and wind)." Wynne 2015: 85
@@ -345,7 +345,7 @@ It is in other texts such as the Apanṇaka and Sandaka Suttas (MN 60/I.400ff, M
 We do not find any claim that Kesakambalī's view inappropriately requires belief in independently existing material things, nor any claim that his view would cause clinging to independently existing material things. While it is possible that the Buddha would have agreed that these were other problems with materialism, they do not appear to have been the primary concern in these texts. And perhaps this should not surprise us, since elsewhere we find the Buddha saying,
 
 > Bhikkhus, I do not dispute with the world; rather it is the world that disputes with me. ... Of that which the wise in the world agree upon as not existing, I too say that it does not exist. And of that which the wise in the world agree upon as existing, I too say that it exists. ...
-> 
+>
 > And what is it, bhikkhus, that the wise in the world agree upon as existing, of which I too say that it exists? Form that is impermanent, suffering and subject to change ... Feeling ... Perception ... Volitional formations ... Consciousness ... [^59]
 
 This does not elucidate much about the ontological character of the khandas, and in particular the khanda of form, however it does help establish its bare existence, as versus a more anti- realist view of the dhamma. In other words, it sounds as though regarding the bare existence of form, the Buddha does not disagree with the annihilationist Ajita Kesakambalī. The claim is not that Kesakambalī is too profligate with his metaphysics (requiring separately existing material entities), but instead that he is too spare (not requiring minds, actions, kamma).
@@ -388,7 +388,7 @@ As we have noted, Fuller (2012: 107) claims that Right View is nonpropositional,
 
 That said, Right View has propositional content; it is simply that in order to be called "Right View" that content itself must be held with a particular mental attitude, one of non-attachment. This is a reasonable analysis of Right View in the Nikāyas, or at least a reasonable analysis of how an advanced practitioner would understand Right View, but not one that would support a semantically anti-realist interpretation of the dhamma.
 
-## Was the Buddha a realist? 
+## Was the Buddha a realist?
 
 Now that we have gone some way towards undermining the thesis that the Buddha was an anti-realist, it will be beneficial to turn to the alternative thesis, which is that the Buddha was a realist, either in the ontological sense (that he taught that there exist separate things that are not entirely constituted by nor wholly dependent upon the mind [^69] ) or in the semantic sense (that he taught that sentences and propositions are true objectively, and not solely because of convention or opinion).
 
@@ -439,7 +439,7 @@ On the latter view, Sāriputta and the ābhidhammikas, great thinkers in their o
 
 Indeed, the turn towards foundationalism was a general feature of all or nearly all later Buddhist philosophy. By "foundationalism" I mean an attempt rigorously to demonstrate the limit, source, or ground of thought or reality. Foundationalism is a project of great interest to scholars and philosophers, among whom were many in the Abhidhamma and Madhyamaka, although one may debate whether any of it is entirely in the spirit of the earliest tradition.
 
-## Conclusion 
+## Conclusion
 
 First and foremost the Buddha propounded an ethics to be acted upon in the world: "both formerly and now what I teach is dukkha and the cessation of dukkha." This involved a global attitude of non-attachment to all things, including our own views and opinions. In many texts he prescribed a practice of deep mental absorption, including the attainment of the formless jhannas, as a method for ridding ourselves of attachment to sense objects, and thereby for attaining final release into nibbāna. In particular he promoted this practice in the Atṭhakavagga as a way to escape the dangers of hatred and violence occasioned by argument, quarrel, and debate. The text was perhaps composed around the time that the Buddha himself was contending with his own fierce intellectual competitors.
 
@@ -468,7 +468,7 @@ world. [^81]
 
 [^81]: MN 26.21/I.169. Ñānamoli and Bodhi 2009: 261. Also at MN 85/II.93, SN 6.1/I. 138 .
 
-## References 
+## References
 
 * Anālayo, Bhikkhu 2003: Satipatṭhāna: The Direct Path to Realization, Cambridge: Windhorse.
 * Anālayo, Bhikkhu 2011: A Comparative Study of the Majjhima- nikāya, Vol. 1, Taipei: Dharma Drum.
