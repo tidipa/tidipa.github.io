@@ -151,7 +151,7 @@ Also, the narrative implies the early death of the Buddha's mother, which is oth
 
 Even so, clearly the 8 conditions/rules for bhikkhunīs are unlikely to have been introduced after the Buddha's death, so perhaps the narrative serves to justify why these rules needed to be articulated.
 
-Regardless of whether the narrative was accurately depicting the Buddha's opinions, or perhaps that of an unknown disciple after his death, the author of these comments was clearly uncomfortable with women. He was quite possibly simultaneously sexually attracted to women and repelled by them.  [Yasa's story](./Khandhaka/1.7.md) could have been the Buddha's (and in fact was included in some versions of the Buddha's biography). Even after awakening, the Buddha clearly sees women as a danger, representing temptation and corruption to the community.
+Regardless of whether the narrative was accurately depicting the Buddha's opinions, or perhaps that of an unknown disciple after his death, the author of these comments was clearly uncomfortable with women. He was quite possibly simultaneously sexually attracted to women and repelled by them.  [Yasa's story](./Khandhaka/1.7.md) could have been the Buddha's (and in fact was included as a story from the Buddha's own life in some versions of the Buddha's biography). Even after awakening, the Buddha clearly sees women as a danger, representing temptation and corruption to the community.
 
 [10.3 Tatiyabhāṇavāra](https://tipitaka2500.github.io/tipitaka/4V/10/10.3.html) further specifies that bhikkhunīs must also be free from "obstructing characteristics" (`antarāyike dhamme`):
 
