@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🪔🪔🪔 Tidipa",
-    pageTitleSuffix: "- What the Buddha Understood",
+    pageTitleSuffix: "(tidipa.github.io)",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
