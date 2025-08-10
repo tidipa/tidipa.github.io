@@ -8,7 +8,7 @@ In general the Buddha tries his best to be as ethical and as fair as possible, j
 
 Modern Buddhists have tried to rationalise or even whitewash some of these questionable rules, even claiming perhaps they did not originate from the Buddha but were later additions.
 
-However, as per [My Motivation for Translating the Khandhaka](./Khandhaka-motivation.md), the Khandhaka as a whole can be traced to no later than the 2nd century BCE. Although it is possible the author/compiler of the Khandhaka may have invented these rules, it is extremely unlikely given how strict the Buddhist community is regarding the exact wording and the enforcement of these rules, and they were even unwilling to discard the "minor" rules after the Buddha died, and schisms have developed over whether to adopt new rules. So it is likely these rules can be traced all the way back to the Buddha, and reflect his personal opinion.
+However, as per [My Motivation for Translating the Khandhaka](./motivation.md), the Khandhaka as a whole can be traced to no later than the 2nd century BCE. Although it is possible the author/compiler of the Khandhaka may have invented these rules, it is extremely unlikely given how strict the Buddhist community is regarding the exact wording and the enforcement of these rules, and they were even unwilling to discard the "minor" rules after the Buddha died, and schisms have developed over whether to adopt new rules. So it is likely these rules can be traced all the way back to the Buddha, and reflect his personal opinion.
 
 ## Ordination is an exclusive club for (some) men
 

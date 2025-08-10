@@ -55,7 +55,7 @@ Apart from Sections 1-14 being eminently readable even by those not familiar wit
 The Khandhaka is also important as it preserves what is generally regarded as the Buddha's first three discourses. All Buddhists agree that these early discourses summarises his teachings and it can be argued all his other teachings can be derived from the Khandhaka. Therefore, the Khandhaka is an excellent point to start a new translation of the `Tipiṭaka`.
 
 > [!NOTE]
-> For more information, refer to my introductory essay: [**My Motivation for Translating the Khandhaka**](./Khandhaka-motivation.md)
+> For more information, refer to my introductory essay: [**My Motivation for Translating the Khandhaka**](./motivation.md)
 
 ## The Khandhaka (Sections 1-14)
 
@@ -137,7 +137,7 @@ In preparation of the Roman-script text, the Dhamma Society partly based its Pā
 * [About Me](./aboutme.md)
 * [About this Website](./website.md)
 * [An Introduction to Pāḷi](./pali.md)
-* [My Motivation for Translating the Khandhaka](./Khandhaka-motivation.md)
+* [My Motivation for Translating the Khandhaka](./motivation.md)
 * [The Buddha and Buddhism](./buddha.md)
 * [The Buddha's Ethics?](./ethics.md)
 * [The Translation Process](./translation.md)
