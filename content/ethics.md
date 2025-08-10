@@ -40,9 +40,9 @@ Ordination (admission and full membership in the monastic community) is not open
 
 - those seeking an easy life or escaping from other sects [3V/1.48 Theyyasaṃvāsakavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.48.html)
 
-- those committing matricide [3V/1.50 Mātughātakavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.50.html)
+- those who have committed matricide [3V/1.50 Mātughātakavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.50.html)
 
-- those committing patricide [3V/1.51 Pitughātakavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.51.html)
+- those who have committed matricide patricide [3V/1.51 Pitughātakavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.51.html)
 
 - individuals guilty of specific serious offenses—namely, violating bhikkhunīs (Bhikkhunidūsako), creating schisms in the Sangha (Saṃghabhedako), or causing the Tathāgata's blood to flow (Lohituppādako) [3V/1.53 Bhikkhunidūsakavatthu](https://tipitaka2500.github.io/tipitaka/3V/1/1.53.html)
 
@@ -74,11 +74,11 @@ It could be argued that the Buddha's exclusion of those with physical and sexual
 
 A community of thousands would need accommodation, basic necessities and a regular supply of food. The concept of "begging" for alms each day and sheltering in the root of a tree may work for solitary wandering recluses, it is impractical for a large community and must have been so even during the Buddha's time. The Buddha was dependent on support and generosity, and a large community would be a tremendous drain on the goodwill and resources of a small town.
 
-There is perhaps also an unspoken assumption that individuals who are not "normal" (ie. suffering from abnormalities or defects) must be in that condition due to non-optimal behaviour in past lives, and therefore they are not eligible to join the community because they are not likely to be able to achieve the soteriology goals. "Better luck next life, pal." Even if the Buddha did not personally believe this to be the case, it was the perception of society that mattered.
+There is perhaps also an unspoken assumption that individuals who are not "normal" (ie. suffering from abnormalities or defects) must be in that condition due to non-optimal behaviour in past lives, and therefore they are not eligible to join the community because they are not likely to be able to achieve the soteriological goal. "Better luck next life, pal." Even if the Buddha did not personally believe this to be the case, it was the perception of society that mattered.
 
 Therefore, it was necessary that the community rejected misfits and others that would be shunned by society. Regardless of what the Buddha's personal attitudes may have been, it was important that the community was perceived to have a good reputation, and that potential benefactors are not discouraged. Indeed, it could be argued the early sections of the Khandhaka could be interpreted as the Buddha specifically targeting wealthy and influential supporters: the conversion of [Yasa, his family and friends](./Khandhaka/1.7.md), the [Bhaddavaggiya group](./Khandhaka/1.11.md) and ultimately [King Seniya Bimbisāra](./Khandhaka/1.13.md). It is perhaps not a coincidence that the Buddha's discourse to these individuals always started with emphasising the virtue of generosity. At one stage, the Buddha even received [criticism](./Khandhaka/1.14.1.md) that he was breaking apart families and drawing the best resources from the town into his community.
 
-The exclusion of non-normative individuals is a pity, since it would seem it is precisely the misfits and rejects of society that has the most to gain from the Buddha's soteriology. The Buddha's compassion for them apparently does not extend to allowing them to follow the path.
+The exclusion of non-normative individuals is a pity, since it would seem it is precisely the misfits and rejects of society that have the most to gain from the Buddha's soteriology. The Buddha's compassion for them apparently does not extend to allowing them to follow the path.
 
 ## Slaves in Buddhism
 
@@ -88,7 +88,7 @@ Of course, it could be argued that Pilinda's Village did not consist of "slaves"
 
 [@TheravadaBuddhism] wrote:
 
-> Thus it is that the issue of whether the Sangha may have servants or slaves is little discussed in the Vinaya. Originally, before there were monastic establishments, there can have been no lay servants. But they gradually arrive on the scene and are taken almost for granted. For an ordinary servant there was a euphemistic term, *ārāmika* - literally just a person connected with a monastery. The Vinaya story [^76] is that once a saintly monk was clearing a mountain slope to make a cave to live in, and the king promised to give him a man, an *ārāmika*,, to help him. He asked the Buddha whether this would be in order and the Buddha agreed. However, the king for a long time forgot to do anything about it; then later, to atone for his negligence, he assigned the monk five hundred servants, who constituted a whole village. While this story seems absurd as it stands, it does illustrate how royal patronage must have shaped the Sangha's development. Throughout the history of Sri Lanka until very recently the richest monasteries have owned not only vast tracts of real estate but also the labour of its inhabitants, and probably only the king owned land on such a scale as to make such huge donations as whole villages possible.
+> Thus it is that the issue of whether the Sangha may have servants or slaves is little discussed in the Vinaya. Originally, before there were monastic establishments, there can have been no lay servants. But they gradually arrive on the scene and are taken almost for granted. For an ordinary servant there was a euphemistic term, *ārāmika* - literally just a person connected with a monastery. The Vinaya story is that once a saintly monk was clearing a mountain slope to make a cave to live in, and the king promised to give him a man, an *ārāmika*,, to help him. He asked the Buddha whether this would be in order and the Buddha agreed. However, the king for a long time forgot to do anything about it; then later, to atone for his negligence, he assigned the monk five hundred servants, who constituted a whole village. While this story seems absurd as it stands, it does illustrate how royal patronage must have shaped the Sangha's development. Throughout the history of Sri Lanka until very recently the richest monasteries have owned not only vast tracts of real estate but also the labour of its inhabitants, and probably only the king owned land on such a scale as to make such huge donations as whole villages possible.
 
 Gombrich adds:
 
@@ -108,25 +108,25 @@ The Buddha finally relented, but specified 8 rules (`garudhamme`) that Gotamī m
 
 1. A bhikkhunī (nun) ordained for a hundred years must perform salutation, rising up, reverential salutation with joined palms, (and) proper respect to a bhikkhu (monk) ordained on that very day. This dhamma (rule) also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
 
-2. A bhikkhunī (nun) should not spend the vassa (rains-residence) in a residence where there is no bhikkhu (monk). This dhamma (rule) also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
+2. A bhikkhunī should not spend the vassa (rains-residence) in a residence where there is no bhikkhu. This dhamma also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
 
-3. Every half-month, a bhikkhunī (nun) is to expect two dhammas (things) from the Saṅgha (Order) of bhikkhus (monks): the asking of the Uposatha (observance day), and the approach for ovāda (exhortation). This dhamma (rule) also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
+3. Every half-month, a bhikkhunī is to expect two dhammas (things) from the Saṅgha (order) of bhikkhus: the asking of the Uposatha (observance day), and the approach for ovāda (exhortation). This dhamma also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
 
-4. A bhikkhunī (nun) who has completed the vassa (rains-residence) must make the pavāraṇā (invitation) before both Saṅghas (Orders) on three grounds: by what has been seen, or by what has been heard, or by what is suspected. This dhamma (rule) also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
+4. A bhikkhunī who has completed the vassa (rains-residence) must make the pavāraṇā (invitation) before both Saṅghas on three grounds: by what has been seen, or by what has been heard, or by what is suspected. This dhamma also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
 
-5. A bhikkhunī (nun) who has transgressed a garudhamma (important rule) must undertake mānatta (penance) for half a month before both Saṅghas (Orders). This dhamma (rule) also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
+5. A bhikkhunī who has transgressed a garudhamma (important rule) must undertake mānatta (penance) for half a month before both Saṅghas. This dhamma also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
 
-6. A sikkhamānā (female probationer) who has trained for two years in the six dhammas (rules) is to seek upasampadā (higher ordination) from both Saṅghas (Orders). This dhamma (rule) also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
+6. A sikkhamānā (female probationer) who has trained for two years in the six dhammas (rules) is to seek upasampadā (higher ordination) from both Saṅghas. This dhamma also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
 
-7. A bhikkhunī (nun) should not in any way whatsoever revile or abuse a bhikkhu (monk). This dhamma (rule) also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
+7. A bhikkhunī should not in any way whatsoever revile or abuse a bhikkhu. This dhamma also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
 
-8. From today onwards, the channel of speech for formal admonition from bhikkhunīs (nuns) to bhikkhus (monks) is closed; the channel of speech for formal admonition from bhikkhus (monks) to bhikkhunīs (nuns) is not closed. This dhamma (rule) also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
+8. From today onwards, the channel of speech for formal admonition from bhikkhunīs to bhikkhus is closed; the channel of speech for formal admonition from bhikkhus to bhikkhunīs is not closed. This dhamma also, having been respected, revered, esteemed, (and) honored, is not to be transgressed for as long as life lasts.
 
-Whilst some of these rules seem reasonable, I see no reason why they should be imposed only on women and not men as well. Rule 1 however seems misogynistic - even the most senior bhikkhunī must respect and revere the most junior bhikkhu, and furthermore no bhikkhunī can revile, abuse or admonish any bhikkhu (rules 7 and 8).
+Whilst some of these rules seem reasonable, I see no reason why they should be imposed only on women and not men as well. Rule 1 however seems misogynistic - even the most senior bhikkhunī must respect and revere the most junior bhikkhu. Furthermore no bhikkhunī can revile, abuse or admonish any bhikkhu (rules 7 and 8).
 
 Not satisfied with Gotamī accepting the above rules, the Buddha had a parting shot:
 
-> “If, Ānanda, women had not obtained the pabbajjā (going forth) from home to homelessness in the Dhamma-Vinaya (Doctrine and Discipline) proclaimed by the Tathāgata, the brahmacariya (optimal life), Ānanda, would have lasted long; the saddhamma (true Dhamma) would have endured for a thousand years. But since, Ānanda, women have gone forth from home to homelessness in the Dhamma-Vinaya (Doctrine and Discipline) proclaimed by the Tathāgata, now, Ānanda, the brahmacariya (optimal life) will not last long. Now, Ānanda, the saddhamma (true Dhamma) will endure for only five hundred years."
+> “If, Ānanda, women had not obtained the pabbajjā (going forth) from home to homelessness in the Dhamma-Vinaya (Doctrine and Discipline) proclaimed by the Tathāgata, the brahmacariya (optimal life), Ānanda, would have lasted long; the saddhamma (true Dhamma) would have endured for a thousand years. But since, Ānanda, women have gone forth from home to homelessness in the Dhamma-Vinaya proclaimed by the Tathāgata, now, Ānanda, the brahmacariya will not last long. Now, Ānanda, the saddhamma (true Dhamma) will endure for only five hundred years."
 
 So essentially women are the reason why the teachings will be corrupted earlier. Just in case we were not entirely clear of the Buddha's low opinion of women, he further explains that the ordaining of women is a weakening force analogous to:
 
@@ -140,7 +140,7 @@ In short, women weaken the community, like a disease.
 
 There is really no excuse for this level of misogyny.
 
-This narrative shows some signs of being a late addition. For example, it refers to the four stages of awakening (which is otherwise not explained in the Khandhaka):
+This narrative shows some signs of being a late addition. For example, it refers to the four stages of awakening (which is otherwise not explained in the Khandhaka, and usually regarded as Theravadīn specific doctrine):
 
 1. the fruit of stream-entry (`sotāpattiphala`),
 2. the fruit of once-returning (`sakadāgāmiphala`),

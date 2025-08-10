@@ -144,8 +144,8 @@ In preparation of the Roman-script text, the Dhamma Society partly based its Pā
 
 ## Change History
 
-* 2025-06-30: Initial version
-* 2025-08-09: Birthday edition
+* 2025-06-30: Initial version.
+* 2025-08-09: Birthday edition, including new articles on the Buddha and Buddhism, his ethics and an introduction to Pāḷi. Elaborated commentaries on the translation.
 
 ## Roadmap
 
