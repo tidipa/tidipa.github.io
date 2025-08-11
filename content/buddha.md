@@ -46,11 +46,23 @@ So the Buddha's soteriology is the Buddha's understanding, and description of hi
 
 The answer turns out to be both profound and simple, but perhaps not easy to implement.
 
-It is "profound" because the Buddha started by trying to answer the question: "What causes `dukkha`, and who experiences `dukkha`?" or more colloquially "Who suffers?"
+It is "profound" because the Buddha started by trying to answer two questions: "What causes `dukkha`?", and "Who experiences `dukkha`?" or more colloquially "Who suffers?"
+
+For the first question ("What causes `dukkha`?") the Buddha traced the origin of `dukkha` by progressively working backwards through a set of linked causes. He started by observing that the ultimate "suffering", ie. aging and death, is an inevitable consequence of life. All living beings will eventually age and die, therefore the cause of `dukkha` can be traced right back to the birth of living beings. All the other forms of `dukkha`, such as sorrow, lamentation, pain, grief and despair, can similarly be traced back to conception and birth, for if we had not been born we would not experience any `dukkha`.
+
+But what causes birth? The Buddha determined this is the survival instinct, or will to live. This "will to live" is fueled by a clinging or attachment to life, which in turn is caused by a craving or innate desire to live, and to continue living.
+
+What generates this craving? It is caused by our accumulated feelings, our experiences, originating from our senses, triggered by the external world and from our consciousness itself.
+
+What of consciousness itself? The Buddha tackled this question by asking the second question: "Who experiences `dukkha`?"
 
 For there to be `dukkha`, there must be "someone" who is affected by, and experiences `dukkha`. So the Buddha started to investigate the nature of "the self", or our notion of personal identity and "selfhood."
 
-The Buddha came to the (logical) conclusion that our sense of "self" is generated from our subjective experiences (phenomena) and our accumulated thoughts. This was a radical and original idea formulated by the Buddha, different from other beliefs common during his time. It predates many modern philosophical theories. The Buddha was quite possibly the world's first "phenomenologist".
+The Buddha came to the (logical) conclusion that our sense of "self" is generated from our subjective experiences (phenomena) and our accumulated thoughts. In other words, our "consciousness" is "constructed" and ephemeral. Furthermore, we are unaware or ignorant of the "constructed" or transient nature of our consciousness, and hence ignorance is the ultimate cause of `dukkha`.
+
+The Buddha's concept of consciousness is similar to "artificial intelligence" - we behave like a neural network "trained" on sensory input and generates "responses" that impact our bodies and influences future reactions and responses. Our "self" and "sentience" is therefore also generated - it is a survival instinct to enable us to cope and respond to the world around us.
+
+This was a radical and original idea formulated by the Buddha, different from other beliefs common during his time. It predates many modern philosophical theories. The Buddha was quite possibly the world's first "phenomenologist".
 
 According to the Buddha, what we regard as a "self" is nothing more than the sum total of all our accumulated memories of perceptual phenomena, sensory stimuli, feelings, emotions, apperceptions, thoughts, beliefs, attitudes, and other mental constructs.
 
@@ -60,7 +72,7 @@ The Buddha points out that this "self" and all the mental constructs are imperma
 
 It is important to clarify that the Buddha did not deny the existence of the physical universe (contrary to what some Buddhists believe - that the "world" is an illusion), nor did he deny the possible existence of a metaphysical self which is greater than, and possibly separate from, the constructed self. He simply points out that it is impossible for us to verify or refute these abstract or metaphysical concepts. Nor did he deny the possibility of a Creator of the universe, or the existence of other universes and realms, or the existence of beings superior or inferior to ourselves, such as gods and demons. However, I suggest these concepts are ultimately irrelevant in the soteriology - they have no impact on whether we can eliminate or avoid `dukkha`.
 
-The Buddha's solution turned out to be surprisingly "simple". If our sense of self is constructed, then `dukkha` is also a mental construction. In other words, the "sufferer" self-generates suffering. Therefore, to avoid `dukkha`, the "sufferer" simply has to stop generating thoughts or performing actions that will inevitably lead to suffering.
+The Buddha's solution turned out to be surprisingly "simple". If our sense of self is constructed, then `dukkha` is also a mental construction. In other words, the "sufferer" self-generates suffering. It is our "ignorance" of the constructed nature of our consciousness that ultimately causes `dukkha`. Therefore, to avoid `dukkha`, the "sufferer" simply has to stop generating thoughts or performing actions that will inevitably lead to suffering.
 
 This sounds straightforward, but does it really work? Potentially one can imagine this would work with a sense of unease or dissatisfaction. One also could argue that grief or loss is an emotion that can be dealt with, and even physical pain can be ignored. Can we truly avoid or eliminate sickness, old age and death?
 
