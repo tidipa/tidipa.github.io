@@ -31,6 +31,10 @@ It is also **rational** because it makes the presumption that the Buddha's teach
 * do not require faith or beliefs that cannot be personally substantiated,
 * and in particular do not rely on supernatural or spiritual explanations.
 
+> [!WARNING] Disclaimer
+>
+> The approach outlined above can be criticised on the basis that it ignores the perspective of "Buddhism" as a "religion" that is "practised" by "adherents". The Buddha may be regarded as a quasi-mystical and semi-divine being, and his teachings are "sacred", outlining a soteriological goal that is a "spiritual attainment." As a non-Buddhist, I acknowledge the inherent bias and limitations of the approach, and offer no apologies.
+
 Initially, this website features a translation of Sections 1-14 of the [Mahākhandhaka (The Great Collection)](https://tipitaka2500.github.io/tipitaka/3V/1.html) in [3V Mahāvaggapāḷi (The Great Group of Texts)](https://tipitaka2500.github.io/tipitaka/3V.html) from the Vinaya basket - I will refer to this collection as the "**Khandhaka**". These sections that have been translated narrates the Buddha's life from awakening to the ordination of his two main disciples, Sāriputta and Moggallāna.
 
 Features of the translation:

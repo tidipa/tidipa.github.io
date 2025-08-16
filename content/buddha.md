@@ -78,6 +78,10 @@ This sounds straightforward, but does it really work? Potentially one can imagin
 
 Crucially, this is where the Buddha's concept of phenomenalism comes in. Given we cannot verify or substantiate the physical universe, illness, old age and death are just concepts in our minds, and we suffer because we find these concepts distasteful. If we can treat them as mere phenomena and not react to them, we avoid `dukkha` altogether. We accept that whatever happens happens, and at the end of the day everything is just a construction.
 
+The Buddha's soteriological goal can be likened to giving up smoking. We understand that smoking is bad for us. The solution is deceptively simple: just stop smoking. However, many people find this is difficult to do. Ingrained habits and addiction are hard to change or stop. However, once the objective is accomplished, nothing further needs to be done (apart from guarding against the danger of a relapse).
+
+In the same way, we understand that `dukkha` is not pleasant. The solution is deceptively simple: just stop generating thoughts or performing actions that will lead to `dukkha`. However, many people find this is difficult to do. Ingrained habits and desires are hard to change or stop. However, once the objective is accomplished, nothing further needs to be done (apart from guarding against the danger of a relapse).
+
 In other words, the Buddha's teaching can be summarised as "It's all in the mind, just let it go." By doing so, one is relieved from the burden of `dukkha`, one is no longer concerned by `dukkha`, one is therefore liberated from `dukkha` and it is extinguished.
 
 ## Buddhism
