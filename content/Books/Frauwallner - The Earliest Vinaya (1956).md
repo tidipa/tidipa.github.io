@@ -2082,7 +2082,7 @@ Yamunā, p. 32.
 Yao chien-tu, pp. 91, 180.
 Yao fa, pp. 91, 183, 200.
 Yao shih, pp. 91, 195.
-Yaso Kalaṇ̣̣akapotto, p. 168.
+Yaso Kalaṇḍakapotto, p. 168.
 yebhuyyasikā, pp. 115, 116.
 Ying chieh-mo pu ying chieh mo, p. 200.
 Yogācāra, p. 21.

@@ -447,7 +447,7 @@ This statement would seem to indicate the understanding that the liberated bhikk
 
 [^105]: According to the standard explanation of the Madhupindaka Sutta (MN I.111.35ff.), conditioned experience begins as follows: cakkhuṇ c' āvuso paṭicca rūpe ca uppajjati cakkhuviññānaṃ, tinnnaṃ sañgati phasso, phassapaccayā vedanā. On this passage see n. 72 above.
 [^106]: For the argument that this text is probably the source of the Not-Self teaching, see Wynne 2010.
-[^107]: MN I.140.3: evaṃvimuttacittaṃ kho bhikkhave bhikkhuṃ sa-Indā devā sa-Brahmakā sa-Pajāpatikā anvesaṃ nādhigacchanti: idaṃ nissitaṃ Tathāgatassa viñ̃̃̃anann ti. taṃ kissa hetu? diṭṭhe vāhaṃ bhikkhave dhamme Tathāgataṃ ananuvejjo ti vadāmi.
+[^107]: MN I.140.3: evaṃvimuttacittaṃ kho bhikkhave bhikkhuṃ sa-Indā devā sa-Brahmakā sa-Pajāpatikā anvesaṃ nādhigacchanti: idaṃ nissitaṃ Tathāgatassa viññānann ti. taṃ kissa hetu? diṭṭhe vāhaṃ bhikkhave dhamme Tathāgataṃ ananuvejjo ti vadāmi.
 [^108]: On the first four questions, and the textual tradition regarding the unanswered questions, see Collins 1982: 131, n. 1.
 [^109]: Collins 1982: 131-133.
 
