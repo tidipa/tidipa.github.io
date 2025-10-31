@@ -72,13 +72,13 @@ Little did I realise I was going to embark on a journey that eventually will lea
 * Recreate the web version of the Tipitaka 2500 edition: [**The World Tipiṭaka Edition**](https://tipitaka2500.github.io)
 * Embark on my own translation of the suttas (this website).
 * Translate early Pāḷi grammars: [Kaccayana](https://kaccayana.github.io).
-* Write my own Pāḷi textbook: [Pāḷi Textbook](https://christham.net/buddhavacana/docs/Pāḷibook/).
-* Create a notation scheme for grammatical analysis of Pāḷi sentences [Pāḷi grammar symbols](https://christham.net/buddhavacana/docs/Pāḷibook/symbols/).
+* Write my own Pāḷi textbook: [Pāḷi Textbook](https://christham.net/buddhavacana/pali-textbook/0-index/).
+* Create a notation scheme for grammatical analysis of Pāḷi sentences [Pāḷi grammar symbols](https://christham.net/buddhavacana/pali-textbook/a-symbols/).
 * Adapt a well known Pāḷi dictionary to use my notation scheme: [Pāḷi grammar dictionary](https://github.com/ChristineTham/Pāḷi_grammar).
 * Create a framework for a Second Brain based on `pañcupādānakkhandhā` (the Buddha’s classification of the five key components of our mental process and consciousness):[khandhaja.github.io](https://khandhaja.github.io).
 * Embark on a philosophical study of the Buddha's teachings, and evaluating from using critical analysis.
 
-Along the way, my understanding of the Buddha's teachings has transformed completely. This website is the culmination of my studies, along with my other related websites.
+Along the way, my understanding of the Buddha's teachings has transformed completely.
 
 Based on my current understanding, I do not consider myself a "Buddhist". I have very little in common with those that call themselves Buddhists, and I do not believe what Buddhists typically believe, nor do I participate in typical Buddhist customs, rituals, ceremonies, observances, precepts, or have any connection with Buddhist religious institutions or practitioners. If you are perhaps wondering why I do not wish to consider myself a Buddhist, perhaps reading the following may help: [The Buddha's Ethics?](./ethics.md).
 
