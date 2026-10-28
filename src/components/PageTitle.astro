@@ -13,6 +13,8 @@ const id = route.entry.id || "index"; // Starlight gives the home page an empty 
 const crumbs = await getBreadcrumbs(id, data.title);
 const minutes = body ? Math.max(1, Math.ceil(readingTime(body).minutes)) : undefined;
 const date = route.lastUpdated;
+// The site is built on GitHub's runners, which use UTC; show the date as it was where the site is written.
+const timeZone = "Australia/Sydney";
 // A description made from the page's own text would just repeat its opening, so only show one the
 // page was given.
 const description = data.descriptionGenerated ? undefined : data.description;
@@ -43,7 +45,7 @@ const inlineMarkdown = (text: string) =>
 		<p class="page-meta">
 			{date && (
 				<time datetime={date.toISOString()}>
-					{date.toLocaleDateString("en-AU", { year: "numeric", month: "short", day: "2-digit" })}
+					{date.toLocaleDateString("en-AU", { year: "numeric", month: "short", day: "2-digit", timeZone })}
 				</time>
 			)}
 			{date && minutes && " · "}
