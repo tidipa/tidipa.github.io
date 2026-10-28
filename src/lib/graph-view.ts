@@ -9,6 +9,8 @@
 // - Colours come from the --graph-* custom properties in custom.css (Quartz's palette); a theme
 //   change is detected from Starlight's data-theme attribute rather than Quartz's events.
 // - Quartz's nav/prenav/render handling is replaced by showLocalGraph() and toggleGlobalGraph().
+// - Labels ignore the pointer. In Quartz v5 they take the app's default event mode, "static", so the
+//   hidden labels, drawn above the nodes, block the hover on every node they overlap.
 import {
 	type SimulationLinkDatum,
 	type SimulationNodeDatum,
@@ -371,6 +373,9 @@ async function renderGraph(graph: HTMLElement, slug: string, renderGeneration?: 
 		label.anchor.set(0.5, 1.2);
 		label.alpha = 0;
 		label.scale.set(1 / scale);
+		// A transparent label is still hit-tested, and it sits over its node's upper half and any
+		// neighbours it overlaps; let the pointer through to the nodes.
+		label.eventMode = "none";
 		labelsContainer.addChild(label);
 
 		const gfx = new Graphics();
