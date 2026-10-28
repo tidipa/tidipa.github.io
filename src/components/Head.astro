@@ -1,0 +1,46 @@
+---
+import DefaultHead from "@astrojs/starlight/components/Head.astro";
+import { Font, getImage } from "astro:assets";
+import { getCollection } from "astro:content";
+import defaultOgImage from "../assets/og-image.png";
+import legacyRedirects from "../legacy-redirects.json";
+import Popover from "./Popover.astro";
+
+// Open Graph image: the page's own socialImage, else the one generated for it by
+// src/pages/og/[...slug].ts, else (404, tag and folder pages) the site default.
+const route = Astro.locals.starlightRoute;
+const { socialImage } = route.entry.data;
+const entryId = route.entry.id || "index"; // Starlight gives the home page an empty id
+const isDocsPage = route.id !== "404" && (await getCollection("docs")).some(({ id }) => id === entryId);
+const ogImageUrl = socialImage
+	? new URL((await getImage({ src: socialImage, width: 1200, format: "jpeg" })).src, Astro.site).href
+	: isDocsPage
+		? new URL(`/og/${entryId}.png`, Astro.site).href
+		: new URL((await getImage({ src: defaultOgImage, width: 1200, format: "jpeg" })).src, Astro.site).href;
+---
+
+<DefaultHead />
+<script is:inline>
+	// Reader mode (ReaderMode.astro): hide the sidebars the reader hid, before the page paints.
+	try {
+		if (sessionStorage.getItem("hideLeftSidebar")) document.documentElement.setAttribute("data-hide-left-sidebar", "");
+		if (sessionStorage.getItem("hideRightSidebar")) document.documentElement.setAttribute("data-hide-right-sidebar", "");
+	} catch {
+		// Storage can be unavailable, e.g. in private browsing.
+	}
+</script>
+<Font cssVariable="--sl-font" />
+<Font cssVariable="--sl-font-mono" />
+<meta property="og:image" content={ogImageUrl} />
+<meta name="twitter:image" content={ogImageUrl} />
+<Popover />
+{
+	route.id === "404" && (
+		// Old Quartz URLs (e.g. /Khandhaka/1.11) now 404 on GitHub Pages; send them to the new page.
+		<script is:inline define:vars={{ legacyRedirects }}>
+			const path = decodeURIComponent(location.pathname).normalize("NFC").toLowerCase().replace(/\.html$/, "").replace(/\/+$/, "");
+			const target = legacyRedirects[path];
+			if (target) location.replace(target + location.hash);
+		</script>
+	)
+}

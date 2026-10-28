@@ -1,0 +1,81 @@
+---
+// Quartz's title block: breadcrumbs, the title, a date and reading-time line, and the page's tags.
+import { getCollection } from "astro:content";
+import Default from "@astrojs/starlight/components/PageTitle.astro";
+import readingTime from "reading-time";
+import { PageTags } from "starlight-tags/components";
+
+const route = Astro.locals.starlightRoute;
+const id = route.entry.id || "index"; // Starlight gives the home page an empty id
+
+// Each parent folder links to its index page (e.g. /khandhaka/) or the folder page that
+// starlight-group-pages generates (e.g. /articles/).
+const titles = new Map((await getCollection("docs")).map((entry) => [entry.id, entry.data.title]));
+const folders = id === "index" ? [] : id.split("/").slice(0, -1);
+const crumbs = folders.map((folder, i) => {
+	const folderId = folders.slice(0, i + 1).join("/");
+	const label = titles.get(folderId) ?? folder.charAt(0).toUpperCase() + folder.slice(1);
+	return { label, href: `/${folderId}/` };
+});
+
+const body = route.entry.body;
+const minutes = body ? Math.max(1, Math.ceil(readingTime(body).minutes)) : undefined;
+const date = route.lastUpdated;
+---
+
+{
+	id !== "index" && id !== "404" && (
+		<nav class="breadcrumbs" aria-label="Breadcrumbs">
+			<ol>
+				<li><a href="/">Home</a></li>
+				{crumbs.map(({ label, href }) => <li><a href={href}>{label}</a></li>)}
+				<li aria-current="page">{route.entry.data.title}</li>
+			</ol>
+		</nav>
+	)
+}
+<Default />
+{
+	(date || minutes) && (
+		<p class="page-meta">
+			{date && (
+				<time datetime={date.toISOString()}>
+					{date.toLocaleDateString("en-AU", { year: "numeric", month: "short", day: "2-digit" })}
+				</time>
+			)}
+			{date && minutes && " · "}
+			{minutes && `${minutes} min read`}
+		</p>
+	)
+}
+<PageTags />
+
+<style>
+	.breadcrumbs ol {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.25rem 0.5rem;
+		margin: 0 0 0.5rem;
+		padding: 0;
+		list-style: none;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-2);
+	}
+	.breadcrumbs li:not(:last-child)::after {
+		content: "›";
+		margin-inline-start: 0.5rem;
+		color: var(--sl-color-gray-3);
+	}
+	.breadcrumbs a {
+		color: var(--sl-color-gray-2);
+		text-decoration: none;
+	}
+	.breadcrumbs a:hover {
+		color: var(--sl-color-accent-high);
+	}
+	.page-meta {
+		margin: 0.5rem 0;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-2);
+	}
+</style>
