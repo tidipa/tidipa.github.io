@@ -1,7 +1,7 @@
 ---
 title: Bronkhorst - Did the Buddha Believe in Karma and Rebirth (2021)
-description:
-  Johannes Bronkhorst argues that the historical Buddha did believe in karma and rebirth, but that his crucial innovation was to redefine karma not as physical or mental activity, but as the psychological element of intention and desire (*tṛṣṇā*). This unique understanding explains why the Buddhist path to liberation is fundamentally psychological, focusing on mindfulness and insight, rather than relying on the physical asceticism or doctrines of an inactive Self found in contemporary traditions like Jainism. Bronkhorst critiques scholarly attempts to locate the "original" teaching in passages that resemble Vedic or Jaina ideas, suggesting these are more likely later borrowings or misunderstandings by followers who struggled to grasp the Buddha's distinct psychological focus.
+description: A lecture in which Johannes Bronkhorst asks what philology can tell us of the historical Buddha's view of karma and rebirth, and what made it distinctive.
+summary: Johannes Bronkhorst argues that the historical Buddha did believe in karma and rebirth, but that his crucial innovation was to redefine karma not as physical or mental activity, but as the psychological element of intention and desire (*tṛṣṇā*). This unique understanding explains why the Buddhist path to liberation is fundamentally psychological, focusing on mindfulness and insight, rather than relying on the physical asceticism or doctrines of an inactive Self found in contemporary traditions like Jainism. Bronkhorst critiques scholarly attempts to locate the "original" teaching in passages that resemble Vedic or Jaina ideas, suggesting these are more likely later borrowings or misunderstandings by followers who struggled to grasp the Buddha's distinct psychological focus.
 tags:
   - Karma
   - Rebirth

@@ -1,5 +1,6 @@
 ---
 title: My Motivation for Translating the Khandhaka
+description: "Reasons for translating the Khandhaka: shared in similar form by six schools, it may predate sectarian splits and preserve the Buddha's earliest teachings."
 ---
 
 ## What is the Khandhaka?

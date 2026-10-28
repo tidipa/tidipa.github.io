@@ -1,5 +1,6 @@
 ---
 title: The Buddha and Buddhism
+description: What the word Buddha means, why some scholars question whether he was a historical person, and the bare-bones life story this site chooses to assume.
 ---
 
 ## The `Buddha`

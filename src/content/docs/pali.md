@@ -1,7 +1,6 @@
 ---
 title: "An Introduction to Pāḷi"
-description:
-  The following is a concise overview of the Pāḷi language covering key features. It is an abridged version of the introductory chapter from my upcoming Pāḷi textbook.
+description: Pāḷi's origins as a Middle Indo-Aryan dialect and its main grammatical features, explained by citing the numbered rules of the Kaccāyana grammar.
 tags:
   - sandhi
   - nāmā

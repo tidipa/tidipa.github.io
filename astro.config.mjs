@@ -114,6 +114,8 @@ export default defineConfig({
         { tag: "link", attrs: { rel: "alternate", type: "application/rss+xml", title: "Tidipa", href: "/index.xml" } },
       ],
       lastUpdated: true,
+      // SEO tags and JSON-LD for each page, from its frontmatter.
+      routeMiddleware: "./src/route-data.ts",
       social: [
         {
           icon: "github",

@@ -1,5 +1,6 @@
 ---
 title: "Adam - No self, no free will, no problem (2010)"
+description: Martin T. Adam reads the Anattalakkhana Sutta as rejecting metaphysical free will while upholding moral responsibility and a spiritual kind of freedom.
 ---
 
 # No self, no free will, no problem  (2010)

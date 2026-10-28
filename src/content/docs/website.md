@@ -1,5 +1,6 @@
 ---
 title: About this Website
+description: "How Tidipa is made and presented: Markdown built with Astro Starlight on GitHub Pages, IAST for Pāḷi, APA citations and images from Imagen 4."
 ---
 
 This website is currently hosted on [Github Pages](https://pages.github.com). It is a Github Repository called [tidipa.github.io](https://github.com/tidipa/tidipa.github.io).

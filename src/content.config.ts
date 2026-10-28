@@ -20,7 +20,11 @@ function withDescriptions(loader: Loader): Loader {
 								store.set(
 									entry.data.description || !entry.rendered?.html
 										? entry
-										: { ...entry, data: { ...entry.data, description: describe(entry.rendered.html) } },
+										: {
+												...entry,
+												// Flagged so the page doesn't show it as the description box (PageTitle.astro).
+												data: { ...entry.data, description: describe(entry.rendered.html), descriptionGenerated: true },
+											},
 								);
 						}
 						const value = Reflect.get(store, prop, store);
@@ -43,8 +47,19 @@ export const collections = {
 						.optional()
 						.transform((tags) => tags && [...new Set(tags.map(tagKey).filter(Boolean))]),
 					hideTags: z.boolean().default(false),
-					// Page-specific Open Graph image, relative to the page, e.g. ./3V1.11.png
-					socialImage: image().optional(),
+					// A longer summary of a reproduced article or book, shown under its description (the
+					// Khandhaka pages have theirs in the text instead).
+					summary: z.string().optional(),
+					// Shown under the description (PageTitle.astro) and used as the page's social image.
+					cover: z
+						.object({
+							image: image(), // relative to the page, e.g. ./3V1.11.png
+							alt: z.string(),
+							caption: z.string().optional(),
+						})
+						.optional(),
+					// Set by the loader for pages whose description was made from their text (see above).
+					descriptionGenerated: z.boolean().optional(),
 				}),
 		}),
 	}),

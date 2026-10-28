@@ -1,26 +1,26 @@
 ---
 title: Bronkhorst - The Buddhist Noble Truths (2023)
-description:
-  The Buddhist Four Noble Truths can be interpreted as scientifically plausible psychological claims when viewed through modern neuroscience and psychology. In this framework, suffering arises from the conscious awareness of conflicting, unresolved needs, a state often masked by temporary distractions like mental "flow." These conflicts and their associated desires, or "thirst," are rooted in entrenched emotional memories that form our personality, functioning like "mini-addictions." The cessation of this suffering and desire is therefore possible through memory reconsolidation, a process where reactivating these core memories allows their emotional charge to be permanently erased. The path to this goal involves accessing these otherwise hidden memories, which the author proposes could be achieved through deep mental absorption, thereby enabling the reconsolidation process to resolve the underlying conflicts at their source.
+description: Are the Buddhist noble truths true? Johannes Bronkhorst tests them as claims about the human mind against current research in psychology and neuroscience.
+summary: The Buddhist Four Noble Truths can be interpreted as scientifically plausible psychological claims when viewed through modern neuroscience and psychology. In this framework, suffering arises from the conscious awareness of conflicting, unresolved needs, a state often masked by temporary distractions like mental "flow." These conflicts and their associated desires, or "thirst," are rooted in entrenched emotional memories that form our personality, functioning like "mini-addictions." The cessation of this suffering and desire is therefore possible through memory reconsolidation, a process where reactivating these core memories allows their emotional charge to be permanently erased. The path to this goal involves accessing these otherwise hidden memories, which the author proposes could be achieved through deep mental absorption, thereby enabling the reconsolidation process to resolve the underlying conflicts at their source.
 tags:
-- Buddhism
-- Four Noble Truths
-- Suffering
-- Desire
-- Thirst
-- Neuroscience
-- Psychology
-- Neuropsychology
-- Consciousness
-- Memory reconsolidation
-- Emotional memory
-- Addiction
-- Personality
-- Mental absorption
-- Flow
-- Wanting
-- Psychedelics
-- Mark Solms
+  - Buddhism
+  - Four Noble Truths
+  - Suffering
+  - Desire
+  - Thirst
+  - Neuroscience
+  - Psychology
+  - Neuropsychology
+  - Consciousness
+  - Memory reconsolidation
+  - Emotional memory
+  - Addiction
+  - Personality
+  - Mental absorption
+  - Flow
+  - Wanting
+  - Psychedelics
+  - Mark Solms
 ---
 
 # The Buddhist Noble Truths: Are They True?

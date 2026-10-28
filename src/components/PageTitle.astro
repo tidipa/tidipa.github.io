@@ -1,35 +1,38 @@
 ---
-// Quartz's title block: breadcrumbs, the title, a date and reading-time line, and the page's tags.
-import { getCollection } from "astro:content";
+// The top of each page, in reading order: breadcrumbs, the title, a date and reading-time line, the
+// page's description, and its cover image with the caption. The tags come after the text (Footer.astro).
+import { Picture } from "astro:assets";
 import Default from "@astrojs/starlight/components/PageTitle.astro";
 import readingTime from "reading-time";
-import { PageTags } from "starlight-tags/components";
+import { getBreadcrumbs } from "../lib/breadcrumbs";
 
 const route = Astro.locals.starlightRoute;
+const { data, body } = route.entry;
 const id = route.entry.id || "index"; // Starlight gives the home page an empty id
 
-// Each parent folder links to its index page (e.g. /khandhaka/) or the folder page that
-// starlight-group-pages generates (e.g. /articles/).
-const titles = new Map((await getCollection("docs")).map((entry) => [entry.id, entry.data.title]));
-const folders = id === "index" ? [] : id.split("/").slice(0, -1);
-const crumbs = folders.map((folder, i) => {
-	const folderId = folders.slice(0, i + 1).join("/");
-	const label = titles.get(folderId) ?? folder.charAt(0).toUpperCase() + folder.slice(1);
-	return { label, href: `/${folderId}/` };
-});
-
-const body = route.entry.body;
+const crumbs = await getBreadcrumbs(id, data.title);
 const minutes = body ? Math.max(1, Math.ceil(readingTime(body).minutes)) : undefined;
 const date = route.lastUpdated;
+// A description made from the page's own text would just repeat its opening, so only show one the
+// page was given.
+const description = data.descriptionGenerated ? undefined : data.description;
+const { cover, summary } = data;
+
+// Summaries are plain prose with a little inline Markdown (emphasis, code); render just that.
+const escapeHtml = (text: string) => text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const inlineMarkdown = (text: string) =>
+	escapeHtml(text)
+		.replace(/`([^`]+)`/g, "<code>$1</code>")
+		.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+		.replace(/(^|[^\w*])[*_]([^*_]+)[*_](?=[^\w*]|$)/g, "$1<em>$2</em>");
 ---
 
 {
-	id !== "index" && id !== "404" && (
+	crumbs.length > 1 && id !== "404" && (
 		<nav class="breadcrumbs" aria-label="Breadcrumbs">
 			<ol>
-				<li><a href="/">Home</a></li>
-				{crumbs.map(({ label, href }) => <li><a href={href}>{label}</a></li>)}
-				<li aria-current="page">{route.entry.data.title}</li>
+				{crumbs.slice(0, -1).map(({ label, href }) => <li><a href={href}>{label}</a></li>)}
+				<li aria-current="page">{data.title}</li>
 			</ol>
 		</nav>
 	)
@@ -48,7 +51,31 @@ const date = route.lastUpdated;
 		</p>
 	)
 }
-<PageTags />
+{description && <p class="description">{description}</p>}
+{
+	cover && (
+		<figure class="cover">
+			<Picture
+				src={cover.image}
+				alt={cover.alt}
+				widths={[640, 960, 1280, 1600]}
+				sizes="(min-width: 64rem) 64rem, 100vw"
+				formats={["avif", "webp"]}
+				loading="eager"
+				fetchpriority="high"
+			/>
+			{cover.caption && <figcaption>{cover.caption}</figcaption>}
+		</figure>
+	)
+}
+{
+	summary && (
+		<section class="summary" aria-labelledby="page-summary">
+			<h2 id="page-summary">Summary</h2>
+			<p set:html={inlineMarkdown(summary)} />
+		</section>
+	)
+}
 
 <style>
 	.breadcrumbs ol {
@@ -77,5 +104,39 @@ const date = route.lastUpdated;
 		margin: 0.5rem 0;
 		font-size: var(--sl-text-sm);
 		color: var(--sl-color-gray-2);
+	}
+	/* The description reads as a standfirst: a short, highlighted lead-in to the page. */
+	.description {
+		margin-block: 1rem 0;
+		padding: 0.75rem 1rem;
+		border-inline-start: 4px solid var(--sl-color-accent);
+		border-start-end-radius: 0.5rem;
+		border-end-end-radius: 0.5rem;
+		background-color: color-mix(in srgb, var(--sl-color-accent-low) 30%, transparent);
+		color: var(--sl-color-white);
+		font-size: var(--sl-text-lg);
+		line-height: 1.5;
+	}
+	.cover {
+		margin-block: 1.5rem 0;
+	}
+	.cover :global(img) {
+		display: block;
+		width: 100%;
+		height: auto;
+		border-radius: 0.5rem;
+	}
+	.cover figcaption {
+		margin-top: 0.5rem;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-2);
+	}
+	.summary {
+		margin-block: 1.5rem 0;
+	}
+	.summary h2 {
+		margin-bottom: 0.5rem;
+		font-size: var(--sl-text-h4);
+		color: var(--sl-color-white);
 	}
 </style>

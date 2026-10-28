@@ -1,22 +1,12 @@
 ---
+// Starlight's head (which includes the SEO tags from src/route-data.ts), plus the fonts, reader mode,
+// link popovers, and on the 404 page the redirects for old Quartz URLs.
 import DefaultHead from "@astrojs/starlight/components/Head.astro";
-import { Font, getImage } from "astro:assets";
-import { getCollection } from "astro:content";
-import defaultOgImage from "../assets/og-image.png";
+import { Font } from "astro:assets";
 import legacyRedirects from "../legacy-redirects.json";
 import Popover from "./Popover.astro";
 
-// Open Graph image: the page's own socialImage, else the one generated for it by
-// src/pages/og/[...slug].ts, else (404, tag and folder pages) the site default.
 const route = Astro.locals.starlightRoute;
-const { socialImage } = route.entry.data;
-const entryId = route.entry.id || "index"; // Starlight gives the home page an empty id
-const isDocsPage = route.id !== "404" && (await getCollection("docs")).some(({ id }) => id === entryId);
-const ogImageUrl = socialImage
-	? new URL((await getImage({ src: socialImage, width: 1200, format: "jpeg" })).src, Astro.site).href
-	: isDocsPage
-		? new URL(`/og/${entryId}.png`, Astro.site).href
-		: new URL((await getImage({ src: defaultOgImage, width: 1200, format: "jpeg" })).src, Astro.site).href;
 ---
 
 <DefaultHead />
@@ -31,8 +21,6 @@ const ogImageUrl = socialImage
 </script>
 <Font cssVariable="--sl-font" />
 <Font cssVariable="--sl-font-mono" />
-<meta property="og:image" content={ogImageUrl} />
-<meta name="twitter:image" content={ogImageUrl} />
 <Popover />
 {
 	route.id === "404" && (

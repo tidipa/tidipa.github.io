@@ -1,5 +1,6 @@
 ---
 title: "Anālayo - The Vicissitudes of Memory and Early Buddhist Oral Transmission (2009)"
+description: "Why early Buddhist texts both vary and agree: Anālayo sets their oral transmission in its Vedic context and draws on the psychology of memory."
 ---
 
 # The Vicissitudes of Memory and Early Buddhist Oral Transmission 

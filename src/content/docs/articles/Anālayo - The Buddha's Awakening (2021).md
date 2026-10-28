@@ -1,7 +1,7 @@
 ---
 title: Anālayo - The Buddha's Awakening (2021)
-description:
-  A comparative study of early Buddhist texts suggests that differing accounts of the Buddha's awakening do not represent competing theories of realization, but rather evolving methods of describing a single, non-conceptual event. The author argues that the awakening was a direct, non-conceptual breakthrough to the experience of Nirvana, which is fundamentally beyond words.
+description: Do the early texts disagree about how the Buddha awoke? Anālayo compares their accounts and shows how the four truths serve to put the event into words.
+summary: A comparative study of early Buddhist texts suggests that differing accounts of the Buddha's awakening do not represent competing theories of realization, but rather evolving methods of describing a single, non-conceptual event. The author argues that the awakening was a direct, non-conceptual breakthrough to the experience of Nirvana, which is fundamentally beyond words.
 tags:
   - Buddha
   - Awakening

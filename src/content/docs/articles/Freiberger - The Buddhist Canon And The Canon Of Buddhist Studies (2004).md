@@ -1,5 +1,6 @@
 ---
 title: "Freiberger - The Buddhist Canon And The Canon Of Buddhist Studies (2004)"
+description: Canon is an unpopular idea in academia. Oliver Freiberger asks what that unease means for the Buddhist canon and for the canon of Buddhist Studies.
 ---
 
 # The Buddhist Canon And The Canon Of Buddhist Studies

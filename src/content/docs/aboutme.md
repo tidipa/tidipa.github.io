@@ -1,5 +1,6 @@
 ---
 title: About Me
+description: "Who is behind Tidipa: the author's agnostic upbringing, a curious childhood, and a first brush with Buddhism during a teenage visit to Singapore."
 ---
 
 ![Spirit House](./media/spirit-house.jpeg)

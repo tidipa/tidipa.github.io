@@ -1,7 +1,6 @@
 ---
 title: Khandhaka (Collections)
-description:
-  The `Khandhaka` (or Collections) forms part of the `Vinaya Piṭaka`, one of the three "baskets" of the `Tipiṭaka`. The `Tipiṭaka` is a large collection of teachings attributed to the Buddha or his earliest disciples. In the Pāli Canon, the Khandhaka contains stories of the Buddha's life post enlightenment (excluding his death) framed around his establishment of various rules for ordaining and governing monastics in the `saṅgha` (community), and finishes with descriptions of the First and Second Councils, which were large formal gatherings intended to clarify or ratify the Buddha's teachings.
+description: "Start here for the translated Mahākhandhaka: sections 1 to 14, from the Bodhi tree to Sāriputta and Moggallāna, each introduced by its own summary."
 ---
 
 ## Khandhaka (The Collection) - Sections 1-14

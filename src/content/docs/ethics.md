@@ -1,7 +1,6 @@
 ---
 title: The Buddha's Ethics?
-description:
-  In general the Buddha tries his best to be as ethical and as fair as possible, judging from the rules that he sets in the Khandhaka. However, some of his moral values and ethical decisions may seem questionable by modern standards.
+description: Examines Khandhaka rules that trouble modern readers, such as who is barred from ordination, and argues they probably come from the Buddha himself.
 ---
 
 In general the Buddha tries his best to be as ethical and as fair as possible, judging from the rules that he sets in the Khandhaka. However, some of his moral values and ethical decisions may seem questionable by modern standards.

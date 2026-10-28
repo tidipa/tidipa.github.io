@@ -27,8 +27,6 @@
     "@floating-ui/dom": "^1.8.0",
     "astro": "7.4.2",
     "astro-mermaid": "^2.1.0",
-    "astro-og-canvas": "^0.13.2",
-    "canvaskit-wasm": "^0.42.0",
     "d3-drag": "^3.0.0",
     "d3-force": "^3.0.0",
     "d3-selection": "^3.0.0",

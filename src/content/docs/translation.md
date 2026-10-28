@@ -1,5 +1,6 @@
 ---
 title: The Translation Process
+description: "Behind the translations: rebuilding the World Tipiṭaka Edition from an archive with Python, then checking every word against the Digital Pali Dictionary."
 ---
 
 ## Preparation

@@ -1,7 +1,7 @@
 ---
 title: Quiles - Nirvana and Metaphysical Experience (1979)
-description:
-  The Buddhist concept of Nirvana is fundamentally a metaphysical experience, defined not as an abstract or rational conclusion but as a direct, immediate, and felt knowledge of ultimate reality or "Being." This experience, which transcends sensory perception, is the goal of Buddhism, aiming for a special wisdom (prajñā) or intuitive understanding of the Ultimate Truth that underlies all phenomena. Evidence from early texts like the *Buddha-carita*, which describes the Buddha's enlightenment as a perfect, intuitive knowledge of all things, and interpretations from scholars like D.T. Suzuki, who characterizes Satori as a profound, non-conceptual awakening, both support the view of Nirvana as an experiential encounter with the metaphysical foundation of existence itself.
+description: Building on his study Buddhist Philosophy, Ismael Quiles explains what a metaphysical experience is and why he finds one at the core of Nirvana.
+summary: The Buddhist concept of Nirvana is fundamentally a metaphysical experience, defined not as an abstract or rational conclusion but as a direct, immediate, and felt knowledge of ultimate reality or "Being." This experience, which transcends sensory perception, is the goal of Buddhism, aiming for a special wisdom (prajñā) or intuitive understanding of the Ultimate Truth that underlies all phenomena. Evidence from early texts like the *Buddha-carita*, which describes the Buddha's enlightenment as a perfect, intuitive knowledge of all things, and interpretations from scholars like D.T. Suzuki, who characterizes Satori as a profound, non-conceptual awakening, both support the view of Nirvana as an experiential encounter with the metaphysical foundation of existence itself.
 tags:
   - Nirvana
   - Metaphysical experience
