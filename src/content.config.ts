@@ -3,10 +3,13 @@ import type { Loader } from 'astro/loaders';
 import { z } from 'astro/zod';
 import { docsLoader, i18nLoader } from '@astrojs/starlight/loaders';
 import { docsSchema, i18nSchema } from '@astrojs/starlight/schema';
-import { describe } from './lib/description';
+import { describe, describeMarkdown } from './lib/description';
 import { tagKey } from './lib/tags.mjs';
 
-/** Starlight's docs loader, giving pages without a description one made from their text. */
+/**
+ * Starlight's docs loader, giving pages without a description one made from their text. Drafts, which
+ * aren't built, lose their tags, so the tag pages don't list them (starlight-tags doesn't skip drafts).
+ */
 function withDescriptions(loader: Loader): Loader {
 	return {
 		...loader,
@@ -16,16 +19,23 @@ function withDescriptions(loader: Loader): Loader {
 				store: new Proxy(context.store, {
 					get(store, prop) {
 						if (prop === 'set') {
-							return (entry: Parameters<typeof store.set>[0]) =>
-								store.set(
-									entry.data.description || !entry.rendered?.html
-										? entry
-										: {
-												...entry,
-												// Flagged so the page doesn't show it as the description box (PageTitle.astro).
-												data: { ...entry.data, description: describe(entry.rendered.html), descriptionGenerated: true },
-											},
-								);
+							return (entry: Parameters<typeof store.set>[0]) => {
+								const data = entry.data.draft ? { ...entry.data, tags: undefined } : entry.data;
+								// Markdown pages arrive rendered; MDX pages only as source.
+								const text = entry.rendered?.html
+									? describe(entry.rendered.html)
+									: entry.body
+										? describeMarkdown(entry.body)
+										: undefined;
+								return store.set({
+									...entry,
+									data:
+										data.description || !text
+											? data
+											: // Flagged so the page doesn't show it as the description box (PageTitle.astro).
+												{ ...data, description: text, descriptionGenerated: true },
+								});
+							};
 						}
 						const value = Reflect.get(store, prop, store);
 						return typeof value === 'function' ? value.bind(store) : value;
@@ -47,6 +57,9 @@ export const collections = {
 						.optional()
 						.transform((tags) => tags && [...new Set(tags.map(tagKey).filter(Boolean))]),
 					hideTags: z.boolean().default(false),
+					// Only on a page not written by the site's author, for its SEO metadata (route-data.ts). The
+					// reproduced articles and books needn't set it: their titles name their authors.
+					author: z.union([z.string(), z.array(z.string())]).optional(),
 					// A longer summary of a reproduced article or book, shown under its description (the
 					// Khandhaka pages have theirs in the text instead).
 					summary: z.string().optional(),

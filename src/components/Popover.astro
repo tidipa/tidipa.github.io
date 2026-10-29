@@ -2,9 +2,10 @@
 // Popover previews of internal links: Quartz v5's popover (quartz/components/scripts/popover.inline.ts
 // and styles/popover.scss). Copyright (c) 2021 jackyzha0, MIT License (see LICENSE.txt).
 //
-// Changes from Quartz v5: links are found by selector (Starlight content has no a.internal class);
-// the preview is the page's title and content (Quartz's .popover-hint elements); Mermaid diagrams
-// are hidden in previews (they only render on their own page); setup runs once per page load.
+// Changes from Quartz v5: links are found by where they lead (Starlight content has no a.internal
+// class), so root-relative, base-relative and relative links all get previews; the preview is the
+// page's title and content (Quartz's .popover-hint elements); Mermaid diagrams are hidden in previews
+// (they only render on their own page); setup runs once per page load.
 ---
 
 <script>
@@ -138,10 +139,13 @@
 		document.querySelectorAll(".popover").forEach((popoverElement) => popoverElement.classList.remove("active-popover"));
 	}
 
-	// Links to other pages, in the content and in the backlinks.
-	const links = document.querySelectorAll<HTMLAnchorElement>('.sl-markdown-content a[href^="/"], .backlinks a');
+	// Links to other pages of the site, in the content and in the backlinks, however they are written
+	// (/page, ../page/, with the base path or without); links to files such as PDFs get no preview.
+	const base = import.meta.env.BASE_URL.replace(/\/?$/, "/");
+	const links = document.querySelectorAll<HTMLAnchorElement>(".sl-markdown-content a[href], .backlinks a");
 	for (const link of links) {
-		if (link.pathname === location.pathname) continue;
+		if (link.origin !== location.origin || !link.pathname.startsWith(base)) continue;
+		if (link.pathname === location.pathname || /\.\w+$/.test(link.pathname)) continue;
 		link.addEventListener("mouseenter", mouseEnterHandler);
 		link.addEventListener("mouseleave", clearActivePopover);
 	}

@@ -4,7 +4,8 @@
 // Quartz takes the text of the rendered page; here it comes from the HTML that Astro's content loader
 // renders, and content.config.ts stores the result as the page's description, so Starlight's meta
 // tags, the Open Graph images, the RSS feed and the tag and folder pages all use it. Quartz's HTML
-// escaping is left out: Starlight escapes attribute values itself.
+// escaping is left out: Starlight escapes attribute values itself. The loader doesn't render MDX, so
+// for an MDX page the text comes from its source instead (describeMarkdown).
 const descriptionLength = 150;
 const maxDescriptionLength = 300;
 
@@ -34,8 +35,26 @@ function toText(html: string) {
 		.trim();
 }
 
-export function describe(html: string) {
-	const text = toText(html).replace(urlRegex, "$<domain>" + "$<path>");
+/** The text of a page's Markdown or MDX source: its prose, without markup, code or components. */
+function markdownToText(markdown: string) {
+	return markdown
+		.replace(/^\s*(?:import|export)\s.*$/gm, " ") // MDX imports and exports
+		.replace(/^(`{3,}|~{3,})[\s\S]*?^\1/gm, " ") // code blocks, Mermaid diagrams among them
+		.replace(/^\s*:::.*$/gm, " ") // aside fences
+		.replace(/<[^>]*>/g, " ") // JSX and HTML tags; the text between them stays
+		.replace(/\{[^{}]*\}/g, " ") // MDX expressions
+		.replace(/!\[[^\]]*\]\([^)]*\)/g, " ") // images
+		.replace(/\[([^\]]*)\]\([^)]*\)/g, "$1") // links, by their text
+		.replace(/^\s{0,3}(?:#{1,6}\s+|>\s?|[-*+]\s+|\d+\.\s+)/gm, "") // heading, quote and list marks
+		.replace(/[*_~`]/g, "")
+		.trim();
+}
+
+export const describe = (html: string) => summarise(toText(html));
+export const describeMarkdown = (markdown: string) => summarise(markdownToText(markdown));
+
+function summarise(pageText: string) {
+	const text = pageText.replace(urlRegex, "$<domain>" + "$<path>");
 
 	const sentences = text.replace(/\s+/g, " ").split(/\.\s/);
 	let finalDesc = "";

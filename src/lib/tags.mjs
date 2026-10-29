@@ -15,14 +15,16 @@ export function tagKey(tag) {
 		.replace(/^-+|-+$/g, "");
 }
 
-/** Every frontmatter tag in the docs collection, with how often each spelling is used. */
+/** Every frontmatter tag in the docs collection, with how often each spelling is used. Drafts are
+ * left out: they aren't built, so their tags get no pages (see content.config.ts). */
 export function collectTags(contentDir) {
 	const counts = new Map();
 	for (const file of fs.readdirSync(contentDir, { recursive: true })) {
-		if (!String(file).endsWith(".md")) continue;
+		if (!/\.mdx?$/.test(String(file))) continue;
 		const source = fs.readFileSync(path.join(contentDir, String(file)), "utf8");
 		const frontmatter = source.match(/^---\n([\s\S]*?)\n---/);
-		const tags = frontmatter ? parse(frontmatter[1])?.tags : undefined;
+		const data = frontmatter ? parse(frontmatter[1]) : undefined;
+		const tags = data?.draft ? undefined : data?.tags;
 		for (const tag of Array.isArray(tags) ? tags : []) {
 			counts.set(String(tag), (counts.get(String(tag)) ?? 0) + 1);
 		}

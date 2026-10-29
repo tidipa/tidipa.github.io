@@ -1,22 +1,48 @@
 // The breadcrumb trail for a page: Home, its parent folders, then the page itself. Shown above the
 // title (PageTitle.astro) and given to search engines as a BreadcrumbList (route-data.ts).
+import type { StarlightRouteData } from "@astrojs/starlight/route-data";
 import { getCollection } from "astro:content";
 import { pageUrl } from "./graph-data";
 
-export type Crumb = { label: string; href: string };
+/** A folder without a page of its own has no href. */
+export type Crumb = { label: string; href?: string };
+// Folders whose pages plugins generate, outside the docs collection, and so the folders under them too
+// (each tag's page is under the tag index): this site's starlight-group-pages and starlight-tags pages.
+const generatedPages = new Set(["articles", "books", "tags"]);
+type SidebarEntry = StarlightRouteData["sidebar"][number];
 
-export async function getBreadcrumbs(id: string, title: string): Promise<Crumb[]> {
-	if (id === "index") return [{ label: "Home", href: "/" }];
-	const titles = new Map((await getCollection("docs")).map((entry) => [entry.id, entry.data.title]));
-	// Each parent folder links to its index page (e.g. /khandhaka/) or the folder page that
-	// starlight-group-pages generates (e.g. /articles/).
+/** The labels of the sidebar groups that hold the current page, outermost first. */
+function groupLabels(entries: SidebarEntry[], labels: string[] = []): string[] | undefined {
+	for (const entry of entries) {
+		if (entry.type === "link" && entry.isCurrent) return labels;
+		if (entry.type === "group") {
+			const found = groupLabels(entry.entries, [...labels, entry.label]);
+			if (found) return found;
+		}
+	}
+	return undefined;
+}
+
+export async function getBreadcrumbs(route: StarlightRouteData): Promise<Crumb[]> {
+	const id = route.entry.id || "index"; // Starlight gives the home page an empty id
+	const home = { label: "Home", href: pageUrl("index") };
+	if (id === "index") return [home];
+	const docs = await getCollection("docs", ({ data }) => !data.draft);
+	const titles = new Map(docs.map((entry) => [entry.id, entry.data.title]));
+	// A folder is named by its index page, else by the sidebar group the page is in (when the groups
+	// match the folders one to one), else by the folder's own name.
 	const folders = id.split("/").slice(0, -1);
+	const groups = groupLabels(route.sidebar);
+	const sidebarLabels = groups?.length === folders.length ? groups : undefined;
 	return [
-		{ label: "Home", href: "/" },
+		home,
 		...folders.map((folder, i) => {
 			const folderId = folders.slice(0, i + 1).join("/");
-			return { label: titles.get(folderId) ?? folder.charAt(0).toUpperCase() + folder.slice(1), href: `/${folderId}/` };
+			const title = titles.get(folderId);
+			const name = folder.charAt(0).toUpperCase() + folder.slice(1).replace(/-/g, " ");
+			const hasPage = title !== undefined || generatedPages.has(folders[0]);
+			return { label: title ?? sidebarLabels?.[i] ?? name, href: hasPage ? pageUrl(folderId) : undefined };
 		}),
-		{ label: title, href: pageUrl(id) },
+		{ label: route.entry.data.title, href: pageUrl(id) },
 	];
 }

@@ -10,7 +10,7 @@ const route = Astro.locals.starlightRoute;
 const { data, body } = route.entry;
 const id = route.entry.id || "index"; // Starlight gives the home page an empty id
 
-const crumbs = await getBreadcrumbs(id, data.title);
+const crumbs = await getBreadcrumbs(route);
 const minutes = body ? Math.max(1, Math.ceil(readingTime(body).minutes)) : undefined;
 const date = route.lastUpdated;
 // The site is built on GitHub's runners, which use UTC; show the date as it was where the site is written.
@@ -20,7 +20,8 @@ const timeZone = "Australia/Sydney";
 const description = data.descriptionGenerated ? undefined : data.description;
 const { cover, summary } = data;
 
-// Summaries are plain prose with a little inline Markdown (emphasis, code); render just that.
+// Descriptions and summaries are plain prose with a little inline Markdown (emphasis, code); render
+// just that. (The meta tags get the description with the marks removed, in route-data.ts.)
 const escapeHtml = (text: string) => text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const inlineMarkdown = (text: string) =>
 	escapeHtml(text)
@@ -33,7 +34,7 @@ const inlineMarkdown = (text: string) =>
 	crumbs.length > 1 && id !== "404" && (
 		<nav class="breadcrumbs" aria-label="Breadcrumbs">
 			<ol>
-				{crumbs.slice(0, -1).map(({ label, href }) => <li><a href={href}>{label}</a></li>)}
+				{crumbs.slice(0, -1).map(({ label, href }) => <li>{href ? <a href={href}>{label}</a> : label}</li>)}
 				<li aria-current="page">{data.title}</li>
 			</ol>
 		</nav>
@@ -53,7 +54,7 @@ const inlineMarkdown = (text: string) =>
 		</p>
 	)
 }
-{description && <p class="description">{description}</p>}
+{description && <p class="description" set:html={inlineMarkdown(description)} />}
 {
 	cover && (
 		<figure class="cover">
@@ -118,6 +119,13 @@ const inlineMarkdown = (text: string) =>
 		color: var(--sl-color-white);
 		font-size: var(--sl-text-lg);
 		line-height: 1.5;
+	}
+	/* Inline code as in the text (Starlight styles it only inside the page content). */
+	.description :global(code),
+	.summary :global(code) {
+		padding: 0.125rem 0.375rem;
+		background-color: var(--sl-color-bg-inline-code);
+		font-size: 0.875em;
 	}
 	.cover {
 		margin-block: 1.5rem 0;
