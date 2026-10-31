@@ -2,23 +2,36 @@
 import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import { defineConfig, fontProviders } from "astro/config";
-import { unified } from "@astrojs/markdown-remark";
+import { satteri } from "@astrojs/markdown-satteri";
 import starlight from "@astrojs/starlight";
-import mermaid from "astro-mermaid";
-import rehypeCitation from "rehype-citation";
-import rehypeKatex from "rehype-katex";
-import remarkMath from "remark-math";
+import { satteriKatex } from "satteri-katex";
 import starlightGroupPages from "starlight-group-pages";
 import starlightLinksValidator from "starlight-links-validator";
 import starlightTags from "starlight-tags";
+import { citations } from "./src/plugins/citations.mjs";
+import { mermaidFences } from "./src/plugins/mermaid.mjs";
 import { writeTagsConfig } from "./src/lib/tags.mjs";
 
 // starlight-tags reads its tag definitions (labels for the folded tag IDs) from this file.
 writeTagsConfig("./src/content/docs", "./.astro/tags.yml");
 
-// Astro caches each page's rendered Markdown until the page or the config changes. Putting the
-// bibliography's hash into the config makes an edit to bibliography.bib re-render every page.
-const bibliographyHash = createHash("sha1").update(readFileSync("./bibliography.bib")).digest("hex");
+// Sätteri, Astro 7's Markdown processor, with maths ($…$ and $$…$$, parsed by Sätteri and rendered by
+// satteri-katex, a native port of rehype-katex), Mermaid fences turned into <pre class="mermaid"> for
+// src/components/Mermaid.astro to render (src/plugins/mermaid.mjs) and pandoc-style citations
+// ([@Norman1997] or @Norman1997, resolved against bibliography.bib and rendered in APA style under the
+// page's `## References` heading; src/plugins/citations.mjs, a rehype plugin run through
+// src/plugins/rehype-bridge.mjs). Starlight detects the Sätteri processor and adds its own plugins to it.
+const processor = satteri({
+  features: { math: true },
+  mdastPlugins: [satteriKatex(), mermaidFences()],
+  hastPlugins: [citations()],
+});
+// Astro caches each page's rendered Markdown until the page or the config digest changes, and the
+// digest skips functions, so the plugin alone would not notice an edit to bibliography.bib. The
+// file's hash here makes such an edit re-render every page.
+Object.assign(processor.options, {
+  bibliographyHash: createHash("sha1").update(readFileSync("./bibliography.bib")).digest("hex"),
+});
 
 // https://astro.build/config
 export default defineConfig({
@@ -44,21 +57,10 @@ export default defineConfig({
       fallbacks: ["monospace"],
     },
   ],
-  // Astro 7's default Markdown processor (Sätteri) does not run remark/rehype plugins, and
-  // citations (rehype-citation) and maths (remark-math + rehype-katex) need them. Starlight and
-  // astro-mermaid both detect this unified() processor and add their own plugins to it.
-  markdown: {
-    processor: unified({
-      remarkPlugins: [remarkMath],
-      rehypePlugins: [
-        rehypeKatex,
-        // Pandoc-style citations, e.g. [@Norman1997], resolved against bibliography.bib and
-        // rendered in APA style, with the bibliography appended to the end of the page.
-        [rehypeCitation, { bibliography: "./bibliography.bib", csl: "apa", bibliographyHash }],
-      ],
-    }),
-  },
+  markdown: { processor },
   vite: {
+    // Pre-bundle Mermaid for the dev server; src/components/Mermaid.astro loads it on demand.
+    optimizeDeps: { include: ["mermaid"] },
     build: {
       chunkSizeWarningLimit: 1500,
       rolldownOptions: {
@@ -75,27 +77,6 @@ export default defineConfig({
     },
   },
   integrations: [
-    // Mermaid diagrams: client-side, follows the light/dark toggle. Colours come from the
-    // site's own --sl-color-* tokens via themeCSS, so diagrams never hard-code colours.
-    mermaid({
-      theme: "default",
-      autoTheme: true,
-      enableLog: false,
-      mermaidConfig: {
-        fontFamily: '"Noto Sans", sans-serif',
-        flowchart: { curve: "basis", useMaxWidth: true, padding: 8, nodeSpacing: 28, rankSpacing: 44 },
-        themeCSS: `
-          .node rect, .node circle, .node ellipse, .node polygon, .node path { fill: var(--sl-color-gray-6); stroke: var(--sl-color-accent); stroke-width: 1.5px; }
-          .node polygon { fill: var(--sl-color-accent-low); }
-          .label, .nodeLabel, .edgeLabel, .cluster span, .cluster .label { color: var(--sl-color-text) !important; font-family: var(--sl-font, "Noto Sans"), sans-serif; }
-          .node polygon ~ .label .nodeLabel, .node polygon ~ .label span { color: var(--sl-color-white) !important; }
-          .edgeLabel, .edgeLabel p, .edgeLabel span, .labelBkg { background-color: var(--sl-color-bg) !important; }
-          .edgePath .path, .flowchart-link { stroke: var(--sl-color-gray-3); stroke-width: 1.5px; }
-          .arrowheadPath, marker path { fill: var(--sl-color-gray-3); stroke: var(--sl-color-gray-3); }
-          .cluster rect { fill: var(--sl-color-bg-nav); stroke: var(--sl-color-hairline); }
-        `,
-      },
-    }),
     starlight({
       title: "Tidipa",
       description:

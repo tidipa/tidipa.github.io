@@ -1,11 +1,11 @@
 ---
 // Starlight's head (which includes the SEO tags from src/route-data.ts), plus the fonts, reader mode,
-// link popovers, the zoom button on Mermaid diagrams, and on the 404 page the redirects for old Quartz URLs.
+// link popovers, the Mermaid diagrams, and on the 404 page the redirects for old Quartz URLs.
 import DefaultHead from "@astrojs/starlight/components/Head.astro";
 import { Font } from "astro:assets";
 import legacyRedirects from "../legacy-redirects.json";
 import Popover from "./Popover.astro";
-import MermaidZoom from "./MermaidZoom.astro";
+import Mermaid from "./Mermaid.astro";
 
 const route = Astro.locals.starlightRoute;
 ---
@@ -23,7 +23,7 @@ const route = Astro.locals.starlightRoute;
 <Font cssVariable="--sl-font" />
 <Font cssVariable="--sl-font-mono" />
 <Popover />
-<MermaidZoom />
+<Mermaid />
 {
 	route.id === "404" && (
 		// Old Quartz URLs (e.g. /Khandhaka/1.11) now 404 on GitHub Pages; send them to the new page.
