@@ -231,7 +231,7 @@ The plate begins with the usual maṅgala verse of Gāhaḍavāla inscriptions:
 > 
 > May  the  excitement  of  Śrī  [Lakṣmī]  at  the  inception  of  their  loveplay,  as her hands caress the throat of Vaikuṇṭha [Viṣṇu] whose desire is irresistible, be a blessing to you!
 
-Thus  the  document  begins  with  a  verse  whose  sentiments  are  at  once quintessentially Hindu and about as un-Buddhist as one could imagine. This  verse  is  followed  by  the  usual  long  genealogical  preamble,  after which  the  text  turns,  in  the  sixteenth  line,  to  the  actual  matter  at  hand, namely the donative formula. This portion begins with a detailed descrip- tion of the king’s elaborate ritual preparations for the ceremony:
+Thus  the  document  begins  with  a  verse  whose  sentiments  are  at  once quintessentially Hindu and about as un-Buddhist as one could imagine. This  verse  is  followed  by  the  usual  long  genealogical  preamble,  after which  the  text  turns,  in  the  sixteenth  line,  to  the  actual  matter  at  hand, namely the donative formula. This portion begins with a detailed description of the king’s elaborate ritual preparations for the ceremony:
 
 > On this day, after bathing in the Ganges here at Vārā(as), satiating all of the mantras, gods, sages, humans, ghosts, and ancestors, paying his respects to the burning-rayed sun which easily slashes through the masses of darkness, worshipping  the  one  [Śiva]  who  wears  the  crescent  moon  on  his  crest,  and praying to Vāsudeva, savior of the three worlds …[^24]
 

@@ -26,13 +26,13 @@ It is an abridged version of the introductory chapter from my upcoming Pāḷi t
 
 :::note
 The information in this introduction is heavily based on "Kaccāyana" -
-the earliest known Pāli Grammar, traditionally associated with the Buddha’s
+the earliest known Pāḷi Grammar, traditionally associated with the Buddha’s
 disciple Mahā-Kaccāyana (6th-7th century C.E.). All references to Kaccāyana
-are denoted as numbers in curly braces, eg. {8} (representing the 8th `sutta` or
+are denoted as numbers in curly braces, e.g. {8} (representing the 8th `sutta` or
 "grammatical rule"). Altogether there are 675 suttas, which shows how compact
 Kaccāyana is.
 
-For further information please view my [work in progress] translation of Kaccāyana into English at [kaccayana.github.io](https://kaccayana.github.io)
+For further information please view my [work in progress] translation of Kaccāyana into English at [kaccayana.github.io](https://kaccayana.github.io).
 :::
 
 ## Background
@@ -45,7 +45,7 @@ Norman further explains that the multiple dialects of MIA are due to successive 
 
 By the time of the Buddha, there were at least three MIA dialects in use in the Greater Magadha region and beyond: a "Western" dialect, an "Eastern" dialect and a "North Western" dialect (Gāndhārī). The Buddha may have known all three dialects, and they were very similar to each other. [@Karpik2019] regards them as "mutually intelligible" by native speakers of any of the dialects, although this is contested by [@Levman2019b].
 
-According to [@Levman2014], the Shakya tribe which the Buddha belonged in had a separate socio-political organisation, religious
+According to [@Levman2014], the Sakya tribe which the Buddha belonged to had a separate socio-political organisation, religious
 and cultural values from the Indo-Aryans, so it is unclear what language the Buddha would have spoken or taught in. It is also unclear to what extent the Buddha was exposed to Brahmanism and therefore his knowledge of Sanskrit would have been questionable. He may have used a mixture of MIA dialects and indigenous languages, depending on his audience.
 
 However, given the Khandhaka shows the Buddha interacting with royal and wealthy converts and benefactors, the Buddha may probably have spoken in the Western MIA dialect, which is regarded as more prestigious. [@Karpik2019] In any case, what we know of as `Pāḷi` today would seem to be closest to the Western dialect, but mixed in with words and inflection forms from the other dialects.
@@ -62,7 +62,7 @@ Pāḷi also contains a broad spectrum of loanwords from autochthonous languages
 
 > The above is only a sampling of some of the more conspicuous features of the Indic linguistic area; there are many others: causative verb structure, basic subject-object-verb word order; postpositions; goals of verb of motion, adverbial and infinitive complements which go in the object position; adjectives, genitive phrases, demonstratives and numerals which precede the noun they modify; qualifiers which precede adjectives; use of genitive for the verb ‘to have’; use of dative to express internal states of mind; caste system terminology similarities, and more.
 
-Although Pāḷi is most similar to the "Western" MIA dialect, there are signs that it has been transformed and "Sanskritised" over the years (by well meaning Sanskrit-trained editors and scribes no doubt trying to "correct" what they perceived to be spelling and grammatical "mistakes") so it is no longer a pure version of the dialect that the Buddha would have spoken, and it is at least partially an "artificial" language. The morphology and grammar of Pāḷi was formalised by various grammarians in the 6th-12th centuries (with Kaccāyana being the first such work) and it is likely the texts were altered to conform to the "normative" grammar as described by grammarians.
+Although Pāḷi is most similar to the "Western" MIA dialect, there are signs that it has been transformed and "Sanskritised" over the years (by well-meaning Sanskrit-trained editors and scribes no doubt trying to "correct" what they perceived to be spelling and grammatical "mistakes") so it is no longer a pure version of the dialect that the Buddha would have spoken, and it is at least partially an "artificial" language. The morphology and grammar of Pāḷi were formalised by various grammarians in the 6th-12th centuries (with Kaccāyana being the first such work) and it is likely the texts were altered to conform to the "normative" grammar as described by grammarians.
 
 As [@Norman1997] points out:
 
@@ -83,9 +83,9 @@ Pāḷi, like most other Indo-Aryan languages, is an oral language spoken as
 ## Pāḷi Writing System and pronunciation {2}-{9}
 
 The Buddha may have spoken a language similar to Pāḷi, and when he died his
-sayings were collected and systematised so they can be transmitted orally
+sayings were collected and systematised so they could be transmitted orally
 generation to generation using memorisation techniques such as chanting. The
-Pāḷi canon was not written down until hundreds of years after the Buddha has
+Pāḷi canon was not written down until hundreds of years after the Buddha had
 passed away.
 
 As such, there is no "official" Pāḷi writing system. Pāḷi can be transcribed
@@ -95,15 +95,15 @@ European languages).
 
 ### The Pāḷi Abugida
 
-Strictly speaking, Pāḷi does not use an "alphabet", it uses an "abugida".
+Strictly speaking, Pāḷi does not use an "alphabet"; it uses an "abugida".
 
 :::note
 An "abugida" is a segmental writing system in which consonant–vowel sequences are written as units; each unit is based on a consonant letter, and vowel notation is secondary, similar to a diacritical mark. This contrasts with a full alphabet, in which vowels have status equal to consonants.
 
-Pāḷi is generally written in various Brahmic scripts (also known as Indic scripts), which are abugida writing systems. Brahmic scripts are used throughout the Indian subcontinent, Southeast Asia and parts of East Asia. They are descended from the Brahmi script of ancient India. Brahmi is clearly attested from the 3rd century BCE during the reign of Áshoka, who used the script for imperial edicts.
+Pāḷi is generally written in various Brahmic scripts (also known as Indic scripts), which are abugida writing systems. Brahmic scripts are used throughout the Indian subcontinent, Southeast Asia and parts of East Asia. They are descended from the Brahmi script of ancient India. Brahmi is clearly attested from the 3rd century BCE during the reign of Aśoka, who used the script for imperial edicts.
 :::
 
-In Roman script, Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
+In Roman script, Pāḷi consists of 8 vowels (`sara`) and 33 consonants (`vyañjana`), arranged in the following order (the letters in round brackets are not commonly encountered):
 
 >sara: a, ā, i, ī, u, ū  \
 >kaṇṭhatāluja: e  \
@@ -127,7 +127,7 @@ In Roman script, Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjan
 |---------|:---:|:--:|:-------:|:-------:|:---------:|:------:|:---------:|:------:|:---:|:-----:|:-----:|:------:|
 |kaṇṭhaja |  a  |  ā |         |         |     k     |   kh   |     g     |    gh  |  ṅ  |       |    h  |        |
 |tāluja   |  i  |  ī |    e    |         |     c     |   ch   |     j     |    jh  |  ñ  |   y   |       |        |
-|muḍḍhaja |     |    |    o    |    ṃ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
+|muddhaja |     |    |    o    |    ṃ    |     ṭ     |   ṭh   |     ḍ     |    ḍh  |  ṇ  |  r ḷ  |       |        |
 |dantaja  |     |    |         |         |     t     |   th   |     d     |    dh  |  n  |  v l  |       |    s   |
 |oṭṭhaja  |  u  |  ū |         |         |     p     |   ph   |     b     |    bh  |  m  |       |       |        |
 
@@ -137,7 +137,7 @@ In Roman script, Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjan
 |-----|-----|-----|
 |kaṇṭhaja|Gutturals|pronounced in the throat|
 |tāluja|Palatals|pressing the tongue on the front-palate|
-|muḍḍhaja|Linguals (Cerebrals, Retroflex)|bringing the up-turned tip of the tongue in contact with the back of the palate|
+|muddhaja|Linguals (Cerebrals, Retroflex)|bringing the up-turned tip of the tongue in contact with the back of the palate|
 |dantaja|Dentals|pronounced with the aid of the teeth|
 |oṭṭhaja|Labials|formed by means of the lips|
 |hakāra|Spirant|a strong aspirated breathing|
@@ -146,16 +146,16 @@ In Roman script, Pali consists of 8 vowels (`sara`) and 33 consonants (`vyañjan
 |aghosa|Voiceless (Surds, stops)|hard, flat, and toneless|
 |ghosa|Voiced (Sonants)|soft and uttered with a checked tone|
 |dhanita|Aspirates|pronounced with a strong breathing or h sound added to them|
-|sithila|Nonaspirates|pronounced naturally, without effort and without the h sound|
+|sithila|Non-aspirates|pronounced naturally, without effort and without the h sound|
 |nāsika|Nasals|sounded through the nose|
-|antaṭṭha|Liquids (Resonants, semi-vowels)|readily combine with other consonants: (except, perhaps, ḷ)|
-|-|Mutes (Nonsurds)|not being readily pronounced without the aid of a vowel|
+|antaṭṭha|Liquids (Resonants, semi-vowels)|readily combine with other consonants (except, perhaps, ḷ)|
+|-|Mutes (Non-surds)|not being readily pronounced without the aid of a vowel|
 
 ### Pronunciation
 
 No one knows for sure how Pāḷi words would have been pronounced,
-and how Pāḷi sentences would have been spoken, particularly with regards to
-tonality. Modern day Pāḷi pronunciation is based on how the Buddhist Pāḷi canon
+and how Pāḷi sentences would have been spoken, particularly with regard to
+tonality. Modern-day Pāḷi pronunciation is based on how the Buddhist Pāḷi canon
 is chanted in various countries including Sri Lanka, Myanmar and Thailand.
 
 |Letter|Pronunciation|
@@ -230,8 +230,8 @@ word endings. Fluent Pāḷi listeners will no doubt listen to the sound of thes
 endings to distinguish the words. These endings also give additional meaning
 to the lemmas and indicate how the words are used in a sentence.
 
-Because of this, the word order in a Pāḷi sentence is less important than many
-other languages, however there are conventions for how to arrange words in a
+Because of this, the word order in a Pāḷi sentence is less important than in many
+other languages; however, there are conventions for how to arrange words in a
 typical sentence. Speakers can unconventionally reorder words, typically to
 give emphasis to certain words or to augment or add nuance to a sentence's
 emotional meaning.
@@ -246,7 +246,7 @@ attention to his words simply because of the different order.
 
 Fundamentally, most lemmas in Pāḷi are said to be derived from one or more `dhātu`
 (roots). These roots are similar to Sanskrit roots. Pāḷi can be regarded as
-a simplified version of Sanskrit, however some of the roots may have different
+a simplified version of Sanskrit; however, some of the roots may have different
 meanings, or nuances. There are some that say Sanskrit was a "sacred" or "divine" language
 reserved for priests and members of the holy caste, whereas Pāḷi, along with
 many other Indian languages, was spoken by the common people.
@@ -257,7 +257,7 @@ Some lemmas, however, are words borrowed from other languages, possibly indigeno
 
 | type | example | meaning |
 | --- | --- | --- |
-| single stem or one-syllable roots | `vā` | to move |
+| single-stem or one-syllable roots | `vā` | to move |
 || `yā` | to go |
 || `pā` | to drink
 || `ji` | to conquer |
@@ -267,7 +267,7 @@ Some lemmas, however, are words borrowed from other languages, possibly indigeno
 | dual-syllable roots | `gamu` | to go |
 || `paca` | to cook |
 || `vada` |to speak |
-| multiple-stem or three syllable roots | `vāyama` | to attempt |
+| multiple-stem or three-syllable roots | `vāyama` | to attempt |
 || `araha` | to deserve|
 || `kilisa` | to torment |
 
@@ -279,7 +279,7 @@ to a root before it becomes a lemma, thus creating multi-syllabic
 lemmas. The result is a lemma that can be transformed into a word
 (through inflection forms - more later) used in a sentence.
 
-Altogether there are around 1700 roots in Pāḷi. However, many many lemmas can
+Altogether there are around 1700 roots in Pāḷi. However, many, many lemmas can
 be made from them by attaching `upasagga` (prefixes) and various affixes
 (`paccaya`). In theory, fresh lemmas can be formed by new combinations of roots
 with different prefixes so the adventurous Pāḷi student can attempt to create
@@ -323,17 +323,17 @@ actually means "gender", and traditionally each `nāma` is assigned a gender. Th
 `liṅga` represents an "intrinsic property" of the `nāma`.
 
 The notion of a Pāḷi gender is similar to (but not quite the same as) genders
-in some European languages. However, there are differences that it's best to
+in some European languages. However, there are such differences that it's best to
 regard `liṅga` as a classification scheme or grammatical construct rather than
-what traditional definitions of "gender":
+what traditional definitions of "gender" suggest:
 
 * `pulliṅga` - the "major" or "default" type. Most nouns fall into this category.
   Generally associated with masculinity or masculine persons (but not always)
-* `napuṁsakaliṅga` - the "special" type. Tend to be used for nouns that don't
-  quite fit with the notions of masculinity or feminity, or to represent abstract
+* `napuṁsakaliṅga` - the "special" type. Tends to be used for nouns that don't
+  quite fit with the notions of masculinity or femininity, or to represent abstract
   concepts.
 * `itthiliṅga` - the "minor" type, comparatively rare with respect to the
-  other two types. Generally associated with feminity or feminine persons.
+  other two types. Generally associated with femininity or feminine persons.
 
 Note that for the remainder of this introduction, `liṅga` will be represented
 by the following symbols for brevity:
@@ -344,7 +344,7 @@ by the following symbols for brevity:
 
 Ancient India was a patriarchal society, and men were regarded as the "major"
 component of society, doing activities considered important, hence the
-tendency is to associate important words to `pulliṅga`.
+tendency is to associate important words with `pulliṅga`.
 
 ### Multiplicity
 
@@ -393,7 +393,7 @@ By looking up the above table, the `si` ending is added (using rule of {55}):
 
 Wait, what happened? Why does the transformation not result in `purisasi`?
 
-This is where additional rules comes into play. By rule of {83}, any
+This is where additional rules come into play. By rule of {83}, any
 lemma ending in `a` will be transformed into the 1st vibhatti by deleting
 the `a` and by rule of {104} replacing the `si` with `o`. Kaccāyana has a whole
 chapter of such rules.
@@ -408,7 +408,7 @@ So the transformation becomes:
 The plural form undergoes a similar transformation:
 
 `purisa` + `yo`  
-→ `puris`~~`a`~~ + `si` {83}  
+→ `puris`~~`a`~~ + `yo` {83}  
 → `puris` + ~~`yo`~~(`ā`) {107}  
 → `purisā`
 
@@ -439,7 +439,7 @@ singular vs plural.
 | ⨀ | ⑤ | `smā` | puris~~a~~ā | {108} | `purisā` |
 | ⨂ | ⑤ | `hi` | puris~~a~~e + hi | {101} | `purisehi` |
 | ⨂ | ⑤ | `hi` | puris~~a~~e + bhi | {99}-{101} | `purisebhi` |
-| ⨀ | ⑥ | `sa` | puris~~a~~ + ssa | {61} | `purisassa` |
+| ⨀ | ⑥ | `sa` | purisa + ssa | {61} | `purisassa` |
 | ⨂ | ⑥ | `naṁ` | puris~~a~~ā + naṁ | {89} | `purisānaṁ` |
 | ⨀ | ⑦ | `smiṁ` | purisa + smiṁ | | `purisasmiṁ` |
 | ⨀ | ⑦ | `smiṁ` | purisa + mhi | {99} | `purisamhi` |
@@ -447,14 +447,14 @@ singular vs plural.
 | ⨂ | ⑦ | `su` | puris~~a~~e + su | {101} | `purisesu` |
 
 You will note that in some of the forms, there are multiple ways the lemma can
-be transformed. For example, singular `purisa` can be transformed in the 3rd
+be transformed. For example, plural `purisa` can be transformed in the 3rd
 vibhatti into either `purisehi` or `purisebhi`. Both are acceptable. Which should we
 use for a given sentence? It depends on the "sound" - a "native" Pāḷi speaker would
 have chosen the version that sounded the most pleasing, depending on surrounding
 words.
 
 The multiple different variants of inflection forms can also be due to Pāḷi being an
-amalgamation of different Middle Indo Aryan dialects. As [@Norman1997] explains:
+amalgamation of different Middle Indo-Aryan dialects. As [@Norman1997] explains:
 
 > It is, for example, not always understood by non-specialists that an early Pāli canonical sutta is itself a translation, and forms which were left untranslated when the Pāli recension was made from some earlier version can sometimes be identified.
 
@@ -471,7 +471,7 @@ In English, consider the following sentence:
 
 > The quick brown fox jumped over the lazy dog.
 
-Words "quick" and "brown" refers to the "fox", which is the
+Words "quick" and "brown" refer to the "fox", which is the
 "subject" of the sentence, and "lazy" refers to the dog, which is the "object"
 of the sentence. The verb "jumped over" separates the subject and the object.
 The brain automatically "collects" and "groups" the words, so the
@@ -494,30 +494,30 @@ can be "mixed" and the sentence would still have the same meaning!
 In practice, the 1st vibhatti is usually reserved for the "most important" entity
 in a sentence, the 2nd for the "second most important" and so on.
 
-So, in the above English sentence, were it to be translated the Pāḷi, "the
+So, in the above English sentence, were it to be translated to Pāḷi, "the
 quick brown fox" would all be in the 1st vibhatti, and "the lazy dog" would all be
 in the 2nd vibhatti. If there are more entities, they would take the 3rd, 4th
 vibhatti and so on.
 
 In many sentences, the 1st vibhatti would usually refer to the entity or actor
 "performing" or "doing" the action (or, the "subject" of the sentence), and
-the 2nd vibhatti refers to the entity being impacted by the action  (the "object")
+the 2nd vibhatti refers to the entity being impacted by the action (the "object")
 of the sentence. Although this is a very common pattern, it is by no means
-rigid, and in theory (almopst) any vibhatti ending can be used for any purpose. There are
+rigid, and in theory (almost) any vibhatti ending can be used for any purpose. There are
 many examples in the Pāḷi canon where the vibhatti are used in unconventional
 ways.
 
 It is also possible that a word in an inflection form from a different
-Middle Indo Aryan dialect can be mistaken as a different inflection form in
-Pāḷi. For example, in what Norman calls the "Eastern" dialect the first vibhatti form
+Middle Indo-Aryan dialect can be mistaken for a different inflection form in
+Pāḷi. For example, in what Norman calls the "Eastern" dialect the first vibhatti forms
 for nouns often end in `-e` whereas in the "Western" dialect they end with `-o`.
-As an example,. The vocative `bhikkhave` typically encountered in Pāḷi texts should probably be `bhikkhavo`, although [@Pind2021] disputes this and argues `bhikkhavo` represents an emphatic usage compared to `bhikkhave`.
+As an example, the vocative `bhikkhave` typically encountered in Pāḷi texts should probably be `bhikkhavo`, although [@Pind2021] disputes this and argues `bhikkhavo` represents an emphatic usage compared to `bhikkhave`.
 
 ### Vibhatti usage typical meanings {271}-{315}
 
 The following meanings are usually associated with each
 vibhatti. However, as noted above, these are conventions only, and the author of a
-sentence may choose to associate an unconventional vibhatti ending to a word to
+sentence may choose to associate an unconventional vibhatti ending with a word
 (perhaps for emphatic or stylistic reasons).
 
 | vibhatti | number | role | usage | Pāḷi term | sutta |
@@ -529,7 +529,7 @@ sentence may choose to associate an unconventional vibhatti ending to a word to
 | ③ | ⨀ | by (subject) (passive) | subject | `kattu`/`kattā` | {288} |
 | ③ | ⨂ | by/with | supporting cause | `karaṇa` | {286} |
 | ③ | ⨂ | with/together | company | `sahayoga` | {287} |
-| ③ | ⨂ | by means of/in regard of | aspect or adjective | `visesana` | {292} |
+| ③ | ⨂ | by means of/in regard to | aspect or adjective | `visesana` | {292} |
 | ③ | ⨂ | due to/for | reason | `kāraṇa` | {289} |
 | ④ | ⨀/⨂ | receivership/purpose | recipient of action | `sampadāna` | {293} |
 | ⑤ | ⨀ | from | source from which it occurs | `apādāna` | {295} |
@@ -545,7 +545,7 @@ sentence may choose to associate an unconventional vibhatti ending to a word to
 
 :::note
 In Pāḷi grammar books written in English the following nomenclature
-for the vibhatti types are often used (which these books will refer to as "cases"):
+for the vibhatti types is often used (which these books will refer to as "cases"):
 
 * ① = "nominative"
 * ② = "accusative"
@@ -565,31 +565,31 @@ so I encourage you to substitute the vibhatti number when you see these terms.
 
 English Pāḷi textbooks often refer to a "vocative" "case", but this is not
 recognised as a separate inflection form but a variant of the 1st vibhatti. The usual vibhatti
-ending `si` (for 1st case singular) is instead called `ga` but the
+ending `si` (for 1st vibhatti singular) is instead called `ga` but the
 transformation rules are similar to `si`.
 
 Examples:
 
 > `bhoti ayye`! (Oh madam!)  
 > `bhoti kaññe`! (Oh girl!)  
-> `bhoti kharādiye`!  (Oh the girl named Kharādiya!)
+> `bhoti kharādiye`! (Oh the girl named Kharādiya!)
 
-Contrast this to the normal 1st case form of `ayyā` (🚺⨀①):
+Contrast this to the normal 1st vibhatti form of `ayyā` (🚺⨀①):
 
 > `sā ayyā` (that lady)
 
 In plural:
 
-> `bhotiyo ayyāyo` (Oh Madams!)
+> `bhotiyo ayyāyo` (Oh madams!)
 
 ### *️⃣ `sabbanāma` (pronouns)
 
 `sabba` means "all" so `sabbanāma` are "common" or "generic" nouns that can
-apply in "all' situations.
+apply in "all" situations.
 
 Examples of `sabbanāma` include the different `vibhatti` forms of `ya`
 ("who, what"), `ta` ("he/she/it", "that"), `eta` ("this"), `ima` ("this"),
-`amu` ("that"), `kiṁ` ("what?"). One of the common usage of `sabbanāma` is as
+`amu` ("that"), `kiṁ` ("what?"). One of the common usages of `sabbanāma` is as
 "pronouns", where they can assume all genders to represent
 all things and persons of the different genders. But they can also function
 as adjectives, adverbs, honorifics and interrogatives.
@@ -608,7 +608,7 @@ Examples:
 
 ## ⏏️ `nipāta` (particles)
 
-`nipāta` means "to fall. i.e. to be placed anywhere", and refer to words
+`nipāta` means "to fall, i.e. to be placed anywhere", and refers to words
 that can be found placed in the beginning, in the middle or at the end of
 sentences and words, but not usually regarded as prefixes (see below).
 
@@ -617,7 +617,7 @@ are not related to other words in the sentence and therefore do not need to
 be matched with them. {221}
 
 However, in some instances, the `vibhatti` endings may be retained, if the
-`nipāta` word play a role in the sentence meaning.
+`nipāta` word plays a role in the sentence meaning.
 
 ### Examples
 
@@ -645,9 +645,9 @@ in effect for some nipāta words such as `yathā`, `tathā` and `evaṁ` etc.
 
 | `nipāta` | meaning | note |
 | --- | --- | --- |
-| `yathā`, `tathā` | in a manner that, in such a way as | combination of `sabbanāma` `ya` `ta` with indeclinable affix `thā`. The affix itself is ex- pressive of manner or mood. |
-| `evaṁ` | thus, in this way, true as it is said, yes (many meanings) | dutiyāvibhatti, very frequently used in Pāli texts |
-| khalu | used mostly in a reported narrative | |
+| `yathā`, `tathā` | in a manner that, in such a way as | combination of `sabbanāma` `ya` `ta` with indeclinable affix `thā`. The affix itself is expressive of manner or mood. |
+| `evaṁ` | thus, in this way, true as it is said, yes (many meanings) | dutiyāvibhatti, very frequently used in Pāḷi texts |
+| `khalu` | used mostly in a reported narrative | |
 | `kho` | mostly meaningless, but sometimes it may mean “only, really” | a plain nipāta, found often in main Buddhist texts. Used together with `atha` `evaṁ` `taṁ` etc. |
 | `tatra` | there | a combination of `sabbanāma` `ta` with indeclinable affix `tra` |
 | `atho` | in addition, besides | |
@@ -657,10 +657,10 @@ in effect for some nipāta words such as `yathā`, `tathā` and `evaṁ` etc.
 | `ca` | also, too | It is used to express some additional meaning in grammatical texts. Sometimes meaningless. Sometimes it has a lot of meanings when used after other nipāta particles |
 | `vā` | similar to either or, in other ways | In grammatical texts, sometimes it is used to express other option or method or inconsistency of a function. Sometimes with no particular meaning |
 | `vo` | you | It is sometimes a meaningless expletive |
-| `haṁ`, `ahaṁ` | I | the use of these two nipāta are seldom found in texts unless it means “I” |
+| `haṁ`, `ahaṁ` | I | the use of these two nipāta is seldom found in texts unless it means “I” |
 | `alaṁ` | (a) enough, (b) suitable, (c) worthiness, (d) appropriateness, (e) ability | Also, (f) sometimes used as a prohibition or rejection, usually used in combination with (1) a noun in instrumental case, or (2) tuṁ-infinitive Kita verbs or (3) an āya-infinitive in dative case nouns |
-| `eva` | equal to “only” | used next to the word it want to modify or restrict or confirm in its implied meaning. A plain nipāta. |
-| `ho!`, `aho!` | | these are expression of interjection or surprise. No vibhatti |
+| `eva` | equal to “only” | used next to the word it wants to modify or restrict or confirm in its implied meaning. A plain nipāta. |
+| `ho!`, `aho!` | | these are expressions of interjection or surprise. No vibhatti |
 | `he!`, `ahe!`, `re!`, `are!` | “hey” | Vocative nipāta particles, similar to “hey” in English. Usually vocative case vibhatti is applicable, but to be elided |
 
 ### `nipāta` as prefixes
@@ -673,9 +673,9 @@ However, there are quite a few `nipāta` that can be placed before some verbs or
 | `antaradhāyati` | `antara` | `dhāyati` | (he) disappears |
 | `āvikaroti` | `āvi` | `karoti` | (he) makes it openly, displays clearly |
 | `pātubhavati` | `pātu` | `bhavati` | (it) arises visibly, i.e. appears |
-| `sacchikaroti` | `sacchi` | `karoti` | (he) realizes, i.e. attains |
+| `sacchikaroti` | `sacchi` | `karoti` | (he) realises, i.e. attains |
 | `vinābhāvo` | `vinā` | `bhāvo` | separation, being apart |
-| `sahacārī` | `saha` | `cārī` | the one who used be together, a friend |
+| `sahacārī` | `saha` | `cārī` | the one who used to be together, a friend |
 | `punabbhavo` | `puna` | `bhavo` | being born again, rebirth |
 
 ## 🔼 `upasagga` (prefixes)
@@ -689,7 +689,7 @@ noun), they may retain their `vibhatti` endings.
 There are three kinds of `upasagga`:
 
 1. `dhātva’tthā’nuvattaka` - those that follow the meaning of the root, without affecting its original meaning.
-2. `dhātva’tthabādhaka` - those that absolutely mean opposite of the root. These categorically change the original meaning of the root.
+2. `dhātva’tthabādhaka` - those that absolutely mean the opposite of the root. These categorically change the original meaning of the root.
 3. `dhātva’tthavisesaka` - those that enhance the original meaning of the root by adding more specific meaning and flavour to it.
 
 Example:
@@ -697,7 +697,7 @@ Example:
 > parābhavo
 
 🔼(parā) 🚹⨀①(bhava)  
-opposite / to be, being
+opposite / to be, being  
 *loss, ruin*
 
 Here are various words that can be formed from the word `hara` ("carrying")
@@ -712,7 +712,7 @@ together with various `upasagga` prefixes and the `ṇa`-suffix:
 | `duhāro` | `du` | bad | carrying badly |
 | `saṁhāro` | `saṁ` | well | carrying well |
 | `vihāro` | `vi` | specially | carrying one’s body specially, staying, i.e. act of staying at a place using alternating bodily modes |
-| `avahāro` | `ava` | lowly,contemptuous, mean | carrying in a mean manner, i.e. stealing |
+| `avahāro` | `ava` | lowly, contemptuous, mean | carrying in a mean manner, i.e. stealing |
 | `anuhāro` | `anu` | following, subsequent | carrying accordingly |
 | `parihāro` | `pari` | all around | carrying from all around |
 | `adhihāro` | `adhi` | specially, nicely | carrying nicely |
@@ -722,7 +722,7 @@ together with various `upasagga` prefixes and the `ṇa`-suffix:
 | `āhāro` | `ā` | toward | carrying toward, food or meal |
 | `atihāro` | `ati` | beyond, excessive | carrying beyond or excessively |
 | `apihāro` | `api` | downward | carrying down |
-| `apahāro` | `api` | out | carrying outward, i.e. removing |
+| `apahāro` | `apa` | out | carrying outward, i.e. removing |
 | `upahāro` | `upa` | near, close to | carrying toward proximity, bringing up closer, carrying complementary gift etc. |
 
 ## 🆎 `samāsa` (compound nouns) {316}-{343}
@@ -738,7 +738,7 @@ The following table summarises the major types of compound nouns, typical
 | `kammadhāraya` | Appositional | variable, or follow last component | `abhidheyavacano, paraliṅgo ca` | {341} |
 | `digu` | Numeral Appositional | 🚻 (usually ⨀ but can be ⨂) | `digusseʼkattaṁ` | {321} |
 | `tappurisa` | Determinative | variable | `ayañʼca tappuriso abhidheyavacanaliṅgo` | Rūpasiddhi {351} |
-| `dvanda` | Copulative | Mostly 🚻 but variable in some instances per last component | `samāhāre napuṁsakaṁ` | Moggalāna {20} Chapter 3 |
+| `dvanda` | Copulative | Mostly 🚻 but variable in some instances per last component | `samāhāre napuṁsakaṁ` | Moggallāna {20} Chapter 3 |
 | `bahubbīhi` | Attributive | variable per the contextual meaning of the aññapada (the external word of attributive meaning) | `bahubbīhi cāʼyaṁ abhidheyaliṅgavacano` | Rūpasiddhi {352} |
 
 The rules for constructing a `samāsa` can be complex:
@@ -777,7 +777,7 @@ affix becomes `nāviko` ("traveller by boat", or "sailor"). Note that the last
 vowel of the root and the `ṇ` are both elided, and then the noun is given the
 🚹⨀① vibhatti ending.
 
-The rules for constructing a `tadhitta` affixed noun can be rather daunting:
+The rules for constructing a `taddhita` affixed noun can be rather daunting:
 
 `vasiṭṭha` + `apacca` (Vasiṭṭha’s son)  
 → `vasiṭṭha` + `sa` (⨀⑥) + `apacca`  
@@ -807,7 +807,7 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 | | | `ṇika` | by `vā` of {347} | 🚹 (but can be variable) |
 | | | `ṇava` | {348} | 🚹 (but can be variable) |
 | | | `ṇera` | {349} | 🚹 (but can be variable) |
-| `Aneʼkattha` | various meanings | `ṇika` | {350}-{351} | 🚹 (but can be variable) |
+| `aneʼkattha` | various meanings | `ṇika` | {350}-{351} | 🚹 (but can be variable) |
 | | | `ṇa` | {352} | 🚹 (but can be variable) |
 | | | `ima`, `iya` | {353} | 🚹 (but can be variable) |
 | | | `ima`, `iya`, `ika` | by `ādi` of {353} | 🚹 (but can be variable) |
@@ -833,7 +833,7 @@ The rules for constructing a `tadhitta` affixed noun can be rather daunting:
 | | | `ṇa` | {370} | 🚹 (but can be variable) |
 | `tappakati` | made up of something | `maya` | {372} | variable |
 
-*`ka` is added sometimes. eg. `dayāluko`
+*`ka` is added sometimes. e.g. `dayāluko`
 
 Lemmas with `taddhita` affixes are sometimes not recognised by Pāḷi-English
 dictionaries, since these dictionaries may not cover the full range of possible
@@ -843,7 +843,7 @@ meanings.
 
 ### Numbers
 
-Pāḷi numbers have their own set of `tadhikka` affixes (to denote "first",
+Pāḷi numbers have their own set of `taddhita` affixes (to denote "first",
 "second", "third" etc.)
 
 | type | name | affix | rule | `liṅga` | notes |
@@ -861,7 +861,7 @@ Pāḷi numbers have their own set of `tadhikka` affixes (to denote "first",
  3 | `ti` or `tri` | `tatiya` |
  4 | `catu` or `catur` (before a vowel) | `catuttha`, `turīya` |
  5 | `pañca` | `pañcatha`, `pañcama` |
- 6 | `cha` | `chaṭṭha`, `chatthama` |
+ 6 | `cha` | `chaṭṭha`, `chaṭṭhama` |
  7 | `satta` | `sattha`, `sattama`|
  8 | `aṭṭha` | `aṭṭhama` |
  9 | `nava` | `navama` |
@@ -869,7 +869,7 @@ Pāḷi numbers have their own set of `tadhikka` affixes (to denote "first",
 
 ### `Abyaya` (indeclinable affixes)
 
-These are undeclinable (and no `liṅga`), and often used as adverbs or
+These are indeclinable (and have no `liṅga`), and often used as adverbs or
 adjectives.
 
 | affix | rule |
@@ -883,7 +883,7 @@ adjectives.
 
 ### Abyaya affixes applied after Sabbanāma-nouns
 
-These are often used as a substitute or replacement for case endings
+These are often used as a substitute or replacement for `vibhatti` endings
 (particularly ⑤ and ⑦), since they are indeclinable. They also have no
 `liṅga` (gender).
 
@@ -914,15 +914,15 @@ depend on:
   * ⨂ = `bahuvacana` (plural)
 * person {408}-{412} (if more than one, the last applies)
   * 🤟 = `paṭhama purisa` (first person, equivalent to 'third person' in English)
-  * 🤘 = `majjima purisa` (middle person, equivalent to 'second person' in English)
+  * 🤘 = `majjhima purisa` (middle person, equivalent to 'second person' in English)
   * 👆 = `uttama purisa` (primary person, equivalent to 'first person' in English)
 * tense/mood {413}-{422}
   * ▶️ = `vattamāna` (present)*
-  * ⏹ = `piñcamī` (imperative) - (used to express) āṇatti (command), āsīsa (wish) at a non-specific time-frame mode (anuttakāla)*
+  * ⏹ = `pañcamī` (imperative) - (used to express) āṇatti (command), āsīsa (wish) at a non-specific time-frame mode (anuttakāla)*
   * ⏯ = `sattamī` (potential/optative)*
   * 🔄 = `parokkhā` (past perfect)
   * ↩️ = `hiyyattanī` (past imperfect)*
-  * ⏮ = `ajjatanī`(aorist)
+  * ⏮ = `ajjatanī` (aorist)
   * ⏭ = `bhavissanti` (future)
   * 🔀 = `kālātipatti` (conditional)
 
@@ -930,7 +930,7 @@ depend on:
 
 :::note
 The above tense/mood categories have been labelled with the nearest
-linguistic term (eg. "present", "past perfect", "aorist" etc.) these
+linguistic term (e.g. "present", "past perfect", "aorist" etc.); these
 categories do not align precisely to those terms. I discourage the use of
 these terms and rely on the Pāḷi terms instead and the usage of each category
 will be described later in this chapter.
@@ -944,19 +944,19 @@ will be described later in this chapter.
 | | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ | ⨀ | ⨂ |
 | ▶️ | `ti` | `anti` | `si` | `tha` | `mi` | `ma` | `te` | `ante` | `se` | `vhe` | `e` | `mhe` |
 | ⏹ | `tu` | `antu` | `hi` | `tha` | `mi` | `ma` | `taṁ` | `antaṁ` | `ssu` | `vho` | `e` | `āmase` |
-| ⏯ | `eyya` | `eyyuṁ` | `eyyāsi` | `eyyātha` | `eyyāmi` | `eyyāma` | `etha` | `eraṁ` | `etho` | `eyyāvho` | `eyaṁ` | `eyaṁhe` |
+| ⏯ | `eyya` | `eyyuṁ` | `eyyāsi` | `eyyātha` | `eyyāmi` | `eyyāma` | `etha` | `eraṁ` | `etho` | `eyyāvho` | `eyyaṁ` | `eyyāmhe` |
 | 🔄 | `a` | `u` | `e` | `ttha` | `aṁ` | `mha` | `ttha` | `re` | `ttho` | `vho` | `iṁ` | `mhe` |
 | ↩️ | `ā` | `ū` | `o` | `ttha` | `aṁ` | `mhā` | `ttha` | `tthuṁ` | `se` | `vhaṁ` | `iṁ` | `mhase` |
 | ⏮ | `ī` | `uṁ` | `o` | `ttha` | `iṁ` | `mhā` | `ā` | `ū` | `se` | `vhaṁ` | `aṁ` | `mhe` |
-| ⏭ | `ssati` | `ssanti` | `ssasi` | `ssatha` | `ssaṁi` | `ssāma` | `ssate` | `ssante` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhe` |
-| 🔀 | `ssā` | `ssaṁsu` | `sse` | `ssatha` | `ssaṁ` | `ssāmha` | `ssatha` | `ssiṁsu` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhase` |
+| ⏭ | `ssati` | `ssanti` | `ssasi` | `ssatha` | `ssāmi` | `ssāma` | `ssate` | `ssante` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhe` |
+| 🔀 | `ssā` | `ssaṁsu` | `sse` | `ssatha` | `ssaṁ` | `ssāmhā` | `ssatha` | `ssiṁsu` | `ssase` | `ssavhe` | `ssaṁ` | `ssāmhase` |
 
 Here is an example of the root `gamu` (to go) with all the verb endings applied.
 A number of transformations need to happen prior to affixing the `vibhatti`:
 
 `gamu`  
 → `gam`~~`u`~~ (elision of final vowel per rule {521})  
-→ `gam`~~`m`~~(`cch`) (m→cch per rule {476})  
+→ `ga`~~`m`~~(`cch`) (m→cch per rule {476})  
 → `gacch`
 
 Here is an example for transforming into the `parassapada` (🟢), `ekavacana`
@@ -972,7 +972,7 @@ The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 
 `gamu` + `anti` {414}  
 → `gam`~~`u`~~ + `anti` {521}  
-→ `gam` + a + `anti` {445}  
+→ `gam` + `a` + `anti` {445}  
 → `ga`~~`m`~~(`cch`) + `a` + `anti` {476}  
 → `gacch` + `a` + ~~`a`~~`nti` {510}  
 → `gacchanti`
@@ -999,7 +999,7 @@ The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 | 🟢 | 👆 | ⨂ | ⏹ | `ma` | gacch + ā + ma | {478} | `gacchāma` | |
 | 🔵 | 🤟 | ⨀ | ⏹ | `taṁ` | gacch + a + taṁ | {445} | `gacchataṁ` | |
 | 🔵 | 🤟 | ⨂ | ⏹ | `antaṁ` | gacch + antaṁ |  | `gacchantaṁ` | |
-| 🔵 | 🤘 | ⨀ | ⏹ | `etha` | gacch + a + ssu | {445} | `gacchassu` | |
+| 🔵 | 🤘 | ⨀ | ⏹ | `ssu` | gacch + a + ssu | {445} | `gacchassu` | |
 | 🔵 | 🤘 | ⨂ | ⏹ | `vho` | gacch + a + vho | {445} | `gacchavho` | |
 | 🔵 | 👆 | ⨀ | ⏹ | `e` | gacch + e |  | `gacche` | |
 | 🔵 | 👆 | ⨂ | ⏹ | `āmase` | gacch + āmase |  | `gacchāmase` | |
@@ -1013,8 +1013,8 @@ The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 | 🔵 | 🤟 | ⨂ | ⏯ | `eraṁ` | gacch + eraṁ |  | `gaccheraṁ` | |
 | 🔵 | 🤘 | ⨀ | ⏯ | `etho` | gacch + etho |  | `gacchetho` | |
 | 🔵 | 🤘 | ⨂ | ⏯ | `eyyāvho` | gacch + eyyāvho |  | `gaccheyyāvho` | |
-| 🔵 | 👆 | ⨀ | ⏯ | `eyaṁ` | gacch + eyaṁ |  | `gaccheyaṁ` | `gacche` |
-| 🔵 | 👆 | ⨂ | ⏯ | `eyaṁhe` | gacch + eyaṁhe |  | `gaccheyaṁhe` | |
+| 🔵 | 👆 | ⨀ | ⏯ | `eyyaṁ` | gacch + eyyaṁ |  | `gaccheyyaṁ` | `gacche` |
+| 🔵 | 👆 | ⨂ | ⏯ | `eyyāmhe` | gacch + eyyāmhe |  | `gaccheyyāmhe` | |
 | 🟢 | 🤟 | ⨀ | 🔄 | `a` | jagam~~u~~ + a | {458} | `jagama` | `jagāma` |
 | 🟢 | 🤟 | ⨂ | 🔄 | `u` | jagam~~u~~ + u | {458} | `jagamu` | |
 | 🟢 | 🤘 | ⨀ | 🔄 | `e` | jagam~~u~~ + e | {458} | `jagame` | |
@@ -1063,24 +1063,24 @@ The plural form `bahuvacana` (⨂) undergoes a similar transformation:
 | 🔵 | 🤘 | ⨂ | ⏭ | `ssavhe` | gacch + i + ssavhe | {516} | `gacchissavhe` | |
 | 🔵 | 👆 | ⨀ | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | |
 | 🔵 | 👆 | ⨂ | ⏭ | `ssāmhe` | gacch + i + ssāmhe | {516} | `gacchissāmhe` | |
-| 🟢 | 🤟 | ⨀ | ⏭ | `ssā` | gacch + i + ssā | {516} | `gacchissā` | `agacchissā`, `agacchissa`, `gacchissa` |
-| 🟢 | 🤟 | ⨂ | ⏭ | `ssaṁsu` | gacch + i + ssaṁsu | {516} | `gacchissaṁsu` | `agacchissaṁsu` |
-| 🟢 | 🤘 | ⨀ | ⏭ | `sse` | gacch + i + ssase | {516} | `gacchissase` | `agacchissase`, `agacchissasa`, `gacchissasa` {517} |
-| 🟢 | 🤘 | ⨂ | ⏭ | `ssatha` | gacch + i + ssatha | {516} | `gacchissatha` | `agacchissatha` |
-| 🟢 | 👆 | ⨀ | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | `agacchissaṁ` |
-| 🟢 | 👆 | ⨂ | ⏭ | `ssāmhā` | gacch + i + ssāmhā | {516} | `gacchissāmhā` | `agacchissāmhā`, `agacchissāmha`, `gacchissāmha` |
-| 🔵 | 🤟 | ⨀ | ⏭ | `ssata` | gacch + i + ssata | {516} | `gacchissata` | `agacchissata` |
-| 🔵 | 🤟 | ⨂ | ⏭ | `ssiṁsu` | gacch + i + ssiṁsu | {516} | `gacchissiṁsu` | `agacchissiṁsu` |
-| 🔵 | 🤘 | ⨀ | ⏭ | `ssase` | gacch + i + ssase | {516} | `gacchissase` | `agacchissase` |
-| 🔵 | 🤘 | ⨂ | ⏭ | `ssavhe` | gacch + i + ssavhe | {516} | `gacchissavhe` | `agacchissavhe` |
-| 🔵 | 👆 | ⨀ | ⏭ | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | `agacchissaṁ` |
-| 🔵 | 👆 | ⨂ | ⏭ | `ssāmhase` | gacch + i + ssāmhase | {516} | `gacchissāmhase` | `agacchissāmhase` |
+| 🟢 | 🤟 | ⨀ | 🔀 | `ssā` | gacch + i + ssā | {516} | `gacchissā` | `agacchissā`, `agacchissa`, `gacchissa` |
+| 🟢 | 🤟 | ⨂ | 🔀 | `ssaṁsu` | gacch + i + ssaṁsu | {516} | `gacchissaṁsu` | `agacchissaṁsu` |
+| 🟢 | 🤘 | ⨀ | 🔀 | `sse` | gacch + i + ssase | {516} | `gacchissase` | `agacchissase`, `agacchissasa`, `gacchissasa` {517} |
+| 🟢 | 🤘 | ⨂ | 🔀 | `ssatha` | gacch + i + ssatha | {516} | `gacchissatha` | `agacchissatha` |
+| 🟢 | 👆 | ⨀ | 🔀 | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | `agacchissaṁ` |
+| 🟢 | 👆 | ⨂ | 🔀 | `ssāmhā` | gacch + i + ssāmhā | {516} | `gacchissāmhā` | `agacchissāmhā`, `agacchissāmha`, `gacchissāmha` |
+| 🔵 | 🤟 | ⨀ | 🔀 | `ssatha` | gacch + i + ssatha | {516} | `gacchissatha` | `agacchissatha` |
+| 🔵 | 🤟 | ⨂ | 🔀 | `ssiṁsu` | gacch + i + ssiṁsu | {516} | `gacchissiṁsu` | `agacchissiṁsu` |
+| 🔵 | 🤘 | ⨀ | 🔀 | `ssase` | gacch + i + ssase | {516} | `gacchissase` | `agacchissase` |
+| 🔵 | 🤘 | ⨂ | 🔀 | `ssavhe` | gacch + i + ssavhe | {516} | `gacchissavhe` | `agacchissavhe` |
+| 🔵 | 👆 | ⨀ | 🔀 | `ssaṁ` | gacch + i + ssaṁ | {516} | `gacchissaṁ` | `agacchissaṁ` |
+| 🔵 | 👆 | ⨂ | 🔀 | `ssāmhase` | gacch + i + ssāmhase | {516} | `gacchissāmhase` | `agacchissāmhase` |
 
 Note that some of the terminations are the same so in practice we will need
 to distinguish which tense is being used from context. Note also the irregular
 forms, particularly the aorist ones. The irregular aorists tend to be more
-commonly used than the regular forms. This is so prevalent other grammar books
-such as **Moggalāṇa Vyākaraṇa** and **Rūpasiddhi** created rules to accomodate
+commonly used than the regular forms. This is so prevalent that other grammar books
+such as **Moggallāna Vyākaraṇa** and **Rūpasiddhi** created rules to accommodate
 them.
 
 ### Voices
@@ -1103,7 +1103,7 @@ A passive verb is created by using the `attanopada` (🔵) endings together
 with an infix of `ya` in between the root and the ending.
 
 Note that passive verbs can only be formed based on roots that can be expressed
-in a "passive" (`kamma`) sense - some roots can only result into "active" verbs
+in a "passive" (`kamma`) sense - some roots can only result in "active" verbs
 and cannot be transformed this way.
 
 Example transformation (based on the root `paca` (to cook)):
@@ -1112,7 +1112,7 @@ Example transformation (based on the root `paca` (to cook)):
 → `pa`~~`ca`~~  + ~~`y`~~(`cc`)`a` + `te` {441}  
 → `paccate` ("is cooked")
 
-The full set of `attanopada` (🔵) endings of in the present tense `vattamāna`
+The full set of `attanopada` (🔵) endings in the present tense `vattamāna`
 (▶️) across the 3 persons and plurality:
 
 | voice | number | person | tense | ending | transformation | result |
@@ -1121,8 +1121,8 @@ The full set of `attanopada` (🔵) endings of in the present tense `vattamāna`
 | 🔴 | 🤟 | ⨂ | ▶️ | `ante` | pa~~ca~~  + ~~y~~(cc)a + ante | `paccante` |
 | 🔴 | 🤘 | ⨀ | ▶️ | `se` | pa~~ca~~  + ~~y~~(cc)a + se | `paccase` |
 | 🔴 | 🤘 | ⨂ | ▶️ | `vhe` | pa~~ca~~  + ~~y~~(cc)a + vhe | `paccavhe` |
-| 🔴 | 👆 | ⨀ | ▶️ | `e` | pac~~ca~~  + ~~y~~(cc)~~a~~ + e | `pacce` |
-| 🔴 | 👆 | ⨂ | ▶️ | `mhe` | pacc~~ca~~  + ~~y~~(cc)~~a~~ + ā + mhe | `paccāmhe` |
+| 🔴 | 👆 | ⨀ | ▶️ | `e` | pa~~ca~~  + ~~y~~(cc)~~a~~ + e | `pacce` |
+| 🔴 | 👆 | ⨂ | ▶️ | `mhe` | pa~~ca~~  + ~~y~~(cc)~~a~~ + ā + mhe | `paccāmhe` |
 
 Because the middle voice is seldom used, rule {518} allows these verbs to be
 retransformed into "reversed" `parassapada` (🟢) endings:
@@ -1158,7 +1158,7 @@ There are two types of causative verbs:
 1. Causative verb in the active voice
 2. Causative verb in the passive voice
 
-There 4 typical causative affixes (`kārita`) used to construct causative verbs
+There are 4 typical causative affixes (`kārita`) used to construct causative verbs
 {438}:
 
 * `ṇe`
@@ -1166,7 +1166,7 @@ There 4 typical causative affixes (`kārita`) used to construct causative verbs
 * `ṇāpe`
 * `ṇāpaya`
 
-Just like for `tadhikka` noun affixes, the `ṇ` is typically elided when joined
+Just like for `taddhita` noun affixes, the `ṇ` is typically elided when joined
 to a root, leaving the remaining letters. {523}
 
 Various vowel gradation transformations may also take place when joining the
@@ -1176,7 +1176,7 @@ Example transformation (based on the root `paca` (to cook)) and the causative
 affix `ṇe`:
 
 `paca` + `ṇe` + `ti` {438}  
-`pac`~~`a`~~ + `ṇe` + `ti` {521}  
+→ `pac`~~`a`~~ + `ṇe` + `ti` {521}  
 → `pac` + ~~`ṇ`~~`e` + `ti` {523}  
 → `p`~~`a`~~(`ā`)`c` + `e` + `ti` {483}  
 → `pāceti` ("(he) causes to cook")
@@ -1227,7 +1227,7 @@ Example transformation (based on the root `paca` (to cook)) and the causative
 affix `ṇe` and the passive affix `ya`:
 
 `paca` + `ṇe` + `ya` + `ti` {438,440}  
-`pac`~~`a`~~ + `ṇe` + `ya` + `ti` {521}  
+→ `pac`~~`a`~~ + `ṇe` + `ya` + `ti` {521}  
 → `pac` + ~~`ṇe`~~ + `ya` + `ti` {523}  
 → `p`~~`a`~~(`ā`)`c` + `ya` + `ti` {483}  
 → `pāciyati` ("is caused to be cooked")
@@ -1243,7 +1243,7 @@ affix `ṇe` and the passive affix `ya`:
 | 🟠🔴 | 🤘 | ⨂ | ▶️ | `tha` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + tha | `pāciyatha` |
 | 🟠🔴 | 🤘 | ⨂ | ▶️ | `tha` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + tha | `pācāpiyatha` |
 | 🟠🔴 | 👆 | ⨀ | ▶️ | `mi` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + mi | `pāciyāmi` |
-| 🟠🔴 | 👆 | ⨀ | ▶️ | `mi` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + mi | `Pācāpiyāmi` |
+| 🟠🔴 | 👆 | ⨀ | ▶️ | `mi` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + mi | `pācāpiyāmi` |
 | 🟠🔴 | 👆 | ⨂ | ▶️ | `ma` | `ṇe` | p~~a~~(ā)c~~a~~ + ~~ṇe~~ + i + ya + ma | `pāciyāma` |
 | 🟠🔴 | 👆 | ⨂ | ▶️ | `ma` | `ṇāpe` | p~~a~~(ā)c~~a~~ + ~~ṇ~~āp~~e~~ + i + ya + ma | `pācāpiyāma` |
 
@@ -1256,14 +1256,14 @@ affix `ṇe` and the passive affix `ya`:
 > `pāṭaliputtaṁ gacchati`
 
 Pāṭaliputta (city) / he goes  
-*He goes to Pāṭaliputta.**
+*He goes to Pāṭaliputta.*
 
 > `sāvatthiṁ pavisati`
 
 Sāvatthi (city) / he enters  
 *He enters Sāvatthi.*
 
-#### ⏹ `piñcamī` {415}
+#### ⏹ `pañcamī` {415}
 
 (used to express)
 
@@ -1292,18 +1292,20 @@ happiness / for you / be
 at a non-specific time (`anuttakāla`).
 
 > `tvaṁ gaccheyyāsi`
-you / can go
+
+you / can go  
 *You can go.*
 
 > `kima’haṁ kareyyāmi`  
-what I (`kiṁ` + `ahaṁ`) / shoud do  
+
+what I (`kiṁ` + `ahaṁ`) / should do  
 *What should I do?*
 
 #### 🔄 `parokkhā` {417}
 
 :::note
 `paro’kkhā` = `para` + `akkha`  
-beyond (ie. past) / physical senses
+beyond (i.e. past) / physical senses
 :::
 
 (to be applied to express things happened in one’s absence, in a situation where
@@ -1322,7 +1324,7 @@ thus / apparently / ancient sages / said (`porāṇā` + `āhu`)
 :::note
 `kila` is a `nipāta` (particle) used in indirect hearsay where the speaker is
 uncertain of the truthfulness of what he heard or not a witness to the actual
-event occurred. Sometimes it means an asseveration or an emphasis.
+event that occurred. Sometimes it means an asseveration or an emphasis.
 :::
 
 #### ↩️ `hiyyattanī` {418}
@@ -1367,6 +1369,7 @@ he / road / gone
 *He has (just) gone along the road.*
 
 > te maggaṁ agamuṁ
+
 they / road / gone  
 *They have (just) gone along the road.*
 
@@ -1406,16 +1409,16 @@ they / if / that / vehicle / should have got / might have gone already
 An active voice sentence is a subject-principal sentence where Kattā (the agent,
 doer subject) is much more dominant.
 
-1. `kattu` (subject) - `Kathita Kattā` or `Vutta-kattā`` (predominant-subject) must be in 1st case (①)
-2. `kamma` (object) - `Akathita-kamma` or `Avutta-kamma` (non-principal object)  must be in 2nd case (②)
-3. The verb must be either in the `parassapada` termination (🟢) in most cases or in the `attanopada` termination (🔵) with or without an affix of `kattu` sense. [Affixes of `kamma` sense such as `ya`, or `kita` affixes eg. `tabba`, `ta`, etc. cannot be used]
+1. `kattu` (subject) - `Kathita Kattā` or `Vutta-kattā` (predominant-subject) must be in the 1st vibhatti (①)
+2. `kamma` (object) - `Akathita-kamma` or `Avutta-kamma` (non-principal object) must be in the 2nd vibhatti (②)
+3. The verb must be either in the `parassapada` termination (🟢) in most cases or in the `attanopada` termination (🔵) with or without an affix of `kattu` sense. [Affixes of `kamma` sense such as `ya`, or `kita` affixes e.g. `tabba`, `ta`, etc. cannot be used]
 4. The persons (subjects) and verbs should be concordant.
 
 | Subject (①) | Object (②) | Verb | Meaning |
 | :-: | :-: | :-: | --- |
 | `Puriso` | `odanaṁ` | `pacati` | Man cooks the rice |
 | `Purisā` | `odanaṁ` | `pacanti` | Men cook the rice |
-| `Buddhā` | `dhammaṁ` | `desenti` | Buddha teach the Dhamma |
+| `Buddhā` | `dhammaṁ` | `desenti` | Buddhas teach the Dhamma |
 | `Tvaṁ` | `odanaṁ` | `pacasi` | You cook the rice |
 | `Tumhe` | `odanaṁ` | `pacatha` | You (plural) cook the rice |
 | `Ahaṁ` | `odanaṁ` | `pacāmi` | I cook the rice |
@@ -1423,14 +1426,14 @@ doer subject) is much more dominant.
 
 ### `Kamma-vācaka Vākya` (passive voice sentences)
 
-A passive voice sentence is a object-principal sentence where the Kamma (the
-thing being done, the object) is more visibly dominant by being in the 1st case
+A passive voice sentence is an object-principal sentence where the Kamma (the
+thing being done, the object) is more visibly dominant by being in the 1st vibhatti
 (①).
 
 The rules in a passive voice sentence are:
 
-1. `kamma` (object) - `Kathita Kamma` or `Vutta-kamma` (predominant-object) must be in 1st case (①)
-2. `kattā` (subject) - `Akathita-kattā` or an `Avutta-kattā` (non-principal subject)  must be in 3nd case (③)
+1. `kamma` (object) - `Kathita Kamma` or `Vutta-kamma` (predominant-object) must be in the 1st vibhatti (①)
+2. `kattā` (subject) - `Akathita-kattā` or an `Avutta-kattā` (non-principal subject) must be in the 3rd vibhatti (③)
 3. The verb should be mainly in the `attanopada` termination (🔵) or it can be in a reversed `parassapada` form (🟢) with an affix which has a Kamma-sense only. {440}-{443}.
 4. The object (not the subject!) and verb should be in agreement.
 
@@ -1449,7 +1452,7 @@ The rules in a passive voice sentence are:
 It's like a passive voice sentence except the focus is purely on the action
 and does not focus on either the subject or object. Therefore the verb tends to
 be in ⨀ (`ekavacana`) 🤟 (`paṭhama purisa`) form. If there is a subject, it can
-be (but not always) be in 3rd (③) or 6th case (⑥).
+(but not always) be in the 3rd (③) or 6th vibhatti (⑥).
 
 | Subject (③) | Verb | Meaning |
 | :-: | :-: | --- |
@@ -1492,7 +1495,7 @@ absolutive (also called gerund), the present participle and past participle.
 | | `ṇya` | {541} | 🔴 (sometimes 🔵) | 🚻 (sometimes variable) |
 | | `teya` | by `ca` of {541} | 🔴 (sometimes 🔵) | 🚻 (sometimes variable) |
 | | `kha` | {560} | 🔴 (sometimes 🔵) | 🚻 (sometimes variable) |
-| | `ta` | {555} , {556}, {557} |🟢🔴🔵 | variable |
+| | `ta` | {555}, {556}, {557} |🟢🔴🔵 | variable |
 
 ### gerund or auxiliary verbs
 
@@ -1510,7 +1513,7 @@ following table.
 
 | no | affix | rule | gender |
 | --: | :-: | :-: | :-: |
-| 1 | `ṇa` | { 524, 528, 529} | variable |
+| 1 | `ṇa` | {524, 528, 529} | variable |
 | 2 | `a` | {525, 526, 527, 553} | variable |
 | 3 | `ṇvu`, `tu`, `āvī`| {527} | 🚹 |
 | 4 | `kvi` | {530} | 🚹 |
@@ -1534,7 +1537,7 @@ following table.
 
 ### Example
 
-Here is a worked through example of how a root transforms into a `kita`-affixed
+Here is a worked-through example of how a root transforms into a `kita`-affixed
 noun (from `caja`, using the `ṇa` affix):
 
 `caja` "to share generously"  
@@ -1599,11 +1602,11 @@ Examples:
 
 The process of attaching either `kita` or `uṇādi` affixes to create new words
 is called `sādhana`. Like `kāraka` (the syntax of case or `vibhatti` endings),
-`sādhana` affixed words can be associated with specific usage meanings.
+`sādhana`-affixed words can be associated with specific usage meanings.
 
 `sādhana`-affixed words can be associated with a voice (`kattu`, `kamma`,
 `bhāva`), in which case their usage can affect the "voice" of a sentence. This
-is especially true when `sādhana`-affixed word is used as a verb-noun, ie. it
+is especially true when a `sādhana`-affixed word is used as a verb-noun, i.e. it
 carries the "action" of a sentence.
 
 ### Example sentences of `kattu` `sādhana`-affixed words
@@ -1614,16 +1617,16 @@ carries the "action" of a sentence.
 alms / gave (past participle) / Devadatta  
 *Devadatta gave alms.*
 
->kumaro antepuraṁ gato
+> kumāro antepuraṁ gato
 
-🚻⨀②(antepuraṁ) 🚹⨀①(kumaro ⏬(ta)(gato))  
+🚻⨀②(antepuraṁ) 🚹⨀①(kumāro ⏬(ta)(gato))  
 King's palace / prince / went (past participle)  
 *The prince went into the King's palace.*
 
 > so bhagavā sayam’pi cattāri saccāni buddho
 
 🚹⨀①(so bhagavā ⏬(ta)(buddho)) ⏏️(sayam api) 🚻⨂②(cattāri saccāni)  
-that / Bhagavā  / understood (past participle) / by oneself / just / four / truths  
+that / Bhagavā / understood (past participle) / by oneself / just / four / truths  
 *That Bhagavā (Buddha) understood the four truths just by himself.*
 
 ### Example sentences of `kamma` `sādhana`-affixed words
@@ -1651,7 +1654,7 @@ of that person / sung (past participle)
 > sayitabbaṁ bhavatā
 
 🚻⨀①(⏬(tabba)(sayitabbaṁ)) 🚹⨀③(bhavatā)  
-eating (future passive particle) / by Your Honourable  
+eating (future passive participle) / by Your Honourable  
 *Eating by Your Honourable.*
 
 ### `sādhana` associated meanings and usage
@@ -1665,7 +1668,7 @@ and can sometimes have no significant role.
 | `kamma` | `kammaṁ` | work (**which is being done**) | {531} | `karīyate tan’ti kammaṁ` |
 | `bhāva` | `cāgo` | generosity (**act of** giving, sharing) | {529} | `cajate, cajanaṁ vā cāgo` |
 | `karaṇa` | `vinayo` | the discipline (**by which** one is trained) | {527} | `vineti etenā’ti vinayo` |
-| `sampadāna` | `dānīyo` | the recipient monk (**to which** alms should be given) | | `databbo assā’ti dānīyo` |
+| `sampadāna` | `dānīyo` | the recipient monk (**to whom** alms should be given) | | `databbo assā’ti dānīyo` |
 | `apādāna` | `bhemo` | the fearsome object (**from which** people fear) | {627} | `bhāyanti etasmā’ti bhemo` |
 | `adhikaraṇa` | `ṭhānaṁ` | the place (**where** people stand) | {548} | `tiṭṭhanti tasmin’ti` |
 
@@ -1675,12 +1678,12 @@ As Pāḷi is a spoken language, when words are combined to form a sentence,
 changes may occur between words (or sometimes even within a word) to make
 the sentence "flow" or "sound" better.
 
-In English, words are often shorted ie. "can not" to "can't", or "I will" to
+In English, words are often shortened, i.e. "can not" to "can't", or "I will" to
 "I'll". This happens very frequently in Pāḷi, especially when two vowels become
 adjacent to each other from two words next to each other, and there are complex
 rules governing how such transformations occur.
 
-As a example {10}:
+As an example {10}:
 
 > `tatra` + `ayaṁ` + `ādi`  
 > = tatr~~a~~ + ~~a~~ā ya~~ṁ~~m + ādi  
@@ -1698,7 +1701,7 @@ should still regard them as separate words when trying to understand a
 sentence. However, some `sandhi` combinations of common words are so often
 encountered they have acquired distinctive meaning as combined words.
 
-Another example {11}
+Another example {11}:
 
 > `tatra` + `abhiratiṁ` + `iccheyya`  
 > = tatr~~a~~ + ~~a~~ā bhirati~~ṁ~~m + iccheyya  
@@ -1726,18 +1729,18 @@ and reading will become easier and easier over time.
 ## Other Opinions
 
 - [Norman - The origin of Pāli and its position among the Indo-European languages (1988)](/articles/norman---the-origin-of-pali-and-its-position-among-the-indo-european-languages-1988/) [@Norman1988] \
-  Pāli is a Middle Indo-Aryan language that originated not as a specific regional tongue but as a composite literary dialect used for the Buddhist canon. Descending from the Indo-European language family, it developed from the various Prakrits spoken in North India following the migration of Indo-Aryan peoples and their interaction with indigenous Dravidian and Munda populations. The Buddha and his followers preached in these local vernaculars, and Pāli emerged from the subsequent effort to standardize these diverse teachings into a single language for the Theravādin tradition. While primarily based on a Western Prakrit, Pāli retains features from other dialects, such as Māgadhī, reflecting its mixed origins and the process of translation and compilation. The language was largely fixed when the canon was committed to writing in the first century B.C., after which it underwent further editorial standardization, including significant Sanskritization and, in later periods, minor influences from Sinhalese and the work of medieval Pāli grammarians.
+  Pāli is a Middle Indo-Aryan language that originated not as a specific regional tongue but as a composite literary dialect used for the Buddhist canon. Descending from the Indo-European language family, it developed from the various Prakrits spoken in North India following the migration of Indo-Aryan peoples and their interaction with indigenous Dravidian and Munda populations. The Buddha and his followers preached in these local vernaculars, and Pāli emerged from the subsequent effort to standardise these diverse teachings into a single language for the Theravādin tradition. While primarily based on a Western Prakrit, Pāli retains features from other dialects, such as Māgadhī, reflecting its mixed origins and the process of translation and compilation. The language was largely fixed when the canon was committed to writing in the first century B.C., after which it underwent further editorial standardisation, including significant Sanskritisation and, in later periods, minor influences from Sinhalese and the work of medieval Pāli grammarians.
 - [Cousins - The Early Development of Buddhist Literature and Language in India (2013)](/articles/cousins---the-early-development-of-buddhist-literature-and-language-in-india-2013/) [@Cousins2013] \
-  L.S. Cousins re-examines the early development of Buddhist literature, arguing that the Pali Canon was first systematically written down not in Ceylon, but on the Indian mainland around the first century B.C. before being imported to the island. This written canon was based on a largely non-sectarian oral tradition of chanted texts (*bhāṇaka* tradition) that had been developing since the Buddha's time (c. 400 BCE), and its initial contents included the four main Nikāyas, Vinaya, Abhidhamma, and several Khuddakanikāya texts. The language used was not a spoken dialect but an evolving written lingua franca, which Cousins terms 'Old Pali,' derived from a post-Asokan epigraphic Prakrit. This written language subsequently underwent a process of Sanskritization, becoming 'Hybrid Pali,' before being standardized into the classical Pali we know today by commentators around the fourth or fifth century A.D., who consistently referred to it as Māgadhī.
+  L.S. Cousins re-examines the early development of Buddhist literature, arguing that the Pali Canon was first systematically written down not in Ceylon, but on the Indian mainland around the first century B.C. before being imported to the island. This written canon was based on a largely non-sectarian oral tradition of chanted texts (*bhāṇaka* tradition) that had been developing since the Buddha's time (c. 400 BCE), and its initial contents included the four main Nikāyas, Vinaya, Abhidhamma, and several Khuddakanikāya texts. The language used was not a spoken dialect but an evolving written lingua franca, which Cousins terms 'Old Pali,' derived from a post-Asokan epigraphic Prakrit. This written language subsequently underwent a process of Sanskritisation, becoming 'Hybrid Pali,' before being standardised into the classical Pali we know today by commentators around the fourth or fifth century A.D., who consistently referred to it as Māgadhī.
 - [Levman - Cultural Remnants of the Indigenous Peoples in the Buddhist Scriptures (2014)](/articles/levman---cultural-remnants-of-the-indigenous-peoples-in-the-buddhist-scriptures-2014/) [@Levman2014] \
-  Bryan Levman's article argues that Buddhist scriptures contain significant cultural remnants from India's indigenous Munda, Dravidian, and Tibeto-Burman peoples, which have been obscured by a later "brahmanization" that historicized the Buddha within the dominant Indo-Aryan (IA) tradition. The author identifies this indigenous influence by examining the hostility between IA immigrants and eastern ethnic groups like the Buddha's Sakya clan, whose distinct socio-political organization (*gaṇasaṅgha*), rejection of the Brahmanical class system, and non-Aryan marriage customs are evident in the texts. Furthermore, key Buddhist concepts and practices are traced to autochthonous roots, including the idea of the *Mahāpuruṣa* (Great Man), the veneration of trees and serpents (*nāgas*), the culture of sacred groves, and the unique funeral rites described for the Buddha's *parinibbāna*, all of which differ significantly from Vedic norms.
+  Bryan Levman's article argues that Buddhist scriptures contain significant cultural remnants from India's indigenous Munda, Dravidian, and Tibeto-Burman peoples, which have been obscured by a later "brahmanisation" that historicised the Buddha within the dominant Indo-Aryan (IA) tradition. The author identifies this indigenous influence by examining the hostility between IA immigrants and eastern ethnic groups like the Buddha's Sakya clan, whose distinct socio-political organisation (*gaṇasaṅgha*), rejection of the Brahmanical class system, and non-Aryan marriage customs are evident in the texts. Furthermore, key Buddhist concepts and practices are traced to autochthonous roots, including the idea of the *Mahāpuruṣa* (Great Man), the veneration of trees and serpents (*nāgas*), the culture of sacred groves, and the unique funeral rites described for the Buddha's *parinibbāna*, all of which differ significantly from Vedic norms.
 - [Levman - The language of early Buddhism (2016)](/articles/levman---the-language-of-early-buddhism-2016/) [@Levman2016] \
-  The earliest recoverable language of Buddhism was not a specific regional dialect but a Middle Indo-Aryan (MIA) *koine*, an inter-dialectal common language created through simplification and the leveling of distinct features to facilitate communication. Evidence for this underlying language is found by comparing parallel Buddhist transmissions in Pāli, Gāndhārī, and other Prakrits, where translation errors and ambiguities (hyperforms) point to a shared, phonologically reduced source. Key characteristics of this *koine* include the weakening or elimination of intervocalic stops, the reduction of aspirated stops to simple aspirates, the assimilation of consonant clusters, and the merging of sibilants. The formation of this simplified language was driven not only by the need to harmonize different MIA dialects but was also significantly catalyzed by contact with other languages in the ancient Indian "Sprachbund," such as Dravidian, Munda, and Tocharian, whose speakers lacked features like phonemic voicing or aspirated stops, thereby accelerating the development of a more universally intelligible form of MIA.
+  The earliest recoverable language of Buddhism was not a specific regional dialect but a Middle Indo-Aryan (MIA) *koine*, an inter-dialectal common language created through simplification and the levelling of distinct features to facilitate communication. Evidence for this underlying language is found by comparing parallel Buddhist transmissions in Pāli, Gāndhārī, and other Prakrits, where translation errors and ambiguities (hyperforms) point to a shared, phonologically reduced source. Key characteristics of this *koine* include the weakening or elimination of intervocalic stops, the reduction of aspirated stops to simple aspirates, the assimilation of consonant clusters, and the merging of sibilants. The formation of this simplified language was driven not only by the need to harmonise different MIA dialects but was also significantly catalysed by contact with other languages in the ancient Indian "Sprachbund," such as Dravidian, Munda, and Tocharian, whose speakers lacked features like phonemic voicing or aspirated stops, thereby accelerating the development of a more universally intelligible form of MIA.
 - [Karpik - The Buddha taught in Pali - A working hypothesis (2019)](/articles/karpik---the-buddha-taught-in-pali-2019/) [@Karpik2019] \
-  This paper challenges the scholarly consensus that the Buddha taught in multiple dialects like Māgadhī, a theory known as the Multiple Oral Transmission Theory (MOTT). Instead, it argues for a Single Oral Transmission Theory (SOTT), proposing that the Buddha used a single standard language, which is the language we now call Pali. The author contends that oral translation of the vast canon was impractical, unnecessary due to the mutual intelligibility of Indo-Aryan dialects, and explicitly discouraged by the suttas' emphasis on word-for-word transmission. The traditional identification of the Buddha's language as Māgadhī is based on a misreading of the term *Māgadhabhāsā* in the commentaries, which actually defined it as *Ariyaka* (Indo-Aryan), a pan-regional term. The paper posits that Pali was a natural, pre-existing standard language based on a western dialect, a precursor to the widespread Epigraphic Prakrit, and that the Buddha adopted this sociolect of the educated to ensure a fixed, albeit phonetically fluid, transmission of his teachings across different regions. This working hypothesis refutes the MOTT by explaining dialectal variants in Pali as natural artifacts of a single transmission rather than remnants of a translation, thereby aligning with the Theravada tradition's claim.
+  This paper challenges the scholarly consensus that the Buddha taught in multiple dialects like Māgadhī, a theory known as the Multiple Oral Transmission Theory (MOTT). Instead, it argues for a Single Oral Transmission Theory (SOTT), proposing that the Buddha used a single standard language, which is the language we now call Pali. The author contends that oral translation of the vast canon was impractical, unnecessary due to the mutual intelligibility of Indo-Aryan dialects, and explicitly discouraged by the suttas' emphasis on word-for-word transmission. The traditional identification of the Buddha's language as Māgadhī is based on a misreading of the term *Māgadhabhāsā* in the commentaries, which actually defined it as *Ariyaka* (Indo-Aryan), a pan-regional term. The paper posits that Pali was a natural, pre-existing standard language based on a western dialect, a precursor to the widespread Epigraphic Prakrit, and that the Buddha adopted this sociolect of the educated to ensure a fixed, albeit phonetically fluid, transmission of his teachings across different regions. This working hypothesis refutes the MOTT by explaining dialectal variants in Pali as natural artefacts of a single transmission rather than remnants of a translation, thereby aligning with the Theravada tradition's claim.
 - [Levman - The language the Buddha spoke (2019)](/articles/levman---the-language-the-buddha-spoke-2019/) [@Levman2019b] \
   Bryan Levman argues that the Buddha spoke not Pāli as we know it, but an earlier, related vernacular or *koine* that differed in word form, morphology, and sometimes meaning. Evidence for this earlier linguistic layer is uncovered by applying comparative historical linguistics to the various Pāli recensions and parallel transmissions in other Prakrits, such as Gāndhārī. This method reveals that many variant readings and semantic ambiguities in the canon can be traced back to a common ancestral form in the *koine* which had undergone significant phonetic simplification, such as the weakening of intervocalic consonants into glides or the reduction of various aspirated stops to a simple aspirate. Later redactors, transmitting the teachings into their own dialects, reinterpreted these simplified sounds, resulting in the multiple cognate forms found today, a process further complicated by influences from prestigious northwestern dialects and the assimilation of non-Aryan words. Levman concludes that this linguistic evolution is consistent with the Buddhist doctrine of impermanence and supports the Buddha's historicity.
 - [Karpik - A Reply to Bryan Levman’s The Language the Buddha Spoke (2019)](/articles/karpik---a-reply-to-bryan-levmans-the-language-the-buddha-spoke-2019/) [@Karpik2019b] \
-  In a comprehensive rebuttal to Bryan Levman's theory, Stefan Karpik rejects the proposition of an early "pre-Pali" *lingua franca* that evolved into a later, mutually unintelligible Pali. Karpik argues that Levman's reconstructions are undateable, do not prove a *lingua franca* over other possibilities like bilingualism, and fail to explain why an original transmission would be discarded. The core of Karpik's critique focuses on Levman's flawed linguistic methodology, particularly the incorrect assumption of directionality in sound changes, which leads to proposing numerous implausible and unattested "fortitions" (sound strengthening) where lenition, orthographic errors, or dialectical variations are more likely explanations. Karpik further dismisses the claim of rapid linguistic change and mutual unintelligibility due to a lack of syntactical evidence, accusing Levman of circular reasoning and misrepresenting other scholars, ultimately advocating for a simpler model of steady linguistic development where Pali itself is the pre-Aśokan language of the Buddha.
+  In a comprehensive rebuttal to Bryan Levman's theory, Stefan Karpik rejects the proposition of an early "pre-Pali" *lingua franca* that evolved into a later, mutually unintelligible Pali. Karpik argues that Levman's reconstructions are undateable, do not prove a *lingua franca* over other possibilities like bilingualism, and fail to explain why an original transmission would be discarded. The core of Karpik's critique focuses on Levman's flawed linguistic methodology, particularly the incorrect assumption of directionality in sound changes, which leads to proposing numerous implausible and unattested "fortitions" (sound strengthening) where lenition, orthographic errors, or dialectal variations are more likely explanations. Karpik further dismisses the claim of rapid linguistic change and mutual unintelligibility due to a lack of syntactical evidence, accusing Levman of circular reasoning and misrepresenting other scholars, ultimately advocating for a simpler model of steady linguistic development where Pali itself is the pre-Aśokan language of the Buddha.
 - [Pind - Did the Buddha address the monks in Māgadhī? (2021)](/articles/pind---did-the-buddha-address-the-monks-in-māgadhī-2021/) [@Pind2021] \
   This paper argues that the distribution of the Pāli vocatives *bhikkhave* and *bhikkhavo* in the canon is determined by prosody and syntax, not by historical or dialectal origins as is commonly assumed. Refuting the theory that *bhikkhave* is a preserved "Māgadhism" reflecting the Buddha's speech, the author demonstrates a structural and complementary distribution between the two forms. *Bhikkhavo* functions as an emphatic vocative, used at the beginning of prose sentences—notably in stock introductory formulas—and exclusively in verse, a pattern that parallels the use of the emphatic vocative *bhaddante*. Conversely, *bhikkhave* is the non-emphatic, or clitic, form which never occurs initially and is always attached to a preceding word within a sentence, mirroring the usage of the clitic *bhante*. This distinction is therefore intrinsic to the syntactical and recitational structure of the canonical language itself, making explanations based on regional dialects or later scribal interpolations unnecessary.

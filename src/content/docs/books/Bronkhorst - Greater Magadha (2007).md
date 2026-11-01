@@ -961,7 +961,7 @@ Knowledge of the self as requirement for attaining liberation became a potent fo
 > 
 > "It is not, Lord."
 > 
-> "Is feeling (*vedanā*) [...] perception (*saññā*, Skr. *saṃjñā*) [...] are the habit- ual tendencies (*saṃkhāra*, Skr. *saṃskāra*) [. ] is consciousness (*viññāṇa*, Skr. *vijñāna*) permanent or impermanent?" "Impermanent, Lord."
+> "Is feeling (*vedanā*) [...] perception (*saññā*, Skr. *saṃjñā*) [...] are the habitual tendencies (*saṃkhāra*, Skr. *saṃskāra*) [. ] is consciousness (*viññāṇa*, Skr. *vijñāna*) permanent or impermanent?" "Impermanent, Lord."
 > 
 > "But is that which is impermanent painful or pleasurable?" "Painful, Lord."
 > 
@@ -1287,7 +1287,7 @@ This tradition of wisdom and asceticism might, of course, very well be the one w
 [^1-125]: Gonda, 1977: 589.
 [^1-126]: Fleet, 1970: 114-115.
 [^1-127]: Jain, 1984: 304.
-[^1-128]: Note further that that the three so-called *guṇa*s of Sāṃkhya—*sattva*, *rajas*, and *tamas*—are sometimes presented as mental attributes (*mānasa guṇa*) beside three bodily attributes that correspond to the three humors of Āyurveda; so, e.g., Mhbh 12.16.11-13.
+[^1-128]: Note further that the three so-called *guṇa*s of Sāṃkhya—*sattva*, *rajas*, and *tamas*—are sometimes presented as mental attributes (*mānasa guṇa*) beside three bodily attributes that correspond to the three humors of Āyurveda; so, e.g., Mhbh 12.16.11-13.
 
 ### *Cyclic time*
 
@@ -3848,7 +3848,7 @@ A totally independent source, and one several centuries younger, creates exactly
 
 > At that time a heretic of the Lokāyatika school came to seek a debate and wrote his argument in fourteen points, which he hung on the door of the monastery, while he announced, 'If anybody is able to refute any one point of my argument, I shall cut off my head to apologize!
 
-What follows shows that the Lokāyatika concerned was a Brahmin. This does not surprise us after what we have learned so far. This Brahmin Lokāyatika is subsequently compelled to debate with Xuan-zang, compelled because the reputation of the great Buddhist master deprives him of all desire, and even of the possibility, of speaking. The debate is therefore onesided. Xuanzang decides "to start a debate with him about the principles of his school and the theories founded by other heretical sects as well". As a result, Xuanzang first gives an overview of a number of Brahmanical schools, both ascetic and philosophical. The overview of the the Brahmanical philosophical schools mentions the Sāṃkhyas and the Vaiśeṣikas and briefly enumerates their main doctrines. Once the overview is finished, Xuanzang enters upon a detailed refutation of the Sāṃkhya position. Sāṃkhya is, indeed, the only school whose doctrines are refuted in this one-sided debate. At the end of this refutation "the Brahmin remained silent and said nothing" and had obviously lost the debate. Xuanzang, clearly not keen on having blood on his hands, grants him the favour of becoming his slave. This is the part of the story that interests us.
+What follows shows that the Lokāyatika concerned was a Brahmin. This does not surprise us after what we have learned so far. This Brahmin Lokāyatika is subsequently compelled to debate with Xuan-zang, compelled because the reputation of the great Buddhist master deprives him of all desire, and even of the possibility, of speaking. The debate is therefore onesided. Xuanzang decides "to start a debate with him about the principles of his school and the theories founded by other heretical sects as well". As a result, Xuanzang first gives an overview of a number of Brahmanical schools, both ascetic and philosophical. The overview of the Brahmanical philosophical schools mentions the Sāṃkhyas and the Vaiśeṣikas and briefly enumerates their main doctrines. Once the overview is finished, Xuanzang enters upon a detailed refutation of the Sāṃkhya position. Sāṃkhya is, indeed, the only school whose doctrines are refuted in this one-sided debate. At the end of this refutation "the Brahmin remained silent and said nothing" and had obviously lost the debate. Xuanzang, clearly not keen on having blood on his hands, grants him the favour of becoming his slave. This is the part of the story that interests us.
 
 [^A-2-15]: Mhbh 12.39.22-23: *brāhmaṇacchadmā cārvāko rākṣaso [...] bhikṣurūpeṇa saṃvṛttaḥ sāṃkhyaḥ śikhī tridaṇḍī ca* [...] Tr. Fitzgerald, 2004: 257.
 [^A-2-16]: Li, 1995: 132 f. (modified); translates pp. 245a-c.

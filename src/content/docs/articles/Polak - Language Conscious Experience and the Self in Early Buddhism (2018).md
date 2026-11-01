@@ -72,7 +72,7 @@ Ultimately, the solutions proposed in this article must be seen as an invitation
 [^5]: Ñānananda masterfully shows severe limitations of Buddhaghosa's commentarial interpretations in his works, e.g. 2012: 7, 10, 53, 65, 67.
 [^6]: cf. Waldron, 2005:54: "analysis of mind in terms of dharmas inadvertently created a host of systemic problems."
 [^7]: Wynne, 2010: 165-166: "this philosophy is incompatible with the philosophy of reductionistic realism later outlined in the various Abhidharmas."
-[^8]: Ronkin, 2005: 250: "post- canonical Abhidhamma projects a philosophy of substantiality without substance, or rather smuggles substantiality into process metaphysics. But such an enterprise is, first, at odds with the earliest Buddhist teaching and, second, suffers from several grave weaknesses."
+[^8]: Ronkin, 2005: 250: "post-canonical Abhidhamma projects a philosophy of substantiality without substance, or rather smuggles substantiality into process metaphysics. But such an enterprise is, first, at odds with the earliest Buddhist teaching and, second, suffers from several grave weaknesses."
 
 ### The "world" in the fathom-long body 
 

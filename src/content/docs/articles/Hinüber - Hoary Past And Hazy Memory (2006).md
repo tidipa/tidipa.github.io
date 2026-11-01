@@ -1,5 +1,5 @@
 ---
-title: Hinūber - Hoary Past And Hazy Memory - On The History Of Early Buddhist Texts (2006)
+title: Hinüber - Hoary Past And Hazy Memory - On The History Of Early Buddhist Texts (2006)
 description: How much history do early Buddhist texts remember? Oskar von Hinüber finds an old layer in how suttas open and dates the Mahāparinibbānasuttanta early.
 summary: Oskar V. Hinūber argues that early Buddhist texts contain "historical memory" which can be used for dating and cautious historical analysis, challenging the notion that ancient India lacked a sense of history. By examining the evolution of sutta opening formulas, he identifies an archaic syntactical structure, traceable to Indo-Iranian, that refers to obscure market towns (*nigamas*) and Brahmin villages (*brāhmaṇagāmas*), representing an older textual layer than the more common references to major cities and monasteries. Applying this critical method to the *Mahāparinibbānasuttanta*, he posits a pre-Mauryan composition date (c. 350-320 BC) based on its description of Pātaliputta as a future commercial hub rather than a political capital and its downplaying of the Moriyas, which contrasts with later Buddhist texts that actively incorporated contemporary rulers like Aśoka and Kaniṣka. This early dating suggests that while the text is primarily hagiography replete with mythology, it may preserve genuine historical details from the decades immediately following the Buddha's death.
 tags:
@@ -188,7 +188,7 @@ Although there were witnesses present at the nirvāna, mythological features abo
 
 Between fact and fiction are the earthquakes at the moment when the Buddha gives up his vital force and again at the moment of the nirvāna. [^30] Although geophysics does not necessarily rule out that they occurred, in all likelihood they did not; nobody would take them to be historical events. And the divine flowers showering on the deceased Buddha in such a quantity that they filled the whole small town of Kusinārā knee deep with heavenly mandārava flowers [^31] is just as evidently mythology as it is indispensable in any record of an event such as the Buddha's nirvāna.
 
-So, even if there had been the will or at least the intention of the early Buddhist authors of the Mahāparinibbānasuttanta to portray a more or less exact historical record of the nirvāna, miraculous and supernatural events were impossible to avoid in an environment in which the practice of all sorts of yogic achievements was common- place. Miracles simply were part of the world-view of the authors of the Mahāparinibbānasuttanta.
+So, even if there had been the will or at least the intention of the early Buddhist authors of the Mahāparinibbānasuttanta to portray a more or less exact historical record of the nirvāna, miraculous and supernatural events were impossible to avoid in an environment in which the practice of all sorts of yogic achievements was commonplace. Miracles simply were part of the world-view of the authors of the Mahāparinibbānasuttanta.
 
 [^30]: āyusaṃkhāraṃ ossaji, D II 106,22 and D II 156,36.
 [^31]: D II 160,31.
