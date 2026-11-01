@@ -21,6 +21,10 @@ Finally, the translated version of the text is created by rewriting the words in
 
 Where appropriate, the translation is compared to existing English translations to confirm accuracy.
 
+Each section of the Khandhaka presents the result in four tabs: my translation, the Pāḷi in Roman script, the Pāḷi in Brahmi script, and an interlinear translation. The interlinear tab sets out the Pāḷi sentence by sentence under the paragraph numbers of the World Tipiṭaka Edition, each linked to the edition, with a line of grammatical analysis in the [symbols of my Pāḷi textbook](https://buddhavacana.github.io/pali-textbook/a-symbols/) (gender, number and inflection form for nouns and pronouns, person, number and tense for verbs, the Digital Pali Dictionary lemma in parentheses), a word-by-word gloss, and the translated sentence.
+
+The translations here and on [buddhavacana.github.io](https://buddhavacana.github.io) share one glossary of renderings, so that a passage the two sites have in common is translated in the same words.
+
 ## Additional Steps
 
 A summary of the translated text is also provided. This is generated using a Large Language Model ([Gemini 2.5 Pro](https://deepmind.google/models/gemini/pro/)).
