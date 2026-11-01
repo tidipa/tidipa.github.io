@@ -4,3 +4,6 @@ allowBuilds:
 permissions:
   pixi.js:
     skills: true
+skills:
+  dirs:
+    - .claude/skills
