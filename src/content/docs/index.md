@@ -133,6 +133,36 @@ At Sāvatthī the bhikkhū fall to talking about former lives, and the Bhagavā 
 
 At Pāvā the Mallas have built a new assembly hall, Ubbhataka, and the Bhagavā is the first to use it. After teaching late into the night he lies down and asks āyasmā Sāriputta to speak to the bhikkhū. Sāriputta tells of the quarrels among the Jains after the death of Nigaṇṭha Nāṭaputta and proposes that the bhikkhū recite the Dhamma together and not quarrel, so that the optimal life may last long; he then recites it arranged by number, from one to ten, and the Bhagavā approves. Translated in eleven parts, cut at the edition's own divisions.
 
+## Majjhima Nikāya
+
+### [9M/3.2 **Alagaddūpamasutta** (The Discourse on the Simile of the Water Snake)](/majjhimanikaya/alagaddupamasutta/)
+
+The bhikkhu Ariṭṭha insists that the things the Bhagavā has called obstructive do not obstruct one who indulges in them, and no one can dissuade him. From his wrong grasp the Bhagavā teaches that a badly grasped teaching harms like a badly caught water snake and that the Dhamma is a raft for crossing over, not for holding on; he then sets out the six grounds for views and the not-self reflection on the five collections, answers the charge that he teaches annihilation, since he teaches suffering and its cessation, and closes with the fruits of the well-proclaimed Dhamma.
+
+### [9M/3.6 **Pāsarāsisutta** (The Discourse on the Heap of Traps)](/majjhimanikaya/pasarasisutta/)
+
+At Rammaka the brahmin's hermitage in Sāvatthī the Bhagavā tells the bhikkhū of the two quests: the unliberated's, for what is liable to birth, old age, sickness, death, sorrow and defilement, and the liberated's, for `nibbāna` (extinguishment). He recounts his own: the going forth, the attainments learnt under Āḷāra Kālāma and Udaka Rāmaputta and left behind, the awakening at Uruvelā, Brahmā's request, Upaka on the road and the teaching of the group of five. The deer and the heap of traps close it: a bhikkhu in the `jhāna` (mental dispositions) is beyond Māra's reach.
+
+### [9M/3.7 **Cūḷahatthipadopamasutta** (The Shorter Discourse on the Simile of the Elephant's Footprint)](/majjhimanikaya/culahatthipadopamasutta/)
+
+The brahmin Jāṇussoṇi hears from the renunciant Pilotika why he is confident in the Bhagavā: four "footprints", the wise of four classes who come to refute Gotama and leave as his disciples, as a tracker infers a great elephant from a footprint. The Bhagavā completes the simile: a skilled tracker does not conclude from a footprint alone, since large-footed female elephants leave them too, but only on seeing the elephant; so the disciple of the liberated concludes that the Bhagavā is perfectly awakened only when the gradual training ends in the destruction of the defilements. Jāṇussoṇi goes for refuge.
+
+### [9M/4.8 **Mahātaṇhāsaṅkhayasutta** (The Greater Discourse on the Destruction of Craving)](/majjhimanikaya/mahatanhasankhayasutta/)
+
+The bhikkhu Sāti, the fisherman's son, holds that it is one and the same consciousness that runs on through the round of births. The Bhagavā corrects him: consciousness arises dependent on conditions and is named after them, as a fire is named after its fuel. He takes the bhikkhū through the four nutriments, the chain of dependent origination in its origin and its cessation, the conception and growth of a being, the gradual training to the end of the defilements, and the liberation that is the destruction of craving.
+
+### [11M/3.1 **Cūḷasuññatasutta** (The Shorter Discourse on Emptiness)](/majjhimanikaya/culasunnatasutta/)
+
+At Sāvatthī āyasmā Ānanda asks whether he heard the Bhagavā rightly: that he often dwells in `suññatāvihāra` (contemplation on emptiness). The Bhagavā confirms it and sets out a graded practice: attending to one apperception at a time, from the forest through earth and the four formless bases to the signless `cetosamādhi` (focus of the mind), a bhikkhu regards what is absent as empty and knows what remains as present, until the defilements end and only this body with its six sense bases remains. This is the pure, supreme, unsurpassed appearance of emptiness, in which Ānanda is to train.
+
+## Saṃyutta Nikāya
+
+Twenty-two suttas of the [Saṃyutta Nikāya](/samyuttanikaya/), chosen where the Pāḷi and the Saṃyukta Āgama agree most closely and where Choong's comparison of the two collections leans, each on a page of its own with its parallel compared: from the Nidānasaṃyutta the [Paṭiccasamuppādasutta](/samyuttanikaya/nidanasamyutta/paticcasamuppadasutta/), [Vibhaṅgasutta](/samyuttanikaya/nidanasamyutta/vibhangasutta/), [Kaccānagottasutta](/samyuttanikaya/nidanasamyutta/kaccanagottasutta/), [Paccayasutta](/samyuttanikaya/nidanasamyutta/paccayasutta/), [Nagarasutta](/samyuttanikaya/nidanasamyutta/nagarasutta/), [Naḷakalāpīsutta](/samyuttanikaya/nidanasamyutta/nalakalapisutta/) and [Susimaparibbājakasutta](/samyuttanikaya/nidanasamyutta/susimaparibbajakasutta/); from the Dhātusaṃyutta the [Sanidānasutta](/samyuttanikaya/dhatusamyutta/sanidanasutta/); from the Khandhasaṃyutta the [Anattalakkhaṇasutta](/samyuttanikaya/khandhasamyutta/anattalakkhanasutta/), [Upādānaparipavattasutta](/samyuttanikaya/khandhasamyutta/upadanaparipavattasutta/), [Pheṇapiṇḍūpamasutta](/samyuttanikaya/khandhasamyutta/phenapindupamasutta/) and [Pālileyyasutta](/samyuttanikaya/khandhasamyutta/palileyyasutta/); from the Saḷāyatanasaṃyutta the [Sabbasutta](/samyuttanikaya/salayatanasamyutta/sabbasutta/), [Dutiyadvayasutta](/samyuttanikaya/salayatanasamyutta/dutiyadvayasutta/), [Ādittasutta](/samyuttanikaya/salayatanasamyutta/adittasutta/), [Ādittapariyāyasutta](/samyuttanikaya/salayatanasamyutta/adittapariyayasutta/) and [Dukkhasamudayasutta](/samyuttanikaya/salayatanasamyutta/dukkhasamudayasutta/); from the Vedanāsaṃyutta the [Sallasutta](/samyuttanikaya/vedanasamyutta/sallasutta/), [Rahogatasutta](/samyuttanikaya/vedanasamyutta/rahogatasutta/) and [Sīvakasutta](/samyuttanikaya/vedanasamyutta/sivakasutta/); and from the Saccasaṃyutta the [Dhammacakkappavattanasutta](/samyuttanikaya/saccasamyutta/dhammacakkappavattanasutta/) and [Sīsapāvanasutta](/samyuttanikaya/saccasamyutta/sisapavanasutta/).
+
+## Aṅguttara Nikāya
+
+Six suttas of the [Aṅguttara Nikāya](/anguttaranikaya/), chosen where a Sarvāstivāda parallel in the Madhyama or Saṃyukta Āgama agrees closely, each on a page of its own with its parallel compared: the [Kesamuttisutta](/anguttaranikaya/kesamuttisutta/), [Titthāyatanasutta](/anguttaranikaya/titthayatanasutta/), [Nibbedhikasutta](/anguttaranikaya/nibbedhikasutta/), [Rohitassasutta](/anguttaranikaya/rohitassasutta/), [Cundasutta](/anguttaranikaya/cundasutta/) and [Doṇasutta](/anguttaranikaya/donasutta/).
+
 ## The World Tipiṭaka Edition
 
 The **World Tipiṭaka Edition** is a complete 40-volume Roman-script edition of the 25-century old teaching of the Buddhist Theravāda tradition in the Pāḷi language from the B.E. 2500 (1957) Great International Buddhist Council.

@@ -155,6 +155,75 @@ export default defineConfig({
           ],
         },
         {
+          label: "Majjhima Nikāya",
+          items: [
+            "majjhimanikaya",
+            "majjhimanikaya/alagaddupamasutta", "majjhimanikaya/pasarasisutta", "majjhimanikaya/culahatthipadopamasutta",
+            "majjhimanikaya/mahatanhasankhayasutta", "majjhimanikaya/culasunnatasutta",
+          ],
+        },
+        {
+          label: "Saṃyutta Nikāya",
+          items: [
+            "samyuttanikaya",
+            {
+              label: "Nidānasaṃyutta",
+              collapsed: true,
+              items: [
+                "samyuttanikaya/nidanasamyutta/paticcasamuppadasutta", "samyuttanikaya/nidanasamyutta/vibhangasutta",
+                "samyuttanikaya/nidanasamyutta/kaccanagottasutta", "samyuttanikaya/nidanasamyutta/paccayasutta",
+                "samyuttanikaya/nidanasamyutta/nagarasutta", "samyuttanikaya/nidanasamyutta/nalakalapisutta",
+                "samyuttanikaya/nidanasamyutta/susimaparibbajakasutta",
+              ],
+            },
+            {
+              label: "Dhātusaṃyutta",
+              collapsed: true,
+              items: ["samyuttanikaya/dhatusamyutta/sanidanasutta"],
+            },
+            {
+              label: "Khandhasaṃyutta",
+              collapsed: true,
+              items: [
+                "samyuttanikaya/khandhasamyutta/anattalakkhanasutta", "samyuttanikaya/khandhasamyutta/upadanaparipavattasutta",
+                "samyuttanikaya/khandhasamyutta/phenapindupamasutta", "samyuttanikaya/khandhasamyutta/palileyyasutta",
+              ],
+            },
+            {
+              label: "Saḷāyatanasaṃyutta",
+              collapsed: true,
+              items: [
+                "samyuttanikaya/salayatanasamyutta/sabbasutta", "samyuttanikaya/salayatanasamyutta/dutiyadvayasutta",
+                "samyuttanikaya/salayatanasamyutta/adittasutta", "samyuttanikaya/salayatanasamyutta/adittapariyayasutta",
+                "samyuttanikaya/salayatanasamyutta/dukkhasamudayasutta",
+              ],
+            },
+            {
+              label: "Vedanāsaṃyutta",
+              collapsed: true,
+              items: [
+                "samyuttanikaya/vedanasamyutta/sallasutta", "samyuttanikaya/vedanasamyutta/rahogatasutta",
+                "samyuttanikaya/vedanasamyutta/sivakasutta",
+              ],
+            },
+            {
+              label: "Saccasaṃyutta",
+              collapsed: true,
+              items: [
+                "samyuttanikaya/saccasamyutta/dhammacakkappavattanasutta", "samyuttanikaya/saccasamyutta/sisapavanasutta",
+              ],
+            },
+          ],
+        },
+        {
+          label: "Aṅguttara Nikāya",
+          items: [
+            "anguttaranikaya",
+            "anguttaranikaya/kesamuttisutta", "anguttaranikaya/titthayatanasutta", "anguttaranikaya/nibbedhikasutta",
+            "anguttaranikaya/rohitassasutta", "anguttaranikaya/cundasutta", "anguttaranikaya/donasutta",
+          ],
+        },
+        {
           label: "Articles",
           collapsed: true,
           items: [{ autogenerate: { directory: "articles" } }],
