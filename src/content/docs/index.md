@@ -123,6 +123,12 @@ Sāriputta and Moggallāna, disciples of the renunciant Sañcaya, had agreed to 
 
 The Bhagavā's success in attracting distinguished Magadhan young men and former followers of Sañcaya (like Sāriputta and Moggallāna) to the optimal life sparked public criticism, with people accusing him of making individuals childless, women widows, and breaking up families, even taunting his bhikkhū with a verse. The Bhagavā predicted this outcry would only last seven days and instructed his bhikkhū to respond with a counter-verse emphasising that Tathāgatas lead by the true Dhamma, which should not cause envy in those who understand. When the bhikkhū used this response, public opinion shifted to acknowledge that the Sakyaputtiya wanderers led by Dhamma, and the complaints ceased within the predicted timeframe.
 
+## Dīgha Nikāya
+
+### 33. [**Saṅgītisutta** (The Discourse on Communal Recitation)](/dighanikaya/sangitisutta/)
+
+At Pāvā the Mallas have built a new assembly hall, Ubbhataka, and the Bhagavā is the first to use it. After teaching late into the night he lies down and asks āyasmā Sāriputta to speak to the bhikkhū. Sāriputta tells of the quarrels among the Jains after the death of Nigaṇṭha Nāṭaputta and proposes that the bhikkhū recite the Dhamma together and not quarrel, so that the optimal life may last long; he then recites it arranged by number, from one to ten, and the Bhagavā approves. Translated in eleven parts, cut at the edition's own divisions.
+
 ## The World Tipiṭaka Edition
 
 The **World Tipiṭaka Edition** is a complete 40-volume Roman-script edition of the 25-century old teaching of the Buddhist Theravāda tradition in the Pāḷi language from the B.E. 2500 (1957) Great International Buddhist Council.

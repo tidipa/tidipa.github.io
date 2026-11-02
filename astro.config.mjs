@@ -126,6 +126,23 @@ export default defineConfig({
           ],
         },
         {
+          label: "Dīgha Nikāya",
+          items: [
+            "dighanikaya",
+            {
+              label: "Saṅgītisutta",
+              collapsed: true,
+              items: [
+                "dighanikaya/sangitisutta",
+                "dighanikaya/sangitisutta/1-ubbhatakanavasandhagara", "dighanikaya/sangitisutta/2-bhinnaniganthavatthu",
+                "dighanikaya/sangitisutta/3-ekaka-duka", "dighanikaya/sangitisutta/4-tika", "dighanikaya/sangitisutta/5-catukka",
+                "dighanikaya/sangitisutta/6-pancaka", "dighanikaya/sangitisutta/7-chakka", "dighanikaya/sangitisutta/8-sattaka",
+                "dighanikaya/sangitisutta/9-atthaka", "dighanikaya/sangitisutta/10-navaka", "dighanikaya/sangitisutta/11-dasaka",
+              ],
+            },
+          ],
+        },
+        {
           label: "Articles",
           collapsed: true,
           items: [{ autogenerate: { directory: "articles" } }],
