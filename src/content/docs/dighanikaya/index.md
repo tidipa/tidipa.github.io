@@ -1,9 +1,13 @@
 ---
 title: Dīgha Nikāya (The Long Discourses)
-description: "The translated discourses of the Dīgha Nikāya, each introduced by its own summary: so far the Saṅgītisutta (DN 33), in eleven parts."
+description: "The translated discourses of the Dīgha Nikāya, each introduced by its own summary: the Mahāpadānasutta (DN 14) in ten parts and the Saṅgītisutta (DN 33) in eleven."
 ---
 
 ## Dīgha Nikāya (The Long Discourses)
+
+### 14. [**Mahāpadānasutta** (The Great Discourse on the Life Stories)](/dighanikaya/mahapadanasutta/)
+
+At Sāvatthī the bhikkhū fall to talking about former lives, and the Bhagavā recounts the six Buddhas before him and himself, then the life of Vipassī in full: the wonders of his birth and the thirty-two marks, the four sights and his going forth, his insight into dependent origination, Brahmā's request, his first disciples and the sending out of his bhikkhū; the gods of the Pure Abodes confirm the account. Translated in ten parts, cut at the edition's divisions.
 
 ### 33. [**Saṅgītisutta** (The Discourse on Communal Recitation)](/dighanikaya/sangitisutta/)
 

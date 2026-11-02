@@ -130,6 +130,18 @@ export default defineConfig({
           items: [
             "dighanikaya",
             {
+              label: "Mahāpadānasutta",
+              collapsed: true,
+              items: [
+                "dighanikaya/mahapadanasutta",
+                "dighanikaya/mahapadanasutta/1-pubbenivasapatisamyuttakatha", "dighanikaya/mahapadanasutta/2-bodhisattadhammata",
+                "dighanikaya/mahapadanasutta/3-dvattimsamahapurisalakkhana", "dighanikaya/mahapadanasutta/4-vipassisamanna",
+                "dighanikaya/mahapadanasutta/5-jinnapurisa", "dighanikaya/mahapadanasutta/6-mahajanakayaanupabbajja",
+                "dighanikaya/mahapadanasutta/7-brahmayacanakatha", "dighanikaya/mahapadanasutta/8-aggasavakayuga",
+                "dighanikaya/mahapadanasutta/9-carikaanujanana", "dighanikaya/mahapadanasutta/10-devatarocana",
+              ],
+            },
+            {
               label: "Saṅgītisutta",
               collapsed: true,
               items: [
